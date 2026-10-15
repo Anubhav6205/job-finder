@@ -29,7 +29,7 @@ SEARCH_TERMS = [
 LOCATIONS = ["Hyderabad, India", "Bengaluru, India", "Pune, India"]
 SITES = ["linkedin", "indeed", "naukri"]
 RESULTS_PER_QUERY = 25
-HOURS_OLD = 24            # only jobs posted in the last day
+HOURS_OLD = 48            # 48-hour window so a missed run doesn't lose jobs
 
 YOE_CAP = 4               # reject if the JD's minimum YOE is above this (stretch)
 
