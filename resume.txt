@@ -1,0 +1,49 @@
+Candidate: Anubhav Gupta
+Current: Senior Software Engineer, Chubb (Jun 2026–present), Hyderabad
+Full-time since: Jun 2024 (~2.5 yrs). Promoted to Senior within 2 years.
+Education: B.Tech CSE, KIIT Bhubaneswar, CGPA 9.17/10
+
+TARGET ROLES: AI Engineer, Applied AI Engineer, GenAI Engineer (primary)
+              SDE-2, Senior SWE on AI or platform teams (secondary)
+AVOID: ML Engineer, AI Infrastructure, Full-stack, frontend-only roles
+
+CORE AI SKILLS:
+- RAG: Graph RAG, multi-hop RAG, hybrid search (dense + BM25, reciprocal rank fusion, Voyage reranking)
+- Multi-Agent: CrewAI (production), LangGraph (orchestration, supervisor routing, human-in-the-loop)
+- LLM APIs: Claude API with intent-based model tier routing, OpenAI GPT-4.1-mini
+- LangChain (abstraction layer across all AI projects)
+- Vector DBs: Qdrant (4 collections, dense + sparse), MongoDB Atlas vector search
+- Embeddings: Voyage voyage-code-3 dense, BM25 sparse
+- Evaluation: Ragas, LLM-as-judge, golden datasets (31 questions), false-confidence rate
+- Tracing: Phoenix, LangSmith
+- MCP (Model Context Protocol), tool calling, agent integrations
+- Python (FastAPI), intent classification, schema generation from natural language
+
+BACKEND SKILLS:
+- Java (Spring Boot, Quarkus), TypeScript (Angular, NgRx, Nx)
+- MongoDB, Docker, Kubernetes, AWS EKS, Jenkins CI/CD
+
+KEY ACHIEVEMENTS (with metrics):
+1. RAG service (Senior role): natural language → product schemas, cut rule authoring by 75%, intent routing across Claude model tiers — Python, FastAPI, Qdrant
+2. PIX multi-agent assistant (Senior role): production CrewAI system used by 10+ teams — derives requirements from policy docs, generates export documents, guides 100s of Product Designer workflows
+3. Speed-to-Market platform (SDE role): co-delivered, 9 months → 15 days product launch cycle, ~$8M/year productivity estimate — Angular, Java, MongoDB, Docker, Kubernetes
+4. Capstone RAG project (2026, personal): multi-hop Q&A over Backstage open-source codebase with cited sources — LangGraph, 4 Qdrant collections, Voyage reranking, 0.98 context precision, 0.69 context recall
+5. Claude Code AI layer: set up team's AI engineering infrastructure, team reached top-3 fastest AI adopters with ~1.5x delivery in 1 month
+6. 14 Spring Boot/Quarkus microservices + 2 Angular UIs, resolved AWS EKS CrashLoopBackOff in production without DevOps escalation
+
+AWARDS:
+- 1st of 25 teams, Chubb AI Business Hackathon (Jun 2026) — OPA and Rego guardrails on LLM outputs
+- 1st of ~100 participants solo, Chubb AI Game Dev Hackathon (May 2025)
+- Chubb Diamond Excellence Award (Mar 2025) — highest quality feature delivery
+
+FIT SIGNALS — score higher when JD mentions:
+- Python, RAG, LangGraph, LangChain, CrewAI, multi-agent, GenAI, LLM productionization
+- AI engineering, applied AI, production AI systems
+- 2–5 years experience band
+- Hyderabad, Bengaluru, Pune or remote
+
+FIT RISKS — score lower when JD requires:
+- 5+ years (fit risk, not automatic reject)
+- Pure ML / model training / MLOps focus with no application layer
+- Full-stack or frontend-heavy with little AI
+- No AI or LLM component at all
