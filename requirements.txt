@@ -1,0 +1,5 @@
+python-jobspy
+openai
+pandas
+requests
+python-dotenv

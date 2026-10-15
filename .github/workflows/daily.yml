@@ -1,0 +1,29 @@
+name: daily-job-finder
+on:
+  schedule:
+    - cron: "30 0 * * *"   # 6:00 AM IST every day
+  workflow_dispatch:        # "Run workflow" button for manual runs
+permissions:
+  contents: write
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -r requirements.txt
+      - run: python job_finder.py
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          NOTION_TOKEN: ${{ secrets.NOTION_TOKEN }}
+          NOTION_DB_ID: ${{ secrets.NOTION_DB_ID }}
+      - name: Save seen list and CSV
+        run: |
+          git config user.name "job-bot"
+          git config user.email "job-bot@users.noreply.github.com"
+          git add data/
+          git diff --cached --quiet || git commit -m "jobs $(date -u +%F)"
+          git push
