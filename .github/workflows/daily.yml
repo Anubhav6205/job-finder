@@ -27,3 +27,4 @@ jobs:
           git add data/
           git diff --cached --quiet || git commit -m "jobs $(date -u +%F)"
           git push
+
