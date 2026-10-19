@@ -29,7 +29,7 @@ SEARCH_TERMS = [
 LOCATIONS = ["Bengaluru, India", "Mumbai, India", "Hyderabad, India", "Pune, India"]
 SITES = ["linkedin", "indeed", "naukri"]
 RESULTS_PER_QUERY = 25
-HOURS_OLD = 96            # 4-day window
+HOURS_OLD = 72            # 3-day window
 
 YOE_CAP = 8               # Sakshi has 5+ years; reject only if JD needs 9+
 
