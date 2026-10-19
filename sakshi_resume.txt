@@ -1,0 +1,44 @@
+Candidate: Sakshi Gupta
+Current: Associate Manager – Credit Underwriting (Operations & Risk), Finnable Credit Pvt. Ltd., Bangalore (Apr 2025–present)
+Total Experience: 5+ years in credit risk, underwriting and financial analysis (Aug 2021–present)
+Education: MBA Finance & Risk, BIT Ranchi, CGPA 8.28 | B.Com, Patna Women's College, 74%
+Location: Bangalore, Karnataka
+
+TARGET ROLES: Credit Risk Analyst, Credit Underwriting, Senior Credit Analyst, Risk Analyst (BFSI), Financial Risk Analyst, Portfolio Risk, Underwriting Manager
+AVOID: Pure tech/software roles, non-BFSI roles, pure sales or collections
+
+CORE SKILLS:
+- Credit Risk & Underwriting: unsecured and secured lending (personal loans, LAP), credit assessment, bureau analysis (CIBIL, Equifax), financial statement analysis, bank statement analysis, P&L analysis, income document verification
+- Risk Controls: KYC/AML, CDD/EDD, fraud risk controls, due diligence, adverse media screening, risk-based decisioning
+- Portfolio Risk: monitoring ~₹500 Cr monthly portfolio, tracking approval rates, delinquency, TAT, productivity, RCA on fraud and delinquency
+- Decisioning & Policy: credit policy, scorecard logic, approval-rate MIS triggers, DOIs and approval frameworks, automated underwriting logic
+- AI Underwriting: translating credit policies into AI business logic, supporting AI training and validation
+- Tools: Power BI, Perfios, Account Aggregator, CIBIL/Bureau Platforms, Zoho CRM, LeadSquared, Speedy (Automated Underwriting), MS Excel (Advanced), KwikID, GST Portal, Traces, JSON-based data validation, API-integrated lending/data services
+
+CAREER PROGRESSION:
+- Credit Analyst, Finnable (Aug 2021–Mar 2024): high-volume loan assessment, approved personal loans up to ₹6 lakhs independently
+- Senior Credit Analyst – Team Lead, Finnable (Apr 2024–Mar 2025): led 7-member team, reduced early-stage delinquencies by 20%, improved processing efficiency by 50%
+- Associate Manager – Credit Underwriting, Finnable (Apr 2025–present): leads 10-member team, monitors ₹500 Cr monthly portfolio, AI-driven underwriting automation
+
+KEY ACHIEVEMENTS:
+1. Reduced early-stage delinquencies by 20% through targeted coaching on income assessment and bureau interpretation
+2. Improved application processing efficiency by 50% via workflow and system-level improvements
+3. Monitors ₹500 Cr monthly portfolio across FEMI, SEMI, TEMI segments using Power BI
+4. Supports AI-driven underwriting automation — translates credit policies into business logic
+5. Leads and coaches 10-member underwriting team with full SLA and quality accountability
+
+CERTIFICATIONS: Financial Modeling, Advanced Excel, Banking & Finance Fundamentals
+
+FIT SIGNALS — score higher when JD mentions:
+- Credit risk, credit underwriting, loan assessment, bureau analysis, CIBIL, Equifax
+- KYC/AML, CDD/EDD, fraud risk, due diligence
+- BFSI, fintech, NBFC, lending, financial services
+- Team leadership, portfolio monitoring, delinquency management
+- Power BI, Perfios, Account Aggregator, automated underwriting
+- 4–8 years experience band
+
+FIT RISKS — score lower when JD requires:
+- Pure software engineering or coding skills
+- Market risk, derivatives, investment banking (no evidence)
+- 8+ years experience
+- Non-BFSI domain with no credit/risk component

@@ -1,0 +1,28 @@
+name: sakshi-job-finder
+on:
+  schedule:
+    - cron: "0 1 * * *"    # 6:30 AM IST every day (30 min after Anubhav's run)
+  workflow_dispatch:        # "Run workflow" button for manual runs
+permissions:
+  contents: write
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -r requirements.txt
+      - run: python sakshi_job_finder.py
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          NOTION_TOKEN: ${{ secrets.NOTION_TOKEN }}
+      - name: Save seen list and CSV
+        run: |
+          git config user.name "job-bot"
+          git config user.email "job-bot@users.noreply.github.com"
+          git add data_sakshi/
+          git diff --cached --quiet || git commit -m "sakshi-jobs $(date -u +%F)"
+          git push
