@@ -50,7 +50,8 @@ PROMPT = """You read job descriptions like a careful recruiter.
 Extract the hiring constraints from the JD below.
 Return ONLY a JSON object, no prose and no code fences, with exactly these keys:
 {"min_yoe": number|null, "max_yoe": number|null, "yoe_quote": string|null,
- "max_joining_days": number|null, "joining_quote": string|null}
+ "max_joining_days": number|null, "joining_quote": string|null,
+ "city": string|null}
 
 Rules:
 - min_yoe / max_yoe = total professional experience required for THIS role.
@@ -64,6 +65,12 @@ Rules:
   A soft preference ("immediate joiners preferred", "early joiners a plus") is NOT a hard limit:
   set max_joining_days to null but still fill joining_quote.
   If nothing is said about notice or joining, null.
+- city = the work location city explicitly mentioned in the JD.
+  Look for city names, office addresses or location lines.
+  Return exactly one of: "Hyderabad", "Bangalore", "Pune", "Mumbai", "Remote", "Pan-India".
+  If multiple cities listed, return the primary one (first mentioned or most prominent).
+  If the JD says remote/WFH/hybrid with no city, return "Remote".
+  If no location is mentioned at all, return null.
 - *_quote = the shortest exact phrase from the JD that supports the value, else null.
 """
 
@@ -110,6 +117,16 @@ def setup_notion_schema() -> None:
         ]}}
     if "Fit Reason" not in existing:
         updates["Fit Reason"] = {"rich_text": {}}
+    if "City" not in existing:
+        updates["City"] = {"select": {"options": [
+            {"name": "Hyderabad",  "color": "blue"},
+            {"name": "Bangalore",  "color": "purple"},
+            {"name": "Pune",       "color": "orange"},
+            {"name": "Mumbai",     "color": "pink"},
+            {"name": "Remote",     "color": "green"},
+            {"name": "Pan-India",  "color": "yellow"},
+            {"name": "Unknown",    "color": "gray"},
+        ]}}
     if updates:
         r = requests.patch(
             f"https://api.notion.com/v1/databases/{NOTION_DB_ID}",
@@ -206,6 +223,34 @@ def score_job(title: str, company: str, desc: str) -> dict:
         return {"score": None, "fit_reason": "scoring failed"}
 
 
+def normalize_city(city: str | None) -> str:
+    if not city:
+        return "Unknown"
+    c = city.strip().lower()
+    if any(x in c for x in ["hyderabad", "telangana", "secunderabad"]):
+        return "Hyderabad"
+    if any(x in c for x in ["bangalore", "bengaluru", "bengalore"]):
+        return "Bangalore"
+    if "pune" in c:
+        return "Pune"
+    if any(x in c for x in ["mumbai", "bombay"]):
+        return "Mumbai"
+    if any(x in c for x in ["remote", "work from home", "wfh"]):
+        return "Remote"
+    if any(x in c for x in ["pan-india", "pan india", "anywhere"]):
+        return "Pan-India"
+    return city.strip().title()   # return as-is if unrecognised
+
+
+def yoe_display(x: dict) -> str:
+    mn, mx = x.get("min_yoe"), x.get("max_yoe")
+    if mn is None:
+        return "Could not identify"
+    if mx is not None:
+        return f"{mn}–{mx} years required"
+    return f"{mn}+ years required"
+
+
 def fit_label(score) -> str | None:
     if score is None:
         return None
@@ -242,7 +287,7 @@ def push_notion(r: dict) -> None:
         "Bucket":  {"select": {"name": r["bucket"]}},
         "Site":    {"select": {"name": r["site"]}},
         "Location": text_prop(r["location"]),
-        "YOE":     text_prop(r["yoe_quote"] or r["reason"]),
+        "YOE":     text_prop(r["yoe_display"]),
         "Joining": text_prop(r["joining_quote"]),
         "Found":   {"date": {"start": r["found"]}},
         "Status":  {"select": {"name": "To apply"}},
@@ -253,6 +298,8 @@ def push_notion(r: dict) -> None:
         props["Fit"] = {"select": {"name": r["fit"]}}
     if r.get("fit_reason"):
         props["Fit Reason"] = text_prop(r["fit_reason"])
+    if r.get("city"):
+        props["City"] = {"select": {"name": r["city"]}}
 
     resp = requests.post(
         "https://api.notion.com/v1/pages",
@@ -290,7 +337,7 @@ def main() -> None:
         desc = j.get("description")
         desc = desc if isinstance(desc, str) else ""
         if len(desc) < 200:
-            x, (bucket, reason) = None, ("unclear", "no JD text fetched")
+            x, (bucket, reason) = {}, ("unclear", "no JD text fetched")
             scored = {"score": None, "fit_reason": None}
         else:
             x = extract(j["title"], j["company"], desc)
@@ -301,22 +348,24 @@ def main() -> None:
                 scored = {"score": None, "fit_reason": None}
         x = x or {}
         row = {
-            "found":           today,
-            "bucket":          bucket,
-            "reason":          reason,
-            "score":           scored.get("score"),
-            "fit":             fit_label(scored.get("score")),
-            "fit_reason":      scored.get("fit_reason"),
-            "title":           clean(j.get("title")),
-            "company":         clean(j.get("company")),
-            "location":        clean(j.get("location")),
-            "site":            clean(j.get("site")),
-            "job_url":         j["job_url"],
-            "min_yoe":         x.get("min_yoe"),
-            "max_yoe":         x.get("max_yoe"),
+            "found":            today,
+            "bucket":           bucket,
+            "reason":           reason,
+            "score":            scored.get("score"),
+            "fit":              fit_label(scored.get("score")),
+            "fit_reason":       scored.get("fit_reason"),
+            "title":            clean(j.get("title")),
+            "company":          clean(j.get("company")),
+            "location":         clean(j.get("location")),
+            "city":             normalize_city(x.get("city")),
+            "site":             clean(j.get("site")),
+            "job_url":          j["job_url"],
+            "min_yoe":          x.get("min_yoe"),
+            "max_yoe":          x.get("max_yoe"),
+            "yoe_display":      yoe_display(x),
             "max_joining_days": x.get("max_joining_days"),
-            "yoe_quote":       x.get("yoe_quote"),
-            "joining_quote":   x.get("joining_quote"),
+            "yoe_quote":        x.get("yoe_quote"),
+            "joining_quote":    x.get("joining_quote"),
         }
         rows.append(row)
         if bucket != "reject":
