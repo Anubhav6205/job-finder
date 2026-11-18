@@ -31,7 +31,7 @@ SITES = ["linkedin", "indeed", "naukri"]
 RESULTS_PER_QUERY = 25
 HOURS_OLD = 48            # 48-hour window so a missed run doesn't lose jobs
 
-YOE_CAP = 4               # reject if the JD's minimum YOE is above this (stretch)
+YOE_CAP = 3               # reject if the JD's minimum YOE is above this (stretch)
 
 TITLE_BLOCKLIST = re.compile(
     r"\b(intern|internship|principal|staff|director|head|manager|vp|architect|trainee|fresher)\b",
@@ -46,32 +46,51 @@ NOTION_DB_ID = os.getenv("NOTION_DB_ID")
 RESUME_FILE = Path("resume.txt")
 # ====================================================================
 
-PROMPT = """You read job descriptions like a careful recruiter.
-Extract the hiring constraints from the JD below.
+PROMPT = """You are a careful recruiter reading a job posting.
 Return ONLY a JSON object, no prose and no code fences, with exactly these keys:
 {"min_yoe": number|null, "max_yoe": number|null, "yoe_quote": string|null,
  "max_joining_days": number|null, "joining_quote": string|null,
  "city": string|null}
 
-Rules:
+You receive LOCATION_FIELD (the job-board's structured location string, most reliable),
+TITLE, COMPANY and the JD body. Use all of them.
+
+Rules for CITY:
+- Pick the single canonical Indian city where the candidate would report to work.
+- Return EXACTLY ONE of: "Hyderabad", "Bangalore", "Pune", "Mumbai", "Delhi NCR",
+  "Chennai", "Gurgaon", "Noida", "Kolkata", "Ahmedabad", "Remote", "Pan-India",
+  or null if genuinely unclear.
+- Use LOCATION_FIELD as the ground truth. Expand state codes:
+  KA/Karnataka -> Bangalore,  TS/TG/Telangana -> Hyderabad,
+  MH/Maharashtra -> infer Mumbai vs Pune from JD (if JD mentions Pune, use Pune, else Mumbai),
+  TN/Tamil Nadu -> Chennai,  WB/West Bengal -> Kolkata,
+  DL/Delhi -> Delhi NCR,  HR/Haryana -> Gurgaon,  UP/Uttar Pradesh -> Noida.
+- Expand suburbs/sub-areas to parent city:
+  Pimpri-Chinchwad, Hinjewadi, Kharadi -> Pune.
+  Whitefield, Electronic City, Bellandur, Koramangala, Bengaluru East -> Bangalore.
+  Secunderabad, Gachibowli, HITEC City -> Hyderabad.
+  Thane, Navi Mumbai, Andheri, Powai -> Mumbai.
+- If LOCATION_FIELD lists multiple cities (separated by commas or slashes),
+  pick the FIRST city mentioned.
+- If LOCATION_FIELD is only "India" or empty, look in the JD for office/location lines.
+  If JD says remote/WFH with no city, return "Remote".
+
+Rules for YOE:
 - min_yoe / max_yoe = total professional experience required for THIS role.
   "3-5 years" -> 3 and 5. "5+ years" -> 5 and null. "at least 4 years" -> 4 and null.
   If the JD gives an overall number and a narrower one ("5+ years overall, 2+ in GenAI"),
   use the overall number. Ignore numbers about the company or its products.
   If no experience requirement is stated, both null.
+- yoe_quote = the shortest exact phrase from the JD that supports the value, else null.
+
+Rules for JOINING:
 - max_joining_days = the longest notice period or joining time the JD will ACCEPT, in days.
   "Immediate joiners only" -> 0. "Immediate to 15 days" -> 15. "Notice up to 30 days" -> 30.
   "Must join within 1 month" -> 30. "Notice up to 90 days" -> 90.
   A soft preference ("immediate joiners preferred", "early joiners a plus") is NOT a hard limit:
   set max_joining_days to null but still fill joining_quote.
   If nothing is said about notice or joining, null.
-- city = the work location city explicitly mentioned in the JD.
-  Look for city names, office addresses or location lines.
-  Return exactly one of: "Hyderabad", "Bangalore", "Pune", "Mumbai", "Remote", "Pan-India".
-  If multiple cities listed, return the primary one (first mentioned or most prominent).
-  If the JD says remote/WFH/hybrid with no city, return "Remote".
-  If no location is mentioned at all, return null.
-- *_quote = the shortest exact phrase from the JD that supports the value, else null.
+- joining_quote = the shortest exact phrase from the JD that supports the value, else null.
 """
 
 RESUME_PROFILE = RESUME_FILE.read_text(encoding="utf-8") if RESUME_FILE.exists() else ""
@@ -192,10 +211,16 @@ def _llm_call(messages: list, max_tokens: int = 2000) -> str | None:
             return None
 
 
-def extract(title: str, company: str, desc: str) -> dict | None:
+def extract(title: str, company: str, desc: str, location_field: str = "") -> dict | None:
     text = _llm_call([{
         "role": "user",
-        "content": f"{PROMPT}\nTITLE: {title}\nCOMPANY: {company}\n\nJD:\n{desc[:15000]}",
+        "content": (
+            f"{PROMPT}\n"
+            f"LOCATION_FIELD: {location_field!r}\n"
+            f"TITLE: {title}\n"
+            f"COMPANY: {company}\n\n"
+            f"JD:\n{desc[:15000]}"
+        ),
     }])
     if text is None:
         return None
@@ -224,22 +249,10 @@ def score_job(title: str, company: str, desc: str) -> dict:
 
 
 def normalize_city(city: str | None) -> str:
+    """LLM returns a canonical city; this is a thin fallback for null/empty."""
     if not city:
         return "Unknown"
-    c = city.strip().lower()
-    if any(x in c for x in ["hyderabad", "telangana", "secunderabad"]):
-        return "Hyderabad"
-    if any(x in c for x in ["bangalore", "bengaluru", "bengalore"]):
-        return "Bangalore"
-    if "pune" in c:
-        return "Pune"
-    if any(x in c for x in ["mumbai", "bombay"]):
-        return "Mumbai"
-    if any(x in c for x in ["remote", "work from home", "wfh"]):
-        return "Remote"
-    if any(x in c for x in ["pan-india", "pan india", "anywhere"]):
-        return "Pan-India"
-    return city.strip().title()   # return as-is if unrecognised
+    return str(city).strip() or "Unknown"
 
 
 def yoe_display(x: dict) -> str:
@@ -286,7 +299,7 @@ def push_notion(r: dict) -> None:
         "URL":     {"url": r["job_url"]},
         "Bucket":  {"select": {"name": r["bucket"]}},
         "Site":    {"select": {"name": r["site"]}},
-        "Location": text_prop(r["location"]),
+        "Location": text_prop(r["city"]),
         "YOE":     text_prop(r["yoe_display"]),
         "Joining": text_prop(r["joining_quote"]),
         "Found":   {"date": {"start": r["found"]}},
@@ -340,7 +353,7 @@ def main() -> None:
             x, (bucket, reason) = {}, ("unclear", "no JD text fetched")
             scored = {"score": None, "fit_reason": None}
         else:
-            x = extract(j["title"], j["company"], desc)
+            x = extract(j["title"], j["company"], desc, j.get("location") or "")
             bucket, reason = decide(x)
             if bucket != "reject":
                 scored = score_job(j["title"], j["company"], desc)
