@@ -20,6 +20,7 @@ jobs:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
           NOTION_TOKEN: ${{ secrets.NOTION_TOKEN }}
           NOTION_DB_ID: ${{ secrets.NOTION_DB_ID }}
+          SERPER_API_KEY: ${{ secrets.SERPER_API_KEY }}
       - name: Save seen list and CSV
         run: |
           git config user.name "job-bot"

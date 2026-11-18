@@ -43,6 +43,7 @@ SEEN_FILE = DATA / "seen_urls.txt"
 OUT_FILE = DATA / "jobs.csv"
 NOTION_TOKEN = os.getenv("NOTION_TOKEN")
 NOTION_DB_ID = os.getenv("NOTION_DB_ID")
+SERPER_API_KEY = os.getenv("SERPER_API_KEY")
 RESUME_FILE = Path("resume.txt")
 # ====================================================================
 
@@ -131,6 +132,32 @@ CANDIDATE PROFILE:
 {RESUME_PROFILE}
 """
 
+SALARY_PROMPT = """You are a compensation analyst for Indian tech roles.
+Given Google search snippets (likely from Glassdoor, AmbitionBox, Levels.fyi,
+Payscale or similar), extract the TOTAL CTC range in LPA for this COMPANY+ROLE
+combination in India.
+
+Return ONLY a JSON object:
+{"min_lpa": number|null, "max_lpa": number|null, "source": string}
+
+Rules:
+- LPA = INR lakhs per annum (1 lakh = 100,000). Normalize everything to LPA.
+  "₹15L" or "15 LPA" or "15 lakhs" -> 15.
+  "₹15,00,000" or "₹1,500,000" or "1.5M INR" -> 15.
+  "₹8,000 per month" -> 0.96.  "$30k" -> ~25 (use ~83 INR/USD).
+- Prefer TOTAL CTC (base + variable + stock). If only base is listed, use base.
+- If a range is given ("12-25 LPA"), min=12, max=25.
+- If only a single number is listed ("avg ~18 LPA"), set min=max=18.
+- Prefer the SPECIFIC COMPANY + ROLE match (e.g. "Infosys AI Engineer").
+  If none, fall back to role-level industry average and say so in source.
+- source = short phrase naming WHERE the number comes from, max 90 chars.
+  Examples: "AmbitionBox - Infosys AI Engineer (189 reports)",
+            "Glassdoor - Microsoft AI Engineer, Bangalore",
+            "Industry avg - no company data found",
+            "no salary data in snippets".
+- If snippets don't mention salary at all: min=null, max=null, source="no data".
+"""
+
 client = OpenAI()  # reads OPENAI_API_KEY from the environment
 
 NOTION_HEADERS = lambda: {
@@ -173,6 +200,12 @@ def setup_notion_schema() -> None:
             {"name": "Pan-India",  "color": "yellow"},
             {"name": "Unknown",    "color": "gray"},
         ]}}
+    if "Salary Min (LPA)" not in existing:
+        updates["Salary Min (LPA)"] = {"number": {"format": "number"}}
+    if "Salary Max (LPA)" not in existing:
+        updates["Salary Max (LPA)"] = {"number": {"format": "number"}}
+    if "Salary Source" not in existing:
+        updates["Salary Source"] = {"rich_text": {}}
     if updates:
         r = requests.patch(
             f"https://api.notion.com/v1/databases/{NOTION_DB_ID}",
@@ -282,6 +315,44 @@ def normalize_city(city: str | None) -> str:
     return str(city).strip() or "Unknown"
 
 
+def fetch_salary(company: str, role: str) -> dict:
+    """Serper web search -> snippets -> LLM extracts LPA range."""
+    if not SERPER_API_KEY:
+        return {"min_lpa": None, "max_lpa": None, "source": "no api key"}
+    try:
+        resp = requests.post(
+            "https://google.serper.dev/search",
+            headers={"X-API-KEY": SERPER_API_KEY, "Content-Type": "application/json"},
+            json={"q": f"{company} {role} salary india ambitionbox glassdoor", "num": 5, "gl": "in"},
+            timeout=10,
+        )
+        if resp.status_code != 200:
+            return {"min_lpa": None, "max_lpa": None, "source": f"serper {resp.status_code}"}
+        organic = resp.json().get("organic", [])[:5]
+        snippets = "\n".join(
+            f"- {o.get('title','')}: {o.get('snippet','')}" for o in organic
+        )[:1500]
+    except Exception as e:
+        return {"min_lpa": None, "max_lpa": None, "source": f"serper err: {str(e)[:40]}"}
+
+    if not snippets.strip():
+        return {"min_lpa": None, "max_lpa": None, "source": "no search results"}
+
+    text = _llm_call(
+        messages=[{
+            "role": "user",
+            "content": f"{SALARY_PROMPT}\nCOMPANY: {company}\nROLE: {role}\n\nSEARCH SNIPPETS:\n{snippets}",
+        }],
+        max_tokens=600,
+    )
+    if text is None:
+        return {"min_lpa": None, "max_lpa": None, "source": "llm failed"}
+    try:
+        return json.loads(re.sub(r"```(?:json)?", "", text).strip())
+    except Exception:
+        return {"min_lpa": None, "max_lpa": None, "source": "parse failed"}
+
+
 def yoe_display(x: dict) -> str:
     mn, mx = x.get("min_yoe"), x.get("max_yoe")
     if mn is None:
@@ -340,6 +411,12 @@ def push_notion(r: dict) -> None:
         props["Fit Reason"] = text_prop(r["fit_reason"])
     if r.get("city"):
         props["City"] = {"select": {"name": r["city"]}}
+    if r.get("salary_min") is not None:
+        props["Salary Min (LPA)"] = {"number": r["salary_min"]}
+    if r.get("salary_max") is not None:
+        props["Salary Max (LPA)"] = {"number": r["salary_max"]}
+    if r.get("salary_source"):
+        props["Salary Source"] = text_prop(r["salary_source"])
 
     resp = requests.post(
         "https://api.notion.com/v1/pages",
@@ -387,6 +464,11 @@ def main() -> None:
             else:
                 scored = {"score": None, "fit_reason": None}
         x = x or {}
+        salary = (
+            fetch_salary(j.get("company") or "", j.get("title") or "")
+            if bucket != "reject"
+            else {"min_lpa": None, "max_lpa": None, "source": None}
+        )
         row = {
             "found":            today,
             "bucket":           bucket,
@@ -406,6 +488,9 @@ def main() -> None:
             "max_joining_days": x.get("max_joining_days"),
             "yoe_quote":        x.get("yoe_quote"),
             "joining_quote":    x.get("joining_quote"),
+            "salary_min":       salary.get("min_lpa"),
+            "salary_max":       salary.get("max_lpa"),
+            "salary_source":    salary.get("source"),
         }
         rows.append(row)
         if bucket != "reject":
