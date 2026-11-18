@@ -133,29 +133,56 @@ CANDIDATE PROFILE:
 """
 
 SALARY_PROMPT = """You are a compensation analyst for Indian tech roles.
-Given Google search snippets (likely from Glassdoor, AmbitionBox, Levels.fyi,
-Payscale or similar), extract the TOTAL CTC range in LPA for this COMPANY+ROLE
-combination in India.
+You receive TWO sets of Google search snippets:
+  - CTC_SNIPPETS: likely contains annual CTC data (Glassdoor/AmbitionBox/Levels.fyi).
+  - INHAND_SNIPPETS: likely contains monthly in-hand / take-home data.
+Use BOTH to produce the best estimate for this COMPANY + ROLE in India.
 
 Return ONLY a JSON object:
-{"min_lpa": number|null, "max_lpa": number|null, "source": string}
+{"min_lpa": number|null, "max_lpa": number|null,
+ "monthly_inhand_inr": number|null, "inhand_basis": string,
+ "source": string}
 
-Rules:
+Rules for min_lpa / max_lpa (annual CTC range):
 - LPA = INR lakhs per annum (1 lakh = 100,000). Normalize everything to LPA.
-  "₹15L" or "15 LPA" or "15 lakhs" -> 15.
-  "₹15,00,000" or "₹1,500,000" or "1.5M INR" -> 15.
-  "₹8,000 per month" -> 0.96.  "$30k" -> ~25 (use ~83 INR/USD).
+  "₹15L" / "15 LPA" / "15 lakhs" -> 15.
+  "₹15,00,000" / "₹1,500,000" / "1.5M INR" -> 15.
+  "$30k" -> ~25 (use ~83 INR/USD).
 - Prefer TOTAL CTC (base + variable + stock). If only base is listed, use base.
 - If a range is given ("12-25 LPA"), min=12, max=25.
 - If only a single number is listed ("avg ~18 LPA"), set min=max=18.
-- Prefer the SPECIFIC COMPANY + ROLE match (e.g. "Infosys AI Engineer").
-  If none, fall back to role-level industry average and say so in source.
-- source = short phrase naming WHERE the number comes from, max 90 chars.
+- Prefer the SPECIFIC COMPANY+ROLE match, else role-level industry avg.
+
+Rules for monthly_inhand_inr (precise rupee amount per month, after tax):
+- First look in INHAND_SNIPPETS for an EXPLICIT monthly in-hand / take-home
+  figure for this COMPANY+ROLE. Examples:
+    "in-hand ₹85,000 per month" -> 85000
+    "take home around 1.2L monthly" -> 120000
+    "net monthly salary of ₹65k" -> 65000
+  Use the midpoint if a range is given.
+- If no explicit in-hand is found but CTC is known, ESTIMATE using the
+  candidate's standard India new-tax-regime bracket on a monthly basis:
+     CTC <= 6 LPA     -> in-hand ~88% of (CTC_mid / 12)
+     6  < CTC <= 10   -> ~82%
+     10 < CTC <= 15   -> ~75%
+     15 < CTC <= 25   -> ~70%
+     25 < CTC <= 40   -> ~65%
+     40 < CTC <= 60   -> ~60%
+     CTC > 60         -> ~55%  (large variable/stock drags cash down)
+  Use CTC_mid = (min_lpa + max_lpa) / 2 if both present, else whichever exists.
+  Round to the nearest 1,000. Example: CTC 18 LPA -> 18*100000/12 = 150000 * 0.70 = 105000.
+- inhand_basis = one short phrase:
+    "explicit: AmbitionBox in-hand ₹85k"      (if found directly)
+    "estimated from 12-18 LPA CTC @ 75%"      (if derived)
+    "no data"                                 (if neither CTC nor in-hand found)
+
+source = short phrase naming WHERE the CTC number comes from, max 90 chars.
   Examples: "AmbitionBox - Infosys AI Engineer (189 reports)",
             "Glassdoor - Microsoft AI Engineer, Bangalore",
             "Industry avg - no company data found",
             "no salary data in snippets".
-- If snippets don't mention salary at all: min=null, max=null, source="no data".
+
+If snippets mention nothing: all four values null; source="no data"; inhand_basis="no data".
 """
 
 client = OpenAI()  # reads OPENAI_API_KEY from the environment
@@ -204,6 +231,10 @@ def setup_notion_schema() -> None:
         updates["Salary Min (LPA)"] = {"number": {"format": "number"}}
     if "Salary Max (LPA)" not in existing:
         updates["Salary Max (LPA)"] = {"number": {"format": "number"}}
+    if "Monthly In-hand (INR)" not in existing:
+        updates["Monthly In-hand (INR)"] = {"number": {"format": "rupee"}}
+    if "In-hand Basis" not in existing:
+        updates["In-hand Basis"] = {"rich_text": {}}
     if "Salary Source" not in existing:
         updates["Salary Source"] = {"rich_text": {}}
     if updates:
@@ -315,42 +346,55 @@ def normalize_city(city: str | None) -> str:
     return str(city).strip() or "Unknown"
 
 
-def fetch_salary(company: str, role: str) -> dict:
-    """Serper web search -> snippets -> LLM extracts LPA range."""
-    if not SERPER_API_KEY:
-        return {"min_lpa": None, "max_lpa": None, "source": "no api key"}
+def _serper(query: str) -> str:
+    """Return a joined snippet block from Serper, or empty string on failure."""
     try:
         resp = requests.post(
             "https://google.serper.dev/search",
             headers={"X-API-KEY": SERPER_API_KEY, "Content-Type": "application/json"},
-            json={"q": f"{company} {role} salary india ambitionbox glassdoor", "num": 5, "gl": "in"},
+            json={"q": query, "num": 5, "gl": "in"},
             timeout=10,
         )
         if resp.status_code != 200:
-            return {"min_lpa": None, "max_lpa": None, "source": f"serper {resp.status_code}"}
+            return ""
         organic = resp.json().get("organic", [])[:5]
-        snippets = "\n".join(
+        return "\n".join(
             f"- {o.get('title','')}: {o.get('snippet','')}" for o in organic
         )[:1500]
-    except Exception as e:
-        return {"min_lpa": None, "max_lpa": None, "source": f"serper err: {str(e)[:40]}"}
+    except Exception:
+        return ""
 
-    if not snippets.strip():
-        return {"min_lpa": None, "max_lpa": None, "source": "no search results"}
+
+def fetch_salary(company: str, role: str) -> dict:
+    """Two Serper queries (CTC + in-hand) -> LLM returns CTC range + monthly in-hand INR."""
+    empty = {"min_lpa": None, "max_lpa": None, "monthly_inhand_inr": None,
+             "inhand_basis": None, "source": None}
+    if not SERPER_API_KEY:
+        return {**empty, "source": "no api key"}
+
+    ctc_snips = _serper(f"{company} {role} salary india ambitionbox glassdoor")
+    inhand_snips = _serper(f"{company} {role} in hand salary monthly take home india ambitionbox")
+
+    if not (ctc_snips.strip() or inhand_snips.strip()):
+        return {**empty, "source": "no search results"}
 
     text = _llm_call(
         messages=[{
             "role": "user",
-            "content": f"{SALARY_PROMPT}\nCOMPANY: {company}\nROLE: {role}\n\nSEARCH SNIPPETS:\n{snippets}",
+            "content": (
+                f"{SALARY_PROMPT}\nCOMPANY: {company}\nROLE: {role}\n\n"
+                f"CTC_SNIPPETS:\n{ctc_snips or '(none)'}\n\n"
+                f"INHAND_SNIPPETS:\n{inhand_snips or '(none)'}"
+            ),
         }],
-        max_tokens=600,
+        max_tokens=800,
     )
     if text is None:
-        return {"min_lpa": None, "max_lpa": None, "source": "llm failed"}
+        return {**empty, "source": "llm failed"}
     try:
         return json.loads(re.sub(r"```(?:json)?", "", text).strip())
     except Exception:
-        return {"min_lpa": None, "max_lpa": None, "source": "parse failed"}
+        return {**empty, "source": "parse failed"}
 
 
 def yoe_display(x: dict) -> str:
@@ -415,6 +459,10 @@ def push_notion(r: dict) -> None:
         props["Salary Min (LPA)"] = {"number": r["salary_min"]}
     if r.get("salary_max") is not None:
         props["Salary Max (LPA)"] = {"number": r["salary_max"]}
+    if r.get("monthly_inhand_inr") is not None:
+        props["Monthly In-hand (INR)"] = {"number": r["monthly_inhand_inr"]}
+    if r.get("inhand_basis"):
+        props["In-hand Basis"] = text_prop(r["inhand_basis"])
     if r.get("salary_source"):
         props["Salary Source"] = text_prop(r["salary_source"])
 
@@ -467,7 +515,8 @@ def main() -> None:
         salary = (
             fetch_salary(j.get("company") or "", j.get("title") or "")
             if bucket != "reject"
-            else {"min_lpa": None, "max_lpa": None, "source": None}
+            else {"min_lpa": None, "max_lpa": None, "monthly_inhand_inr": None,
+                  "inhand_basis": None, "source": None}
         )
         row = {
             "found":            today,
@@ -490,6 +539,8 @@ def main() -> None:
             "joining_quote":    x.get("joining_quote"),
             "salary_min":       salary.get("min_lpa"),
             "salary_max":       salary.get("max_lpa"),
+            "monthly_inhand_inr": salary.get("monthly_inhand_inr"),
+            "inhand_basis":     salary.get("inhand_basis"),
             "salary_source":    salary.get("source"),
         }
         rows.append(row)
