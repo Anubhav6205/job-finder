@@ -2,6 +2,7 @@
 Daily job finder.
 Scrape fresh jobs -> GPT reads each JD -> plain-code rules filter -> score vs resume -> Notion + CSV.
 """
+import hashlib
 import json
 import os
 import re
@@ -497,10 +498,20 @@ def main() -> None:
     df = df.loc[~key.duplicated()]
     print(f"[filter] {len(df)} new jobs to read")
 
+    jd_cache = DATA / "jd_cache"
+    jd_cache.mkdir(parents=True, exist_ok=True)
     rows, today = [], date.today().isoformat()
     for _, j in df.iterrows():
         desc = j.get("description")
         desc = desc if isinstance(desc, str) else ""
+        # Persist the raw JD body so the resume daemon can pick it up later
+        # without re-scraping (Indeed blocks direct HTTP fetches).
+        if desc:
+            try:
+                key = hashlib.md5(j["job_url"].encode()).hexdigest()
+                (jd_cache / f"{key}.txt").write_text(desc, encoding="utf-8")
+            except Exception:
+                pass
         if len(desc) < 200:
             x, (bucket, reason) = {}, ("unclear", "no JD text fetched")
             scored = {"score": None, "fit_reason": None}
