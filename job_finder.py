@@ -95,10 +95,37 @@ Rules for JOINING:
 
 RESUME_PROFILE = RESUME_FILE.read_text(encoding="utf-8") if RESUME_FILE.exists() else ""
 
-SCORE_PROMPT = f"""You are a recruiter scoring fit between a candidate and a job.
-Score 1-10 (10 = perfect fit) based on skills, experience level and role type.
+SCORE_PROMPT = f"""You are a senior tech recruiter evaluating fit between a candidate
+and a SPECIFIC job. Do not score on surface keyword overlap. Analyse deeply
+across these five dimensions, then produce the score and bullets.
+
+1. ROLE LEVEL — does the title/seniority band match the candidate?
+   Senior candidate for junior role (or vice versa) = poor fit.
+2. CORE SKILLS — do the JD's REQUIRED skills map to the candidate's primary
+   strengths, not just any mention on the resume?
+   ("Python" anywhere on resume is NOT a match; "2yrs production LangChain
+   RAG" IS a match.)
+3. DOMAIN & STACK — is the industry and actual stack aligned?
+   (BFSI vs SaaS; LangChain/LlamaIndex vs HuggingFace fine-tuning;
+   web scraping vs data engineering.)
+4. YOE BAND — does the required experience range contain the candidate's YOE?
+5. RED FLAGS — specific requirements the candidate CANNOT satisfy
+   (certifications, team-lead headcount, on-call, non-tech skills, sales,
+   specific vertical experience).
+
+Score 1-10 (10 = perfect fit).
+
 Return ONLY a JSON object: {{"score": number, "fit_reason": string}}
-The fit_reason must be one sentence explaining the score.
+
+fit_reason must be 3-5 short bullet points, one per line, each starting
+with "• " (bullet + space). Each bullet states ONE precise reason with
+CONCRETE evidence quoted or paraphrased from the JD/resume. No fluff,
+no restating the job title, no generic claims.
+
+Bad bullet:  "• Candidate has relevant AI skills."
+Good bullet: "• Strong: 2yrs production RAG with LangChain + FAISS matches JD"
+Good bullet: "• Gap: JD needs 5+ yrs MLOps, candidate has ~1.5 yrs"
+Good bullet: "• Red flag: role expects team lead (10 reports), candidate is IC"
 
 CANDIDATE PROFILE:
 {RESUME_PROFILE}
