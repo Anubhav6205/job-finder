@@ -1,0 +1,42 @@
+We’re on a mission to change the future of clinical research. At Perceptive, we help the
+  
+biopharmaceutical industry bring medical treatments to the market, faster.
+  
+Our mission is to change the world but to do this, we need people like you.
+
+**Job Purpose**
+---------------
+
+**As an Apprentice Technical Support Analyst under the NATS program, you will undergo structured and on-the-job (OTJ) training for 12 months. You will work closely with experienced Analysts and Engineers to gain experience and knowledge and contribute to the support of technology used on live projects by operational teams. You will build foundational skills in supporting users with software, access, and other related issues, learning skills around interacting with internal and external stakeholders, using a wide range of support tools and software, and applying documented “first time fixes” as well as observing and contributing to more complex investigations.**
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+  
+
+**Key Responsibilities**
+------------------------
+
+* **Participate in structured training and on-the-job learning assignments.**
+  ---------------------------------------------------------------------------
+* Work under the guidance of assigned mentors/supervisors.
+* Demonstrate learning agility, professionalism, and adherence to company policies and best practices.
+* Collaborate with cross-functional teams to provide support.
+* Work with diagnostic software and tools, investigatory methodologies and Imaging systems.
+* Provide Incident Management and Request Management within an ITIL-centered framework and according to Corporate and Operational SOPs and Manuals.
+* Demonstrate adherence to data quality standards, maintaining blinding and confidentiality at all times.
+* Perform routine maintenance and monitoring tasks, as well as participating in technical investigations.
+* Support the development of scripts, knowledge, workflows, and process optimization.
+* Contribute to use of AI/Machine Learning and automation initiatives using tools like CoPilot, Claude and Rovo.
+* Participate in and contribute to team meetings, training sessions and workshops, shift handover meetings, Manager 121 sessions and other ad-hoc group work sessions.
+Document processes, create reports, and maintain logs.  
+
+  
+
+**Other**
+
+Carries out any other reasonable duties as requested.
+
+**Education and Certifications**
+--------------------------------
+
+* Graduates in Software Engineering, Computer Science, Technology, Customer Service or related faculties, eligible under NATS, with strong interest in learning and applying skills in a professional environment.
+* English: Fluent

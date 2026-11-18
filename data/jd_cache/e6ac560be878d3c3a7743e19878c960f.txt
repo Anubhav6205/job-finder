@@ -1,0 +1,13 @@
+**Roles and Responsibilities**
+
+* Design, develop, and deploy advanced analytics solutions using Python, Agilent AI, and other relevant technologies.
+* Collaborate with cross-functional teams to identify business problems and design data-driven solutions.
+* Develop machine learning models to solve complex business problems and improve process efficiency.
+* Conduct exploratory data analysis, feature engineering, and model evaluation to ensure high accuracy.
+* Provide technical guidance on artificial intelligence (AI), generative AI, and intelligent automation projects.
+
+**Desired Candidate Profile**
+
+* 8-12 years of experience in IT industry with expertise in Advanced Analytics & Artificial Intelligence.
+* Bachelor's degree in Engineering (B.Tech / B.E.) or Master's degree (MS/M.Sc) from a reputed institution.
+* Strong understanding of programming languages such as Python; hands-on experience with libraries like NumPy, Pandas, Matplotlib etc.

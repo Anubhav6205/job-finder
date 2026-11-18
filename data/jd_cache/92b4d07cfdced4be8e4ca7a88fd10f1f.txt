@@ -1,0 +1,45 @@
+Python Cloud AI-Native Application Developer
+
+Experience: 6 to 9 Years
+
+Location: Chennai / Hyderabad
+
+**Walk-in Interview: 21st November 2026; only Chennai Location**
+
+Notice period: Immediate joiner
+
+  
+
+Total Industry experience should be 6-9 yrs , full stack developer with GenAI
+
+  
+
+Role Summary:
+
+We are seeking a skilled and motivated Full Stack developer with Generative AI knowledge.
+
+The ideal candidate will have hands-on experience in Python-based application development, React.js, Generative AI capabilities, and Microsoft Azure cloud services.
+
+The candidate should contribute to the development, testing, deployment, and optimization of intelligent applications using OpenAI APIs, Azure AI services, and modern front-end technologies.
+
+The role requires strong technical capability, problem-solving skills, and the ability to work effectively in a collaborative, fast-paced environment.
+
+  
+
+Key Responsibilities:
+
+* Design, develop, and maintain Python-based applications and backend services.
+* Develop and integrate Generative AI solutions using OpenAI APIs and Azure OpenAI Service.
+* Develop responsive and user-friendly front-end applications using React.js.
+* Integrate React.js applications with REST APIs and backend services.
+* Implement AI-driven features using prompt engineering, embeddings, vector search, and Retrieval-Augmented Generation (RAG).
+* Build and maintain APIs and application integrations with third-party services.
+* Develop and deploy cloud-native solutions on Microsoft Azure.
+
+  
+
+Only shortlisted candidates will receive the call letter to attend the interview.
+
+  
+
+**Recruitment Fraud Disclaimer:** Hexaware never requests payment from candidates during the hiring process. Any such request is fraudulent. For details, please visit **Beware of Fake Job Offers**. Verify all opportunities through official Hexaware channels only.

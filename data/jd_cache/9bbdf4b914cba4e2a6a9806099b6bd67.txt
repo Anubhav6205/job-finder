@@ -1,0 +1,55 @@
+**POSITION SUMMARY:**
+
+Responsible for maintaining the integrity of Garmin's production environment and that all moderately complex releases into the environment are well-organized, communicated, and managed.
+
+  
+
+**ESSENTIAL FUNCTIONS:**
+
+* Partner on process improvements to the whole project lifecycle and release process
+* Participate in design/definition activities for moderate-complexity systems, features, and/or process
+* Champion the shift-left culture of reliability and delivery performance within software development teams
+* Monitor and support moderate-complexity software releases
+* Implement improvements to the software lifecycle and production pipeline through automated tools/systems that align with industry best practices
+* Implement observability improvements to the software applications and infrastructure
+* Coordinate and improve monitoring practices across software applications and infrastructure
+* Build and/or maintain tools to generate reports
+* Maintain accurate data to facilitate reporting on key reliability SLOs for multiple products/systems
+* Improve the teams incident response by nurturing incident playbooks
+* Facilitate a healthy culture of post-incident activities throughout the organization
+* Through post-incident activities, proactively identify and/or implement reliability improvements and automated mitigations of recurrence
+* Participate in in the SRE community to nurture standards, best practices, and training across product owners, software engineers, and other SREs
+* Participate in capacity planning to ensure software can scale sufficiently at peak times
+* Manage the error budget for one or more products/systems
+
+  
+
+**EDUCATION EXPERIENCE AND SKILLS REQUIRED:**
+
+* Bachelor of Science in Computer Science, Electrical Engineering, Software Engineering or Computer Engineering or another technical field plus 4 years experience **OR** equivalent combination of education and relevant experience
+* Excellent academics results
+* Configuration of complex multi-tiered server applications
+* Effective judgment, discretion, and decision-making abilities
+* Strong and effective verbal, written, and interpersonal communication skills
+* Team-oriented, possessing a positive attitude and working well with others
+
+  
+
+**DESIRABLE QUALIFICATIONS:**
+
+* Familiarity with the Agile Manifesto and various Agile practices and frameworks
+* Experience applying Lean principles to individual, team, and organizational process
+* Proficiency in application languages/frameworks such as Java, SpringBoot, C#, JavaScript, React, Angular
+* Experience with scaling cloud native applications in large, high-availability environments
+* Experience with moderately complex build and deployment automation
+* Experience with DevOps-style tools such as Jenkins, Maven, GitLab, Nexus, RunDeck
+* Experience with Infrastructure as Code such as Ansible, Terraform, Salt, Chef, Puppet
+* Experience with CDN Providers such as Akamai/Cloudflare
+* Experience with APM monitoring tools such as Zabbix, AppDynamics, New Relic, Dynatrace
+* Experience with observability tools such as Uptrends, Splunk, Kibana
+* Experience with messaging technologies such as RabbitMQ, Kafka
+* Experience with scripting languages such as Python, Groovy
+* Experience with automated testing tools and testing procedures
+* Experience with data technologies such as RDBMS, No-SQL
+* Experience with Docker/ Kubernetes
+* Experience with Linux Administration

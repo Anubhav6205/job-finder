@@ -1,0 +1,39 @@
+**Job Title: Amazon Connect Developer**
+
+**Experience:** 8-15 Years
+
+  
+
+**Job Description**
+
+We are looking for an experienced **Amazon Connect Engineer** with strong expertise in designing, developing, and supporting cloud-based contact center solutions.
+
+**Key Skills:**
+
+* Amazon Connect
+* Contact Center / CCaaS Solutions
+* IVR & Contact Flow Design
+* AWS Lambda, Lex, S3, DynamoDB
+* CRM Integration (Salesforce/ServiceNow preferred)
+* Call Routing, CTI, Reporting
+* Voice Bots / Chat Bots
+* AWS Cloud Services
+
+**Responsibilities:**
+
+* Design and implement Amazon Connect solutions.
+* Develop and optimize IVR and contact flows.
+* Integrate Amazon Connect with enterprise applications and CRMs.
+* Troubleshoot production issues and enhance customer experience.
+* Work with business and technical teams to deliver scalable contact center solutions.
+
+**Must Have:**
+
+* 8+ years of hands-on Amazon Connect experience.
+* Strong AWS knowledge.
+* Experience in Contact Center transformation or migration projects.
+
+**Good to Have:**
+
+* Amazon Lex, Bedrock, Generative AI integrations.
+* AWS Certifications.

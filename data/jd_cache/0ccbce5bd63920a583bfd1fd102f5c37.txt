@@ -1,0 +1,46 @@
+*EPAM is a leading global provider of digital platform engineering and development services. We are committed to having a positive impact on our customers, our employees, and our communities. We embrace a dynamic and inclusive culture. Here you will collaborate with multi-national teams, contribute to a myriad of innovative projects that deliver the most creative and cutting-edge solutions, and have an opportunity to continuously learn and grow. No matter where you are located, you will join a dedicated, creative, and diverse community that will help you discover your fullest potential.*
+
+We are seeking a talented **Lead / Senior Software Engineer with deep Appian expertise** to join our team. In this role, you will design, develop, and deploy complex low-code applications while leveraging modern cloud and GenAI technologies. You will play a key part in driving technical excellence, mentoring team members, and delivering robust enterprise solutions within an Agile environment.
+
+**Nice to have**
+
+* Appian Certified Senior Developer certification
+* Claude Code certification
+* Experience integrating Appian with GenAI platforms such as Anthropic Claude and Amazon Bedrock
+
+**Requirements**
+
+* Bachelor's or Master's degree in Computer Science or a similar field
+* 5+ years of hands-on experience in Appian low-code development
+* Expertise in Appian architecture, synced records, process modeling, custom data types (CDTs), and smart services
+* Proficiency in SQL and relational databases such as MySQL and PostgreSQL
+* Familiarity with cloud environments, including AWS or Azure
+* Background in Agile/Scrum delivery methodologies
+* Capability to troubleshoot complex applications using logs, performance dashboards, and the Admin Console
+
+**Responsibilities**
+
+* Design and develop complex Appian low-code applications, leveraging synced records, process modeling, custom data types (CDTs), and smart services
+* Troubleshoot applications using a variety of sources, including logs, performance dashboards, and the Admin Console
+* Prepare for complex deployments by performing technical reviews, unit testing, and performance testing
+* Integrate Appian with GenAI platforms such as Anthropic Claude and Amazon Bedrock
+* Collaborate with cross-functional teams within Agile/Scrum delivery frameworks
+* Conduct code reviews and ensure adherence to best practices and quality standards
+* Partner with stakeholders to translate business requirements into scalable technical solutions
+* Mentor junior developers and contribute to the continuous improvement of development processes
+
+**We offer**
+
+* Opportunity to work on technical challenges that may impact across geographies
+* Vast opportunities for self-development: online university, knowledge sharing opportunities globally, learning opportunities through external certifications
+* Opportunity to share your ideas on international platforms
+* Sponsored Tech Talks & Hackathons
+* Unlimited access to LinkedIn learning solutions
+* Possibility to relocate to any EPAM office for short and long-term projects
+* Focused individual development
+* Benefit package:
+  + Health benefits
+  + Retirement benefits
+  + Paid time off
+  + Flexible benefits
+* Forums to explore beyond work passion (CSR, photography, painting, sports, etc.)

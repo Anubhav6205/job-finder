@@ -1,0 +1,37 @@
+Job Title: Google Full Stack Developer   
+**About the Role:**  
+We are looking for an experienced and innovative **Google CCAI Developer** with 5 to 10 years of hands-on experience in building intelligent virtual agents and real-time AI solutions. You will play a key role in developing and enhancing customer experience using Google Cloud's **Contact Center AI (CCAI)** technologies, including **Dialogflow**, **Generative AI**, **Agent Assist**, **Insights**, and **UJET integration**.  
+**Key Responsibilities:**
+
+* Design, develop, and deploy virtual agents using **Dialogflow CX/ES** for voice and chat-based customer service.
+* Leverage **Generative AI capabilities** (Playbooks, Generators, and Data Stores) to build advanced conversational flows and personalized responses.
+* Integrate with the **Google CCAI Platform** and third-party systems like **UJET** to deliver scalable, production-grade contact center solutions.
+* Implement **Agent Assist** functionalities, including **real-time transcription**, **intent detection**, **article suggestions**, and **automatic summarization** to support live agents.
+* Utilize **CCAI Insights** to analyze agent-customer interactions, extract actionable trends, and drive continuous improvements.
+* Work closely with cross-functional teams (data engineers, cloud architects, QA) to ensure seamless deployment and ongoing maintenance.
+* Troubleshoot production issues and optimize agent flows for performance and accuracy.
+* Stay up to date with Google Clouds AI roadmap and contribute to AI/ML best practices within the team.
+
+**Required Qualifications:**
+
+* Bachelors or Masters degree in Computer Science, AI/ML, or a related field.
+* 5 to 10 years of professional experience in conversational AI development, with 2 to 3years in **Google CCAI ecosystem**.
+* Strong experience with **Dialogflow CX and ES**, including intent/entity design, context handling, webhook integration, and fulfillment.
+* Practical experience with **Generative AI** in Google Cloud (Playbooks, Generators, Data Stores).
+* Hands-on experience with **UJET** or similar platforms integrated with CCAI.
+* Expertise in **Agent Assist APIs**, **real-time transcription**, and **summarization models**.
+* Proficiency in programming languages like **Python**, **Node.js**, or **JavaScript**.
+* Familiarity with **GCP services** (e.g., Cloud Functions, Pub/Sub, Cloud Run, BigQuery) and cloud-based CI/CD practices.
+
+**Preferred Qualifications:**
+
+* Google Cloud certification (e.g., **Professional Cloud Developer**, **CCAI Engineer**).
+* Knowledge of contact center operations and KPIs.
+* Experience with conversational analytics and optimization.
+* Exposure to data privacy, security, and compliance requirements in regulated environments.
+
+**Soft Skills:**
+
+* Strong communication and stakeholder management skills.
+* Ability to work in a fast-paced, agile environment.
+* Analytical thinker with a passion for improving customer experience through AI.

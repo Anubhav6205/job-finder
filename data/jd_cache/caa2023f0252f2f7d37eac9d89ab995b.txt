@@ -1,0 +1,56 @@
+**Senior GenAI Engineer Agentic AI (Aviation Domain)**
+
+  
+
+**Role Overview:**
+
+  
+
+We are looking for a highly experienced **Senior GenAI Engineer** to lead the design, development, and delivery of a significant AI use case within the aviation domain. The candidate will take end-to-end ownership of solution delivery, ensuring high standards of architecture, code quality, performance, scalability, and reliability.
+
+  
+
+**Key Responsibilities:**
+
+  
+
+* Own end-to-end technical delivery of a strategic AI use case in the aviation domain, from solution design to production deployment.
+* Design, develop, and implement scalable GenAI and Agentic AI solutions using LLMs and agent-based architectures.
+* Establish and drive engineering standards for code quality, solution reliability, scalability, performance, and maintainability.
+* Implement agentic patterns, multi-step reasoning, tool calling, workflow orchestration, and RAG-based solutions.
+* Build robust AI applications with appropriate evaluation frameworks, guardrails, monitoring, and error-handling mechanisms.
+* Drive technical problem-solving, architecture decisions, and continuous improvement throughout the development lifecycle.
+* Mentor engineers on GenAI engineering practices, Agentic AI design patterns, and production-ready implementation approaches.
+* Collaborate with architects, product owners, and business stakeholders to translate aviation business requirements into effective AI solutions.
+* Ensure solutions meet enterprise standards for security, governance, compliance, and operational reliability.
+
+  
+
+**Required Skills & Experience:**
+
+  
+
+* 7+ years of overall software engineering experience.
+* 3+ years of hands-on experience in Generative AI and LLM-based application development.
+* Strong programming expertise in Python and experience building scalable applications and APIs.
+* Practical experience developing Agentic AI solutions and working with frameworks such as LangChain, LangGraph, CrewAI, AutoGen, or equivalent.
+* Strong understanding of LLMs, Prompt Engineering, RAG, embeddings, vector databases, and LLM orchestration.
+* Experience building production-grade AI applications with a focus on reliability, performance, scalability, and quality.
+* Experience implementing AI evaluation, observability, monitoring, and guardrails.
+* Strong software engineering fundamentals, including system design, API development, testing, debugging, and CI/CD.
+* Demonstrated ability to mentor engineers and provide technical guidance to development teams.
+
+Good to Have
+
+* Experience in the aviation industry or related domains such as travel, transportation, or logistics.
+* Familiarity with cloud platforms such as AWS, Azure, or GCP.
+* Experience with LLMOps, MLOps, AI governance, and responsible AI practices.
+* Experience delivering enterprise-scale AI solutions in production environments.
+
+  
+
+**Ideal Candidate Profile:**
+
+  
+
+A senior, hands-on AI engineer who can independently own a complex AI delivery, set high engineering and reliability standards, solve challenging technical problems, and mentor other engineers in building robust, scalable Agentic AI solutions.

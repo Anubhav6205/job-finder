@@ -1,0 +1,43 @@
+**Ready to take your career global?**
+
+Make your mark at one of the biggest names in payments. We’re looking for a **Senior Data Engineer** to join our ever-evolving **Data and Analytics team** and help shape the future of Global Payments.
+
+**What you’ll own**
+
+As a Senior Software Engineer, responsible for developing and testing data pipelines from extraction to consumption for the GPN Lakehouse, including ETL process management, data modeling, and data warehouse/lake architecture. Leveraged AI/ML expertise in designing intelligent pipelines, integrating machine learning models for automated data classification, anomaly detection, and data quality assessment. Applied advanced analytics and AI-powered data transformation to optimize pipeline performance and enable automated decision-making within ETL operations.
+
+**What you’ll bring**
+
+* Design, build, and maintain scalable, production-grade ETL/ELT pipelines leveraging modern tools (Apache Airflow, DBT, Spark).
+* Demonstrate advanced proficiency with Google Cloud Platform (GCP) and ecosystem services including Big Query, Cloud SQL, Cloud Functions, Cloud Storage, and Cloud Datastore.
+* Develop and deploy solutions using YAML, JSON, and Google Cloud Shell scripting languages.
+* Establish and manage robust deployment pipelines ensuring reliable code promotion across development, staging, and production environments.
+* Apply strong foundational knowledge of data warehouse architecture, ETL design patterns, and data modelling best practices.
+* Leverage version control and development collaboration tools including GitHub, Jira, Confluence, Rally, and VSTS to manage code repositories and project workflows
+* Translate complex business requirements from stakeholders (Business Analysts, Architects, Development Leads) into scalable technical solutions.
+* Communicate technical concepts and project updates to both technical and non-technical audiences with clarity and precision.
+* Participate actively in team, departmental, and divisional meetings; contribute to knowledge sharing and continuous improvement initiatives.
+* Own responsibility for comprehensive unit testing, code quality assurance, and defect prevention on all development assignments.
+* Maintain meticulous attention to detail; investigate, track, and resolve technical issues through resolution.
+* Document and monitor time allocation across multiple concurrent projects and departmental priorities.
+* Continuously enhance and optimize existing applications to support evolving business requirements and platform capabilities.
+* Develop comprehensive understanding of TSYS/Global Payments business, payment processing platforms, credit card industry standards, and regulatory requirements.
+* Proactively build technical expertise through multiple learning channels and stay current with emerging tools and best practices in data engineering.
+* Demonstrate flexibility to manage competing priorities, collaborate across functional areas, and adapt to evolving business needs.
+
+**It’s a bonus if you have**
+
+* Integrate and deploy machine learning models in production data workflows, collaborating with data scientists to operationalize ML models (MLOps)
+* Implemented AI-powered data transformation, enrichment, and intelligent data routing systems
+* Developed AI agents for automated data processing and natural language processing for unstructured data extraction
+* Established best practices for AI-enabled data pipelines and optimized data pipeline performance, reliability, and data quality standards
+
+**About the team**
+
+Our inclusive and global teams win together every day. We’re proud to have the best minds in the industry, who you can learn from as you grow your career. The people, the energy, the connections – it’s unmatched. Come and be part of an ever-evolving company and get dynamic opportunities that go beyond borders.
+
+**What makes a Globalpayer?**
+
+Globalpayers think like a client, act like an owner and win as one team. We’re curious and innovative – always finding better ways to deliver impact. We empower each other to make decisions, and it’s our passion that drives excellence in everything we set out to do.
+
+Does this sound like you? Then you sound like a Globalpayer. Apply now to take your career global.

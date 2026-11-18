@@ -1,0 +1,41 @@
+**DESCRIPTION**
+---------------
+
+Amazon's Seller Compliance team builds mission-critical services that enable millions of sellers worldwide to meet regulatory requirements while growing their business. Our platform handles complex compliance regulations across multiple domains including environmental protection, product safety, and tax compliance, processing billions in transactions annually.  
+  
+We're looking for a Software Development Engineer to own and deliver key components of our compliance platform. You'll own and implement services that process millions of seller transactions daily, working closely with Principal Engineers and other SDEs to ensure our solutions meet Amazon's high bar for reliability and scalability.  
+  
+The ideal candidate will:  
+
+* Have strong problem solving and coding skills
+* Take ownership of technical components end-to-end
+* Work effectively with senior engineers and peers
+* Deliver solutions that scale with Amazon's growth
+* Stay current with software development best practices and GenAI Tools
+
+  
+Key job responsibilities  
+  
+
+* Own and deliver critical components of our compliance platform
+* Collaborate with other SDEs to implement and integrate solutions
+* Build distributed systems handling complex compliance calculations and real-time fee processing
+* Ensure high availability and accuracy of your components
+* Write clean, maintainable code with comprehensive test coverage
+
+**BASIC QUALIFICATIONS**
+------------------------
+
+* 1+ years of non-internship professional software development experience
+* Experience programming with at least one software programming language
+* Bachelor's degree or equivalent
+
+**PREFERRED QUALIFICATIONS**
+----------------------------
+
+* Knowledge of programming languages such as C/C++, Python, Java or Perl
+
+  
+Our inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how-we-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner.  
+  
+null

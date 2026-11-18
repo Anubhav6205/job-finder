@@ -1,0 +1,50 @@
+**About the Role**
+
+Our client is looking for a **Data Engineer**  with **4+ years of experience** and strong expertise in **Python, PySpark, SQL, and AWS**, along with minimum exposure or hands-on experience in **Generative AI and LLMs**.
+
+  
+
+The role involves building scalable data solutions and AI-ready data workflows while collaborating with technical and business teams.
+
+  
+
+**Key Responsibilities**
+
+* Design, develop, and maintain scalable **data pipelines and data-processing workflows** using Python, PySpark, and SQL.
+* Process and transform large volumes of **structured and unstructured data** for analytics and AI applications.
+* Design and develop **data pipelines and workflows supporting Generative AI and LLM applications**.
+* Prepare and transform data for **LLM-based applications**, including document processing and knowledge workflows.
+* Collaborate with AI/ML teams to integrate **GenAI/LLM solutions** into data engineering workflows.
+* Support **RAG pipelines, embeddings, vector search, and other LLM-powered data workflows**.
+* Design, implement, troubleshoot, and optimize cloud-based data solutions, preferably on **AWS**, ensuring data quality, reliability, performance, and scalability.
+
+  
+
+**Required Skills**
+
+* **4-8 years of hands-on experience in Data Engineering.**
+* Strong hands-on experience with **Python and PySpark**.
+* Strong knowledge and practical experience in **SQL scripting**.
+* Solid understanding and hands-on experience with core **Data Engineering concepts**.
+* Strong hands-on experience with a cloud platform, preferably **AWS**.
+* Exposure or hands-on experience with **Generative AI and Large Language Models (LLMs)**.
+* Excellent communication, collaboration, and interpersonal skills.
+
+  
+
+**Nice-to-Have Skills**
+
+* Exposure to AWS data services such as S3, Glue, EMR, Redshift, Lambda, or Athena.
+* Knowledge of data lakes, data warehouses, and distributed data-processing architectures.
+* Experience with ETL/ELT frameworks and workflow-orchestration tools.
+* Familiarity with data modeling, governance, security, and data quality practices.
+* Exposure to RAG pipelines, vector databases, embeddings, or AI agents.
+* Experience with CI/CD pipelines, Git, Docker, or infrastructure automation.
+
+  
+
+**About YMinds.AI**
+
+YMinds.AI is a technology-focused talent solutions company helping organizations hire exceptional professionals across Engineering, AI/ML, Data, Cloud, Product, and Business functions.
+
+Through our AI-powered talent platform, EmployAbility.AI, we enable faster access to verified and high-quality candidates by combining intelligent matching, expert screening, and a continuously refreshed talent network.

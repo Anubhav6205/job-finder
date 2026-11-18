@@ -1,0 +1,107 @@
+**Software Engineer (Full-Stack Development & IT Support)**
+
+**Organization:** Sathya Educare Competency Trust (SECT)  
+**Location:** Bengaluru, Karnataka (On-site)  
+**Employment Type:** Full-time  
+**Experience:** 1+ year or strong relevant internship experience  
+**Department:** Technology / Digital Learning
+
+**ABOUT THE ROLE**
+
+We are looking for a hands-on Software Engineer to take ownership of our digital platforms and technology infrastructure.
+
+The role involves full-stack product development using Go (Golang), React.js, MySQL, and AWS, along with AI/LLM integrations and office IT support.
+
+We need someone who enjoys solving real-world problems, building reliable technology, and taking responsibility from development to deployment and maintenance.
+
+**KEY RESPONSIBILITIES**
+
+**1. Full-Stack Development**
+
+* Build and maintain backend services and REST APIs using Go (Golang).
+* Develop responsive web applications using React.js.
+* Design and manage MySQL databases and optimize queries.
+* Integrate third-party services and APIs.
+
+**2. Cloud, Performance & AI**
+
+* Deploy and maintain applications using AWS.
+* Implement caching, performance optimization, and security practices.
+* Explore and integrate AI/LLM capabilities, including RAG and AI APIs.
+* Work with Git, Docker, and CI/CD processes.
+
+**3. Office IT Support & Maintenance**
+
+* Maintain office computers, laptops, software, and operating systems.
+* Troubleshoot hardware, software, printer, Wi-Fi, and network issues.
+* Manage IT assets, system security, backups, and software updates.
+* Coordinate with vendors for IT repairs and maintenance.
+
+**4. Ownership & Collaboration**
+
+* Take ownership of assigned projects from development to deployment.
+* Write clean, maintainable, and well-tested code.
+* Identify and resolve technical issues independently.
+* Collaborate with team members and translate requirements into technical solutions.
+
+**REQUIRED QUALIFICATIONS & SKILLS**
+
+* Bachelor's degree in Computer Science, IT, Software Engineering, or a related field. Strong practical projects may be considered in place of a degree.
+* Minimum 1 year of software development experience or relevant internship experience.
+* Working knowledge of Go (Golang), React.js, JavaScript/TypeScript, and MySQL.
+* Understanding of REST APIs, database design, and backend architecture.
+* Familiarity with AWS, Git, and Docker.
+* Strong Data Structures and Algorithms (DSA) fundamentals.
+* Basic computer hardware, operating system, and networking knowledge.
+* Interest in Generative AI and LLM technologies.
+* Strong analytical, troubleshooting, and problem-solving skills.
+
+**Good to Have:** Redis, microservices, CI/CD, AWS services, Docker Compose, RAG, embeddings, vector databases, and AI agents.
+
+**WHO SHOULD APPLY?**
+
+We are looking for someone who:
+
+* Sees technology as a means to create meaningful impact, not just a career opportunity.
+* Wants to build something meaningful and grow with the organization.
+* Takes ownership of outcomes rather than waiting for instructions.
+* Enjoys solving problems, experimenting, and learning new technologies.
+* Is willing to work across software development, deployment, and IT infrastructure.
+* Can work independently while collaborating effectively with a team.
+* Is curious about AI and passionate about building practical technology solutions.
+* Values commitment, integrity, accountability, and continuous improvement.
+
+**WHO SHOULD NOT APPLY**
+
+This role is NOT for someone who:
+
+* Is looking only for a salary, designation, or routine 9-to-5 job.
+* Wants to work exclusively on coding and is unwilling to handle basic IT support responsibilities.
+* Prefers completing assigned tasks without taking ownership or initiative.
+* Is unwilling to troubleshoot, learn, experiment, or solve unfamiliar problems.
+* Is interested only in using existing technologies but not understanding how systems work.
+* Is uncomfortable receiving feedback, adapting, or working in a growing organization.
+* Lacks genuine interest in building and maintaining technology solutions.
+
+**OUR EXPECTATION**
+
+We do not expect you to know everything from day one. We expect strong technical fundamentals, curiosity, accountability, and the willingness to take ownership.
+
+**At SECT, we are not simply hiring someone to write code. We are looking for someone who wants to take responsibility for our technology, build solutions that matter, and make this work a meaningful professional mission—not just another job.**
+
+**HOW TO APPLY**
+
+**Email:** info@sathyaeducare.com  
+**Subject:** Application – English Teacher Educator  
+**Resume:** Include your qualifications, relevant experience and professional achievements.  
+**Contact:** 9964030975  
+**Last Date:** 30th November2026
+
+Pay: ₹40,000.00 - ₹60,000.00 per month
+
+Benefits:
+
+* Health insurance
+* Provident Fund
+
+Work Location: In person

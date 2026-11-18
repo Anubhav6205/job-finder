@@ -1,0 +1,71 @@
+**Job Description**
+**What you'll bring**
+You have strong coding and debugging skills and hands-on experience building and operating cloud-based microservices in SAP Concur Travel. A solid understanding of APIs, distributed systems basics, and CI/CD practices is required. Experience with AI/LLM workflows, including prompt design, basic RAG patterns, and integrating AI services into applications, is important. Familiarity with observability (logging, metrics, tracing), performance tuning, and system monitoring is expected. An ownership mindset, combined with experience in testing, validation, and troubleshooting production systems, will set you up to contribute well.
+  
+  
+3 to 6 years of relevant experience in software development with master’s or bachelor’s degree in computer science, engineering or equivalent.
+  
+  
+**What You'll Build**
+You'll design, develop, and maintain production-grade AI-enabled features and services in SAP Concur Travel, with a focus on scalability and reliability. LLM integration and basic RAG workflows, including prompt management and response validation, are part of your core work. You'll build and improve evaluation and benchmarking pipelines to measure AI output quality and system performance. Application health, latency, throughput, and system efficiency are areas you'll actively monitor and improve. Debugging and resolving production issues, contributing to incident analysis, and implementing stability fixes are all expected. You'll support and enhance CI/CD pipelines and deployment workflows. Cross-functional collaboration to refine requirements and improve system design is a regular expectation.
+  
+  
+**Where you belong**
+You will join the SAP Concur Travel Engineering AI & Core team in Labs India. SAP Concur offers cloud-based services that make it simple to manage travel and expenses. SAP Concur supports more than 54,000 businesses and 96 million users across 150+ countries, processing over one billion transactions annually.
+  
+  
+You'll own features and modules end-to-end and work closely with product, data, platform, and AI teams to align on goals and deliver quality results. This team values direct communication, shared accountability, and continuous improvement. You'll participate in code reviews, share technical knowledge, and help build team capabilities as you develop deeper expertise in AI-native application development.
+  
+  
+**Skills**
+**We value the skills you bring and support you to build on them through our learning and development opportunities. These are the skills associated with this role:**
+**Core Skills**
+- Hands-on Golang/C# development, cloud-native services, RDBMS proficiency (SQL Server or MySql etc), experience with AI/LLM APIs, Agentic AI basics, and data ingestion and preprocessing for AI.
+  
+  
+*AI Adoption Capability, AI output quality assurance, AI-assisted development, context engineering, agentic orchestration, agentic engineering, application security, cloud architecture, observability, semantic retrieval, high availability engineering, troubleshooting, evaluations and benchmarking engineering, CI/CD.*
+Equal Employment Opportunity (EEO) Statement
+  
+  
+Our company does not discriminate in employment on the basis of race, color, religion, sex (including pregnancy and gender identity), national origin, political affiliation, sexual orientation, marital status, disability, genetic information, age, membership in an employee organization, retaliation, parental status, military service, or other non-merit factor.
+  
+  
+Additional Information
+  
+  
+**About SAP**
+With a global network of customers, partners, employees, and thought leaders, SAP helps the world run better and improves people’s lives.
+  
+  
+As a leader in enterprise applications and business AI, SAP stands at the nexus of business and technology. For over 50 years, organizations have trusted SAP to bring out their best by uniting business-critical operations spanning finance, procurement, HR, supply chain, and customer experience.
+  
+  
+We win with inclusion
+  
+  
+SAP’s culture of inclusion, focus on health and well-being, and flexible working models help ensure that everyone, regardless of background, feels included and can run at their best. At SAP, we believe we are made stronger by the unique capabilities and qualities that each person brings to our company, and we invest in our employees to inspire confidence and help everyone realize their full potential. We ultimately believe in unleashing all talent and creating a better world.
+  
+  
+SAP is committed to the values of Equal Employment Opportunity and provides accessibility accommodations to applicants with physical and/or mental disabilities. If you are interested in applying for employment with SAP and are in need of accommodation or special assistance to navigate our website or complete your application, please send an email with your request to the Recruiting Operations Team: Careers@sap.com.
+  
+  
+For SAP employees: Only permanent roles are eligible for the SAP Employee Referral Program, according to the eligibility rules set in the SAP Referral Policy. Specific conditions may apply for roles in Vocational Training.
+  
+  
+Qualified applicants will receive consideration for employment without regard to age, race, religion, national origin, ethnicity, gender (including pregnancy and childbirth), sexual orientation, gender identity or expression, protected veteran status, or disability, in compliance with applicable federal, state, and local legal requirements.
+  
+  
+Successful candidates might be required to undergo a background verification with an external vendor.
+  
+  
+AI Usage in the Recruitment Process
+  
+  
+For information on the responsible use of AI in our recruitment process, please refer to our Guidelines for Ethical Usage of AI in the Recruiting Process.
+  
+  
+Please note that any violation of these guidelines may result in disqualification from the hiring process.
+  
+  
+**Company Description**
+Join a global development team where collaboration and innovation drive success. You'll benefit from coaching, agile practices, and SAP's inclusive growth culture.

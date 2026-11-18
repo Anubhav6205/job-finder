@@ -1,0 +1,103 @@
+Come work at a place where innovation and teamwork come together to support the most exciting missions in the world!
+
+Qualys is building the future of cyber risk management with **Enterprise****TruRisk****Management (ETM) -**A platform that enables organizations to **measure, communicate, and****eliminate****cyber risk** across the enterprise.
+
+**About the Role**
+
+We are seeking a **Senior****Forward Deployed Engineer** to operate at the intersection of engineering, data, and customer deployment. In this role, you will work directly with enterprise customers to onboard, integrate, and operationalize complex cybersecurity data into the Enterprise TruRisk Management (ETM) platform. You will play a critical role in translating fragmented security environments into a unified, actionable risk model while providing real‑world feedback to product and engineering teams.
+
+This is a hands‑on, customer‑facing role suited for engineers who thrive in ambiguous environments and enjoy solving complex, high‑impact problems at scale.
+
+**Key Responsibilities**
+
+* **Customer Onboarding & Data Integration**
+
+* Lead complex enterprise customer onboarding engagements, defining onboarding strategy and execution from planning through production rollout.
+
+* Integrate multiple cybersecurity and business data sources into a unified asset and risk model, including vulnerability management, EDR/XDR, identity systems, cloud and hybrid infrastructure, penetration testing tools, CMDBs, and GRC platforms.
+
+* Design and implement integrations for custom or new data sources using REST APIs, webhooks, and scalable ingestion pipelines (e.g., S3-based ingestion).
+
+* Define and configure asset grouping, tagging, and asset criticality scoring aligned with customer business context.
+
+* Customize assets and findings data models, including transformation and mapping logic, based on source-specific characteristics and customer use cases.
+
+* Establish optimal onboarding sequencing to ensure a clean and reliable baseline for assets and findings.
+
+* Implement robust asset and findings identification, correlation, and de‑duplication logic to prevent invalid merges across heterogeneous data sources.
+
+* Ensure reliable, continuous, full and incremental data ingestion with appropriate scheduling, monitoring and error handling.
+
+* Enable customers to use ETM as a single, authoritative system of record for assets, findings, and business context.
+
+* **Data Quality & Validation**
+
+* Validate data accuracy and integrity in collaboration with customers, partners, and internal teams to support trusted risk-based analytics.
+
+* Design and maintain scalable frameworks for rapid data validation and quality assessment.
+
+* Resolve data quality issues through controlled reprocessing and configuration improvements without disrupting existing integrations or metrics.
+
+* Maintain high standards for data quality at both asset and findings levels to enable confident risk decision-making.
+
+* **Dashboards, Analytics & Risk Modeling**
+
+* Design and deliver advanced, customer-specific dashboards that surface meaningful trends and risk indicators.
+
+* Enable complex composite risk scenarios, including toxic risk combinations, with accurate and actionable outcomes.
+
+* Customize risk scoring, analytics, and visualizations to align with customer business and operational requirements.
+
+* **Response, Remediation & Reporting**
+
+* Configure scheduled alerts and automated responses using supported notification and response mechanisms.
+
+* Integrate ETM with remediation and workflow platforms such as ServiceNow, Jira, and similar systems, ensuring data consistency and reliability.
+
+* Implement ownership, assignment, and escalation of workflows aligned with customer governance models.
+
+* Build and deliver custom reports and metrics for executive, board-level, operational, and regulatory audiences.
+
+* Develop reusable utilities leveraging public APIs to support advanced reporting and analytics use cases.
+
+* **Product Feedback & Platform Evolution**
+
+* Act as a primary feedback loop between customers and ETM product and engineering teams.
+
+* Identify recurring gaps in data models, workflows, and integrations based on real-world deployments.
+
+* Influence platform roadmap priorities by translating customer needs into actionable product requirements.
+
+* Collaborate cross‑functionally with product, engineering, and customer success teams.
+
+* Support customers as they mature from visibility to prioritization, decision-making, and remediation-driven action.
+
+**Qualifications**
+
+* **Required**
+
+* Bachelor's or master's degree in computer science, Engineering, or equivalent practical experience.
+
+* 5–7 years of hands-on experience in data engineering, platform engineering, or customer-facing technical roles.
+
+* Strong programming experience in **Python, Go**, or similar languages.
+
+* Experience with REST APIs, webhooks, asynchronous systems, and scalable data ingestion pipelines (ETL/ELT).
+
+* Strong understanding of data modeling, normalization, and transformation.
+
+* Hands-on experience applying AI or automation to improve onboarding, data processing, or operational workflows.
+
+* Solid understanding of cybersecurity domains, including vulnerability management, cloud security, identity and access management, and risk frameworks.
+
+* Experience working with relational, NoSQL, search, or graph-based data platforms.
+
+* Excellent communication skills and the ability to work directly with enterprise customers.
+
+* **Preferred**
+
+* Experience in forward-deployed engineering, solutions engineering, or professional services roles.
+
+* Familiarity with large-scale, distributed systems and microservices-based architectures.
+
+* Comfort working in fast-paced, production environments with high customer impact.

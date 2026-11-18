@@ -1,0 +1,41 @@
+In most instances, this position requires in-person interviews as part of the hiring process.
+
+### **Minimum qualifications:**
+
+* Bachelor’s degree or equivalent practical experience.
+* 5 years of experience with software development in one or more programming languages.
+* 3 years of experience with full stack development, across back-end such as Java, Python, Golang, or C++ codebases, and front-end experience including JavaScript or TypeScript, HTML, CSS or equivalent.
+* Experience designing, building, and operating large-scale distributed systems, with a focus on scalability, fault tolerance, and reliability.
+* Experience with AI, Generative AI, data processing technologies, performance, or scalability optimizations.
+* Experience working with data structures or Machine Learning algorithms.
+
+  
+
+### **Preferred qualifications:**
+
+* Master's degree or PhD in Computer Science or a related technical field.
+* 3 years of experience with machine learning model serving, LLM inference, or machine learning evaluation systems.
+* Experience optimizing performance or efficiency on hardware accelerators (TPUs or GPUs) through profiling, sharding, batching, caching, or quantization.
+* Experience leading technical projects across teams from design through launch.
+* Experience with distributed systems and safe production rollout practices.
+* Ability to communicate with researchers, product teams, and leadership to make decisions.
+
+**About the job**
+-----------------
+
+Google's software engineers develop the next-generation technologies that change how billions of users connect, explore, and interact with information and one another. Our products need to handle information at massive scale, and extend well beyond web search. We're looking for engineers who bring fresh ideas from all areas, including information retrieval, distributed computing, large-scale system design, networking and data storage, security, artificial intelligence, natural language processing, UI design and mobile; the list goes on and is growing every day. As a software engineer, you will work on a specific project critical to Google’s needs with opportunities to switch teams and projects as you and our fast-paced business grow and evolve. We need our engineers to be versatile, display leadership qualities and be enthusiastic to take on new problems across the full-stack as we continue to push technology forward.
+
+Join Google Search AI and work at the intersection of industry leading
+  
+global scale. We apply breakthrough research, leveraging models like Gemini, to launch high-impact products that help billions ask any question and get things done. If you want to drive the future of AI in Search and work with world-class experts to deliver tangible, global impact and continuous innovation, this is the place.
+
+**Responsibilities**
+--------------------
+
+* Make models fast and cheap by picking speculative decoding, prefix caching, sharding, and quantization bets, proving them with load tests and live experiments, and landing them.
+* Get to know every new Gemini revision better than its release notes do, analyze what changed in its architecture, behaviour, and cost to turn that into a serving topology that gets the most quality out of every TPU chip.
+* Build the guardrails that let us move fast without breaking Search: configure checks, pre-submits, monitor and fast rollback, fix the root cause, not just the alert.
+* Qualify new checkpoints, shape evaluation and autorater strategy, and explain why the new revision is suddenly slower, and what steps needs to be taken to improve it.
+* Write the design documentation people read, and raise the bar in design and code reviews.
+
+Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also Google's EEO Policy and EEO is the Law. If you have a disability or special need that requires accommodation, please let us know by completing our Accommodations for Applicants form.

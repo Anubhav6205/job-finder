@@ -1,0 +1,80 @@
+Date live: 11/18/2026
+
+Business Area: Markets Post Trade
+
+Area of Expertise: Technology
+
+Contract: Permanent
+
+Reference Code: JR-0000131303
+
+  
+
+Join us as a “Collateral Store - Software Engineer" at Barclays, where you'll spearhead the evolution of our digital landscape, driving innovation and excellence. You'll harness cutting-edge technology to revolutionise our digital offerings, ensuring unapparelled customer experiences.
+  
+  
+You may be assessed on the key critical skills relevant for success in role, such as experience with, skills to meet business requirement as well as job-specific skillsets.
+
+To be successful as a “Collateral Store - Software Engineer ", you should have experience with:
+
+**Basic/ Essential Qualifications:**
+
+* Strong experience designing, developing, and maintaining large-scale enterprise applications using .NET/C#, Python, SQL Server, MongoDB, microservices and REST APIs.
+* Strong understanding of software engineering principles, design patterns, scalable architecture, secure coding and automated testing.
+* Experience developing unit/integration tests and maintaining high standards of code quality and engineering maturity.
+* Strong AWS Cloud experience, including services such as EC2, ECS, S3, Lambda, RDS, KMS, ELB, SNS, SQS and IAM.
+* Experience with Cloud Architecture, Infrastructure as Code(Terraform/CloudFormation), automation and CI/CD using tools such as Jenkins, Bitbucket or GitLab.
+* Programming and scripting experience with C#, Python, Java, Bash and/or PowerShell.
+* Good understanding of AI, Generative AI and Large Language Models (LLMs), with experience integrating GenAI capabilities into enterprise applications.
+* Understanding of RAG, prompt engineering, embeddings/vector search and AI agents/agentic workflows, preferably using platforms such as Azure OpenAI or AWS Bedrock.
+* Knowledge of Responsible AI and GenAI security, including data privacy, access controls, prompt injection, hallucination management, guardrails and human oversight.
+* Experience with AI-assisted development tools such as GitHub Copilot for code development, testing, documentation, troubleshooting and developer productivity.
+* Ability to design AI solutions considering accuracy, security, scalability, performance, observability and cost for production environments.
+* Strong problem-solving, communication and collaboration skills, with experience working across business, product and technology teams in an Agile/Scaled Agile environment.
+  
+
+  
+
+**Desirable skillsets/ good to have:**
+
+* Financial services knowledge in Investment banking and collateral management.
+* Industry best practices in Architectural methodologies and standards.
+* Excellent communication and stakeholder management skills.
+* Strong problem-solving and analytical abilities.
+* Ability to mentor and guide junior team members.
+* Collaborative mindset with a focus on team success.
+  
+
+  
+
+This role is based out of Pune.
+
+**Purpose of the role**
+
+To design, develop and improve software, utilising various engineering methodologies, that provides business, platform, and technology capabilities for our customers and colleagues.
+
+**Accountabilities**
+
+* Development and delivery of high-quality software solutions by using industry aligned programming languages, frameworks, and tools. Ensuring that code is scalable, maintainable, and optimized for performance.
+* Cross-functional collaboration with product managers, designers, and other engineers to define software requirements, devise solution strategies, and ensure seamless integration and alignment with business objectives.
+* Collaboration with peers, participate in code reviews, and promote a culture of code quality and knowledge sharing.
+* Stay informed of industry technology trends and innovations and actively contribute to the organization’s technology communities to foster a culture of technical excellence and growth.
+* Adherence to secure coding practices to mitigate vulnerabilities, protect sensitive data, and ensure secure software solutions.
+* Implementation of effective unit testing practices to ensure proper code design, readability, and reliability.
+
+**Assistant Vice President Expectations**
+
+* To advise and influence decision making, contribute to policy development and take responsibility for operational effectiveness. Collaborate closely with other functions/ business divisions.
+* Lead a team performing complex tasks, using well developed professional knowledge and skills to deliver on work that impacts the whole business function. Set objectives and coach employees in pursuit of those objectives, appraisal of performance relative to objectives and determination of reward outcomes
+* If the position has leadership responsibilities, People Leaders are expected to demonstrate a clear set of leadership behaviours to create an environment for colleagues to thrive and deliver to a consistently excellent standard. The four LEAD behaviours are: L – Listen and be authentic, E – Energise and inspire, A – Align across the enterprise, D – Develop others.
+* OR for an individual contributor, they will lead collaborative assignments and guide team members through structured assignments, identify the need for the inclusion of other areas of specialisation to complete assignments. They will identify new directions for assignments and/ or projects, identifying a combination of cross functional methodologies or practices to meet required outcomes.
+* Consult on complex issues; providing advice to People Leaders to support the resolution of escalated issues.
+* Identify ways to mitigate risk and developing new policies/procedures in support of the control and governance agenda.
+* Take ownership for managing risk and strengthening controls in relation to the work done.
+* Perform work that is closely related to that of other areas, which requires understanding of how areas coordinate and contribute to the achievement of the objectives of the organisation sub-function.
+* Collaborate with other areas of work, for business aligned support areas to keep up to speed with business activity and the business strategy.
+* Engage in complex analysis of data from multiple sources of information, internal and external sources such as procedures and practises (in other areas, teams, companies, etc).to solve problems creatively and effectively.
+* Communicate complex information. 'Complex' information could include sensitive information or information that is difficult to communicate because of its content or its audience.
+* Influence or convince stakeholders to achieve outcomes.
+
+All colleagues will be expected to demonstrate the Barclays Values of Respect, Integrity, Service, Excellence and Stewardship – our moral compass, helping us do what we believe is right. They will also be expected to demonstrate the Barclays Mindset – to Empower, Challenge and Drive – the operating manual for how we behave.

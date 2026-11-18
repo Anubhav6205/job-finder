@@ -1,0 +1,46 @@
+Dodge Construction Network (Dodge) is looking for a seasoned, hands-on python and database developer with systems design and architecture exposure to work in our highly technical and intense development team.
+
+This is a full-time position and reports directly to the VP, Engineering.
+
+***Preferred Location***
+
+Qualified candidates should be based in or near Kochi and able to work from our Kochi office as part of a hybrid schedule.
+
+***Essential Functions***
+
+* **Design and develop backend systems** — Build scalable, reliable, and maintainable server-side applications, APIs, and services
+* **Develop and maintain APIs** — Design, implement, document, and optimize RESTful, GraphQL, or other service interfaces
+* **Manage databases and data systems** — Design schemas, write efficient queries, manage data integrity, and optimize database performance
+* **Ensure system scalability and reliability** — Identify bottlenecks and implement solutions for performance, availability, fault tolerance, and high traffic
+* **Troubleshoot and resolve production issues** — Diagnose complex bugs, outages, and performance problems and implement durable fixes
+* **Drive continuous technical improvement** — Identify opportunities to improve architecture, development processes, automation, security, observability, and engineering efficiency
+
+***Education Requirement***
+
+Bachelor’s degree in a related field or equivalent education and work experience.
+
+***Required Experience, Knowledge and Skills***
+
+* 8-10+ years of professional software development experience
+* Strong proficiency in Python and SQL database (Postgres/Oracle) development
+* Strong system design and architecture experience working in distributed systems
+* Proven experience designing and developing secure, scalable RESTful APIs
+* Solid experience working with AWS services (Lambda, API Gateway, S3, DynamoDB, RDS, Cognito, etc.)
+* Familiarity with infrastructure-as-code tools (CloudFormation, Terraform, CDK)
+* Understanding of event-driven architectures (SNS, SQS, EventBridge, etc.)
+* Strong Experience working with relational (must) and NoSQL databases (preferred)
+* Strong understanding of SDLC, Agile methodologies, and DevOps pipelines.
+* Must have worked with AI-assisted development tools (claude, copilot, codex, etc)
+
+***Preferred Experience, Knowledge and Skills***
+
+* Familiarity with data lakes, data warehouses, and analytics platforms on AWS
+* Familiarity with front-end technologies (React, Angular, Vue.js)
+* Experience with observability tools (CloudWatch, Datadog, Splunk, etc.)
+* Knowledge of containerization (Docker, ECS, Kubernetes)
+
+***About Dodge Construction Network***
+
+Dodge Construction Network exists to deliver the comprehensive data and connections the construction industry needs to build thriving communities. Our legacy is deeply rooted in empowering our customers with transformative insights, igniting their journey towards unparalleled business expansion and success. We serve decision-makers who seek reliable growth and who value relationships built on trust and quality. By combining our proprietary data with cutting-edge software, we deliver to our customers the essential intelligence needed to excel within their respective landscapes. We propel the construction industry forward by transforming data into tangible guidance, driving unparalleled advancement.
+
+Dodge is the catalyst for modern construction.

@@ -1,0 +1,44 @@
+**Experience**
+· 3–5 years
+
+**Employment type**
+· Full-time
+
+Build and run LLM-powered applications that turn real business workflows into reliable AI agents. You’ll own the work from design and development through deployment and production monitoring.
+
+Key Responsibilities
+
+* Build stateful AI agents using
+  **LangChain and LangGraph**
+  , with tool calling, conditional routing, checkpointing, and human approvals.
+* Develop
+  **RAG pipelines**
+  for document ingestion, chunking, embeddings, retrieval, and reranking.
+* Build and test async
+  **FastAPI**
+  services with streaming responses and structured outputs.
+* Set up LLM evaluations, tracing, and guardrails. Monitor latency, failures, and token costs in production.
+* Deploy and maintain services using
+  **Docker, CI/CD, and cloud infrastructure**
+  .
+
+Required Skills & Experience
+
+* **3–5 years**
+  of professional software development experience, with strong production-level Python skills.
+* **1–2 years**
+  of hands-on experience building and shipping LLM-powered applications to real users.
+* Hands-on experience with
+  **LangChain and LangGraph**
+  , including stateful workflows, checkpointing, and tool calling.
+* Strong
+  **FastAPI**
+  skills, including async programming, Pydantic, authentication, and streaming. Experience writing unit and integration tests with
+  **pytest**
+  .
+* Practical experience with
+  **RAG**
+  , at least one vector database, and LLM provider APIs for tool calling and structured outputs.
+* Working knowledge of
+  **Docker, Git, CI/CD**
+  , and at least one major cloud platform (AWS, Azure, or GCP).

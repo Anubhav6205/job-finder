@@ -1,0 +1,85 @@
+Meet the Team
+  
+Cisco’s Customer Experience (CX) organization is one of the company's fastest-growing and most innovative teams, crafting a first-in-class digital experience for our customers and partners everywhere they connect with Cisco. CX Platform is a platform-centric to support the diverse requirements of the CX organization and is being built with emerging technologies including predictive AI and generative AI to drive additional customer success. We are at the epicenter of developing modern, cloud-native technologies that allow us to stay agile and adaptable in a constantly evolving market. Pioneers in our field, CX enables customers to maximize value with a simple, unified Cisco experience, driving accelerated time to impact. We deliver on time with high quality& urgency, and we drive decisions with data and transparency while leading with ownership& accountability.   
+  
+Your Impact
+  
+Cisco CX Engineering is seeking a Software Development Engineer to drive innovation and develop solutions for customer’s most pressing usecase with a focus on incorporating AI and ML. This role requires deep technical expertise in network automation, full-stack development, and applicable AI use-cases.
+  
+  
+**Key Responsibilities: Application Development:**  
+
+* Design, develop, and maintain scalable software applications across the full stack (front-end, back-end, and integration layers).
+* Architect and develop robust systems with an emphasis on scalability, reliability, and performance.
+
+**AI/ML Integration:**  
+
+* Incorporate AI and ML-driven features into product solutions, ensuring real-world applicability and responsible AI practices.
+
+**Collaboration& Process:**  
+
+* Work closely with UX/UI designers, product managers, and fellow engineers to deliver high-quality products.
+* Participate in agile ceremonies, sprint planning, and CI/CD pipeline management.
+
+**Quality& Security:**  
+
+* Conduct thorough code reviews, automated testing, and maintain comprehensive documentation.
+* Ensure adherence to security best practices, code quality, and maintainability standards.
+
+**Minimum Qualifications:**  
+
+* Bachelor’s degree with 0-2+ years of related experience, or Master’s degree with 0-2+ years of related experience, or PhD with 0+ years of related experience.
+* Experience with one or more of the following: Golang, Python, Pytest, SQL (preferably PostgreSQL), Angular, JavaScript, or TypeScript.
+* Experience with one or more of the following: microservices, Kubernetes, containerization, virtualization, or cloud platforms such as AWS, Azure, or GCP.
+* Experience integrating AI features (AI-assisted code generation), event-driven architecture (Apache Kafka) and real-time data pipelines.
+* Experience with RESTful API design, API security, or hierarchical and relational data modeling.
+
+Preferred Qualifications
+  
+  
+
+* Experience with DevOps tools and practices such as Jenkins or GitHub Actions.
+* Experience with Git, system design, or application performance optimization.
+* Experience with testing, debugging, and technical documentation.
+* Experience with secrets management tools such as HashiCorp Vault or object storage platforms such as MinIO or Amazon S3.
+* Problem-solving, communication, and customer-facing delivery skills.
+
+#WeAreCisco (This is the Standard and cannot be changed)
+  
+#WeAreCisco where every individual brings their unique skills and perspectives together to pursue our purpose of powering an inclusive future for all.
+  
+  
+Our passion is connection—we celebrate our employees’ diverse set of backgrounds and focus on unlocking potential. Cisconians often experience one company, many careers where learning and development are encouraged and supported at every stage. Our technology, tools, and culture pioneered hybrid work trends, allowing all to not only give their best, but be their best.
+  
+  
+We understand our outstanding opportunity to bring communities together and at the heart of that is our people. One-third of Cisconians collaborate in our 30 employee resource organizations, called Inclusive Communities, to connect, foster belonging, learn to be informed allies, and make a difference. Dedicated paid time off to volunteer—80 hours each year—allows us to give back to causes we are passionate about, and nearly 86% do!
+  
+  
+Our purpose, driven by our people, is what makes us the worldwide leader in technology that powers the internet. Helping our customers reimagine their applications, secure their enterprise, transform their infrastructure, and meet their sustainability goals is what we do best. We ensure that every step we take is a step towards a more inclusive future for all. Take your next step and be you, with us!
+  
+  
+Why Cisco?
+  
+  
+At Cisco, we’re revolutionizing how data and infrastructure connect and protect organizations in the AI era – and beyond. We’ve been innovating fearlessly for 40 years to create solutions that power how humans and technology work together across the physical and digital worlds. These solutions provide customers with unparalleled security, visibility, and insights across the entire digital footprint.
+  
+Fueled by the depth and breadth of our technology, we experiment and create meaningful solutions. Add to that our worldwide network of doers and experts, and you’ll see that the opportunities to grow and build are limitless. We work as a team, collaborating with empathy to make really big things happen on a global scale. Because our solutions are everywhere, our impact is everywhere.
+  
+We are Cisco, and our power starts with you.
+  
+  
+Disclaimer
+  
+To ensure that we hire the best talent in the right way, we follow a strict hiring process and recently, Cisco has been made aware of fraudulent recruiters claiming to be from the company. Please be advised that any communication from Cisco about careers will:
+  
+  
+
+* be in direct response to an application you have submitted through the company career site
+* begin with screening or an interview
+* originate from a Cisco email address, and
+* be conducted across email, phone, or WebEx
+
+Cisco will never make a job offer without conducting an interview process or ask you for money in any way. If you have been requested to apply for a role or have received an offer from a site other thanhttps://careers.cisco.com orcisco.wd5.myworkday.com, do not provide any personal identifying information, including your Aadhaar or other personal identifying number, birth certificate, banking information, driver's license, or passport.
+  
+  
+If you are the target of a recruiting scam, consider filing a report with your local law enforcement authorities. Cisco bears no responsibility, and cannot be held liable, for any claims, damages, expenses, or other inconvenience resulting from or in any way connected to recruiting scams.

@@ -1,0 +1,32 @@
+**Band E: AI Engineer (Software Engineer)**
+
+**Role Responsibilities**
+
+* Develop, test and maintain backend applications and services using **Java, Spring Boot and REST APIs**, following established software engineering standards and architectural patterns.
+* Build and enhance microservices and application components supporting AI/ML-enabled business capabilities.
+* Implement API integrations and backend services that connect enterprise applications with AI/ML models and inference services.
+* Work closely with senior engineers, data scientists and ML engineers to translate functional and technical requirements into working software solutions.
+* Develop and maintain Java and Python code, ensuring correctness, readability, performance and maintainability.
+* Support the deployment and integration of AI/ML capabilities into applications running on **Google Cloud Platform (GCP)**.
+* Apply software engineering practices including unit testing, integration testing, version control, code reviews and CI/CD.
+* Participate in application monitoring, troubleshooting, defect resolution and production support activities.
+* Follow established security, performance, reliability and operational standards when developing software components.
+* Contribute to technical documentation, knowledge sharing and continuous improvement of engineering practices.
+* Develop an understanding of AI/ML concepts, model inference, data flows and cloud-based AI services.
+* Support data integration and transformation activities where required, leveraging an understanding of SQL and data engineering fundamentals.
+
+**Core Skills**
+
+* **Java, Spring Boot/Quarkus, Microservices, REST APIs** and Design Patterns
+* **Python and Machine Learning fundamentals**
+* **AI/ML Model Integration and Deployment, Generative AI, LLMs and AI integration frameworks**
+* GCP, CI/CD, Git, Automated Testing
+* SQL and Database Fundamentals
+
+**Additional / Desirable Skills**
+
+* Data Engineering fundamentals
+* BigQuery and DBT
+* Data ingestion and transformation pipelines
+* Docker and Kubernetes
+* Exposure to ML model deployment and MLOps

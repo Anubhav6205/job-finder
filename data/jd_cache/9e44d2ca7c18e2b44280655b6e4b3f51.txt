@@ -1,0 +1,34 @@
+**Job Summary:**  
+APL is looking for a motivated software developer to be part of APL's journey in India and help build high-quality web applications. You'll work alongside senior engineers on full stack development using .NET and React.
+
+**Required Skills**
+
+* Strong hands-on experience with **C#, .NET Core and/or .NET Framework and ASP.NET Web API** web application development
+* Experience with **SQL Server**, including writing queries, stored procedures, and basic database design
+* Experience developing front ends with React, TypeScript, and JavaScript
+* Regular use of source control (GitLab / GitHub)
+* Good communication and teamwork skills
+
+**Desired Skills**
+
+* Familiarity of using AI tools for Coding.
+* Experience with CI/CD pipelines and automated testing
+* Familiarity with GitLab for issue tracking and source control
+
+**Qualifications**
+
+* Bachelor's or Master's degree in Computer Science or equivalent
+* Minimum 3 years of relevant experience in the above technologies
+
+Pay: ₹1,200,000.00 - ₹1,400,000.00 per year
+
+Benefits:
+
+* Flexible schedule
+* Health insurance
+* Leave encashment
+* Paid sick time
+* Paid time off
+* Provident Fund
+
+Work Location: In person

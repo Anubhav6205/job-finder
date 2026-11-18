@@ -1,0 +1,37 @@
+Amazon Bedrock & Connect
+
+Role Overview
+
+We are looking for a hands-on Forward Deployed Engineer to design, develop, test, and deploy intelligent contact center solutions using Amazon Connect, Amazon Bedrock, and Agentic AI. The role combines strong software engineering, test automation, cloud architecture, and cross-functional collaboration to deliver production-ready AI solutions.
+
+**Core Responsibilities**
+
+Amazon Connect: Design and implement conversational chat and voice solutions, contact flows, intelligent routing, and human-agent handoffs.
+
+Agentic AI: Develop AI-powered experiences using Amazon Bedrock, AI agents, RAG, knowledge bases, and enterprise integrations.
+
+Full-Stack Engineering: Build scalable applications and APIs using Python, Node.js, React, AWS Lambda, API Gateway, and DynamoDB.
+
+Test Automation: Develop and maintain end-to-end automated tests using Playwright, covering UI interactions, API integrations, conversational AI workflows, and regression testing.
+
+* Strong hands-on experience with Playwright for test automation, framework development, and script maintenance.
+* Proficiency in JavaScript/TypeScript and modern web application testing practices.
+* Experience in designing and implementing AI/GenAI solutions, including prompt engineering, LLM integrations, AI agents, and automation use cases.
+
+Enterprise Integration: Integrate contact center and AI capabilities with customer portals, CRM platforms, and backend systems, ensuring secure authentication and authorization.
+
+Production Engineering: Own CI/CD, automated testing, observability, troubleshooting, performance optimization, and production deployments.
+
+Forward Deployment: Collaborate with stakeholders, translate business needs into working solutions, and drive delivery from prototype to production.
+
+* Undergraduate degree or equivalent experience.
+
+**Required Skills**
+
+Strong hands-on expertise in Amazon Connect, Amazon Bedrock, Python/Node.js, React, Playwright, REST APIs, and AWS cloud-native services. Experience with conversational AI, agentic workflows, automated testing frameworks, and enterprise integrations is preferred.
+
+**Careers with Optum.** Here's the idea. We built an entire organization around one giant objective; make the health system work better for everyone. So when it comes to how we use the world's large accumulation of health-related information, or guide health and lifestyle choices or manage pharmacy benefits for millions, our first goal is to leap beyond the status quo and uncover new ways to serve. Optum, part of the UnitedHealth Group family of businesses, brings together some of the greatest minds and most advanced ideas on where health care has to go in order to reach its fullest potential. For you, that means working on high performance teams against sophisticated challenges that matter. Optum, incredible ideas in one incredible company and a singular opportunity to do **your life's best work.****SM**
+
+Diversity creates a healthier atmosphere: UnitedHealth Group is an Equal Employment Opportunity/Affirmative Action employer and all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, age, national origin, protected veteran status, disability status, sexual orientation, gender identity or expression, marital status, genetic information, or any other characteristic protected by law.  
+  
+UnitedHealth Group is a drug-free workplace. Candidates are required to pass a drug test before beginning employment.

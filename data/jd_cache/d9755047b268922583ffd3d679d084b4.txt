@@ -1,0 +1,188 @@
+### **Basic Information**
+
+Job Name
+
+Product Developer III - India
+
+Country
+
+India
+
+State
+
+IN\_Maharashtra
+
+City
+
+Pune
+
+Date Published
+
+16-Nov-2026
+
+Job ID
+
+47840
+
+Travel
+
+You may occasionally be required to travel for business
+
+Looking for details about our benefits?
+
+### **Description and Requirements**
+
+CareerArc Code
+
+CA-SB
+
+Hybrid: #LI-Hybrid
+
+BMC empowers nearly 80% of the Forbes Global 100 to accelerate business value, faster than humanly possible. Our industry-leading portfolio unlocks human and machine potential to drive business growth, innovation, and sustainable success. BMC does this in a simple and optimized way by connecting people, systems, and data that power the world’s largest organizations so they can seize a competitive advantage.
+
+We are looking for a Senior Product Security Engineer to make security the default way of working across BMC’s engineering teams. You will be the go-to security partner for product teams, helping them build secure products from design through release by providing secure patterns, practical guidance, and automated guardrails in the SDLC. Beyond threat modeling and security reviews, you will drive vulnerability and supply chain risk management, secure our AI-enabled and agentic features, and raise the overall security maturity of the organization through training, tooling, and community engagement.
+
+We are looking for a Senior Product Security Engineer to make security the default way of working across BMC’s engineering teams.
+  
+  
+**Here is how, through this exciting role, YOU will contribute to BMC's and your own success:**
+  
+  
+
+* Serve as senior security SME for engineering by supporting secure architecture, security requirements, and design reviews
+
+* Lead threat modeling including abuse and misuse cases for AI-enabled and agentic features
+
+* Secure coding guidance for Java and JavaScript, manual and automated code review, including review of AI-assisted and agent-generated code
+
+* Triage and validate findings from SAST, SCA, DAST, Container Scanning and secrets scanning, separating signal from noise and driving fixes to closure and tuning or retiring rules that produce more noise than value
+
+* Hands-on security assessments and white-box testing of services, APIs, and multi-tenant boundaries
+
+* Author the secure design patterns, guidance, and reusable components that engineering teams build against by default
+
+* Build and improve automation and guardrails in our existing scanning pipelines including SAST, SCA, Container scanning and other automation in place
+
+* Use AI and LLM tooling to scale security work by finding triage, code review, test generation, remediation guidance — with human verification of the output
+
+* Maintain and tune the existing security toolchain, evaluate and pilot new tooling, bringing a clear technical recommendation when it is time to adopt or drop something
+
+* Drive innovation and maturity in the SDLC with new toolsets and automation for the AI Augmented SDLC
+
+* Track coverage, false-positive rate, time to remediate, and act on what they show
+
+* Review LLM and agent-backed features for prompt injection, excessive agency and data leakage
+
+* Maintain clear security guidelines and controls for agentic code contributions, ensuring code review standards, proper attribution, and appropriate access safeguards
+
+* Implement safeguards that detect and block unapproved or malicious changes introduced by AI agents
+
+* Apply references such as the OWASP Top 10 for LLM Applications and MITRE ATLAS as practical engineering checklists against real attack paths and write our own guidance wherever necessary
+
+* Maintain supply chain integrity through SBOM accuracy, build provenance, and artifact signing
+
+* Drive risk-based vulnerability prioritization using reachability, exploitability, and EPSS against agreed SLAs
+
+* Serve as technical lead during PSIRT response for significant product vulnerabilities
+
+* Support customer-facing vulnerability communications and drive the systemic fixes that prevent recurrence
+
+* Develop and deliver training, run office hours and threat modeling workshops, and support security champions program
+
+* Maintain expertise in application security, emerging threat vectors, and attacker tradecraft and improve standards accordingly
+
+* Represent BMC’s security practice externally through customer conversations, written content, and conference or community participation
+
+  
+
+**To ensure you’re set up for success, you will bring the following skillset & experience:**
+  
+  
+
+* 6+ years in application or product security engineering with substantial security ownership
+
+* Hands-on experience on Penetration tests, source code reviews and threat modeling or other risk identification techniques
+
+* Strong knowledge of application security testing tools across SAST, SCA, DAST, secrets, IaC and a clear-eyed view of what each one does and doesn't catch
+
+* Deep understanding of the OWASP Top 10 for web, APIs and AI/LLM, including avoidance and remediation techniques, and the ability to explain real exploitability to an engineer
+
+* Knowledge of secure coding practices in Java and/or JavaScript able to read code fluently and submit remediation pull requests
+
+* Experience remediating complex enterprise-level security issues end to end
+
+* Working knowledge of cloud environments (ideally AWS and Azure) and CI/CD pipelines
+
+* A working understanding of how LLM-based features and AI coding assistants change the risk picture and the curiosity to go deeper
+
+* Strong analytical and problem-solving skills
+
+* Strong verbal and written communication skills, with both engineering and non-engineering audiences
+
+  
+  
+
+**Preferred Skills:**
+
+  
+
+* Knowledge of microservices, event-driven architecture & complex structures
+
+* Experience securing or red teaming AI, ML, or agentic systems
+
+* Penetration testing, CTF experience, a hacker's mindset
+
+* Relevant certifications such as OSCP, OSCE, CRTP, GPEN, GXPN, CSSLP, CISSP, or equivalent security credentials.
+
+**Our commitment to you!**
+
+  
+
+BMC’s culture is built around its people. We have 6000+ brilliant minds working together across the globe. You won’t be known just by your employee number, but for your true authentic self. BMC lets you be YOU!
+
+  
+  
+
+If after reading the above, You’re unsure if you meet the qualifications of this role but are deeply excited about BMC and this team, we still encourage you to apply! We want to attract talents from diverse backgrounds and experience to ensure we face the world together with the best ideas!
+
+  
+
+BMC is committed to equal opportunity employment regardless of race, age, sex, creed, color, religion, citizenship status, sexual orientation, gender, gender expression, gender identity, national origin, disability, marital status, pregnancy, disabled veteran or status as a protected veteran. If you need a reasonable accommodation for any part of the application and hiring process, visit the accommodation request page.
+
+BMC Software maintains a strict policy of not requesting any form of payment in exchange for employment opportunities, upholding a fair and ethical hiring process.
+
+At BMC we believe in pay transparency and have set the midpoint of the salary band for this role at 2,841,000 INR. Actual salaries depend on a wide range of factors that are considered in making compensation decisions, including but not limited to skill sets; experience and training, licensure, and certifications; and other business and organizational needs.
+
+  
+  
+
+The salary listed is just one component of BMC's employee compensation package. Other rewards may include a variable plan and country specific benefits.
+
+  
+  
+
+We are committed to ensuring that our employees are paid fairly and equitably, and that we are transparent about our compensation practices.
+
+(**Returnship@BMC**)
+
+Had a break in your career? No worries. This role is eligible for candidates who have taken a break in their career and want to re-enter the workforce. If your expertise matches the above job, visit to https://bmcrecruit.avature.net/returnship know more and how to apply.
+
+Min salary
+
+2,130,750
+
+Mid point salary
+
+2,841,000
+
+Max salary
+
+3,551,250
+
+Min Salary - NEW
+
+2,130,750
+
+Max Salary - NEW
+
+3,551,250

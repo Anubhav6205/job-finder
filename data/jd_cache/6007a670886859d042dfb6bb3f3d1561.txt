@@ -1,0 +1,41 @@
+**Role & responsibilities**
+
+  
+
+**Roles & Responsibilities Senior SAP ABAP Developer / SAP Technical Consultant**
+
+You can use these responsibilities to understand the requirement and identify relevant profiles on Naukri.
+
+1. **SAP ABAP Development:** Design, develop, enhance and maintain custom SAP ABAP programs in SAP ECC 6.0 environment.
+
+2. **Reports Development:** Develop classical reports, ALV reports and custom reporting solutions using ABAP.
+
+3. **Enhancement Development:** Work on User Exits, Customer Exits, BADIs, Enhancement Points and BTEs to extend standard SAP functionality.
+
+4. **Interface Development:** Develop and maintain interfaces using IDocs, EDI, ALE, RFCs, BAPIs and ABAP Proxy.
+
+5. **Forms Development:** Design, develop and maintain Adobe Forms and SAP SmartForms.
+
+6. **SAP Module Integration:** Support technical development and enhancements across SAP SD, MM, PP, FI/CO and FSCM modules.
+
+7. **Production Support:** Troubleshoot SAP issues, perform debugging, identify root causes and provide technical solutions.
+
+8. **Performance Optimization:** Analyze ABAP programs, optimize code performance and ensure development follows SAP coding standards.
+
+9. **SAP ECC Support:** Maintain and enhance a mature, customized SAP ECC 6.0 landscape.
+
+10. **SAP Solution Manager:** Manage transports, change requests and development lifecycle activities using SAP Solution Manager.
+
+11. **Modern SAP Technologies:** Work with or support OData, CDS Views, ABAP on HANA, Web Services and S/4HANA technologies.
+
+12. **Technical Design:** Understand business requirements, prepare technical specifications and assess upstream/downstream process impacts.
+
+13. **Agile & SDLC:** Participate in Agile/Scrum ceremonies, development planning, testing and deployment activities.
+
+14. **Code Quality:** Conduct code reviews, follow development best practices and ensure quality deliverables.
+
+15. **Team Leadership:** Mentor junior developers, provide technical guidance, review deliverables and collaborate with cross-functional teams.
+
+16. **Stakeholder Management:** Coordinate with US-based business and technical stakeholders and provide timely updates.
+
+17. **Shift Requirements:** Work in a consistent night shift aligned with Salt Lake City, US Mountain Time business hours.

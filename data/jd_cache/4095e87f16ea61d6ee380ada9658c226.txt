@@ -1,0 +1,37 @@
+**Role & responsibilities**
+
+* Design, develop, implement, and deploy Agentic AI applications and autonomous AI workflows.
+* Build production-ready Generative AI and LLM-powered applications.
+* Develop scalable backend services using Python or TypeScript.
+* Design and integrate RESTful APIs, GraphQL APIs, and microservices.
+* Build LLM workflows using LangChain, LlamaIndex, or similar orchestration frameworks.
+* Implement prompt-engineering techniques such as zero-shot prompting, few-shot prompting, chain-of-thought, structured outputs, and function/tool calling.
+* Integrate vector databases such as Pinecone, ChromaDB, FAISS, or Weaviate.
+* Work with embeddings, transformers, NLP pipelines, retrieval mechanisms, and contextual data.
+* Deploy AI applications using AWS Bedrock, SageMaker, Google Vertex AI, Azure OpenAI, or similar cloud platforms.
+* Monitor, troubleshoot, and optimize Agentic AI and LLM applications for performance, accuracy, reliability, and scalability.
+* Implement version control and deployment workflows using Git and CI/CD pipelines.
+* Create clear technical documentation for application architecture, AI workflows, APIs, and deployment processes.
+* Collaborate with engineering, product, data, and business stakeholders.
+* Apply Machine Learning algorithms to solve real-world problems.
+* Perform feature engineering and data preprocessing to prepare data for model development.
+* Evaluate Machine Learning models, perform hyperparameter tuning, and optimize model performance.
+* Apply ensemble learning techniques and deep learning approaches where appropriate.
+
+  
+  
+
+**Preferred candidate profile**
+
+* Experience developing multi-agent systems or agent orchestration workflows.
+* Hands-on experience with RAG architectures and enterprise knowledge assistants.
+* Experience with agent frameworks such as LangGraph, AutoGen, CrewAI, or Semantic Kernel.
+* Knowledge of agent memory, planning, reasoning, tool usage, and human-in-the-loop workflows.
+* Experience implementing LLM evaluation, observability, guardrails, and responsible AI controls.
+* Familiarity with Docker, Kubernetes, serverless architecture, and cloud-native deployments.
+* Experience optimizing LLM applications for latency, token usage, reliability, and cost.
+* Exposure to fine-tuning, model selection, and AI application security.
+
+  
+
+**Perks and benefits**

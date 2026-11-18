@@ -1,0 +1,127 @@
+Closing date for applications: 24/11/2026
+
+Location Bangalore, India
+
+Job typePermanent | Contract typeFull Time
+
+#R-00287384
+
+  
+
+**Join our digital revolution in NatWest Digital X**
+----------------------------------------------------
+
+In everything we do, we work to one aim. To make digital experiences which are effortless and secure.
+
+So we organise ourselves around three principles: engineer, protect, and operate. We engineer simple solutions, we protect our customers, and we operate smarter.
+
+**Job description**
+-------------------
+
+This role is based in India and as such all normal working days must be carried out in India.
+
+Join us as a Gen AI Product Engineer
+
+  
+  
+
+* In this key role, you’ll be responsible for designing, building, and scaling Generative AI (GenAI)-powered products and features that deliver tangible business value
+* We’ll look to you to bridge product thinking and engineering execution, translating user needs into robust, production-ready AI solutions while driving innovation in the application of GenAI capabilities
+* This is an opportunity to design and deliver production-grade GenAI solutions, including AI agents, conversational AI, and automation, with a focus on scalability, reliability, and performance
+* We're offering this role at vice president level
+  
+
+  
+
+**What you'll do**
+------------------
+
+  
+  
+
+As a Gen AI Product Engineer, you'll design, build, and deploy production-grade GenAI products and systems that turn user and business needs into secure, scalable, and reliable solutions. You'll also translate product and user requirements into scalable technical solutions, balancing model quality, latency, system complexity, and long-term maintainability, while building and integrating large language model (LLM) capabilities using modern frameworks and application programming interfaces (APIs).
+
+This will include working across orchestration layers, retrieval pipelines, system integrations, prompt and context engineering, and model evaluation.
+
+  
+  
+
+You'll also be:
+
+  
+  
+
+* Converting ambiguous product requirements and research concepts into robust technical architectures, balancing model capability, latency, cost, complexity, and maintainability
+* Ensuring all GenAI solutions meet enterprise security, governance, responsible AI, and risk management standards, with appropriate controls, escalation, and mitigation built into delivery
+* Developing and operating LLM solutions, including Retrieval-Augmented Generation (RAG) pipelines, agent workflows, orchestration, prompt and content engineering, and model integration patterns
+* Integrating GenAI capabilities into existing platforms through internal APIs, services, event flows, and data pipelines, ensuring resilience, observability, and maintainability in production environments
+* Defining and applying approaches to model evaluation, benchmarking, monitoring, and continuous optimisation to improve quality, accuracy, reliability, and user outcomes
+* Identifying and managing real-world AI system failure modes, including hallucinations, retrieval failures, tool-call errors, degraded model performance, and unsafe or non-compliant outputs
+* Supporting production operations, including service monitoring, incident response, root-cause analysis, and on-call responsibilities where required for business-critical GenAI systems
+  
+
+  
+
+**The skills you'll need**
+--------------------------
+
+  
+  
+
+We're looking for someone with proven experience designing, building, and operating production-grade GenAI software systems, with strong capabilities in Python, front-end design frameworks, distributed systems, API design, cloud-native engineering, observability, and performance-critical workloads. You should also bring experience translating ambiguous research concepts, emerging AI capabilities, user needs, and product requirements into secure, scalable, and maintainable production systems within fast-moving product or research-led environments.
+
+  
+
+To succeed in this role, you'll need experience delivering GenAI or LLM-powered products beyond the prototype stage, including self-hosted model inference with frameworks such as vLLM, OpenAI-compatible serving patterns, orchestration layers, software development kit integration, and production systems. You must also bring a practical understanding of LLM application architecture, including prompt and context engineering, embeddings, vector search, RAG pipelines, agent workflows, tool-calling patterns, memory and context management, and the mitigation of real-world AI system failure modes.
+
+  
+  
+
+You'll also demonstrate:
+
+  
+  
+
+* An understanding of model training, fine-tuning, adaptation, inference, and serving pipelines, including trade-offs in model selection, performance, cost, reliability, scalability, and operational complexity
+* Experience evaluating, monitoring, and optimising AI systems, with working knowledge of responsible AI, model risk, security, governance, and operational controls in enterprise or regulated environments
+* Hands-on experience deploying small language models for latency-, cost-, privacy-, or domain-specific use cases
+
+**Welcome to our Bangalore hub**
+--------------------------------
+
+Located at Taurus 4, Bagmane Constellation Business Park, our new office stands as a state-of-the-art hub for innovation and collaboration.
+
+### **Key facts:**
+
+* A 30 acre campus
+* Space for 6,000 colleagues
+* Opened in 2025
+
+### **Our tech stack**
+
+Here’s just some of the technologies we use.
+
+### **Front end**
+
+* JavaScript
+* ReactJS
+* AngularJS
+
+### **Back end**
+
+* Python
+* Java
+* Microsoft Dynamics
+
+### **DevOps**
+
+* AWS
+* GitLab
+* Google Cloud Platform
+
+### **Data**
+
+* Kafka
+* Hadoop
+* PostgreSQL
+* Snowflake

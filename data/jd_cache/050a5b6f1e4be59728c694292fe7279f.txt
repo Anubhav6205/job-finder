@@ -1,0 +1,14 @@
+**Role & responsibilities**
+
+* Strong Finance Process Transformation expertise with AI use case identification & design exposure in OTC / PTP / RTR (incl. FA)
+* Agentic AI Design & Delivery: Hands-on designing and deploying agentic / GenAI-powered solutions; experience working in design/development teams/pods with other FDEs and AI/Data experts
+* FInance AI Solution Architecting: Translate Finance requirements into specs for dev/engineering teams; bridge Finance SMEs and technical developers
+* AI Fluency: LLMs, Prompt Engineering, RAG, LangChain / AutoGen; evaluate AI model outputs for Finance use cases
+* Automation & Integration design exposure with value case development experience
+* Ability to use Low-Code / No-Code platforms in design/development phases of Finance AI programs
+* Understanding of API middleware (MuleSoft / Azure Integration Services) frameworks/architectures
+* Tower-level Finance expertise: 2+ towers preferred (OTC, PTP, RTR)
+
+  
+
+**Preferred candidate profile**

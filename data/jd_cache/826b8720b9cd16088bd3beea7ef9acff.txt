@@ -1,0 +1,114 @@
+**About the Role:**
+Enterprise AI (EAI) builds AI products that combine real modelling work with user-facing applications and ships them to production. Full Stack Engineers move across data, models, platforms, APIs and interfaces in a single workflow. In our operating model, digital workers do much of the hands-on build. They generate services, APIs, interface components and tests, run evaluations and monitor what is in production. Our engineers set the architecture and standards that work is built to and own the quality of what ships.
+  
+  
+EAI products and agents draw on a governed context layer that makes data, meaning, permissions and history retrievable at the moment they are needed. Full Stack Engineers build the products and agents that consume it, and decide how that context reaches users.
+  
+  
+The Full Stack Engineer II independently builds and ships AI-integrated features, working closely with GSK business teams to prototype against real data and workflows at a days-to-weeks cadence. The role owns the quality of what digital workers deliver in those features, makes evidence-based calls on what to continue or stop, and contributes reusable components others adopt.
+  
+  
+**Why This Role Exists:**
+
+* Takes AI ideas from problem framing to working software at a days-to-weeks cadence, building with digital workers and owning the quality of what ships.
+* Qualifies problems before committing to them, challenging underspecified asks and forming evidence-based recommendations on what to continue or stop.
+* Raises the team's standards through code review, documentation and reusable components that others adopt without rework.
+
+**Key Responsibilities:**
+**Delivery & Experimentation:**
+
+* Own use cases from problem framing through working prototype and first production version, at a days-to-weeks cadence and without close supervision.
+* Qualify incoming asks: challenge underspecified problems, assess feasibility and define scope before committing to work. At the end of each piece of work, form and defend an evidence-based recommendation to continue or stop, presented clearly to business and EAI leadership.
+* Work closely with business teams, prototyping against real data and workflows and building trusted relationships with product owners and engineering leads.
+
+**Agent-Operated Engineering:**
+
+* Build with digital workers as the default mode of engineering: direct them, validate what they generate and course-correct at engineering speed. Review, test and approve their work within the remit EAI's operating model sets, and escalate what falls outside it.
+* Design and orchestrate multi-agent workflows end-to-end, and judge when agentic approaches add value over simpler alternatives.
+
+**Platforms & APIs:**
+
+* Design and ship backend services independently with observability, clear contracts and compliance with non-functional requirements.
+* Choose API design patterns that suit the consumer and iterate on them based on real integration feedback.
+
+**AI Integration & Context**
+:
+  
+  
+
+* Build AI-integrated features independently, including RAG pipelines, tool use and multi-step LLM workflows that draw on the governed context layer with the right permissions and provenance.
+* Test AI-powered features with structured evaluation frameworks before and after release.
+* Raise Responsible AI and governance considerations from the prototype stage, so work that moves to production does not inherit governance debt.
+
+**AI-Native Experience:**
+
+* Deliver complete UI features with measurable user engagement, bringing user feedback directly into build decisions.
+* Build AI-powered interfaces with appropriate transparency: confidence signals, error states, provenance and human-override paths.
+
+**LLMOps & System Health:**
+
+* Build evaluation pipelines and LLM-specific monitoring for your features, including output quality signals, model drift and guardrail compliance.
+* Respond to AI production incidents with structured diagnosis, and see them through to a fix.
+
+\
+  
+  
+**Standards & Reusable Components:**
+
+* Build reusable components, SDKs, agents, prompt templates and reference architectures adopted by engineers outside your own pod, and drive consolidation where you find duplication.
+* Raise team standards through code review, documentation and direct feedback, and resolve systemic quality issues in the codebase.
+* Hand work on cleanly when it moves to another team, with working code, architecture rationale, open risks and scaling concerns.
+
+**Required Experience:**
+
+* 10+ years of full-stack or AI/ML engineering experience, including production deployments.
+* Demonstrated ability to take ideas from sketch to working software at speed, independently and under time pressure. A startup, lab or innovation-team background is an advantage.
+* Strong proficiency in Python and at least one of TypeScript, JavaScript, Go or similar, with experience designing and shipping backend services and complete UI features.
+* Hands-on experience with GenAI patterns: agents, multi-agent orchestration, RAG, tool use, prompt engineering and evaluation, including evaluation pipelines and LLM-specific monitoring in production.
+* Daily use of AI coding agents as the primary mode of development, with sound judgement on what to accept, change or reject.
+* A track record of raising team standards through code review and documentation, and of contributing reusable engineering patterns that others adopted.
+
+**Preferred Experience:**
+
+* Prior experience as a Full Stack Engineer, Customer Engineer or Solutions Architect, ideally at an AI-native company or hyperscaler.
+* Experience in regulated industries, such as life sciences, healthcare or financial services, and familiarity with GxP, GDPR and SOX.
+* Working knowledge of fine-tuning fundamentals and Model Context Protocol (MCP) integrations.
+
+**Education:**
+
+* Bachelor's degree in Computer Science, Data Science, Statistics, Applied Mathematics or a related field, or equivalent practical experience.
+
+#AGTech
+  
+  
+#GSK-LI
+  
+  
+**Skills**
+AI Frameworks, Computer Programming, Data Preprocessing, Deep Learning, Full Stack Development, Google Cloud Platform (GCP) for Machine Learning, LLMOps, Machine Learning Algorithms, Microsoft Azure Data and AI, ML Frameworks, Model Evaluation, Model Training, Model Validation, RAG Pipeline, TypeScript
+  
+  
+**Why GSK?**
+**Uniting science, technology and talent to get ahead of disease together.**
+GSK is a global biopharma company with a purpose to unite science, technology and talent to get ahead of disease together. We aim to positively impact the health of 2.5 billion people by the end of the decade, as a successful, growing company where people can thrive. We get ahead of disease by preventing and treating it with innovation in specialty medicines and vaccines. We focus on four therapeutic areas: respiratory, immunology and inflammation; oncology; HIV; and infectious diseases – to impact health at scale.
+  
+  
+People and patients around the world count on the medicines and vaccines we make, so we’re committed to creating an environment where our people can thrive and focus on what matters most. Our culture of being ambitious for patients, accountable for impact and doing the right thing is the foundation for how, together, we deliver for patients, shareholders and our people.
+  
+  
+**Inclusion at GSK:**
+As an employer committed to Inclusion, we encourage you to reach out if you need any adjustments during the recruitment process.
+  
+  
+Please contact our Recruitment Team at IN.recruitment-adjustments@gsk.com to discuss your needs.
+  
+  
+**Important notice to Employment businesses/ Agencies**
+GSK does not accept referrals from employment businesses and/or employment agencies in respect of the vacancies posted on this site. All employment businesses/agencies are required to contact GSK's commercial and general procurement/human resources department to obtain prior written authorization before referring any candidates to GSK. The obtaining of prior written authorization is a condition precedent to any agreement (verbal or written) between the employment business/ agency and GSK. In the absence of such written authorization being obtained any actions undertaken by the employment business/agency shall be deemed to have been performed without the consent or contractual agreement of GSK. GSK shall therefore not be liable for any fees arising from such actions or any fees arising from any referrals by employment businesses/agencies in respect of the vacancies posted on this site.
+  
+  
+It has come to our attention that the names of GlaxoSmithKline or GSK or our group companies are being used in connection with bogus job advertisements or through unsolicited emails asking candidates to make some payments for recruitment opportunities and interview. Please be advised that such advertisements and emails are not connected with the GlaxoSmithKline group in any way.
+  
+  
+**GlaxoSmithKline does not charge any fee whatsoever for recruitment process. Please do not make payments to any individuals / entities in connection with recruitment with any GlaxoSmithKline (or GSK) group company at any worldwide location. Even if they claim that the money is refundable.**
+If you come across unsolicited email from email addresses not ending in gsk.com or job advertisements which state that you should contact an email address that does not end in “gsk.com”, you should disregard the same and inform us by emailing askus@gsk.com, so that we can confirm to you if the job is genuine.

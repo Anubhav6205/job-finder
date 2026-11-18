@@ -1,0 +1,52 @@
+Hi,
+
+We are hiring for a senior leadership opportunity with a leading organization.
+
+**Position:** Engineering Lead Identity & Access Platform (Director Equivalent)  
+**Location:** Bengaluru  
+**Experience:** 15+ Years  
+**Leadership Experience:** 5+ Years managing multiple engineering teams  
+**Employment Type:** Full-time  
+**Open Positions:** 1
+
+**Key Technical Skills:**
+
+* Identity & Access Management (IAM), IGA and PAM
+* Keycloak, midPoint, SPIRE / SPIFFE
+* OpenBao and Open Policy Agent (OPA)
+* OAuth 2.1, OIDC, SAML, SCIM
+* Identity Architecture, Authentication & Authorization
+* Agent Identity, Delegation and Governance
+* Multi-tenant Platform Architecture
+* Open-source Product Engineering
+
+**Role Highlights:**
+
+* Lead engineering teams building an enterprise-grade Identity & Access Platform.
+* Own architecture across human, workload and AI agent identities.
+* Drive product engineering, platform scalability and production reliability.
+* Build commercial products using open-source technologies.
+* Lead and mentor Engineering Managers and Staff Engineers.
+
+**Ideal Candidate Profile:**
+
+* 15+ years of software engineering experience.
+* 5+ years leading multiple engineering teams through managers.
+* Strong IAM / IGA / PAM product engineering background.
+* Proven experience developing commercial products for multiple external customers.
+* Strong understanding of cloud security and enterprise identity platforms.
+
+**Interested candidates**, please share your updated CV along with the following details:
+
+1. Total Experience:
+2. Engineering Leadership Experience:
+3. IAM / IGA / PAM Experience:
+4. Current CTC:
+5. Expected CTC:
+6. Current Location:
+7. Notice Period:
+8. Team Size Currently Managing:
+9. Experience with Keycloak / SPIRE / OPA / OpenBao:
+
+Regards,  
+SDNA Global Recruitment Team

@@ -1,0 +1,9 @@
+**JD**
+
+  
+
+* **Strong C++** in an embedded / device context, on multithreaded RTOS or embedded Linux (interrupts, device drivers, memory).
+* Object-oriented design and design patterns; at least one scripting language (Python preferred).
+* Version control (GIT) and bug tracking (JIRA); solid analytical and debugging skills.
+* Domain exposure a strong plus: **optical pluggables,CMIS, OTN, DSP / line configuration** especially for the Senior Engineer and Techno Manager roles.
+* **Exposure to AI-assisted development and the AI-augmented SDLC** practical use of GenAI coding assistants and AI tooling across design, coding, testing and debugging.

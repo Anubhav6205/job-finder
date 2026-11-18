@@ -1,0 +1,122 @@
+Senior MERN Stack Developer (with AI/ML Experience)
+
+Company: Stella Technologie| Location: Ahmedabad/On-Site| Type: Full-time | Experience: 5+ years
+
+About the Role
+
+We're looking for a Senior MERN Stack Developer who can build and scale production-grade web
+
+applications and integrate AI/ML capabilities into them. You'll build fast, polished, customer-facing
+
+websites and web experiences marketing sites, landing pages, dashboards, and portals — and own
+
+features end to end, from UI and architecture to API design and deployment. You'll work closely with
+
+product, design, marketing, and data science teams to ship intelligent, high-performing, user-facing
+
+products.
+
+Key Responsibilities
+
+* Design, develop, and maintain scalable full-stack applications using MongoDB, Express.js, React,
+
+and Node.js
+
+* Build clean, well-documented REST/GraphQL APIs and reusable React components
+* Develop and maintain customer-facing websites and web experiences — marketing sites,
+
+landing pages, product dashboards, and self-service portals — with a focus on usability and
+
+conversion
+
+* Translate designs (Figma) into responsive, accessible, pixel-accurate UIs that work across devices
+
+and browsers
+
+* Optimize front-end performance and SEO for public-facing pages (Core Web Vitals, SSR/SSG, lazy
+
+loading, caching)
+
+* Integrate AI/ML models and services (LLM APIs, recommendation, NLP, computer vision) into
+
+web applications
+
+* Build features such as chatbots, semantic search, RAG pipelines, and document processing
+
+workflows
+
+* Optimize application performance, database queries, and API response times
+* Lead code reviews, enforce best practices, and mentor junior and mid-level developers
+* Contribute to architecture decisions, system design, and technical roadmaps
+* Write unit, integration, and end-to-end tests; maintain CI/CD pipelines
+* Ensure application security, data privacy, and responsible use of AI
+
+Required Qualifications
+
+* 5+ years of professional experience in full-stack development with the MERN stack
+* Strong proficiency in JavaScript (ES6+) and TypeScript
+* Deep experience with React (hooks, state management with Redux/Zustand/Context,
+
+performance optimization)
+
+* Strong front-end skills for customer-facing websites: responsive design, cross-browser
+
+compatibility, accessibility (WCAG), and modern CSS (Tailwind, CSS-in-JS, or SASS)
+
+* Experience building SEO-friendly, high-performance public web experiences, including SSR/SSG
+
+with Next.js and web performance optimization
+
+  
+
+* Solid backend experience with Node.js and Express.js, including authentication (JWT/OAuth),
+
+caching, and queues
+
+* Strong MongoDB skills: schema design, indexing, aggregation pipelines, performance tuning
+* Hands-on experience integrating AI/ML solutions, such as OpenAI, Anthropic, Hugging Face, or
+
+custom model APIs
+
+* Working knowledge of Python for ML-related tasks or services
+* Experience with Git, Docker, and CI/CD workflows
+* Familiarity with cloud platforms (AWS, Azure, or GCP)
+* Strong problem-solving, communication, and ownership mindset
+
+Preferred Qualifications
+
+* Experience with LLM application development: prompt engineering, RAG, embeddings,
+
+function/tool calling
+
+* Experience with frameworks such as LangChain, LlamaIndex, TensorFlow, PyTorch, or scikit-learn
+* Knowledge of FastAPI or Flask for serving ML models
+* Experience with Next.js, microservices, WebSockets, or serverless architectures
+* Experience building marketing/landing-page sites and integrating headless CMS platforms
+
+(Contentful, Sanity, Storyblok, Strapi, or WordPress)
+
+  
+
+* Familiarity with SEO, Core Web Vitals, analytics/tracking (GA4, GTM), and A/B testing on public-
+
+facing sites
+
+  
+
+* Understanding of MLOps basics: model versioning, monitoring, and evaluation
+* Contributions to open-source projects or a strong portfolio of AI-enabled products
+
+What We Offer
+
+* Opportunity to work on cutting-edge AI-driven products
+* Learning budget for courses and certifications
+* Health Insurance
+* PF
+* A collaborative, growth-focused engineering culture
+
+How to Apply
+
+Send your resume @mvyas@oneparkfinancial.com
+
+Stella Technologies is an equal opportunity employer. We welcome applicants of all backgrounds.

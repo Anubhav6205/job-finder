@@ -1,0 +1,137 @@
+Job ID
+
+26WD102191
+
+**Job Requisition ID #**
+
+  
+  
+26WD102191
+
+**Position Overview**
+
+  
+  
+
+Autodesk is building an artificial intelligence (AI)-first application platform that delivers connected experiences across its products and helps customers and internal teams work more effectively through agent-driven workflows.
+
+As a Software Engineer on our Pune engineering team, you will develop and enhance backend and platform capabilities that support agent-driven applications, workspace experiences, and integrations.
+
+You will collaborate with product managers, architects, and fellow engineers to translate technical and business requirements into reliable, scalable, and maintainable software solutions. You will contribute to services used across multiple products and teams while developing your expertise in modern backend technologies, distributed systems, and AI-enabled applications.
+
+  
+  
+
+**Responsibilities**
+
+  
+  
+
+* Design, develop, test, and maintain backend features that support agent-driven applications and platform workflows
+* Build and integrate Representational State Transfer (REST) application programming interfaces (APIs) and GraphQL services using Python, TypeScript, Node.js, or similar backend technologies
+* Contribute to the design and implementation of data models, service integrations, and application workflows that connect AI agents, tools, and platform components
+* Develop reliable backend services that support communication across distributed systems and asynchronous processes
+* Write clean, readable, maintainable code and develop automated tests to ensure software quality
+* Investigate software defects, troubleshoot service issues, and implement improvements to enhance system performance and reliability
+* Contribute to monitoring and observability practices that support effective troubleshooting and service operations
+* Participate in technical design discussions, code reviews, and engineering planning activities while incorporating constructive feedback
+* Collaborate with product managers, architects, and engineering teams to translate requirements into incremental software enhancements
+* Support continuous integration and continuous delivery (CI/CD) processes, cloud operations, and deployment activities
+* Maintain technical documentation and contribute to the development of consistent engineering standards and best practices
+* Work collaboratively with team members to identify opportunities for improving software quality, development efficiency, and service maintainability
+  
+
+  
+
+**Minimum Qualifications**
+
+  
+  
+
+* 3–5 years of professional software engineering experience, with a focus on backend application or service development
+* Hands-on experience developing backend applications using Python, TypeScript, Node.js, or comparable technologies
+* Experience developing or integrating REST APIs and familiarity with GraphQL
+* Experience building or integrating backend services used by other applications, products, or engineering teams
+* Familiarity with relational databases or non-relational (NoSQL) databases
+* Exposure to cloud computing platforms, preferably Amazon Web Services (AWS)
+* Understanding of distributed systems concepts, software testing, debugging, and version control practices
+* Ability to investigate technical problems, implement effective solutions, and deliver maintainable, high-quality code
+* Experience with AI-enabled applications, agent-driven workflows, tool integrations, or large language model (LLM) capabilities
+* Familiarity with distributed systems patterns, asynchronous processing, event-driven architectures, or microservices
+* Exposure to AWS services such as Amazon Bedrock, AWS Lambda, Amazon API Gateway, and Amazon CloudWatch
+* Bachelor's degree in Computer Science, Engineering, or a related field, or equivalent practical experience
+  
+
+  
+
+**Preferred Qualifications**
+
+  
+  
+
+* Experience developing backend services for large-scale applications or shared engineering platforms
+* Familiarity with context management, embeddings, vector search, or retrieval-augmented generation (RAG)
+* Experience supporting production services, troubleshooting operational issues, and improving monitoring, observability, or system reliability
+  
+
+  
+
+**The Ideal Candidate**
+
+  
+  
+
+The ideal candidate is a collaborative and detail-oriented software engineer who enjoys developing reliable backend systems, solving technical challenges, and exploring emerging AI technologies.
+
+* Demonstrates strong software development fundamentals and a commitment to writing clean, maintainable, and well-tested code
+* Applies analytical thinking and structured problem-solving techniques to investigate and resolve technical issues
+* Shows enthusiasm for developing scalable backend services and learning modern cloud and distributed systems technologies
+* Is interested in AI-enabled applications, agent-driven workflows, and the practical integration of emerging technologies
+* Collaborates effectively with product managers, architects, and engineering teams to deliver meaningful software improvements
+* Communicates technical concepts clearly and welcomes feedback during design discussions and code reviews
+* Takes ownership of assigned tasks and delivers high-quality solutions with appropriate attention to reliability and maintainability
+* Demonstrates curiosity, adaptability, and a willingness to learn new tools, frameworks, and engineering practices
+* Contributes positively to team knowledge sharing, documentation, and continuous improvement initiatives
+  
+
+  
+
+**#LI-KJ2**
+
+**Learn More**
+
+  
+  
+
+**About Autodesk**
+
+Welcome to Autodesk! Amazing things are created every day with our software – from the greenest buildings and cleanest cars to the smartest factories and biggest hit movies. We help innovators turn their ideas into reality, transforming not only how things are made, but what can be made.
+
+  
+  
+
+We take great pride in our culture here at Autodesk – it’s at the core of everything we do. Our culture guides the way we work and treat each other, informs how we connect with customers and partners, and defines how we show up in the world.
+
+  
+  
+
+When you’re an Autodesker, you can do meaningful work that helps build a better world designed and made for all. Ready to shape the world and your future? Join us!
+
+  
+  
+
+**Salary transparency**
+
+Salary is one part of Autodesk’s competitive compensation package. For India based roles, we expect a starting base salary between 1,533,000 INR and 2,409,000 INR Annual. Offers are based on the candidate’s experience and geographic location, and may exceed this range. In addition to base salaries, our compensation package may include annual cash bonuses, commissions for sales roles, stock grants, and a comprehensive benefits package.  
+  
+
+**Belonging**
+  
+We take pride in cultivating a culture of belonging where everyone can thrive. Learn more here: **https://www.autodesk.com/company/global-belonging**
+
+  
+  
+
+**In-Person Onboarding and Identity Verification**
+
+This role may require in-person onboarding and/or in-person ID verification.

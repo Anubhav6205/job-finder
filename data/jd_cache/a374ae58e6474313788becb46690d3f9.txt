@@ -1,0 +1,101 @@
+Job Title: Senior AI/ML Developer
+  
+  
+**Experience:4**
+–7 Years
+  
+  
+**Location:**
+Hyderabad
+  
+  
+**About The Role**
+OSI Digital is looking for a passionate and hands-on AI/ML Developer to support the development and deployment of intelligent solutions across machine learning and generative AI use cases. You will work closely with senior engineers and leadership to build scalable ML systems, contribute to experimentation, and translate business problems into data-driven solutions.
+  
+  
+This role is ideal for someone who wants to deepen technical expertise while gaining exposure to real-world enterprise AI deployments.
+  
+  
+Key Responsibilities
+  
+  
+Technical Development
+  
+  
+
+* Develop, test, and optimize machine learning models across NLP, Computer Vision, and Predictive Analytics use cases.
+* Assist in building and implementing transformer-based and traditional ML models.
+* Support data preprocessing, feature engineering, and model evaluation tasks.
+* Work on implementing APIs and integrating ML services into enterprise applications.
+
+Generative AI Exposure
+  
+  
+
+* Assist in implementing LLM-based solutions including prompt engineering, embeddings, and basic fine-tuning.
+* Contribute to building Retrieval-Augmented Generation (RAG) pipelines.
+* Support experimentation with open-source and commercial LLMs such as GPT, LLaMA, Falcon, etc.
+
+MLOps & Deployment
+  
+  
+
+* Participate in model deployment workflows using Docker and basic CI/CD practices.
+* Assist in monitoring model performance and data drift.
+* Support pipeline development for data ingestion and model retraining.
+
+Cloud & Data
+  
+  
+
+* Work with cloud environments (AWS, Azure, or GCP) for deploying and testing ML solutions.
+* Support usage of cloud-native services such as S3, EC2, SageMaker, or equivalents.
+* Collaborate on maintaining structured and unstructured datasets.
+
+Collaboration
+  
+  
+
+* Work with senior team members to translate business requirements into ML tasks.
+* Communicate findings and insights through documentation and dashboards.
+* Contribute to knowledge sharing and experimentation initiatives.
+
+**Required Skills**
+
+* Programming:Strong proficiency in Python.
+* ML Frameworks:Experience with PyTorch / TensorFlow / scikit-learn.
+* LLM Basics:Understanding of prompt engineering, embeddings, or RAG concepts.
+* Data Handling:Experience with Pandas, NumPy, and basic SQL.
+* Deployment Basics:Familiarity with Docker and APIs.
+* Cloud:Exposure to AWS / Azure / GCP environments.
+* Analytical Thinking:Ability to work on problem statements with structured guidance.
+
+Good to Have
+  
+  
+
+* Exposure to LangChain / LlamaIndex or similar orchestration frameworks.
+* Understanding of vector databases (FAISS, Pinecone, etc.).
+* Basic knowledge of MLOps tools like MLflow.
+* Experience with REST APIs or web app integration.
+
+Who We’re Looking For
+  
+  
+
+* Someone eager to learn and grow in applied AI/ML.
+* Hands-on contributors who enjoy solving real-world problems.
+* Team players comfortable working in fast-paced environments.
+
+Who This Role Is Not For
+  
+  
+
+* Candidates seeking purely research-oriented roles without application focus.
+* Individuals not interested in hands-on development.
+* Candidates looking for fully remote opportunities.
+
+Why Join OSI Digital?
+  
+  
+At OSI Digital, you will gain exposure to enterprise-grade AI solutions, work alongside experienced leaders, and build real-world expertise in emerging technologies including Generative AI.

@@ -1,0 +1,62 @@
+**About us:**
+
+Join a company that's reintroducing itself to the aviation community we've helped advance for more than a century. At Honeywell Aerospace (NASDAQ: HONA), we're launching as an independent, publicly traded aerospace and defense company built on a legacy of operational excellence and mission-focused execution.
+
+Our new brand identity pairs that heritage with real momentum, as we build technology that helps pilots navigate with confidence, aircraft operate more efficiently, and operators stay ahead of change. With our systems on board 90% of the world's aircraft, your work here has reach that's rare to find anywhere else.
+
+Focusing on our customers, investing in innovation, and building a culture of accountability and performance is how we're shaping what comes next.
+
+Every horizon. Every mission. Every day.
+
+**Software Engineer II**
+
+**Aero Site Reliability Engineering**
+
+As a Software Engineer II here at Honeywell Aerospace Technologies, you will design, develop, and support reliable software and automation for the Aero Site Reliability Engineering team. You will apply full-stack development, Agentic AI, and DevOps practices to improve service availability, engineering productivity, and operational excellence.
+
+You will report directly to Dhanunjaya Kumar and you’ll work out of our Hyderabad, India location on a Hybrid work schedule as part of a global engineering team.
+
+In this role, you will build user-facing applications, APIs, intelligent automation, CI/CD capabilities, and production reliability tooling. Your work will reduce operational toil, accelerate software delivery, strengthen incident response, and improve the reliability of aerospace digital services.
+
+**KEY RESPONSIBILITIES**
+
+* Design, develop, test, and maintain full-stack applications using modern front-end frameworks and scalable back-end services and APIs.
+* Build Agentic AI solutions using large language models, prompt engineering, tool or function calling, retrieval-augmented generation, evaluation, and responsible AI guardrails.
+* Develop reusable engineering tools, intelligent assistants, dashboards, and self-service workflows that improve developer and SRE productivity.
+* Create and maintain CI/CD pipelines, automated quality gates, deployment workflows, and release strategies using Git-based engineering practices.
+* Containerize applications and support deployments to Azure and Kubernetes environments using Infrastructure as Code and configuration automation.
+* Implement application and platform observability using metrics, logs, traces, actionable alerts, and operational dashboards.
+* Participate in incident response, troubleshooting, root cause analysis, corrective actions, and blameless post-incident reviews.
+* Apply SRE practices including SLIs/SLOs, error budgets, capacity planning, resilience testing, and the reduction of repetitive operational work.
+* Embed security into the software lifecycle through secure coding, secrets management, dependency scanning, access controls, and DevSecOps checks.
+* Collaborate in design and code reviews, document technical decisions and runbooks, and share knowledge across distributed engineering teams.
+* Bachelor’s degree from an accredited institution in Computer Science, Information Technology, Engineering, or a related technical discipline.
+* 2–4 years of professional software engineering experience building, testing, deploying, and supporting production applications.
+* Proficiency in full-stack development using JavaScript or TypeScript, React or Angular, and back-end development with Python, Java, Node.js, or C# Razor.
+* Experience designing and consuming REST APIs, working with SQL or NoSQL databases, and implementing unit, integration, API, or UI tests.
+* Hands-on experience with Agentic AI or generative AI concepts, including LLM integration, prompt design, tool or function calling, RAG, and solution evaluation.
+* Practical experience with DevOps tools and practices including Git, CI/CD, containers, cloud services, and scripting or automation.
+* Working knowledge of Linux, networking fundamentals, application security, and production troubleshooting.
+* Strong problem-solving, communication, and collaboration skills, with the ability to work effectively in a global team.
+* Experience with React, Angular, Next.js, Node.js, FastAPI, Spring Boot, or C# Razor.
+* Experience with Microsoft Azure or another major cloud platform, plus Docker, Kubernetes, and Helm.
+* Knowledge of Azure DevOps, GitHub Actions, Jenkins, GitLab CI, or Atlassian CI/CD tooling.
+* Experience with Terraform, Bicep, ARM templates, or CloudFormation.
+* Familiarity with Agentic AI frameworks such as Semantic Kernel, LangChain, LangGraph, or AutoGen.
+* Knowledge of vector databases, grounding, access control, data privacy, hallucination mitigation, and LLM evaluation.
+* Experience with OpenTelemetry, Azure Monitor, Application Insights, Prometheus, Grafana, Dynatrace, or Elastic.
+* Understanding of SRE practices including SLOs, error budgets, on-call operations, incident management, performance testing, and postmortems.
+* Experience with feature flags, blue-green or canary deployments, progressive delivery, and automated rollback.
+* A continuous-learning mindset and interest in applying emerging technologies to practical aerospace engineering and reliability challenges.
+* Full Stack: TypeScript/JavaScript, React or Angular, Python/Java/Node.js/.NET, REST APIs, SQL/NoSQL.
+* Agentic AI: LLMs, RAG, function calling, Semantic Kernel, LangChain, LangGraph, AutoGen, vector stores, evaluation, and guardrails.
+* DevOps: Git, Azure DevOps or GitHub Actions, Docker, Kubernetes, Helm, CI/CD, and Infrastructure as Code.
+* Cloud: Microsoft Azure preferred; AWS or GCP experience is also relevant.
+* Observability: OpenTelemetry, Azure Monitor, Application Insights, Prometheus, Grafana, Dynatrace, and Elastic.
+Engineering Quality: Unit, integration, API, and UI testing; code review; secure development; technical documentation.  
+
+**YOU MUST HAVE**
+
+**WE VALUE**
+
+**TOOLS & TECHNOLOGIES**

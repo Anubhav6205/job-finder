@@ -1,0 +1,99 @@
+**About Avaya**
+---------------
+
+Avaya is an enterprise software leader that helps the world’s largest organizations and government agencies forge unbreakable connections.
+
+The Avaya Infinity™ platform unifies fragmented customer experiences, connecting the channels, insights, technologies, and workflows that together create enduring customer and employee relationships.
+
+We believe success is built through strong connections – with each other, with our work, and with our mission. At Avaya, you'll find a community that values your contributions and supports your growth every step of the way.
+
+Learn more at https://www.avaya.com
+
+**Job Information**
+-------------------
+
+Job Code: 00194005
+
+Job Family: Research and Development
+
+Job Function: Software Engineering
+
+**About The Opportunity**
+-------------------------
+
+As a Senior AI Platform Engineer, you will design and ship cloud-native platform capabilities with agentic engineering as the default way of working. You apply agents, tools, and reusable workflows to accelerate Terraform, Kubernetes, and GitOps delivery—and improve that practice only where it creates measurable value. You do not build agent tooling for its own sake. You have already shipped agentic workflows in production; you will help build and scale that practice here—not learn it from scratch. You own multi-cloud foundations, security, and observability; raise the technical bar; coach peers; and drive cross-team change with high ownership and production judgment.
+
+  
+
+**What You'll Do (Role Expectations)**
+--------------------------------------
+
+  
+
+* Use agentic engineering as the primary way to design, implement, review, test, and validate platform changes; measure cycle time, quality, and safety—not how many tools you introduce.
+* Help shape shared agentic practices for the platform team—reusable workflows, skills, guardrails, and evals—so good patterns become defaults as the capability grows; do not invent tooling without a clear problem and measurable outcome.
+* Extend or introduce agent/tool integrations only when they remove real toil or risk; retire or avoid integrations that do not improve outcomes.
+* Apply proven orchestration patterns—tool calling, state, retries, human approval gates, evaluations, and guardrails (least privilege, injection resistance, audit, kill switches, rollback)—based on systems you have already run in production.
+* Own reusable Terraform modules and lifecycle patterns across Azure (deep) plus GCP or AWS; production Kubernetes; GitOps delivery (Argo CD, Helm, GitHub Actions); and platform services (ingress/API gateway, mesh, Keycloak/OIDC, cert-manager, DNS, secrets, private networking).
+* Engineer observability end to end (Prometheus, Grafana, Loki, Thanos, Alloy/OpenTelemetry or equivalent); deploy, scale, secure, and recover Kafka, Redis, and relational/document databases on the platform path.
+* Trace and fix issues from application behavior through API, gateway/mesh, identity/certs, network, cluster, and cloud; partner with application teams so platform and agentic tooling reflect real service needs.
+* Codify zero-trust and least-privilege controls and support FedRAMP/PCI DSS/SOC 2–style evidence with Security/GRC; drive adoption of agentic practices that work—pairing, shared standards, and measurable outcomes—not demos or experiments without a clear problem.
+
+**Who You Are (Success Profile)**
+---------------------------------
+
+  
+
+* You have already shipped agentic engineering in production—not as a first-time learner. You use agents and tools to deliver platform outcomes, and you know when not to build another integration.
+* You take ownership of outcomes end to end. You dig into issues with intent to resolve them—not hand off unclear problems or stop at the first blocker.
+* You think in systems, not single tasks. You see how changes ripple across app, platform, security, and delivery paths before you ship.
+* You work effectively across teams—application, platform, security, product—and drive change through clarity, pairing, and shared standards, not tickets alone.
+* You raise the technical bar for agentic platform practice: standards, coaching, and adoption—not only your own productivity.
+* You are strong at multi-cloud Kubernetes and Terraform platforms and use automation to make environments repeatable, secure, and maintainable.
+
+**What We're Looking For**
+--------------------------
+
+10+ years in software, platform, DevOps/SRE, or cloud engineering with substantial hands-on design and delivery.
+
+* Prior, demonstrated production experience using agentic engineering workflows (tool-calling agents, reusable skills/workflows, evaluations/guardrails, and related integrations) to deliver platform or infrastructure outcomes. This role is not a place to try agentic development for the first time.
+* Evidence of leading or strongly influencing how a team adopts agentic engineering—shared practices, coaching, or standards—not only personal use of AI assistants.
+* Advanced Terraform and Kubernetes; production GitOps (Argo CD/Helm) and CI/CD; deep Azure plus GCP or AWS, with ability to transfer patterns across clouds.
+* Strong Linux, networking, DNS, TLS/PKI, IAM/RBAC, and distributed-system troubleshooting; hands-on with several of API gateways, service mesh, Keycloak/OIDC, cert-manager, and secrets managers.
+* Practical operations for Kafka, Redis, and relational/document databases in Kubernetes or managed services; observability depth with Prometheus/Grafana/Loki (or equivalent).
+* Coding ability in Python or Go (or equivalent) with evidence of reusable automation or tooling others adopt.
+* Proven ownership in a fast-paced environment: ship quickly while keeping security, review, and recoverability; track record of solving hard production issues and driving cross-team change with a systems view—not task-only execution.
+
+**What Will Make You Stand Out**
+--------------------------------
+
+Proven ability to leverage AI technologies and workflows to drive measurable operational efficiency (cycle time, toil, review lag, MTTR, safe automation rate).
+
+* Experience defining shared agentic practices—skills, workflows, evals, guardrails—that other engineers adopted.
+* Hands-on with modern agent frameworks or SDKs (e.g. Google ADK, LangGraph, LangChain, LlamaIndex, or equivalent) and durable workflow engines (e.g. Temporal) on real engineering delivery—not proofs of concept alone.
+* Relevant AI / GenAI / cloud AI certification (e.g. Google, AWS, Azure, or equivalent vendor or industry AI credential).
+* Certified Kubernetes Administrator (CKA) and/or HashiCorp Terraform Associate (or equivalent Terraform certification).
+* Exposure to GitOps (Argo CD/Flux), distributed tracing (Jaeger/Tempo), FinOps, and security compliance frameworks (SOC 2, ISO 27001, FedRAMP-style evidence).
+* Familiarity with LLM observability or multi-model gateway patterns when applied to engineering agents—not as a standalone ML platform career.
+
+**Experience**
+--------------
+
+12+ Years of Experience
+
+**Education**
+-------------
+
+Bachelor degree or equivalent experience
+
+Advance Degree preferred
+
+**Preferred Certifications**
+----------------------------
+
+**Footer**
+----------
+
+Applicants must be currently authorized to work in the United States without the need for visa sponsorship now or in the future.
+
+Avaya is an Equal Opportunity employer and a U.S. Federal Contractor. Our commitment to equality is a core value of Avaya. All qualified applicants and employees receive equal treatment without consideration for race, religion, sex, age, sexual orientation, gender identity, national origin, disability, status as a protected veteran or any other protected characteristic. In general, positions at Avaya require the ability to communicate and use office technology effectively. Physical requirements may vary by assigned work location. This job brief/description is subject to change. Nothing in this job description restricts Avaya right to alter the duties and responsibilities of this position at any time for any reason.

@@ -1,0 +1,183 @@
+**About Vista Equity Partners** Vista Equity Partners is a leading global investment firm focused exclusively on enterprise software, data, and technology-enabled businesses. With over $100B in assets under management and a portfolio of 90+ software product companies worldwide, Vista accelerates growth through operational excellence, shared expertise, and long-term partnership. In India, Vista’s presence continues to expand with 45+ portfolio companies employing more than 17,000 professionals across technology, product, customer success, and operations — reinforcing India’s strategic role as a hub of innovation and talent within the Vista ecosystem. Through its Agentic AI Factory, Vista is embedding Generative AI across its global portfolio — enabling companies to integrate intelligent, responsible AI into products, operations, and decision-making. This initiative is strengthened through portfolio-wide learning programs, leadership workshops, and AI hackathons that foster innovation, build fluency, and accelerate practical AI adoption across teams. **About Amtech** Amtech is a leading provider of enterprise software solutions for the packaging, printing, and manufacturing industries. Our integrated systems streamline order management, production planning, scheduling, inventory, and business analytics — empowering customers to drive efficiency, reduce costs, and improve operational performance. With a strong commitment to innovation and customer success, Amtech delivers reliable technology backed by deep industry expertise.With Vista’s investment and strategic guidance, we combine the agility of a growing technology organization with the scale, stability, and career mobility of a global software ecosystem.
+
+**Our Employee Value Proposition**
+
+At Amtech, our people are our greatest differentiator. We create an environment where you can:
+
+**Purpose**
+
+Shape the future of manufacturing and supply chain operations by delivering mission-critical enterprise software used by industry-leading organizations.
+
+**Growth**
+
+Access continuous learning, leadership development, and cross-portfolio opportunities through Vista’s global network — accelerating both technical and managerial career paths.
+
+**Culture**
+
+Work in a collaborative, transparent, and people-first environment where values, accountability, and integrity guide every decision.
+
+**Innovation**
+
+Engage with cutting-edge technologies, including AI-driven automation, and contribute to modernizing financial systems and operational processes across the business.
+
+**Role Description**
+
+Amtech is seeking a **Senior Software Engineer** to lead technical improvements across multiple modules and teams on a portal built for label and flexible packaging converters to make order intake efficient, intelligent, and collaborative for service representatives, distributors, and customers.
+
+You will own complex projects and major features while establishing standards, guiding architecture decisions, and improving how the entire team delivers safely and efficiently. At this level, you are a trusted technical leader who balances urgent customer needs with long-term modernization—and who sets the bar for code quality, testing, and production safety across the organization.
+
+This role emphasizes team-level impact, technical leadership, production-risk judgment, and incremental modernization of large legacy systems. You will mentor developers, lead incident response, establish database governance and testing standards, and guide architectural choices. You will think about deployment risk, customer variation, and business priorities—not just code correctness.
+
+**Key Responsibilities**
+
+* **Own projects or major features at the team level**, including architecture, delivery strategy, team coordination, and measurable business outcomes.
+* **Lead technical standards** for database changes, code review, testing, logging, and incident response across multiple modules.
+* **Guide architectural decisions** that balance immediate delivery against long-term maintainability, deployment risk, and team capability.
+* **Lead production incidents** involving financial, inventory, or shipping data—determining root cause, safe recovery, and preventive actions.
+* **Design incremental modernization strategies** for complex legacy systems, prioritizing high-impact, bounded improvements over full rewrites.
+* **Establish database governance** including change standards, schema compatibility, multi-customer testing, and safe migration procedures.
+* **Mentor and train developers** in both technical skills (SQL Server, transaction design) and professional judgment (prioritization, risk assessment, incident response).
+* **Conduct thorough code reviews** of changes to critical systems, focusing on business correctness, transaction safety, concurrency, and testability.
+* **Diagnose systemic issues** (frequent defects, slow deployments, onboarding challenges) and propose solutions that improve team effectiveness.
+* **Communicate across boundaries** with product, QA, customer success, and business leadership to understand priorities and constraints.
+
+**AI Proficiency (L3: AI Power User)**
+
+**Scope:** Team-wide productivity; architect AI workflows; mentor others; set organizational patterns
+
+* **Workflow integration:** Embed AI across your team's development lifecycle—code generation, testing, documentation, refactoring, and knowledge transfer.
+* **Output risk ownership:** Design validation steps appropriate to task criticality; ensure AI-generated work meets team standards before shipping.
+* **Team mentoring:** Teach developers at all levels how to use AI effectively; know when to use AI and when to rely on human judgment.
+* **Pattern design:** Establish team-wide standards for AI usage (e.g., "AI for boilerplate and documentation, always review; AI for core logic only with peer review").
+* **Tool selection and governance:** Evaluate AI tools (Claude, ChatGPT, Copilot, etc.); recommend adoption based on team needs and security constraints.
+* **Continuous improvement:** Identify where AI can improve developer productivity without sacrificing quality or security.
+
+**Required Qualifications**
+
+**Technical Leadership**
+
+**Senior PHP Knowledge (The Core Engine)**
+
+* **Advanced PHP Concepts**: Complete mastery of PHP 8.x features (Attributes, JIT compiler, Union Types).
+* **Design Patterns**: Expert implementation of SOLID Principles, Domain-Driven Design (DDD), and Repository patterns.
+* **Enterprise Frameworks**: Deep architectural understanding of modern frameworks like Laravel or Symfony.
+* **Asynchronous Execution**: Designing queue workers and event systems using RabbitMQ or Kafka.
+* **Caching Layers**: Strategizing multi-tier backend caching using Redis or Memcached.
+* **Testing & Quality**: Implementing robust automated pipelines via PHPUnit for unit testing.
+
+**Senior ReactJS Knowledge (The Front-End Interface)**
+
+* **Advanced Lifecycle**: Mastery of the Virtual DOM, custom hooks, and concurrent rendering options.
+* **State Management**: Scalable architecture using Redux Toolkit, Context API, or Zustand.
+* **Meta-Frameworks**: Production experience with Next.js for Server-Side Rendering (SSR) and SEO management.
+* **Performance Tuning**: Preventing re-renders using useMemo, useCallback, and code-splitting lazy-loads.
+* **TypeScript Mastery**: Enforcing strong typing across components, API contracts, and state engines.
+* **E2E Testing**: Writing visual and behavior workflows using Cypress or Playwright.
+
+**AWS Cloud Knowledge (The Infrastructure Layer)**
+
+* **Compute & Serverless**: Deploying containerized apps via Amazon ECS/EKS and building serverless logic with AWS Lambda.
+* **Data Management**: Provisioning relational systems with Amazon RDS (MySQL/PostgreSQL) and NoSQL utilizing DynamoDB.
+* **Hosting & CDN**: Hosting front-end assets on S3 and accelerating global delivery using Amazon CloudFront.
+* **Networking & Security**: Setting up Virtual Private Clouds (VPC), managing IAM roles, and securing API Gateways.
+* **DevOps Infrastructure**: Writing Infrastructure as Code (IaC) via AWS CDK or Terraform to build automated CI/CD toolchains.
+* **Expert C# architecture and patterns**:
+* Deep understanding of dependency injection, service composition, and testable boundaries around legacy code.
+* Ability to design for incremental improvement: extracting bounded capabilities, running old and new in parallel, and rolling back safely.
+* Expertise in transaction design, including outbox patterns and separation of database transactions from external calls.
+* Proficiency with async/await, error handling, and graceful degradation in distributed systems.
+* **Expert SQL Server and database governance**:
+* Deep understanding of locking, concurrency, isolation levels, and deadlock prevention.
+* Ability to design safe, rerunnable migration scripts for large production tables with considerations for blocking, compatibility, and rollback.
+* Expertise in data validation, reconciliation queries, and detecting partial failures.
+* Standards for database change management: idempotency, parameterized queries, peer review, and phased deployment.
+* Understanding of customer schema variations and how to test against representative database snapshots.
+* **Testing and quality standards**:
+* Ability to introduce automated testing around static globals, databases, and legacy code without large rewrites.
+* Design of representative test fixtures and characterization tests that preserve existing behavior.
+* Understanding of what to test: success, validation failure, database failure, rollback, and concurrency.
+* Recognition that tests must be maintainable; an unmaintained test is a liability.
+* **Production systems and incident response**:
+* Leadership of financial or inventory incidents: containment, root-cause analysis, safe recovery procedures, and preventive actions.
+* Understanding of financial reconciliation and the principle that records must never be manually changed without audit trails.
+* Systematic diagnosis using logs, execution plans, database analysis, and production telemetry.
+* Design of observability: correlation IDs, structured logging, and business-context metrics.
+* **Modernization and architecture**:
+* Experience assessing which components should be modernized first based on business value, defect rate, and change frequency—not code appearance.
+* Ability to compare old and new approaches (e.g., optimistic vs. pessimistic concurrency, .NET Framework vs. modern .NET) with explicit trade-offs.
+* Skill at running old and new implementations in parallel, gradually shifting traffic, and rolling back if needed.
+* Recognition that full rewrites carry hidden risk; incremental improvement is often safer and more effective.
+
+**Technical Leadership & Soft Skills**
+
+* **System Design**: Translating complex business problems into highly scalable, distributed software architectures.
+* **Team Mentorship**: Conducting rigorous code reviews and actively mentoring junior engineers.
+* **Agile Ownership**: Breaking down massive epics into clear technical tasks and estimating deliverable sprint timelines.
+
+**Leadership & Influence**
+
+* **Technical decision-making**: Lead discussions on architecture, database design, and framework choices; articulate trade-offs and risk.
+* **Mentoring and coaching**: Help developers improve through code review, pair programming, and teaching (frameworks, patterns, business domain).
+* **Standard-setting**: Establish practices for testing, database changes, code review, and incident response that apply across teams.
+* **Systemic improvement**: Identify root causes of team friction (slow tests, deployment risk, onboarding burden) and propose solutions.
+* **Stakeholder communication**: Explain technical constraints and risks to product, business, and leadership in business terms.
+
+**General Competencies**
+
+* **Business judgment**: Quantify problems (defect rate, change frequency, support burden) before proposing solutions; avoid solutions in search of problems.
+* **Pragmatism**: Balance correctness with shipping; know when to iterate vs. when to get it right the first time.
+* **Humility**: Acknowledge limits of knowledge; ask questions and learn from others.
+* **Ownership**: Take responsibility for team outcomes; propose improvements even when not explicitly assigned.
+* **Communication**: Write clearly; explain complex topics in accessible terms; listen actively.
+
+**Preferred Qualifications**
+
+* Experience building or leading large production systems serving millions of transactions or thousands of concurrent users.
+* Deep familiarity with at least one complex enterprise system (ERP, financial platform, or high-volume transaction processing).
+* Production incident response experience; familiarity with post-mortems and blameless investigation.
+* Experience designing systems for multi-tenant or multi-customer deployments with schema and configuration variation.
+* Leadership of database migrations on large production tables; understanding of zero-downtime deployment strategies.
+* Mentoring multiple junior and mid-level engineers; demonstrated impact on their growth and career progression.
+* Experience setting or improving engineering practices: code review, testing, deployment, incident response.
+* Speaking, writing, or community contributions demonstrating communication of technical concepts.
+
+**Work Environment & Culture**
+
+* **Mature codebase**: 5000+ files, 500K lines of code .You will own critical paths and improve legacy systems.
+* **Production accountability**: Your decisions impact financial records, inventory accuracy, and customer success. Rigorous thinking and risk assessment are paramount.
+* **Technical leadership**: Architecture and standards are set collaboratively with other senior engineers and leadership.
+* **Multi-team impact**: Your standards, mentoring, and decisions affect how multiple teams deliver.
+* **Continuous learning**: Large systems always have surprises; growth mindset and intellectual curiosity are essential.
+* **Autonomy with guidance**: You make most decisions independently but collaborate on major architectural changes.
+
+**Growth Path**
+
+Within 2–3 years, a successful Senior Software Engineer will:
+
+* Own 2–3 major projects or features that have measurable business impact and demonstrate your strategic thinking.
+* Mentor 3–5 developers through significant technical challenges; demonstrate positive impact on their growth, retention, and confidence.
+* Establish 2–3 standards or practices (database governance, testing approach, incident response, code review) that are adopted by teams.
+* Lead 2+ production incidents or complex investigations; document findings and implement preventive actions.
+* Guide 1–2 incremental modernization initiatives with a clear phased strategy and measurable improvements.
+* Contribute to hiring and culture-building; interview candidates and provide technical feedback.
+
+Beyond Senior Engineer, growth leads to **Staff Engineer**, **Principal Engineer**, **Engineering Manager**, or **Technical Fellow** roles—each with different specialization but increased organizational influence.
+
+**Why Join Amtech**
+
+At Amtech, you will drive meaningful technical impact in a growing enterprise software organization while benefiting from Vista’s world-class ecosystem. You’ll collaborate with talented peers, leverage cross-portfolio learning programs, and help shape the future of Amtech’s Cloud API and Label Traxx platforms. Build your career with Amtech — backed by the strength, scale, and innovation culture of Vista.
+
+Pay: ₹2,200,000.00 - ₹2,670,000.00 per year
+
+Benefits:
+
+* Cell phone reimbursement
+* Food provided
+* Health insurance
+* Internet reimbursement
+* Life insurance
+* Paid sick time
+* Paid time off
+* Provident Fund
+
+Work Location: Hybrid remote in Bengaluru, Karnataka

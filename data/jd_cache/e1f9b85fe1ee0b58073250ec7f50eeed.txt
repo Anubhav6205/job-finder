@@ -1,0 +1,29 @@
+**To Apply please fill the below form using the link provided.**
+
+  
+
+*It is Mandatory to fill the details and without responses will not be considered for the process.*
+
+  
+
+**https://forms.gle/7ahtW7ZUuFyHyPWR6**
+
+**Required Qualifications**
+
+* **7 -12** years of relevant experience with a background in Computer Science or related technical discipline
+* Proven experience in building and shipping large-scale engineering products
+* Knowledge of **cloud infrastructure (Azure/AWS preferred)**
+* Experience in **Python** or any scripting language
+* Strong experience managing **Linux systems, build & release tools** (e.g., Jenkins)
+* Excellent written and verbal communication skills
+* Ability to collaborate with engineers, data scientists, and product managers
+* Comfortable working in a fast-paced, start-up environment
+
+  
+
+**Preferred Qualifications**
+
+* Support experience in the **Big Data domain**
+* Experience **architecting, implementing, and maintaining Big Data solutions**
+* Expertise with the **Hadoop ecosystem** (HDFS, MapReduce, Oozie, Hive, Impala, Spark, Kerberos, Kafka, etc.)
+* Experience with **Docker, Kubernetes**, and configuration management systems

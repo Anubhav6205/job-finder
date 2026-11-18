@@ -1,0 +1,158 @@
+**Senior Software Engineer - Gen AI**
+=====================================
+
+Date: Nov 18, 2026
+
+Location:
+
+Hyderabad, IN
+
+Requisition ID: 24660
+
+Description:
+
+**Senior .NET Full Stack Developer**
+
+**Location: Bangalore / Remote**  
+**Experience: 3 – 10 Years**
+
+**About the Role**
+
+**We are looking for a Senior .NET Full Stack Developer to build and maintain enterprise-grade web applications using modern Microsoft technologies. The role is focused on .NET 9 or above, Blazor Server, ASP.NET Core, SignalR, SQL Server, and cloud-integrated services on Azure. You will work across backend services, real-time features, UI components, and production-grade observability/security.**
+
+**Key Skills**
+
+**Backend Technologies (Mandatory)**
+
+* **.NET 10 (or strong experience in .NET 9+)**
+* **C#**
+* **ASP.NET Core**
+* **REST API development (Minimal APIs)**
+* **Microservices Architecture**
+* **SignalR (real-time communication)**
+* **Worker Services / Windows Services / BackgroundService**
+* **Entity Framework Core**
+
+**Frontend Technologies (Mandatory)**
+
+* **Blazor**
+* **Razor Components**
+* **JavaScript**
+* **Angular 6+ ( Nice to have ) – Not mandatory**
+* **HTML5**
+* **CSS3**
+* **Bootstrap**
+
+**Database Technologies**
+
+* **Microsoft SQL Server (Mandatory)**
+* **Experience with PostgreSQL/MySQL (Optional)**
+* **EF Core + LINQ**
+* **Query optimization and stored procedures**
+
+**Version Control & DevOps**
+
+* **Git**
+* **Team Foundation Server (TFS) - (Optional/legacy)**
+* **Azure DevOps (Repos/Pipelines/Boards)**
+* **CI/CD practices**
+
+**Cloud Technologies (Good to Have)**
+
+**Experience with Microsoft Azure services including:**
+
+* **Load Balancer**
+* **DNS**
+* **Azure SignalR Service**
+* **Traffic Manager**
+* **Compute Services**
+* **Storage Services**
+* **Azure SQL**
+* **Cosmos DB**
+* **Azure Cognitive Search**
+* **Azure Functions**
+* **Logic Apps**
+* **API Management**
+* **Service Bus**
+* **Key Vault**
+* **Redis Cache**
+* **Azure Active Directory (AAD)**
+* **Application Insights / structured logging (Serilog)**
+* **Azure OpenAI integration**
+* **RabbitMQ**
+* **AWS integration exposure (S3 Bucket) (nice to have)**
+
+**Technical Requirements**
+
+* **Minimum 4+ years of experience in .NET development using C#**
+* **2–3+ years of hands-on experience with ASP.NET Core / .NET Core Web API**
+* **Hands-on SignalR implementation experience**
+* **Minimum 2+ years of hands-on experience with Blazor, Razor components**
+* **Strong understanding of RESTful API design and development, Web services / SOAP based services / WCF.**
+* **Strong expertise in SQL Server, including database design, complex query writing, and stored procedures**
+* **Experience with Entity Framework Core and LINQ**
+* **Experience with secure auth flows (Cookie/OpenID Connect)**
+* **Solid understanding of Object-Oriented Programming (OOP) concepts**
+* **Good knowledge of SOLID principles, design patterns, and best coding practices**
+* **Experience with scalable, high-availability web applications**
+
+**Key Responsibilities**
+
+* **Collaborate with business stakeholders and cross-functional teams to understand and define application requirements**
+* **Analyze system requirements and contribute to solution design and technical architecture**
+* **Develop detailed technical specifications and project documentation**
+* **Design, develop, test, and maintain scalable applications using NET Core 9+ and related technologies**
+* **Build and consume RESTful APIs and microservices**
+* **Integrate cloud services (Azure SignalR, storage, telemetry, AI services)**
+* **Develop responsive user interfaces using Blazor, Razor components, JavaScript.**
+* **Review, troubleshoot, debug, and optimize existing applications**
+* **Ensure code quality through best practices, code reviews, and unit testing**
+* **Maintain software documentation and operational procedures**
+* **Participate in Agile development processes and sprint activities**
+
+**What We Value**
+
+* **Strong collaboration and teamwork**
+* **Customer-first mindset**
+* **Fast and disciplined execution**
+* **Continuous learning and improvement**
+* **Ownership, accountability, and a results-driven approach**
+* **Passion for delivering high-quality software solutions**
+
+**Experience Summary**
+
+**Skill**
+
+**Requirement**
+
+**ASP.NET Core**
+
+**Minimum 3 Years (Required)**
+
+  
+
+**Blazor / Razor Components / SignalR**
+
+**Minimum 2 Years (Required)**
+
+  
+
+**Microsoft SQL Server + EF Core**
+
+**Minimum 2 Years (Required)**
+
+  
+
+**.NET Development (C#)**
+
+**Minimum 4 Years (Required)**
+
+**Preferred Candidate Profile**
+
+* **Bachelor's degree in Computer Science, Information Technology, or a related field**
+* **Strong analytical and problem-solving skills**
+* **Excellent communication and collaboration abilities**
+* **Experience working in Agile/Scrum environments**
+* **Ability to work independently in a remote or hybrid setup**
+
+Apply now

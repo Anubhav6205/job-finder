@@ -1,0 +1,68 @@
+About ECI
+  
+ECI is the leading global provider of managed services, cybersecurity, and business transformation for mid-market financial services organizations across the globe. From its unmatched range of services, ECI provides stability, security and improved business performance, freeing clients from technology concerns and enabling them to focus on running their businesses. More than 1,000 customers worldwide with over $3 trillion of assets under management put their trust in ECI.
+  
+At ECI, we believe success is driven by passion and purpose. Our passion for technology is only surpassed by our commitment to empowering our employees around the world.
+  
+  
+ECI is the leading global provider of managed services, cybersecurity, and business transformation for mid-market financial services organizations across the globe. From its unmatched range of services, ECI provides stability, security and improved business performance, freeing clients from technology concerns and enabling them to focus on running their businesses. More than 1,000 customers worldwide with over $3 trillion of assets under management put their trust in ECI.
+  
+  
+At ECI, we believe success is driven by passion and purpose. Our passion for technology is only surpassed by our commitment to empowering our employees around the world.
+  
+  
+**The Opportunity:**  
+We are seeking a hands-on AI Technical Lead to convert AI architecture into high-quality production solutions and lead engineering execution across ECI client engagements. The role combines development leadership, detailed design, code quality, agent and RAG implementation, evaluation, DevSecOps, observability, and operational readiness.
+  
+Client satisfaction is our top priority. This is a customer-facing role requiring excellent communication, collaboration, professionalism, and the ability to work effectively with business and technical stakeholders.
+  
+  
+This is a Hybrid position
+  
+  
+**What you will do:**  
+
+* Lead the day-to-day technical implementation of generative AI, RAG, agentic, and AI-enabled automation solutions.
+* Translate approved architecture into detailed designs, engineering tasks, interface contracts, and delivery plans.
+* Guide developers through implementation, code reviews, troubleshooting, testing, deployment, and production-readiness activities.
+* Build and enforce engineering standards for Python, APIs, prompts, agents, data pipelines, retrieval, security controls, and reusable components.
+* Lead implementation of multi-agent orchestration, tool integrations, MCP servers/clients, memory, and human approval workflows.
+* Create evaluation datasets and automated tests for groundedness, relevance, accuracy, safety, latency, and regression.
+* Implement CI/CD, observability, tracing, alerting, dashboards, runbooks, release gates, and operational support procedures.
+* Collaborate with architects, product managers, data engineers, QA, DevOps, cloud, security, and customer stakeholders.
+* Estimate technical work, identify dependencies and risks, support sprint planning, and provide transparent delivery status.
+* Mentor engineers, encourage knowledge sharing, and contribute reusable assets and improvements to ECI AI frameworks.
+
+**Who you are:**  
+
+* 5+ years of software engineering experience, including 1+ years of hands-on generative AI solution delivery and experience leading technical teams or workstreams.
+* Strong hands-on Python experience with FastAPI or Django and production experience building APIs, workers, integrations, and data-processing components.
+* Hands-on experience with Azure AI Foundry or Azure OpenAI, Azure AI Search, and cloud-native deployment services.
+* Practical experience with LangChain, LangGraph, Semantic Kernel, LlamaIndex, or comparable agent and orchestration frameworks.
+* Experience implementing RAG using chunking, embeddings, vector indexes, metadata filters, reranking, hybrid search, citations, and access controls.
+* Experience with SQL and at least one relational database, plus familiarity with document, vector, graph, or lakehouse platforms.
+* Experience with Git-based development, pull requests, automated testing, CI/CD, containers, monitoring, and Agile delivery.
+* Bachelor's or Master's degree in Computer Science, Artificial Intelligence, Data Science, Engineering, or a related field, or equivalent practical experience.
+* Strong analytical, problem-solving, and critical-thinking skills with the ability to troubleshoot complex technical challenges.
+* Excellent written and verbal communication skills, including the ability to explain technical concepts to non-technical stakeholders.
+* Experience working in Agile delivery environments using work-management and source-control tools such as Jira and GitHub.
+* Working knowledge of secure software development, data privacy, responsible AI, and enterprise governance expectations.
+* Engineering leadership: detailed design, task decomposition, code quality, design reviews, technical risk management, and mentorship.
+* Agent implementation: orchestration, tools, MCP, structured outputs, memory, error handling, durable execution, and human-in-the-loop controls.
+* RAG implementation: ingestion, parsing, enrichment, embeddings, indexing, hybrid retrieval, reranking, citations, and evaluation.
+* AI quality engineering: unit, integration, end-to-end, security, load, and AI evaluation testing using curated datasets and measurable thresholds.
+* Operational engineering: telemetry, distributed tracing, prompt/model versioning, monitoring, alerting, incident diagnosis, runbooks, and continuous optimization.
+* Security implementation: managed identities, Key Vault, least privilege, private endpoints, PII handling, content filters, prompt-injection defenses, and audit logging.
+* Performance and FinOps: latency analysis, caching, concurrency, token management, model selection, scalability, and cost optimization.
+* Documentation: low-level designs, API contracts, data mappings, deployment guides, support runbooks, and knowledge-transfer material.
+
+ECI’s culture is all about connection – connection with our clients, our technology and most importantly with each other. In addition to working with an amazing team around the world, ECI also offers a competitive compensation package and so much more! If you believe you would be a great fit and are ready for your best job ever, we would like to hear from you!
+  
+  
+Love Your Job, Share Your Technology Passion, Create Your Future Here!
+  
+  
+#LI-Hybrid
+  
+  
+ECI’s culture is all about connection - connection with our clients, our technology and most importantly with each other. In addition to working with an amazing team around the world, ECI also offers a competitive compensation package and so much more! If you believe you would be a great fit and are ready for your best job ever, we would like to hear from you!

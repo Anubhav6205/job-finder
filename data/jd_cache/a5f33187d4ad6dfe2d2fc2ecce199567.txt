@@ -1,0 +1,37 @@
+### **Description**
+
+The Lead Associate - AI / .NET is a senior technical authority within the engineering organisation, responsible for designing, developing, and delivering high‑quality software solutions that power Davies’ UK&I technology estate. The role provides hands‑on technical leadership across modern engineering practices, cloud‑native architectures, and Agile delivery environments, ensuring that engineering squads consistently deliver robust, scalable, secure, and maintainable software. Acting as a role model for engineering excellence, the Specialist - AI / .NET mentors developers at all levels, promotes best practice, and drives continuous improvement in code quality, patterns, tooling, and development workflows. The role is responsible for solving complex technical problems, setting engineering direction, and collaborating with cross‑functional teams to ensure solutions meet strategic and operational objectives. This role is ideal for a highly skilled, T‑shaped engineer with deep specialism in one or more areas (back‑end, front‑end, cloud, DevOps) and broad exposure across the modern Microsoft‑centric stack including .NET, C#, React/TypeScript, Azure, Terraform, and SQL Server.
+
+### **Key Responsibilities**
+
+**Software Design & Development** Lead the design and development of high‑quality, cloud‑native applications aligned to strategic technologies. Write clean, maintainable, secure code following SOLID principles, design patterns, and OWASP guidelines. Develop microservices, containerised applications, and event‑driven components. Implement automated testing approaches including TDD, integration testing, and CI/CD pipeline automation. Support SRE (site reliability engineering) practices such as observability, resilience engineering, and performance tuning.  
+  
+**Technical Leadership & Mentoring** Act as a technical role model for the engineering organisation, promoting autonomy, self‑management, and maturity within squads. Coach and mentor developers at all levels, providing guidance on technical design, coding practices, and problem‑solving. Contribute to shaping engineering frameworks, patterns, and internal best‑practice standards. Support engineering recruitment, onboarding, and capability development.  
+  
+**Problem Solving & Critical Issue Support** Be “parachuted in” to diagnose, troubleshoot, and resolve complex technical issues during critical times. Provide expert solutions to high‑impact problems across the technology estate. Work collaboratively with Architects to design and evolve shared frameworks, libraries, and platform components.  
+  
+**Collaboration & Stakeholder Engagement** Work closely with Architects, Product Owners, Platform Engineers, and QA teams to ensure alignment between technical solutions and business goals. Liaise with 3rd‑party software partners throughout design, build, support, and maintenance cycles. Participate in Agile ceremonies, contributing to planning, refinement, retrospectives, and continuous improvement. Encourage user‑centred design, working with UX/UI colleagues to ensure intuitive, high‑quality user experiences.  
+  
+**Continuous Improvement & Innovation** Explore new technologies, tools, and approaches; propose and implement innovations that improve developer experience and platform quality. Champion engineering excellence and continuous learning across teams. Help strengthen shared engineering foundations such as standards, pipelines, templates, and automation.
+
+### **Skills, Knowledge and Expertise**
+
+  
+
+* 8–10+ years of professional software engineering experience.
+* Strong proficiency in **C# and .NET** (or Python).
+* Modern front‑end experience with **React**, Angular, or Vue.
+* Advanced experience with **Azure** (or AWS/GCP equivalents).
+* Strong expertise in **microservices**, event‑driven architecture, and Domain‑Driven Design.
+* Strong SQL Server and Entity Framework capabilities.
+* Test‑driven development and automated test practices.
+* CI/CD pipelines and DevOps tooling.
+* Secure coding practices and familiarity with OWASP principles.
+
+### **About Davies**
+
+We are a specialist professional services and technology firm, working in partnership with leading insurance, highly regulated and global businesses.  
+  
+We help our clients to manage risk, operate their core business processes, transform and grow. We deliver professional services and technology solutions across the risk and insurance value chain, including excellence in claims, underwriting, distribution, regulation & risk, customer experience, human capital, digital transformation & change management.  
+  
+Our global team of more than 8,000 professionals operate across ten countries, including the UK & the U.S. Over the past ten years Davies has grown its annual revenues more than 20-fold, investing heavily in research & development, innovation & automation, colleague development, and client service. Today the group serves more than 1,500 insurance, financial services, public sector, and other highly regulated clients.

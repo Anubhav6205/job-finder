@@ -1,0 +1,113 @@
+**Job Requirements**
+Role/ Job Title: AI Engineer
+  
+  
+Business: Data & Analytics
+  
+  
+Function/ Department:Data & Analytics
+  
+  
+**Job Purpose :**
+'The AI Engineer will be responsible for designing, developing, and deploying AI and GenAI solutions that solve real business problems and improve customer and operational outcomes. The role focuses on building end‑to‑end ML and LLM-based applications—covering data preparation, model development, evaluation, deployment, and monitoring—on cloud and on‑prem infrastructure.
+  
+  
+The role requires strong hands-on engineering skills in Python, ML frameworks, GenAI/LLM tooling, and MLOps practices, along with experience working in cloud-native environments (Kubernetes, containers) and integrating AI services into enterprise applications, while adhering to security, compliance, and performance standards in a regulated banking environment.
+  
+  
+**Roles & Responsibilities:**
+'AI / ML Solution Development
+  
+  
+Develop, train, and evaluate ML models (classification, regression, forecasting, recommendation, NLP, etc.) for banking and fintech use cases.
+  
+  
+Translate data scientist prototypes and notebooks into production-ready code and services.
+  
+  
+Implement robust data preprocessing, feature engineering, and model evaluation pipelines.
+  
+  
+GenAI & LLM Engineering
+  
+  
+Build GenAI applications using hosted and self-hosted LLMs (e.g., OpenAI and other providers).
+  
+  
+Implement RAG (Retrieval Augmented Generation) pipelines using vector databases and embeddings for enterprise document and knowledge use cases.
+  
+  
+Design prompts, guardrails, and evaluation logic to ensure accurate, safe, and compliant GenAI outputs.
+  
+  
+MLOps & Deployment
+  
+  
+Work with MLOps / DevOps teams to set up CI/CD pipelines for AI models and services.
+  
+  
+Containerize and deploy AI workloads on Kubernetes (EKS, AKS, GKE) and on‑prem clusters.
+  
+  
+Integrate model services with monitoring and logging systems for health, performance, and accuracy tracking.
+  
+  
+Integration & Platform Engineering
+  
+  
+Expose AI models as scalable APIs / microservices and integrate them with core systems, channels, and workflows.
+  
+  
+Collaborate with application and platform teams to embed AI capabilities into customer journeys, internal tools, and operations.
+  
+  
+Optimize latency, throughput, and resource utilization for online and batch inference.
+  
+  
+Data & Feature Engineering
+  
+  
+Work with data engineering to build reliable data pipelines and features for AI models.
+  
+  
+Ensure high data quality and adherence to data governance and privacy requirements.
+  
+  
+Contribute to building and using feature stores where applicable.
+  
+  
+Security, Compliance & Governance
+  
+  
+Implement access control, encryption, and logging for AI workloads as per security and regulatory policies.
+  
+  
+Support documentation, explainability, and governance requirements for models and GenAI applications.
+  
+  
+Follow ethical AI guidelines and internal model risk management standards.
+  
+  
+Collaboration, Documentation & Support
+  
+  
+**Secondary Responsibilities :**
+'Support POCs and experiments to test new AI / GenAI technologies and approaches.
+  
+  
+Assist senior team members in vendor evaluations, architecture reviews, and security assessments.
+  
+  
+**Managerial & Leadership Responsibilities:**
+'Provide technical mentorship to junior engineers and interns as needed.
+  
+  
+Demonstrate ownership of assigned tasks and influence engineering quality and best practices within the team.
+  
+  
+**Qualifications:**
+B.E/B.Tech/MCA
+  
+  
+**Years of Experience:**
+3+ years in AI / ML / GenAI / ML engineering roles (total experience up to :6–7 years).

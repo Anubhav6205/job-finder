@@ -1,0 +1,22 @@
+**Role & responsibilities**
+
+We are looking for an experienced .NET Full Stack Technical Lead with strong hands-on development expertise in Microsoft technologies, frontend frameworks and cloud platforms.The candidate will be responsible for leading development teams, designing and developing scalable applications, managing technical delivery and ensuring high-quality software solutions.The ideal candidate should have experience in .NET Core, C#, Angular or React.js, and cloud platforms such as AWS or Azure. Exposure to Generative AI technologies and their integration into enterprise applications is also expected.**3. Key responsibilitiesTechnical development**
+
+* Design, develop and maintain enterprise applications using C#, .NET Core and ASP.NET Core.
+* Develop scalable backend services, REST APIs and microservices.
+* Build responsive frontend applications using Angular or React.js.
+* Integrate frontend applications with backend services and APIs.
+* Write clean, reusable, maintainable and high-quality code.
+
+**Technical leadership**
+
+* Lead and mentor a team of developers.
+* Provide technical guidance and support during development.
+* Conduct code reviews and ensure coding standards.
+* Participate in solution architecture and technical design discussions.
+* Identify technical challenges and provide effective solutions.
+* Coordinate with project managers, business teams and stakeholders.
+
+  
+
+**Preferred candidate profile**

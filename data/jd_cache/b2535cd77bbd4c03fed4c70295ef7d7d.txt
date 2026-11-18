@@ -1,0 +1,121 @@
+What you'll do
+
+● Own the technical design of LLM-based and agentic systems that serve Sales, Service and Supply Chain
+
+workflows, including assistants, retrieval over enterprise knowledge, tool-using agents that act against
+
+internal APIs, and document and data extraction pipelines.
+
+● Deliver those systems into the channels people actually use: web and in-app chat, email and SMS. Own
+
+the conversational contract across them, including threading, context carry-over, handoff to a human,
+
+and tone appropriate to the channel.
+
+● Take ideas from prototype to production: define the architecture, break it into workstreams, and stay
+
+accountable for what ships.
+
+● Build the parts that make AI safe to run in an enterprise: input and output guardrails, identity-aware
+
+access to tools and data, prompt versioning, and clear separation between internal and supplier-facing
+
+surfaces.
+
+● Design and maintain the tool layer, including MCP servers and internal tool interfaces, so agents reach
+
+business systems through contracts that are versioned, permissioned and testable.
+
+● Establish how we measure quality, including evaluation datasets, regression suites, tracing and
+
+production telemetry, so model and prompt changes are judged on evidence, not opinion.
+
+● Own the unit economics. Track cost per conversation and per resolution, and bring it down through
+
+model routing, context trimming, caching, batching and right-sized retrieval.
+
+● Integrate with the systems of record: ERP, supplier portals, service and CRM platforms, logistics and
+
+planning systems. Most of the difficulty in this role is integration and data, not model selection.
+
+● Review designs and code across the team, mentor engineers, and raise the technical bar through what
+
+you demonstrate rather than what you mandate.
+
+Lucid Motors | 1
+
+● Work with product and business stakeholders to decide what is worth building, and be willing to say
+
+when AI is the wrong tool for a problem.
+
+● Partner with security, platform and infrastructure teams on deployment, cost and compliance.
+
+What you'll bring
+
+● 9+ years building and operating production software, with 2+ years leading the technical direction of a
+
+team or a significant system.
+
+● Strong Python. Comfortable owning services end to end, including API design, testing, deployment and
+
+on-call reality.
+
+● Real production experience with LLM applications: retrieval-augmented generation, agent and
+
+tool-calling patterns, structured output, streaming, prompt design and iteration.
+
+● Strong hands-on experience with LLM engineering tooling such as Langfuse or LangSmith, used for
+
+tracing, prompt versioning, evaluation runs and production monitoring, not only local experiments.
+
+● Good working experience with MCP: building and consuming MCP servers, designing tool schemas, and
+
+handling authentication and permissions at the tool boundary.
+
+● Practical command of LLM cost optimization: model routing and tiering, context and prompt
+
+compression, prompt caching, batching, token budgeting, and knowing which lever to pull when spend
+
+moves the wrong way.
+
+● Experience delivering AI over customer and employee communication channels such as chat, email and
+
+SMS, and the integrations behind them.
+
+● Working knowledge of the model ecosystem and the trade-offs between hosted models, managed
+
+services and fine-tuning, enough to make a defensible choice and move on.
+
+● Solid cloud engineering on AWS (or equivalent): serverless and container workloads, event-driven design,
+
+IAM, networking basics, cost awareness.
+
+● Experience with the data stores behind AI systems, relational, document and vector, and with designing
+
+retrieval that stays accurate as content grows.
+
+● A concrete point of view on evaluating AI systems, and the discipline to build the harness before scaling
+
+the feature.
+
+● Clear written communication. You can explain a design to an engineer and a trade-off to a business lead
+
+in the same document.
+
+Nice to have
+
+● Experience in automotive, manufacturing, logistics or another operations-heavy domain.
+
+● Exposure to SAP, supply chain execution systems, EDI, or field service and CRM platforms.
+
+● Hands-on work with messaging and contact center platforms such as Twilio, Amazon SES or Pinpoint,
+
+Salesforce Service Cloud, or similar.
+
+● Background in security-sensitive AI work: prompt injection defense, data isolation between tenants or
+
+suppliers, red-teaming.
+
+● Multi-agent orchestration, or experience running an evaluation program at scale.
+
+● Contributions to open source, internal platforms, or published technical writing.

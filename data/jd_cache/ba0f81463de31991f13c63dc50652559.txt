@@ -1,0 +1,31 @@
+### **Minimum qualifications:**
+
+* Bachelor's degree in Computer Science, Machine Learning, a related technical field, or equivalent practical experience.
+* 2 years of experience in software development and machine learning engineering using Python or C++.
+* Experience with Machine Learning (ML), Natural Language Processing, Large Language Models (LLMs), or ML evaluation infrastructure.
+
+  
+
+### **Preferred qualifications:**
+
+* Master's degree in Computer Science, Artificial Intelligence, Machine Learning, or a related technical field.
+* Experience with Generative AI, LLM fine-tuning, prompt engineering, agentic workflows, automated evaluation, or multilingual Natural Language Processing (NLP).
+* Experience building and launching end-to-end machine learning features in production systems.
+
+**About the job**
+-----------------
+
+The Gemini team in DeepMind builds AI-powered product experiences for users across India, Asia-Pacific (APAC), and around the world. We advance Large Language Model (LLM) and multimodal capabilities across languages and translate research breakthroughs into helpful, reliable everyday experiences in the Gemini app.  
+  
+In this role, you will work at the intersection of machine learning quality and product engineering to make Gemini more accurate, natural, culturally relevant, and useful for millions of people globally.Artificial intelligence will be one of humanity’s most transformative inventions. At Google DeepMind, we are a pioneering AI lab with exceptional interdisciplinary teams focused on advancing AI development to solve complex global challenges and accelerate high-quality product innovation for billions of users. We use our technologies for widespread public benefit and scientific discovery, ensuring safety and ethics are always our highest priority.
+
+We are pushing the boundaries across multiple domains. Our global teams offer diverse learning opportunities and varied career pathways for those driven to achieve exceptional results through collective effort.
+
+**Responsibilities**
+--------------------
+
+* Design, implement, and launch improvements in LLM quality, multilingual fluency, grounding, and agentic workflows for the Gemini app.
+* Build scalable automated evaluation frameworks, benchmarks, and data pipelines to measure naturalness, factuality, and helpfulness.
+* Collaborate with research, product, and User Experience (UX) teams across DeepMind to prototype and ship production Artificial Intelligence (AI) features at scale.
+
+Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also Google's EEO Policy and EEO is the Law. If you have a disability or special need that requires accommodation, please let us know by completing our Accommodations for Applicants form.

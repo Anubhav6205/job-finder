@@ -1,0 +1,48 @@
+We are looking for a **GenAI Machine Learning Engineer (GenAI MLE)** with strong hands-on experience in building, deploying, evaluating, and scaling **Generative AI and Agentic AI solutions on Google Cloud Platform (GCP)**.
+
+  
+
+**Key Responsibilities:**
+
+* Design, develop, and deploy **Generative AI and Agentic AI applications** on GCP.
+* Build AI agents and agentic workflows using **Google ADK and Agent Engine**.
+* Work with **Vertex AI and Gemini** for LLM-based application development.
+* Develop **RAG-based solutions**, including retrieval, grounding, context management, and prompt engineering.
+* Implement **GenAI evaluation frameworks** to assess response quality, accuracy, relevance, groundedness, and overall application performance.
+* Build scalable AI applications using **Python** and integrate enterprise data and APIs.
+* Work with GCP services including **GCS, BigQuery, Cloud Run, and Document AI**.
+* Use **MLflow** for experiment tracking, model management, and ML/GenAI lifecycle management.
+* Support production deployment, monitoring, troubleshooting, and optimization of GenAI solutions.
+* Collaborate with Data Scientists, Architects, Engineers, Product teams, and business stakeholders to translate requirements into scalable AI solutions.
+* Participate in **Agile development practices**, sprint planning, reviews, and retrospectives.
+
+  
+  
+
+**Must-Have Skills**
+
+  
+
+* Strong experience in **Generative AI / Machine Learning Engineering**.
+* Hands-on experience with **GCP and Vertex AI**.
+* Strong knowledge of **Google ADK, Gemini, and Agent Engine**.
+* Experience building **RAG applications and AI agents**.
+* Strong understanding of **Prompt Engineering and GenAI Evaluation**.
+* Proficiency in **Python**.
+* Experience with **MLflow**.
+* Hands-on experience with **GCS, BigQuery, Cloud Run, and Document AI**.
+* Good understanding of production deployment and cloud-based AI solutions.
+* Strong **communication, stakeholder management, and collaboration skills**.
+* Experience working in an **Agile environment**.
+
+  
+
+**Good to Have**
+
+* Experience with **AWS AI/ML services**, particularly:
+
++ AWS SageMaker
++ Amazon Bedrock
+
+* Experience with multi-cloud AI/ML environments.
+* Exposure to GenAI monitoring, observability, governance, and production optimization.

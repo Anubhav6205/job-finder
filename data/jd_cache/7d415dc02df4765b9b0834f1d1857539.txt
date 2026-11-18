@@ -1,0 +1,211 @@
+DevOps Engineer
+
+  
+
+Job Role: DevOps Engineer
+
+Timing: Monday to Friday (3:00 PM IST to 1:00 AM IST)
+
+Type: Full Time
+
+Job Location: Remote
+
+  
+
+Summary
+
+Everestek is a modern technology consulting and digital engineering company helping global
+
+clients build scalable, secure, and cloud-native applications. We specialize in delivering
+
+innovative solutions through Cloud, DevOps, Platform Engineering, AI-assisted Engineering, and
+
+Automation.
+
+We are looking for a Mid-Level DevOps Engineer with hands-on experience in cloud platforms
+
+(AWS preferred, Azure/GCP exposure is a plus), Infrastructure as Code, CI/CD automation,
+
+Python development, and cloud operations. You will work closely with architects, technical leads,
+
+and development teams to build reliable cloud infrastructure, automate software delivery,
+
+develop internal engineering tools, and establish modern DevOps and AI-driven engineering
+
+practices across the organization.
+
+The ideal candidate should be passionate about automation, cloud technologies, AI-assisted
+
+engineering, platform engineering, and continuously improving developer productivity through
+
+intelligent automation.
+
+Key Qualifications & Skills
+
+1. 3+ years of hands-on experience working with one or more public cloud platforms (AWS
+
+preferred, Azure and/or GCP experience is a plus).
+
+2. Hands-on experience with Infrastructure as Code using Terraform (preferred), AWS
+
+CloudFormation, or AWS CDK.
+
+3. Experience building and maintaining CI/CD pipelines using GitHub Actions, Jenkins,
+
+AWS CodePipeline, CircleCI, or similar tools.
+
+4. Experience with containerization technologies such as Docker and container
+
+orchestration platforms like Amazon ECS or Kubernetes.
+
+5. Good understanding of cloud networking, compute, storage, identity, databases,
+
+monitoring, and security services, with hands-on experience in AWS services including
+
+IAM, EC2, VPC, S3, CloudWatch, Lambda, API Gateway, ECS, RDS, DynamoDB,
+
+Route53, Secrets Manager, KMS, ACM, and Systems Manager (SSM).
+
+6. Strong experience working in Linux environments.
+
+7. Strong programming skills in Python for automation, REST API integrations, CLI utilities,
+
+serverless applications, and developer tooling. Experience with Bash scripting is
+
+expected, while PowerShell, Java, or Node.js experience is a plus.
+
+8. Good understanding of networking concepts including TCP/IP, DNS, HTTP/HTTPS, Load
+
+  
+
+Balancers, SSL/TLS, reverse proxies, and VPC networking.
+
+9. Understanding of cloud security best practices including IAM, Security Groups,
+
+encryption at rest and in transit, secrets management, and least privilege access.
+
+10. Experience with Git and modern version control workflows including pull requests and
+
+code reviews.
+
+11. Experience implementing monitoring, logging, dashboards, and alerting using
+
+CloudWatch, Grafana, Prometheus, New Relic, ELK/OpenSearch, or similar tools.
+
+12. Experience troubleshooting production systems and participating in incident response.
+
+13. Experience with relational databases (MySQL, PostgreSQL) and NoSQL databases
+
+(DynamoDB, MongoDB).
+
+14. Understanding of reusable Infrastructure as Code modules, remote state management,
+
+environment separation, and infrastructure lifecycle management.
+
+15. Experience with infrastructure cost optimization and cloud resource tagging is a plus.
+
+16. Experience with GitOps, Policy as Code, or security scanning tools is a plus.
+
+17. AWS Certification (Cloud Practitioner, Developer Associate, SysOps Administrator,
+
+Solutions Architect Associate, or DevOps Engineer Professional) is a plus.
+
+AI & Intelligent Automation
+
+1. Experience using AI-assisted engineering tools such as GitHub Copilot, Codex, Gemini,
+
+Claude code, Cursor, Windsurf, or similar tools.
+
+2. Demonstrated ability to leverage Generative AI to improve engineering productivity
+
+through automation, code generation, infrastructure analysis, documentation, incident
+
+analysis, developer tooling, or DevOps workflows.
+
+Job Role
+
+1. Design, provision, and manage secure, scalable, and highly available AWS
+
+cloud infrastructure using Infrastructure as Code.
+
+2. Build, maintain, and enhance reusable Terraform modules and cloud
+
+infrastructure automation.
+
+3. Design, implement, and optimize CI/CD pipelines for application build,
+
+testing, security scanning, and deployment.
+
+4. Deploy and manage containerized applications using Docker and Amazon
+
+ECS or Kubernetes.
+
+5. Develop Python-based automation tools, scripts, internal utilities, and
+
+integrations to streamline infrastructure provisioning, deployments,
+
+operational tasks, and developer workflows.
+
+6. Implement monitoring, centralized logging, dashboards, alerting, and
+
+observability for production workloads.
+
+7. Operate and continuously improve production platforms by monitoring
+
+system health, troubleshooting incidents, performing root cause analysis,
+
+and implementing preventive improvements.
+
+8. Collaborate across multiple projects and cross-functional teams to deliver
+
+secure, scalable, and high-quality cloud solutions.
+
+9. Implement and enforce cloud security best practices, access controls,
+
+  
+
+secrets management, and compliance requirements.
+
+10. Continuously improve infrastructure performance, scalability, availability,
+
+and cloud cost optimization.
+
+11. Design and develop AI-powered DevOps utilities and automation to improve
+
+engineering productivity, deployment reliability, operational efficiency, and
+
+developer experience.
+
+12. Maintain technical documentation, deployment guides, architecture
+
+diagrams, and operational runbooks.
+
+13. Evaluate, adopt, and integrate AI-assisted engineering tools into DevOps
+
+workflows while ensuring security, quality, and governance standards are
+
+maintained.
+
+14. Participate in production releases, infrastructure upgrades, disaster
+
+recovery planning, and platform maintenance activities.
+
+15. Build reusable DevOps standards, templates, and best practices to be
+
+adopted across engineering teams.
+
+16. Stay current with emerging cloud technologies, AI advancements, DevOps
+
+best practices, and platform engineering trends, and proactively identify
+
+opportunities to improve engineering efficiency through automation and AI.
+
+17. Mentor junior engineers, conduct knowledge-sharing sessions, and
+
+contribute to building a strong DevOps culture across the organization.
+
+18. Champion AI-first engineering practices by identifying opportunities to
+
+automate repetitive tasks, accelerate software delivery, and build reusable
+
+AI-powered solutions for engineering teams.

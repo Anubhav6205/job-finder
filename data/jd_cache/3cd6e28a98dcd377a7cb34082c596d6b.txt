@@ -1,0 +1,74 @@
+**AI Engineer**  
+  
+We are looking for a technically skilled and impact-driven AI Engineer to design and develop advanced AI models across use cases such as multi-agent systems, (Graph) RAG, computer vision, and tabular prediction tasks. You will contribute across the full lifecycle of model experimentation, optimization, and production-readiness, collaborating closely with Data Engineers who handle orchestration and pipeline infrastructure. Operating from our Global Capability Center in Pune, you will work as part of a global team and play a key role in model innovation, scalable architecture design, and integration into production systems, with clear impact on business performance.  
+  
+**Key Responsibilities Model Development & Optimization**  
+
+* Independently design and train robust, reusable AI/ML models using frameworks like Kubeflow, PyTorch, TensorFlow, or HuggingFace.
+* Apply advanced techniques in deep learning, NLP, computer vision, and classical ML, ensuring models are explainable and scalable.
+* Optimize models for accuracy, speed, and resource efficiency, and collaborate with Data Engineers on deployment readiness. AI/ML System Design
+* Translate business use cases into scalable AI model architectures, including design of pre-processing strategies and feature engineering approaches.
+* Ensure alignment between data characteristics, model architecture, and expected system behavior in production.
+* Collaborate on integration patterns with Data Engineers to embed AI models in downstream workflows. Documentation & Standards
+* Write clear documentation on model assumptions, architecture choices, evaluation criteria, and recommended usage.
+* Contribute to the standardization of model development guidelines within the AI team to ensure reproducibility and traceability.
+
+  
+**Stakeholder Collaboration & Delivery**  
+· Support scoping and delivery of AI features and enhancements within broader data product initiatives.  
+
+* Partner with domain experts, business stakeholders, and functional analysts to iterate on model design and results interpretation.
+* Adapt solutions based on feedback and performance monitoring, ensuring business value is realized.
+
+  
+**Innovation & Capability Building**  
+· Stay up to date on emerging AI/ML methods, tools, and frameworks, and explore how these can improve our modeling practices.  
+
+* Share findings and contribute to team learning sessions, playbooks, or prototyping initiatives. Security & Compliance in AI
+* Design models with appropriate data privacy, access control, and bias mitigation considerations.
+* Ensure models meet compliance, governance, and interpretability standards relevant to the business context.
+
+  
+**Mentoring & Community**  
+
+* Mentor junior AI engineers on modeling approaches, model evaluation, and development best practices.
+* Contribute to a knowledge-sharing culture across the AI, data science, and engineering teams.
+
+  
+**Required Qualifications**  
+
+* Bachelor’s or Master’s degree in Computer Science, Artificial Intelligence, Data Science, or a related field.
+* 3–5 years of experience designing and implementing AI/ML models in production.
+* Strong Python development skills, with deep familiarity with ML/DL libraries (e.g., Kubeflow, PyTorch, TensorFlow, scikit-learn).
+* Demonstrated success with real-world AI use cases, including agents, vision, or forecasting.
+* Understanding of model lifecycle, versioning, monitoring, and deployment-readiness (in coordination with MLOps/ML Engineers).
+* Strong ability to collaborate in cross-functional teams and communicate modeling choices to technical and non-technical audiences.
+
+**Preferred Skills**  
+
+* Experience with transformers, embedding techniques, image recognition, or reinforcement learning.
+* Familiarity with Docker and secure deployments via API's for inference integration.
+* Understanding of data governance and AI ethics principles.
+* Ability to collaborate effectively across distributed teams (Europe, US, and India).
+* Familiarity with the Cloud, Google Cloud is preferred
+* Understanding of database technologies (OLTP vs OLAP vs graphs vs blob storage vs ..) and experience working with some of them.
+
+**WHAT’S IN IT FOR YOU**
+
+A family atmosphere , people-centric culture, where your emotional and physical well-being matters.
+
+A company of great colleagues with a global mindset, where you feel welcomed from day one.
+
+A competitive salary , medical insurance for family , retirement benefits Healthy work – life balance
+
+Internal career opportunities, professional development, including access to LinkedIn Learning and many in-house/external training courses
+
+Job security working for a global company with strong presence & commitment in India.
+
+**PEOPLE ARE AT OUR HEART**
+
+TVH is a global business with a family atmosphere, where people are at the center. We value clarity, mutual respect, kindness and open communication. Our people are down-to-earth, easy to work and engage with. We welcome differences and celebrate new ideas.
+
+**ABOUT TVH**
+
+TVH is a parts specialist for quality parts and accessories for material handling, industrial vehicles, and construction and agricultural equipment. Working at TVH is opting for a company that excels as an international market leader and is well-known for its unstoppable craving for innovation.

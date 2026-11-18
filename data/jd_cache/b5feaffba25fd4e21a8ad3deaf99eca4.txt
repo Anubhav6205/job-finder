@@ -1,0 +1,41 @@
+Job Description: Python / GenAI Full Stack Developer
+
+**Experience:**
+5–10 Years
+
+**Required Skills:**
+Python, FastAPI, React, PostgreSQL, RAG, Generative AI, Agentic AI
+
+Technical Skills & Responsibilities
+
+* Strong hands-on experience in Python development and backend application development.
+* Experience building scalable REST APIs using FastAPI or Flask.
+* Strong proficiency in React.js for developing dynamic and responsive user interfaces.
+* Good experience with PostgreSQL, database design, SQL queries, and performance optimization.
+* Hands-on experience with Generative AI, Large Language Models (LLMs), and prompt engineering.
+* Practical experience implementing Retrieval-Augmented Generation (RAG) applications.
+* Experience developing AI agents using Agentic AI frameworks and tools.
+* Knowledge of LangChain, LangGraph, LlamaIndex, or similar AI frameworks.
+* Experience integrating OpenAI or other LLM APIs into enterprise applications.
+* Understanding of vector databases such as Pinecone, FAISS, ChromaDB, or Weaviate.
+* Experience with AI agent orchestration, tool calling, memory management, and multi-agent workflows.
+* Knowledge of Docker, Git, CI/CD, and cloud platforms (AWS/Azure/GCP).
+
+Mandatory Skills
+
+1. Python
+2. FastAPI / Flask
+3. React.js
+4. PostgreSQL
+5. Generative AI / LLM
+6. RAG implementation
+7. Agentic AI – Creating and developing AI agents
+
+Preferred Skills
+
+* LangChain / LangGraph / LlamaIndex
+* OpenAI API / Azure OpenAI
+* Vector Databases
+* Prompt Engineering
+* Multi-Agent Systems
+* Docker and Cloud Deployment

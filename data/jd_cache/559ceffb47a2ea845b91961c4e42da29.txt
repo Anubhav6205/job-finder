@@ -1,0 +1,25 @@
+Overall 5-6 years of experience.
+  
+  
+Strong Python coding skills with experience at least 3-4 years experience in Python.
+  
+  
+Strong experience in python libraries (like NumPy, Pandas etc.)Strong experience in using Neo4J, Mongo DBStrong experience on any of the Python web development frameworks (FastAPI, Flask, Django)Experience in working as part of scrum team with knowledge of related ceremonies
+  
+  
+Strong communication skills.
+  
+  
+Understanding and experience on Gen AI implementations
+  
+  
+Experience on Langchain, Vector DB, Embeddings or related frameworks
+  
+  
+Experience on AI/ML model implementations using scikit learn, Tensor flow etc.
+  
+  
+Experience with Chat, IVR, Banking will be plus
+  
+  
+Google Cloud (GCP) knowledge

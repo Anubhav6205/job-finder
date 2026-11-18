@@ -1,0 +1,124 @@
+**Job Details**
+---------------
+
+Location:
+
+Hyderabad, Telangāna, IN
+
+Category:
+
+Information Technology
+
+Employment Type:
+
+Full time
+
+Job Ref:
+
+R2626513-333
+
+IND Associate Engineer, Data - GCC061
+
+We’re determined to make a difference and are proud to be an insurance company that goes well beyond coverages and policies. Working here means having every opportunity to achieve your goals – and to help others accomplish theirs, too. Join our team as we help shape the future.
+
+**Key Responsibilities**
+
+* Data and AI Engineering lead for large and complex data ecosystem leveraging data domains, data products, cloud and modern technology stack
+
+* Real-Time Data Streaming: Design, build and maintain scalable and robust real-time data streaming pipelines using technologies such as Apache Kafka, AWS Kinesis, Spark streaming, or similar.
+
+* Data and AI Engineering lead responsible for Implementing Data and AI pipelines that bring together structured, semi-structured and unstructured data to support AI and Agentic solutions. This Includes pre-processing with extraction, chunking, embedding and grounding strategies to get the data ready.
+
+* Develop Data and AI-driven systems to improve data capabilities, ensuring compliance with industry best practices.
+
+* Develop data domains and data products for various consumption archetypes including Reporting, Data Science, AI/ML, Analytics etc.
+
+* Implement efficient Retrieval-Augmented Generation (RAG) architectures and integrate with enterprise data infrastructure.
+
+* Collaborate with cross-functional teams to integrate solutions into operational processes and systems supporting various functions.
+
+* Stay up to date with industry advancements in GenAI and apply modern technologies and methodologies to our systems. This includes designing prototypes (POCs) and conduct experiments, and recommend innovative tools and technologies to enhance data capabilities enabling business strategy.
+
+* Model domain entities, relationships, and business logic in knowledge graphs (e.g., Neo4j, Amazon Neptune, RDF). Integrate data from multiple sources, ensuring canonical representation and semantic consistency.
+
+* Synthetic data generation: Develop and validate synthetic data to simulate rare events and edge cases, supporting robust agent evaluation. Integrate synthetic data workflows with automated testing frameworks to ensure consistent, scalable agent performance assessment.
+
+* Identify and Champion AI driven Data Engineering productivity improvements capabilities accelerating end-to-end data delivery lifecycle. This includes researching and implementing innovative solutions such as AI-driven auto-generation of data pipelines, advanced DevOps practices (AI augmented self-healing data pipelines) for data and automated data quality frameworks.
+
+* Semantic layer and Real time analytics: Design and implement scalable semantic layer with dynamic query translation to deliver real time insights for conversational analytics.
+
+* Integrate the semantic layers with AI/LLM platforms to provide low-latency, secure, and context-rich data access, optimized for high concurrency and aligned with enterprise governance standards.
+
+* Ensure the reliability, availability, and scalability of data pipelines and systems through effective monitoring, alerting, and incident management.
+
+* Implement best practices in reliability engineering, including redundancy, fault tolerance, and disaster recovery strategies.
+
+* Collaborate closely with DevOps and infrastructure teams to ensure seamless deployment, operation, and maintenance of data systems.
+
+* Mentor junior team members and engage in communities of practice to deliver high-quality data and AI solutions while promoting best practices, standards, and adoption of reusable patterns.
+
+* Develop graph database solutions for complex data relationships supporting AI systems, this also includes developing and optimizing queries (eg Cyhper, SPARQL) to enable complex reasoning, relationship discovery, and contextual enrichment for AI agents.
+
+* Apply GenAI solutions to insurance-specific data use cases and challenges.
+
+* Partner with architects and stakeholders to influence and implement the vision of the AI and data pipelines while safeguarding the integrity and scalability of the environment.
+
+**Required Skills & Experience**:
+
+* Bachelor's or Master's degree in Computer Science, Artificial Intelligence, or related field.
+
+* Data engineering experience including Data solutions, SQL and NoSQL, Snowflake, ETL/ELT tools, CICD, Bigdata, Cloud Technologies (AWS/Google/AZURE), Python/Spark, Datamesh, Datalake or Data Fabric.
+
+* Mastery level data engineering and architecture skills, including deep expertise in data architecture patterns, data warehouse, data integration, data lakes, data domains, data products, business intelligence, and cloud technology capabilities.
+
+* Expertise with cloud platforms (AWS, GCP, or Azure) and containerization technologies (Docker, Kubernetes).
+
+* Data engineering experience focused on supporting Generative AI technologies.
+
+* Hands on experience with Snowflake
+
+* Experience with building Data and AI pipelines that bring together structured, semi-structured and unstructured data. This includes pre-processing with extraction, chunking, embedding and grounding strategies, semantic modeling, and getting the data ready for Models and Agentic solutions.
+
+* Strong hands-on experience implementing production ready enterprise grade GenAI data solutions.
+
+* Experience with prompt engineering techniques for large language models.
+
+* Experience in implementing Retrieval-Augmented Generation (RAG) pipelines, integrating retrieval mechanisms with language models.
+
+* Intermediate mastery in processing and leveraging unstructured data for GenAI applications.
+
+* Intermediate mastery in implementing scalable AI driven data systems supporting agentic solutions (AWS Lambda, S3, EC2, Langchain, Langgraph, MCP, A2A).
+
+* Strong programming skills in Python and familiarity with deep learning frameworks such as PyTorch or TensorFlow.
+
+* Experience in vector databases, graph databases, NoSQL, Document DBs, including design, implementation, and optimization. (e.g., AWS open search, GCP Vertex AI, Neo4j, Spanner Graph, Neptune, Mongo, DynamoDB etc.).
+
+* Mastery in implementing data governance practices, including Data Quality, Lineage, Data Catalogue capture, holistically, strategically, and dynamically on a large-scale data platform.
+
+* Strong written and verbal communication skills and ability to explain technical concepts to various stakeholders.
+
+* Expert level collaboration skills across teams, decision making, conflict resolution and relationship building skills.
+
+* Expertise in mentoring and developing Junior AI or Data Engineers.
+
+* Familiarity Knowledge of evolving industry design patterns for AI.
+
+* Strong planning, organization, and execution skills.
+
+* Ability to provide thought leadership to dynamic and collaborative teams, demonstrating excellent interpersonal skills and time management capabilities.
+
+* Ability to understand and align deliverables to the departmental and organization strategies and objectives.
+
+* Ability to lead successfully in a lean, agile, and fast-paced organization, leveraging Scaled Agile principles and ways of working.
+
+* Leader and team player with a transformation mindset.
+
+* Ability to translate complex technical topics into business solutions and strategies, as well as turn business requirements into a technical solution.
+
+**Nice to Have**
+
+* Experience in multi cloud hybrid AI solutions.
+
+* Certifications in AI, or GCP or Snowflake
+
+* Experience in P&C or Employee Benefits Insurance industry

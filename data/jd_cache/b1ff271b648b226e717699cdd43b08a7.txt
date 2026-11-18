@@ -1,0 +1,67 @@
+Dear Candidate,
+
+  
+
+Warm Greetings from ITC infotech !
+
+  
+
+We are conducting a schedule interviews for experienced professionals with expertise in **Full stack AI Engineer.**
+
+  
+
+**Below details -**
+
+* **Date: Saturday,21st November,2026**
+* **Time: 9 am Onwards with scheduled candidates.**
+* **Mode: In-Person ( Face to Face only )**
+
+**Work Location: Outer Ring Road Mahadevapura**
+
+**Mode of work - All 5days WFO**
+
+
+
+**If you are interested and availilble to attend face to face discussion kindly replying to this email. We look forward to connecting with you**
+
+  
+
+**We are seeking full stack AI Engineer and have outlined the job description below.**
+
+We are looking for an engineer with strong hands-on experience **in React.js and TypeScript**, supported by **Node.js skills,** to build and maintain production-grade AI-enabled web applications.
+
+- Developing scalable React applications with reusable components, state management, responsive layouts, accessibility, and performance optimization.
+
+- Using Node.js to build or integrate APIs and backend services supporting frontend applications.
+
+- Integrating external AI/LLM services into applications, including streaming responses, tool calling, and reliable error handling.
+
+- Building agentic workflows involving tools, context management, and human approval where appropriate.
+
+- Owning production features from development through testing, deployment, monitoring, and ongoing support.
+
+- Applying secure integration practices, including server-side API key handling, authentication, and protection of sensitive data.
+
+- Working with Git, automated tests, CI/CD, and frontend development and integration tools.
+
+- Hands-on experience with ChatGPT / Claude APIs and AI-assisted development tools.
+
+- Relevant Claude/AI certifications or structured AI training.
+
+- Experience with retrieval-augmented generation (RAG), agent frameworks, and evaluation of AI outputs.
+
+  
+
+*We look forward to connecting with you !*
+
+**Thanks & Regards,**
+
+Gauri Pathak
+
+Assistant Manager- Talent Management |
+
+Mobile: + 91 9890985252
+
+**ITC Infotech**
+
+www.itcinfotech.com

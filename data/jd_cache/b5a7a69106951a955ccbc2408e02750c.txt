@@ -1,0 +1,87 @@
+**Role & responsibilities**
+
+  
+
+**AWS Engineering & Production Delivery: Design, build, test, deploy, and**
+
+**support production-ready cloud solutions using AWS services such as Lambda,**
+
+**API Gateway, ECS/Fargate, Step Functions, EventBridge, S3, DynamoDB, and**
+
+**RDS.**
+
+**• Enterprise Integration: Build secure, scalable integrations between AWS**
+
+**solutions and enterprise platforms such as ServiceNow, Microsoft 365, and data**
+
+**platforms using APIs and event-driven architectures.**
+
+**• DevOps & Infrastructure: Implement Infrastructure as Code using AWS CDK,**
+
+**CloudFormation, or Terraform, along with CI/CD pipelines, automated testing,**
+
+**monitoring, logging, and controlled releases.**
+
+**• AI-Enabled Solutions: Develop AI-powered applications, agents, LLM**
+
+**integrations, retrieval solutions, and intelligent workflows using platforms such as**
+
+**AWS Bedrock.**
+
+**• AI-Assisted Engineering: Effectively use GitHub Copilot, Claude Code, and**
+
+**similar tools while reviewing AI-generated code for quality, security, correctness,**
+
+**and production readiness.**
+
+**• Solution Architecture: Translate business requirements into scalable technical**
+
+**designs, evaluating AWS, SaaS, low-code, and custom development options**
+
+**based on cost, complexity, risk, security, and maintainability.**
+
+**• Security & Governance: Build solutions aligned with enterprise architecture,**
+
+**privacy, responsible AI, IAM least privilege, secrets management, and secure**
+
+**authentication standards.**
+
+**• Business Partnership: Work directly with business, product, and platform teams**
+
+**to understand problems, define outcomes, validate solutions, and continuously**
+
+**improve them after go-live.**
+
+**• Engineering Excellence & Mentorship: Conduct code and design reviews,**
+
+**establish reusable engineering patterns, mentor developers and BSAs, and**
+
+**escalate technical or platform risks with clear recommendations.**
+
+  
+
+**Who You Are (Basic Qualifications)**
+
+  
+
+* **Hands-on experience shipping production custom software in AWS**
+
+**services, APIs, integrations, testing, deployment, and production support. You will**
+
+**be expected to build, not only to specify.**
+
+* **Strong proficiency in at least one modern language (e.g., Python or TypeScript)**
+
+**and solid software engineering fundamentals — version control, code review,**
+
+**automated testing, and CI/CD.**
+
+* **Working knowledge of cloud architecture, security, and operations — IAM,**
+
+**networking basics, secrets management, logging, and monitoring.**
+
+* **Experience using AI to develop solutions — including AI-assisted coding and**
+
+**building AI-enabled features — with the discipline to verify what the tools**
+
+**produce.**

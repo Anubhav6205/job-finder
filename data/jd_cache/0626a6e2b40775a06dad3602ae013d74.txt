@@ -1,0 +1,25 @@
+Skills: Gen AI, RAG and LLM
+
+**Key Responsibilities**
+
+* Design and build LLM-powered applications using proprietary and open-source models.
+* Implement prompt engineering, Retrieval-Augmented Generation (RAG), tool/function calling, and agent workflows.
+* Deploy LLM solutions into cloud and enterprise environments with scalability and reliability.
+* Build inference APIs, microservices, and CI/CD pipelines for AI applications.
+* Monitor model quality, latency, cost, drift, and hallucinations in production.
+* Fine-tune and enhance models using parameter-efficient techniques where required.
+* Optimize inference performance using caching, batching, quantization, and prompt optimization.
+* Ensure security, privacy, and responsible AI guardrails in all deployments.
+* Collaborate with product, platform, and engineering teams to deliver enterprise AI solutions.
+
+**Required Skills & Experience**
+
+* Strong programming skills in Python; experience with backend APIs.
+* Hands-on experience with LLM frameworks (LangChain, LlamaIndex, or equivalent).
+* Experience building RAG pipelines using vector databases.
+* Knowledge of Docker, Kubernetes, cloud platforms, and CI/CD pipelines.
+* Familiarity with LLMOps / MLOps tools and monitoring systems.
+
+**Requirements added by the job poster**
+
+* 5+ years of work experience with Python (Programming Language)

@@ -1,0 +1,1 @@
+Hiring Data Scientist / AI Engineer in Bengaluru. Python, SQL, ML, Pandas, NumPy, Scikit-learn, XGBoost, statistics, feature engineering, NLP, GenAI, LLMs, RAG, LangChain and recommendation systems and cloud deployment preferred.

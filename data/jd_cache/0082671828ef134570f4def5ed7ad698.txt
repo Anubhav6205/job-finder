@@ -1,0 +1,73 @@
+\*Required Experience\*
+
+\* 6+ years of software engineering experience
+
+\* 3+ years developing AI/ML or GenAI applications
+
+\* Proven experience building production-grade AI Agent solutions
+
+\* Experience developing and deploying multi-agent systems
+
+\* Strong hands-on experience with Amazon Bedrock and AgentCore
+
+\* Experience building MCP servers and enterprise AI integrations
+
+\*Role Summary\*
+
+We are looking for a hands-on Senior Agentic AI Engineer to design, build, deploy, and operate enterprise-grade AI Agent solutions on AWS. The ideal candidate will have strong Python engineering skills and proven experience delivering production AI applications using Amazon Bedrock, Bedrock AgentCore, Multi-Agent architectures, Model Context Protocol (MCP), and enterprise integrations.
+
+This is a hands-on engineering and delivery role focused on building scalable, secure, and production-ready AI systems.
+
+\*Key Responsibilities\*
+
+\* Design and build autonomous and multi-agent AI systems using Amazon Bedrock and Bedrock AgentCore.
+
+\* Develop AI agents capable of planning, reasoning, tool usage, memory management, and workflow orchestration.
+
+\* Implement advanced orchestration patterns including supervisor agents, collaborative agents, hierarchical agents, and agent swarms.
+
+\* Build Human-in-the-Loop (HITL) workflows for controlled decision making and approvals.
+
+\* Design and develop MCP (Model Context Protocol) servers and MCP-enabled tools.
+
+\* Integrate AI agents with enterprise applications, databases, APIs, SaaS platforms, and business systems using MCP standards.
+
+\* Build Retrieval-Augmented Generation (RAG) applications using vector databases and enterprise knowledge sources.
+
+\* Build scalable backend services and APIs using Python and FastAPI.
+
+\* Containerize applications using Docker and deploy on ECS, EKS, Lambda, or AgentCore runtime environments.
+
+\* Implement monitoring, tracing, observability, security, governance, guardrails, and CI/CD.
+
+\*Required Technical Skills\*
+
+\* Amazon Bedrock
+
+\* Amazon Bedrock AgentCore
+
+\* MCP (Model Context Protocol)
+
+\* Agent-to-Agent (A2A) communication
+
+\* Multi-Agent Architectures
+
+\* CrewAI, LangGraph, LangChain, AutoGen
+
+\* Python
+
+\* FastAPI / REST APIs
+
+\* RAG and Vector Databases
+
+\* Docker, Kubernetes, Terraform
+
+\* AWS: Lambda, ECS, EKS, S3, DynamoDB, OpenSearch, EventBridge, IAM, CloudWatch
+
+Pay: ₹477,000.00 - ₹1,780,000.00 per year
+
+Benefits:
+
+* Flexible schedule
+
+Work Location: Hybrid remote in Pune, Maharashtra

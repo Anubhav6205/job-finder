@@ -1,0 +1,36 @@
+**Must Have**  
+**10+ years of hands on experience in Java application development.**  
+**Strong expertise in:**  
+**Java 17+**  
+**Spring Boot**  
+**Spring Cloud**  
+**Spring Security**  
+**Microservices Architecture**  
+**REST APIs**  
+**Kafka/Event Driven Architecture**  
+**Experience designing and building cloud native applications on AWS, Azure, or GCP.**  
+**Strong understanding of software design patterns, system design, scalability, and performance engineering.**  
+**Hands on experience with GitHub Copilot and AI assisted software development practices.**  
+**Experience conceptualizing, designing, and implementing Generative AI solutions using LLMs.**  
+**Knowledge of Prompt Engineering, RAG (Retrieval Augmented Generation), and AI application architecture.**  
+**Experience leading technical teams, conducting code reviews, and mentoring engineers.**
+
+**Good to Have**
+
+**Experience building Agentic AI solutions using frameworks such as LangGraph, LangChain, Semantic Kernel, CrewAI, or AutoGen.**  
+**Hands on experience with Azure OpenAI, OpenAI, Claude, Gemini, or similar LLM platforms.**  
+**Knowledge of Vector Databases and AI evaluation frameworks.**  
+**Kubernetes, Docker, OpenShift, GitHub Actions, Jenkins, and CI/CD pipelines.**  
+**Payments, Cards, Banking, or Financial Services domain experience, preferably Mastercard ecosystem exposure.**  
+**Exposure to AI governance, responsible AI practices, and secure AI solution development.**
+
+**Key Responsibilities**
+
+**Lead architecture, design, and development of enterprise scale Java applications.**  
+**Drive modernization initiatives using microservices and cloud native technologies.**  
+**Design and implement GenAI and Agentic AI solutions to enhance business processes and engineering productivity.**  
+**Champion GitHub Copilot adoption and AI assisted SDLC best practices.**  
+**Collaborate with architects, product owners, and cross functional teams to deliver high quality solutions.**  
+**Mentor engineers and provide technical leadership across the delivery lifecycle.**
+
+**This role is ideal for a seasoned Java engineering leader who combines strong backend engineering expertise with emerging Generative AI and Agentic AI solutioning capabilities.**

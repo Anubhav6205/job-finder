@@ -1,0 +1,66 @@
+**Cyber**
+
+Join Deloitte’s Cyber Engineering team as a Cyber Client Cyber Engineer - AI and help clients build secure, scalable, artificial intelligence (AI)-enabled cybersecurity solutions. In this forward-deployed engineering role, you will work with client teams to design, build, integrate, test, and deploy full-stack applications using agentic AI and automation. You will apply Python, web development, large language model (LLM) and agent orchestration, and enterprise integration skills from discovery through operational handover. You will use reference architectures and responsible AI practices to explain technical decisions and trade-offs to stakeholders.
+
+**Work you'll do**
+
+As a Cyber Client Cyber Engineer - AI on the Cyber Engineering team, you will be responsible for:
+
+* Partner with client business, cybersecurity, and technology stakeholders to identify automation opportunities, assess data and integration readiness, and prioritize use cases by value, risk, and delivery effort.
+* Design and build Python-based AI agents, automation, backend application programming interfaces (APIs), and web interfaces for cybersecurity and enterprise workflows.
+* Develop agent orchestration, prompts, tool integrations, and workflow controls; connect model services, enterprise applications, configuration management databases (CMDBs), vulnerability scanners, and asset inventories.
+* Apply secure development and responsible AI controls with architecture, application security, and AI governance stakeholders; use Claude Code and GitLab Duo for appropriate engineering and software development life cycle (SDLC) activities and support Microsoft Copilot solutions.
+* Define acceptance criteria; test frontend and backend components, AI outputs, source data, workflows, integrations, security controls, and recovery paths; and deploy applications through controlled engineering pipelines.
+* Produce solution designs, test evidence, user guidance, and operational runbooks; transfer knowledge to client teams or the automation Center of Excellence (CoE); and contribute reusable assets.
+
+**The team**
+
+Deloitte Cyber helps clients navigate the evolving threat landscape, operate with resilience, and proactively manage their security posture. Deloitte’s Cyber Engineering team builds technology that underpins the next generation of cybersecurity services.
+
+**Location: Bangalore, Hyderabad, Pune, Chennai**
+
+**Qualifications**
+
+Required:
+
+* Bachelor’s or Master’s degree in Computer Science, Engineering, or Information Technology
+* 5–8 years of hands-on software engineering experience, including full-stack application delivery and 1+ year building and deploying agentic AI, generative AI (GenAI), or large language model (LLM)-powered solutions in client or production environments.
+* Experience developing Python applications for AI, automation, backend services, data processing, and enterprise integrations; modular code; debugging; error handling; and automated testing.
+* Experience developing user interfaces with Hypertext Markup Language (HTML), Cascading Style Sheets (CSS), JavaScript or TypeScript, and React, Angular, or Next.js, and integrating interfaces with backend APIs.
+* Experience designing, building, and deploying AI agents and agentic workflows with tool execution, workflow state, context management, exception handling, and human approval steps; experience with LangChain or an equivalent LLM and agent orchestration framework, prompt engineering, and model and enterprise-tool APIs.
+* 1+ year of hands-on experience with an enterprise GenAI platform from Anthropic, Microsoft/OpenAI, or Google, including model integration and application deployment; hands-on experience with Claude Code and GitLab Duo AI agents for code interrogation, implementation, testing, debugging, and SDLC automation.
+* Experience applying cybersecurity, secure development, and responsible AI controls; ingesting and validating security data from CMDBs, vulnerability scanners, and asset inventories; mapping records across sources; building Representational State Transfer (REST) APIs; implementing authentication and authorization; using relational or NoSQL databases; and deploying applications on Microsoft Azure, Amazon Web Services (AWS), or Google Cloud Platform (GCP) with Git, continuous integration and continuous delivery (CI/CD), and Docker.
+
+Preferred:
+
+* Experience with Node.js or Java, frontend performance optimization, web accessibility, or reusable component design.
+* Experience with retrieval-augmented generation, Elasticsearch or OpenSearch, graph databases, or relational and NoSQL databases.
+* Experience in identity security, cloud security, detection engineering, reusable product engineering, or platform engineering.
+* Experience with Kubernetes, GitOps, or cloud-native application patterns; cloud or AI platform certifications.
+* Hands-on Microsoft Copilot development experience, including Copilot Studio or Microsoft 365 Copilot extensibility; agent and workflow configuration; enterprise data and API connections; testing; and client deployment.
+
+**Our purpose**
+
+  
+Deloitte’s purpose is to make an impact that matters for our people, clients, and communities. At Deloitte, purpose is synonymous with how we work every day. It defines who we are. Our purpose comes through in our work with clients that enables impact and value in their organizations, as well as through our own investments, commitments, and actions across areas that help drive positive outcomes for our communities.
+
+**Our people and culture**
+
+  
+Our inclusive culture empowers our people to be who they are, contribute their unique perspectives, and make a difference individually and collectively. It enables us to leverage different ways of thinking, ideas and perspectives, and bring more creativity and innovation to help solve our clients’ most complex challenges. This makes Deloitte one of the most rewarding places to work.
+
+**Professional development**
+
+  
+At Deloitte, professionals have the opportunity to work with some of the best and discover what works best for them. Here, we prioritize professional growth, offering diverse learning and networking opportunities to help accelerate careers and enhance leadership skills. Our state-of-the-art DU: The Leadership Center in India, located in Hyderabad, represents a tangible symbol of our commitment to the holistic growth and development of our people. Explore DU: The Leadership Center in India.
+
+**Benefits to help you thrive**
+
+At Deloitte, we know that great people make a great organization. Our comprehensive rewards program helps us deliver a distinctly Deloitte experience that helps that empowers our professionals to thrive mentally, physically, and financially—and live their purpose. To support our professionals and their loved ones, we offer a broad range of benefits. Eligibility requirements may be based on role, tenure, type of employment and/ or other criteria. Learn more about what working at Deloitte can mean for you.
+
+**Recruiting tips**
+
+  
+From developing a stand out resume to putting your best foot forward in the interview, we want you to feel prepared and confident as you explore opportunities at Deloitte. Check out recruiting tips from Deloitte recruiters.
+
+Requisition code: 375849

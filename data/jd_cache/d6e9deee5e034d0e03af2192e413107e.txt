@@ -1,0 +1,29 @@
+**Role:Ai Engineer with salesforce**
+
+**Experience: 7-10 Years**
+
+**Relevant : 7 Years**
+
+**Location: Pan India**
+
+**Notice: Immediate to 15 days**
+
+We are seeking a **Salesforce AI Engineer** to design, build, and deploy Generative AI, RAG, and agentic solutions across our Salesforce ecosystem.
+
+**Key Responsibilities**
+
+* Build GenAI, RAG, and predictive AI services using **Python** and modern LLM frameworks, integrated securely with Salesforce.
+* Develop Salesforce solutions using **Apex, LWC, Flow, SOQL/SOSL, and REST/SOAP APIs**.
+* Configure **Salesforce Agentforce, Data Cloud, Prompt Builder, and Einstein** features with reusable prompts, guardrails, and grounding strategies.
+* Maintain Salesforce security controls (FLS, sharing rules, permission sets), governor-limit compliance, and AI data privacy.
+
+**Required Qualifications**
+
+* Strong proficiency in **Python, Apex, LWC, Flow, and integration APIs**.
+* Hands-on experience with **LLMs, RAG, embeddings, vector search, prompt engineering, and tool calling**.
+* Experience integrating external AI platforms (Azure OpenAI, AWS Bedrock, or Vertex AI) with Salesforce using Named Credentials/OAuth.
+* **Preferred:** Hands-on experience with **Agentforce, Data Cloud**, LangChain/LlamaIndex, CI/CD, and Salesforce Developer/Architect certifications.
+
+If interested , kinldy share the cv to the mail id below.
+
+devika.pr@cielhr.com

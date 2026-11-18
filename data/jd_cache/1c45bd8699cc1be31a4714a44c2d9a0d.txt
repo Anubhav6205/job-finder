@@ -1,0 +1,15 @@
+**Essential Qualifications:**
+
+* 7+ years experience in application support & SRE implementation in a large-scale environment (preferably in banking domain).
+* Excellent troubleshooting skills in web & middleware platform (tomcat, Docker/Kubernetes & OCP etc.) based applications in Linux environments.
+* Good communication skills and actively participate and drive major incident calls.
+* Hands-on experience in supporting OCP applications and microservice architecture-based applications in large scale environments.
+* Hands on experience with monitoring/log analysis/dashboard tools such as AppDynamics, Splunk, Grafana, Prometheus, Thousand eyes etc.
+* Proficiency in shell scripting, ansible and one programming language such as python or JavaScript.
+* Good knowledge in DevOps tools - GitHub, Jenkins, UCD & Harness
+* Good understanding of AI/GenAI/Agentic AI concepts
+* Knowledge in Database and network environments.
+* Good knowledge in Agile and ITIL framework.
+* Strong analytical and problem-solving abilities, with quick adaptation to new technologies, methodologies and systems.
+* Self-learner, understand technology environment and deliver faster.
+* Bachelor’s Degree or equivalent experience in any software engineering discipline.

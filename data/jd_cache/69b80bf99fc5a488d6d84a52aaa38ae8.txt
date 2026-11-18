@@ -1,0 +1,74 @@
+**Job Description**
+**What you'll bring**
+You have foundational programming skills in Go Lang / C# /Java, Python, JavaScript and a genuine curiosity about how AI-native applications work. A basic understanding of APIs, microservices architecture, CI/CD practices, and cloud fundamentals is expected.
+  
+  
+Awareness of AI/LLM concepts, including prompt engineering, AI-assisted development, and basic evaluation techniques, is a plus. Familiarity with testing, debugging, logging, and structured development workflows will help you contribute from the start.
+  
+  
+1 to 3 years of relevant experience in software development with master’s or bachelor’s degree in computer science, engineering or equivalent.
+  
+  
+**What You'll Build**
+You'll contribute to AI-enabled application features in SAP Concur Travel through coding, testing, and debugging. LLM integration tasks, prompt testing, and AI output validation are part of the regular work. You'll help prepare evaluation datasets and participate in benchmarking workflows. System logs, metrics, and application behavior are things you'll monitor to spot issues and support observability improvements. CI/CD pipelines, deployment support, and basic automation workflows are areas where you'll contribute, along with maintaining clear documentation.
+  
+  
+**Where you belong**
+You will join the SAP Concur Travel Engineering AI & Core team in Labs India. SAP Concur offers cloud-based services that make it simple to manage travel and expenses. SAP Concur supports more than 54,000 businesses and 96 million users across 150+ countries, processing over one billion transactions annually.
+  
+  
+You'll work in a collaborative, global engineering environment with access to mentorship and structured learning. Knowledge sharing and honest technical feedback are part of how this team operates. You'll gain hands-on exposure to AI-first systems and modern development practices, not just observe them. If you're early in your career and want to build real technical depth in AI-native application engineering, this is a good fit.
+  
+  
+**Skills**
+**We value the skills you bring and support you to build on them through our learning and development opportunities. These are the skills associated with this role:**
+**Core Skills-**
+Foundational skills in Golang/C#, cloud basics (AWS/GCP/Azure), RDBMS, (SQL Server or MySql etc)REST APIs, and awareness of AI/ML and data pipeline concepts.
+  
+  
+*AI Adoption Capability, AI output quality assurance, AI-assisted development, context engineering, agentic orchestration, agentic engineering, application security, cloud architecture, observability, semantic retrieval, high availability engineering, troubleshooting, evaluations and benchmarking engineering, CI/CD.*
+Equal Employment Opportunity (EEO) Statement
+  
+  
+Our company does not discriminate in employment on the basis of race, color, religion, sex (including pregnancy and gender identity), national origin, political affiliation, sexual orientation, marital status, disability, genetic information, age, membership in an employee organization, retaliation, parental status, military service, or other non-merit factor.
+  
+  
+Additional Information
+  
+  
+**About SAP**
+With a global network of customers, partners, employees, and thought leaders, SAP helps the world run better and improves people’s lives.
+  
+  
+As a leader in enterprise applications and business AI, SAP stands at the nexus of business and technology. For over 50 years, organizations have trusted SAP to bring out their best by uniting business-critical operations spanning finance, procurement, HR, supply chain, and customer experience.
+  
+  
+We win with inclusion
+  
+  
+SAP’s culture of inclusion, focus on health and well-being, and flexible working models help ensure that everyone, regardless of background, feels included and can run at their best. At SAP, we believe we are made stronger by the unique capabilities and qualities that each person brings to our company, and we invest in our employees to inspire confidence and help everyone realize their full potential. We ultimately believe in unleashing all talent and creating a better world.
+  
+  
+SAP is committed to the values of Equal Employment Opportunity and provides accessibility accommodations to applicants with physical and/or mental disabilities. If you are interested in applying for employment with SAP and are in need of accommodation or special assistance to navigate our website or complete your application, please send an email with your request to the Recruiting Operations Team: Careers@sap.com.
+  
+  
+For SAP employees: Only permanent roles are eligible for the SAP Employee Referral Program, according to the eligibility rules set in the SAP Referral Policy. Specific conditions may apply for roles in Vocational Training.
+  
+  
+Qualified applicants will receive consideration for employment without regard to age, race, religion, national origin, ethnicity, gender (including pregnancy and childbirth), sexual orientation, gender identity or expression, protected veteran status, or disability, in compliance with applicable federal, state, and local legal requirements.
+  
+  
+Successful candidates might be required to undergo a background verification with an external vendor.
+  
+  
+AI Usage in the Recruitment Process
+  
+  
+For information on the responsible use of AI in our recruitment process, please refer to our Guidelines for Ethical Usage of AI in the Recruiting Process.
+  
+  
+Please note that any violation of these guidelines may result in disqualification from the hiring process.
+  
+  
+**Company Description**
+You'll join a supportive international team that values continuous learning and inclusive collaboration. With coaching from experienced developers and access to global resources, you'll grow your craft and contribute to products used worldwide.

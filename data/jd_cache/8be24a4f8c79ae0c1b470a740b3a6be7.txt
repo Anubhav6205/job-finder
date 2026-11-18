@@ -1,0 +1,50 @@
+**Title:** .Net Azure Developer
+
+**Hire Type:** Full-time
+
+**Location:** Hyderabad (Hybrid)
+
+  
+
+**Job Summary**
+
+We are looking for a skilled Azure Application Developer / Cloud Automation Engineer to design, develop, deploy, and support cloud-based applications and business process automations within the Microsoft Azure ecosystem. The ideal candidate should have strong hands-on development experience in C#/.NET or Python, along with practical experience working on Azure services such as Azure App Service and Azure Functions. The candidate will be responsible for end-to-end application development, API integrations, CI/CD pipelines, production support, and deployment activities.The role involves working with a blended U.S. and India-based team, contributing across multiple client projects, and adapting to changing project requirements. Candidates should also be comfortable using AI-assisted coding tools such as GitHub Copilot to improve development productivity.  
+**Key Responsibilities**
+
+* Design, develop, test, and deploy cloud-based applications and features using C#/.NET or Python.
+* Build, configure, and maintain applications using Azure App Service and Azure Functions.
+* Develop and integrate REST APIs to enable communication between applications and external systems.
+* Automate business workflows and operational processes using Azure services.
+* Manage application deployments, releases, and CI/CD pipelines using Azure DevOps or GitHub Actions.
+* Provide production support, troubleshoot application issues, identify root causes, and implement fixes.
+* Participate in code reviews and follow development standards, coding best practices, and version control processes using Git.
+* Leverage AI coding assistants such as GitHub Copilot or similar tools in daily development activities.
+* Collaborate with cross-functional teams across U.S. and India to deliver scalable and reliable solutions.
+* Adapt to different client engagements and project requirements as business priorities evolve.
+
+**Required Technical Skills**
+
+* Strong hands-on development experience in C#/.NET or Python.
+* Practical experience with Microsoft Azure services:
+
++ Azure App Service
++ Azure Functions
+
+* Experience developing and integrating REST APIs.
+* Hands-on experience with CI/CD pipelines using:
+
++ Azure DevOps
++ GitHub Actions
+
+* Experience in application deployment, release management, and production support.
+* Good understanding of Git and version control.
+* Daily hands-on usage of AI-assisted development tools such as GitHub Copilot or equivalent.
+
+**Nice-to-Have Skills**
+
+* Experience with Azure Service Bus and Azure Logic Apps.
+* Knowledge of Azure API Management.
+* Frontend development experience with React or Angular.
+* Exposure to LLM integrations and Azure OpenAI services.
+* Experience with application monitoring and logging using Azure Application Insights.
+* Understanding of cloud application architecture and integration patterns.

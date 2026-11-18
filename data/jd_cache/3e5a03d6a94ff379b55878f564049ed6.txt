@@ -1,0 +1,106 @@
+Make an impact with NTT DATA
+  
+Join a company that is pushing the boundaries of what is possible. We are renowned for our technical excellence and leading innovations, and for making a difference to our clients and society. Our workplace embraces diversity and inclusion – it’s a place where you can grow, belong and thrive.
+  
+  
+Your day at NTT DATA
+  
+The DevOps Engineer is a seasoned subject matter expert, responsible for consulting with internal clients about the software technology environment with medium to high complexity.
+  
+  
+This role translates business requirements into technology terms and develops more complex algorithms and programming code for software solutions.
+  
+  
+The primary objective of the DevOps Engineer is to design, test, implement and maintain software code that enables computer systems to perform specific tasks and assists with determining how technology can be applied to meet client needs.
+  
+  
+**Key responsibilities:**  
+
+* Works closely with Platform Specialists to receive detailed business/user requirement specifications that identify the goals of the program.
+* Assists with the preparation of a technical requirements document, including systems and flowcharts that diagrammatically show how the information will flow through the computer and its peripheral or related equipment.
+* Analyzes business requirements and ensures that the designed solution meets those requirements.
+* Transforms the detailed requirements into a complete, detailed systems design document that focuses on how to deliver the required functionality.
+* Performs proof of concept if required.
+* Compiles detailed technical specifications based on their designs for developers or IT Programmers to implement.
+* Converts a design into a complete information system. This includes acquiring and installing the systems environment, creating and testing databases, preparing test case procedures, preparing test files, coding, compiling, refining programs, and performing test readiness review and procurement activities.
+* Ensures that throughout the development phase, the process is documented including the development procedures for application use and security.
+* Examines any program errors in logic and data and makes the necessary recommendations to correct the program as required and/or escalate the problem accordingly.
+* Works with the required teams to assist with the installation and deployment of the application.
+* Assists with implementation preparation and implementation of the solution into a production environment.
+* Assists with the resolution of any problems identified in the integration and test phases.
+* Supports all the code sets and implementations that have been implemented in production in accordance with defined Service Level Agreements (SLAs) for the business.
+* Writes and distributes the task descriptions in a production environment to operate and maintain the solution that has been designed and implemented.
+* Assists with post-implementation process reviews.
+* Performs any other related task is required.
+
+**To thrive in this role, you need to have:**  
+
+* Seasoned knowledge on multi-technology application design best practices.
+* Ability to take holistic views of application environments, including hardware platforms, applications, databases, operating systems, and storage.
+* Ability to work with abstract concepts and have sound problem solving and analytical skills.
+* Seasoned technical understanding of development and platform engineering.
+* Excellent client-centricity with the ability to focus on business outcomes.
+* Highly organized with excellent planning skills.
+* Seasoned communication skills to effectively interact with a variety of stakeholders, including the technical teams and clients.
+* Ability to demonstrate impeccable attention to detail and work well within a team environment.
+* Excellent knowledge of project management principles to ensure that projects with clients are executed accordingly.
+* Ability to continuously contribute to the improvement of internal effectiveness by contributing to the improvement of current methodologies, processes, and tools.
+* Advanced knowledge to design, implement, and maintain continuous integration and continuous deployment (CI/CD) pipelines to automate the software build, test, and deployment processes.
+* Seasoned knowledge and experience with deployment and release management across environments.
+* Seasoned knowledge of Automation tooling and source code repositories.
+
+**Academic qualifications and certifications:**  
+
+* Bachelor’s degree or equivalent in Information Technology or related field.
+* Relevant DevOps certification preferred.
+* Relevant Agile related certification preferred.
+* Relevant certification of cloud platforms and services, for example (but not limited to) AWS, Azure, GCP.
+* Relevant certification of scripting and programming languages, for example (but not limited to) Bash, Python, Ruby.
+
+**Required experience:**  
+
+* Seasoned experience deploying software solutions to clients in an outsourced or similar IT environment.
+* Seasoned experience working in a multi-team environment across multiple geographies.
+* Seasoned programming/development experience including Agile processes such as SCRUM, KANBAN.
+
+**Workplace type:** Hybrid Working
+  
+  
+About NTT DATA
+  
+NTT DATA is a $30 billion business and technology services leader, serving 75% of the Fortune
+  
+  
+Global 100. We are committed to accelerating client success and positively impacting society through
+  
+  
+responsible innovation. We are one of the world’s leading AI and digital infrastructure providers, with
+  
+  
+unmatched capabilities in enterprise-scale AI, cloud, security, connectivity, data centers and
+  
+  
+application services. Our consulting and industry solutions help organizations and society move
+  
+  
+confidently and sustainably into the digital future. As a Global Top Employer, we have experts in more
+  
+  
+than 70 countries. We also offer clients access to a robust ecosystem of innovation centers as well as
+  
+  
+established and start-up partners. NTT DATA is part of NTT Group, which invests over $3 billion each
+  
+  
+year in RD.
+  
+  
+Equal Opportunity Employer
+  
+NTT DATA is proud to be an Equal Opportunity Employer with a global culture that embraces diversity. We are committed to providing an environment free of unfair discrimination and harassment. We do not discriminate based on age, race, colour, gender, sexual orientation, religion, nationality, disability, pregnancy, marital status, veteran status, or any other protected category. Join our growing global team and accelerate your career with us. Apply today.
+  
+  
+Third parties fraudulently posing as NTT DATA recruiters
+  
+  
+NTT DATA recruiters will never ask job seekers or candidates for payment or banking information during the recruitment process, for any reason. Please remain vigilant of third parties who may attempt to impersonate NTT DATA recruiters whether in writing or by phone in order to deceptively obtain personal data or money from you. All email communications from an NTT DATA recruiter will come from an nttdata.com email address. If you suspect any fraudulent activity, please contact us.

@@ -1,0 +1,87 @@
+**About Coupang**
+
+At Coupang, pricing decisions directly shape customer trust, category growth, market competitiveness, and long-term business trajectory. As pricing systems scale with sophisticated automation and data-driven models, identifying where customer outcomes, commercial performance, and market realities diverge requires forward-looking discovery beyond traditional reporting.
+
+The Audit Intelligence organization operates as an independent discovery engine across the pricing ecosystem. By leveraging AI technologies, advanced analytics, and rigorous audit methodologies, the team surfaces high-impact signals and empowers executive leadership to act on critical opportunities before they materialize into broader issues.
+
+**Role Overview**
+
+As an Audit Intelligence Analyst, you will build and run continuous intelligence systems that uncover customer trust opportunities, commercial growth vectors, competitive risks, and operational blind spots.
+
+Combining analytical rigor, business intuition, and AI-enabled workflows, you will convert large-scale operational and market data into high-value insights. Your work will directly guide pricing strategy, audit focus, and cross-functional execution.
+
+Collaborating with data engineers, AI agents, operations teams, and key stakeholders, you will detect weak signals in complex datasets before they impact customers or commercial performance.
+
+**Why This Role Matters**
+
+While traditional reporting explains past outcomes, this role anticipates future risks and opportunities.
+
+Operating guided by the Audit 2.0 core motto—"Find fast. Prove objectively. Escalate relentlessly. Drive fix that's permanent"—you will serve as a frontline catalyst for customer trust and price sharpness.
+
+Through synthesized customer, commercial, and market intelligence, you will safeguard customer trust and drive category competitiveness across Coupang's e-commerce landscape.
+
+**What You Will Do**
+
+**Generate Customer Intelligence**
+
+You will develop analytical frameworks that evaluate how pricing decisions influence customer trust, customer competitiveness, and long-term customer experience.
+
+Examples include, but are not limited to, identifying Blue Badge Trust risks where products may no longer meet customer trust expectations, surfacing pricing competitiveness gaps that impact customer conversion, detecting emerging price sharpness opportunities on highly trafficked pages, and identifying customer-facing pricing issues before they generate substantial dissatisfaction.
+
+**Generate Commercial Intelligence**
+
+You will identify commercial opportunities that improve growth, assortment quality, category performance, and customer adoption.
+
+Examples include, but are not limited to, identifying key products suffering from pricing-related performance challenges, surfacing underserved items experiencing abnormal demand declines on a MoM or YoY basis, identifying cold-start products requiring intervention, detecting seasonal recovery opportunities, and discovering long-tail or tail-of-tail products with unrealised commercial potential.
+
+**Generate Market Intelligence**
+
+You will continuously evaluate external competitive conditions and identify where Coupang is gaining or losing market competitiveness.
+
+Examples include, but are not limited to, competitiveness monitoring, comparative rank deterioration analysis, competitor promotion detection, external pricing movement analysis, category-level competitiveness shifts, and emerging market-share risk signals.
+
+**Leverage AI Agents and Automation**
+
+You will deploy modern LLMs and agentic workflows (GPT, Gemini, Kiro, Devin) to accelerate anomaly detection, automate repetitive investigations, and expand audit coverage.
+
+Examples include creating AI-assisted workflows that automatically investigate competitiveness losses, automate opportunity identification, generate summaries for leadership reviews, or support daily prioritization activities.
+
+**Build Repeatable Intelligence Mechanisms**
+
+You will help transform one-time analyses into scalable mechanisms that can continuously operate with minimal manual intervention.
+
+Examples include automated signal detection workflows, opportunity scoring systems, categorization frameworks, prioritization models, and intelligence dashboards used across Audit and Pricing organizations.
+
+**Basic Qualifications**
+
+* Bachelor's degree or equivalent practical experience.
+* 3+ years of experience in Analytics, Business Intelligence, Operations Excellence, Audit, Marketplace Operations, Pricing, Strategy, or related disciplines.
+* Strong analytical and problem-solving skills.
+* Experience working with large datasets.
+* Proficiency in SQL.
+* Strong written and verbal communication skills.
+
+**Preferred Qualifications**
+
+* Experience with AI-enabled analytical tools.
+* Experience using Python or automation frameworks.
+* Experience with Tableau, Power BI, Looker, or similar platforms.
+* E-commerce, marketplace, retail, or pricing experience.
+* Experience working with Machine Learning or Applied Science teams.
+
+**Type of work model**
+
+* Hybrid
+
+Our Hybrid work model: Coupang hybrid work model is designed to enable a culture of collaboration that acts a catalyst to enrich the experience of employees. Employees are required to work at least 3 days in the office per week, with the flexibility to work from home 2 days a week, depending on the role requirement. Some businesses may require more time in office due to nature of work.
+
+  
+
+**Details to consider**
+
+* Those eligible for employment protection (recipients of veteran's benefits, the disabled, etc.) may receive preferential treatment for employment in accordance with applicable laws.
+  
+
+**Privacy Notice**
+
+* Your personal information will be collected and managed by Coupang as stated in the Application Privacy Notice located below. https://privacy.coupang.com/en/land/jobs/

@@ -1,0 +1,90 @@
+**About Us**
+We are a global climate technologies company engineered for sustainability. We create sustainable and efficient residential, commercial and industrial spaces through HVACR technologies. We protect temperature-sensitive goods throughout the cold chain. And we bring comfort to people globally. Best-in-class engineering, design and manufacturing combined with category-leading brands in compression, controls, software and monitoring solutions result in next-generation climate technology that is built for the needs of the world ahead.
+  
+  
+Whether you are a professional looking for a career change, an undergraduate student exploring your first opportunity, or recent graduate with an advanced degree, we have opportunities that will allow you to innovate, be challenged and make an impact. Join our team and start your journey today!
+  
+  
+Key Responsibilities
+  
+  
+AI, Generative AI & Agentic Solutions:-
+  
+  
+
+* Design, develop, and deploy enterprise AI solutions using Azure AI, Azure OpenAI, and Generative AI technologies.
+* Build multimodal AI applications leveraging text, images, video, audio, telemetry, and IoT data.
+* Develop AI-powered troubleshooting, diagnostics, workflow automation, and intelligent copilots.
+* Design and implement AI Agents, MCP Servers, and agentic workflows to drive business productivity and automation.
+
+RAG & Knowledge Intelligence:-
+  
+  
+
+* Build Retrieval-Augmented Generation (RAG) solutions using Azure OpenAI and Azure AI Search.
+* Develop enterprise knowledge systems using embeddings, vector databases, semantic search, and document retrieval.
+* Integrate product, engineering, and support documentation into AI-powered experiences to improve accuracy and user outcomes.
+
+Intelligent Diagnostics & Insights:-
+  
+  
+
+* Develop AI solutions for product diagnostics, health scoring, anomaly detection, and predictive insights.
+* Build summarization and recommendation capabilities for service logs, incidents, alarms, technical documentation, and operational workflows.
+* Deliver actionable insights that improve troubleshooting, maintenance, and decision-making.
+
+Application Development & Cloud Engineering:-
+  
+  
+
+* Develop AI-enabled applications and APIs using Python, FastAPI, Azure AI Services, .NET, Angular, and React.
+* Design scalable microservices, agent endpoints, and enterprise integrations.
+* Deploy and manage AI solutions across Azure services including Azure OpenAI, AI Search, AI Foundry, AKS, APIM, and Container Apps.
+
+AI Quality, Security & Optimization:-
+  
+  
+
+* Establish AI evaluation frameworks to measure accuracy, relevance, latency, groundedness, and user satisfaction.
+* Optimize AI solutions for performance, scalability, reliability, and cost efficiency.
+* Implement secure-by-design practices, AI governance controls, identity management, and compliance standards.
+
+Cross-Functional Collaboration:-
+  
+  
+
+* Partner with Product, Architecture, Security, Data, and Engineering teams to deliver enterprise AI solutions.
+* Contribute to technical design, innovation initiatives, architecture reviews, and AI best practices.
+* Stay current with emerging trends in Generative AI, Agentic AI, multimodal AI, and cloud technologies.
+
+What Success Looks Like:-
+  
+  
+Deliver secure, scalable, and business-impacting AI solutions that enhance troubleshooting, automate workflows, generate operational insights, and accelerate innovation across the organization. Ideal candidates combine deep expertise in
+**Azure AI, RAG, Prompt Engineering, FastAPI, and Agentic AI**
+, with the flexibility to contribute across the full technology stack when needed.
+  
+  
+**Main changes:**
+Reduced repetition, grouped similar responsibilities into broader themes, emphasized business impact and modern AI skills (Agentic AI, RAG, MCP, Azure AI), and made the language more marketable and candidate-friendly while preserving key technical requirements.
+  
+  
+**Our Commitment to Our People**
+Across the globe, we are united by a singular Purpose: Sustainability is no small ambition. That’s why everything we do is geared toward a sustainable future—for our generation and all those to come. Through groundbreaking innovations, HVACR technology and cold chain solutions, we are reducing carbon emissions and improving energy efficiency in spaces of all sizes, from residential to commercial to industrial.
+  
+  
+Our employees are our greatest strength. We believe that our culture of passion, openness, and collaboration empowers us to work toward the same goal - to make the world a better place. We invest in the end-to-end development of our people, beginning at onboarding and through senior leadership, so they can thrive personally and professionally.
+  
+  
+Flexible and competitive benefits plans offer the right options to meet your individual/family needs. We provide employees with flexible time off plans, including paid parental leave (maternal and paternal), vacation and holiday leave.
+  
+  
+Together, we have the opportunity – and the power – to continue to revolutionize the technology behind air conditioning, heating and refrigeration, and cultivate a better future. Learn more about us and how you can join our team!
+  
+  
+**Our Commitment to Inclusion & Belonging**
+At Copeland, we cultivate a strong sense of inclusion and belonging where individuals of all backgrounds, and with diverse perspectives, are embraced and treated fairly to enable a stronger workforce. Our employee resource groups play an important role in culture and community building at Copeland.
+  
+  
+**Equal Opportunity Employer**
+Copeland is an Equal Opportunity/Affirmative Action employer. All qualified applicants will receive consideration for employment without regard to sex, race, color, religion, national origin, age, marital status, political affiliation, sexual orientation, gender identity, genetic information, disability or protected veteran status. We are committed to providing a workplace free of any discrimination or harassment.

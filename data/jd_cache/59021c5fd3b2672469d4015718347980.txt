@@ -1,0 +1,57 @@
+Company Profile:  
+  
+At CGI, we’re a team of builders. We call our employees members because all who join CGI are building their own company - one that has grown to 72,000 professionals located in 40 countries. Founded in 1976, CGI is a leading IT and business process services firm committed to helping clients succeed. We have the global resources, expertise, stability and dedicated professionals needed to achieve. At CGI, we’re a team of builders. We call our employees members because all who join CGI are building their own company - one that has grown to 72,000 professionals located in 40 countries. Founded in 1976, CGI is a leading IT and business process services firm committed to helping clients succeed. We have the global resources, expertise, stability and dedicated professionals needed to achieve results for our clients - and for our members. Come grow with us. Learn more at www.cgi.com.  
+  
+This is a great opportunity to join a winning team. CGI offers a competitive compensation package with opportunities for growth and professional development. Benefits for full-time, permanent members start on the first day of employment and include a paid time-off program and profit participation and stock purchase plans. We wish to thank all applicants for their interest and effort in applying for this position, however, only candidates selected for interviews will be contacted. No unsolicited agency referrals please.  
+  
+Job Title: Jr Data Engineer with GenAI  
+Position: Software Engineer  
+Experience: 3-6 years of experience  
+Main location: Hyderabad  
+Employment Type: Full Time  
+  
+Essential skills:  
+  
+. Looking for a Data Engineer to analyze new data system requirements and implement efficient data migration models.  
+. Design, develop, and deploy generative AI solutions using advanced models for use cases like text generation, summarization, and personalization.  
+. Build and optimize scalable data pipelines for preprocessing, model training, and deployment, with strong programming skills in Python and experience in frameworks like LangChain, MCP Servers,  
+. Hands on experience working with RAG, vector databases, prompt engineering.  
+. Develop frameworks, libraries, and templates to enable consistent and efficient creation of feature pipelines across teams.  
+. Define, document, and enforce standards for data schemas and pipeline development.  
+. Guide Management Information Systems (MIS) teams in implementing reliable feature pipelines and robust data validation mechanisms.  
+. Own and manage the processes for feature registration, discovery, lineage, and versioning.  
+  
+#LI-SB15
+
+**Your future duties and responsibilities**
+
+**Required qualifications to be successful in this role**
+
+Must have Skills:  
+Python,  
+Hands-on expertise with Apache Spark / PySpark and SQL,  
+Design, develop, and deploy generative AI solutions using advanced models,  
+workflow orchestration tools such as Apache Airflow.  
+  
+Nice to Have Skills:  
+Knowledge of data governance, security, lineage, and compliance in enterprise environments.  
+Contributions to open-source data projects or cloud data migration tools.  
+Strong knowledge data architecture in banking domain.  
+Excellent organizational and analytical abilities.  
+Outstanding problem solver.  
+Good written and verbal communication skills.
+
+**Together, as owners, let’s turn meaningful insights into action.**  
+  
+Life at CGI is rooted in ownership, teamwork, respect and belonging. Here, you’ll reach your full potential because…  
+  
+You are invited to be an owner from day 1 as we work together to bring our Dream to life. That’s why we call ourselves CGI Partners rather than employees. We benefit from our collective success and actively shape our company’s strategy and direction.  
+  
+Your work creates value. You’ll develop innovative solutions and build relationships with teammates and clients while accessing global capabilities to scale your ideas, embrace new opportunities, and benefit from expansive industry and technology expertise.  
+  
+You’ll shape your career by joining a company built to grow and last. You’ll be supported by leaders who care about your health and well-being and provide you with opportunities to deepen your skills and broaden your horizons.
+  
+  
+That same commitment to fairness extends to how we use technology. To support our recruitment team, AI tools may be used to help assess applications though they never replace human judgement. All hiring decisions remain entirely in the hands of our recruitment professionals.  
+  
+Come join our team—one of the largest IT and business consulting services firms in the world.

@@ -1,0 +1,79 @@
+At EY, you’ll have the chance to build a career as unique as you are, with the global scale, support, inclusive culture and technology to become the best version of you. And we’re counting on your unique voice and perspective to help EY become even better, too. Join us and build an exceptional experience for yourself, and a better working world for all.
+  
+  
+**Prompt Engineer – Microsoft Copilot & Copilot Studio**
+**Position Summary**
+EY’s GDS Assurance Digital team designs and deploys AI enabled solutions that transform audit and assurance workflows at scale. As a Prompt Engineer – Microsoft Copilot & Copilot Studio, you will be responsible for designing, engineering, testing, and governing high quality prompts, agents, and conversational workflows that power Microsoft Copilot–based solutions for Assurance professionals.
+  
+  
+This role sits at the intersection of Assurance domain knowledge, Generative AI behaviour, and Microsoft Copilot platform engineering. You will ensure Copilot solutions are accurate, explainable, safe, compliant, and engagement ready, while delivering measurable productivity and quality outcomes for audit teams.
+  
+  
+**Key Responsibilities**
+
+* Prompt Engineering & AI Behaviour Design
+
++ Design, refine, and optimize prompts for Microsoft Copilot and Copilot Studio to support audit, controls, risk, and reporting use cases.
++ Engineer multi turn conversational flows, system prompts, grounding instructions, and response constraints aligned to Assurance methodology.
++ Apply prompt patterns such as role based prompting, chain of thought structuring, guardrails, and retrieval augmented generation (RAG).
++ Continuously test and improve prompt performance for accuracy, consistency, explainability, and hallucination reduction.
+
+* Microsoft Copilot & Copilot Studio Engineering
+
++ Build and configure Copilot Studio agents including topics, triggers, entities, actions, plugins, and orchestration logic.
++ Integrate Copilot Studio with enterprise data sources, workflows, APIs, and assurance tools in line with security and governance standards.
++ Design agent routing and orchestration logic to support multi agent or domain specific Copilot experiences.
++ Collaborate with platform and engineering teams to align Copilot implementations with Microsoft and EY architectural standards.
+
+* AI Quality, Risk & Governance
+
++ Define and execute AI testing strategies including prompt validation, negative testing, edge case handling, and output evaluation.
++ Ensure Copilot solutions meet AI governance, risk management, and compliance expectations (e.g., explainability, traceability, human in the loop).
++ Support AI certification, QRM reviews, and engagement readiness assessments for Copilot based solutions.
++ Document prompt logic, assumptions, limitations, and usage guidance for audit and risk review purposes.
+
+* Adoption, Change & Enablement
+
++ Support rollout of Copilot solutions through user guidance, prompt playbooks, and best practice documentation.
++ Train Assurance users on effective Copilot interaction and responsible usage.
++ Gather user feedback and usage insights to iteratively improve prompt effectiveness and agent design.
+
+* Research & Continuous Improvement
+
++ Stay current on Microsoft Copilot, Copilot Studio, Azure OpenAI, and emerging prompt engineering techniques.
++ Evaluate new Copilot features and GenAI capabilities for applicability to Assurance use cases.
++ Contribute to reusable prompt libraries, agent templates, and design standards across the Assurance Digital portfolio.
+
+**Required Experience & Skills**
+
+* 4–7 years of experience in AI enabled product, automation, or digital roles.
+* Hands on experience with prompt engineering for LLM based systems.
+* Practical experience building solutions using Microsoft Copilot and/or Copilot Studio, Python, LangGraph.
+* Strong understanding of LLM behaviour, limitations, risks, and evaluation techniques.
+* Ability to translate complex business or regulatory requirements into structured AI interactions.
+* Experience working in Agile delivery models with cross functional global teams.
+* Excellent communication skills; ability to explain AI behaviour to non technical stakeholders.
+
+**Preferred / Additional Capabilities**
+
+* Familiarity with Assurance, Audit, Risk, or Regulatory workflows.
+* Experience with RAG patterns, vector search, and enterprise data grounding.
+* Exposure to AI governance, risk management, or model validation frameworks.
+* Knowledge of Azure services and API based integrations.
+* Ability to create conversation flows, prompt maps, and AI interaction diagrams.
+
+**What Success Looks Like**
+
+* Copilot solutions that deliver trusted, high quality, audit ready outputs.
+* Prompts and agents that are reusable, scalable, and compliant by design.
+* Strong adoption and positive feedback from Assurance practitioners.
+* Reduced rework, improved efficiency, and enhanced audit quality through AI assistance.
+
+**EY | Building a better working world**
+EY exists to build a better working world, helping to create long-term value for clients, people and society and build trust in the capital markets.
+  
+  
+Enabled by data and technology, diverse EY teams in over 150 countries provide trust through assurance and help clients grow, transform and operate.
+  
+  
+Working across assurance, consulting, law, strategy, tax and transactions, EY teams ask better questions to find new answers for the complex issues facing our world today.

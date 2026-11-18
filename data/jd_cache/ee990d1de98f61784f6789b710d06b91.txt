@@ -1,0 +1,67 @@
+**What You'll Do**
+==================
+
+* Configure and customise Amperity, including data sources, identity stitching, segments and destinations.
+* Configure and support Airship push notifications, in-app messages, audience targeting and automations.
+* Configure and support Mailgun sending domains, templates, webhooks, suppression lists and delivery settings.
+* Build and maintain marketing technology SnapLogic flows and API and webhook integrations between marketing platforms, Azure services and other systems.
+* Troubleshoot audience, messaging and delivery issues, including email deliverability (SPF, DKIM, DMARC, bounces and suppressions) and push opt-in issues.
+* Validate technical campaign readiness, including audience counts, data feeds, templates, test sends and tracking.
+* Apply data privacy and consent requirements when handling customer data.
+* Coordinate vendor support tickets and escalations, and document permissions, platform procedures and runbooks.
+* Monitor platform health and scheduled jobs, and take part in rotational weekend and holiday support coverage for campaign-critical periods.
+
+**Required Skills & Experience**
+================================
+
+**Marketing Platforms**
+-----------------------
+
+* 4+ years of experience in marketing technology engineering, platform administration or integration engineering.
+* Hands-on experience with Amperity, Airship and Mailgun, or demonstrable depth in comparable platforms with the ability to ramp up quickly (for example, Segment, mParticle or Tealium; Braze or OneSignal; SendGrid or Amazon SES).
+* SaaS administration experience, including users, roles, permissions and configuration management.
+
+**Integration & Data**
+----------------------
+
+* Hands-on experience with SnapLogic or a comparable integration platform (MuleSoft, Boomi, Workato).
+* Working knowledge of REST APIs, JSON and webhooks, using tools such as Postman.
+* Working SQL skills for audience and data validation, ideally with Azure SQL.
+* Understanding of audience data concepts such as identity resolution, segmentation, consent and preference management.
+* Email delivery diagnostics, including DNS authentication, bounce handling and reputation basics.
+
+**Delivery & Collaboration**
+----------------------------
+
+* Ability to work with marketing operations, engineering and vendor teams to resolve issues.
+* Awareness of data privacy regulations such as GDPR and CCPA.
+* Clear documentation habits and written and verbal communication with client stakeholders.
+* Familiarity with Agile delivery practices and ticketing tools such as Jira.
+
+**Nice to Have**
+================
+
+* SnapLogic, Amperity, Airship or other marketing platform certifications.
+* Exposure to Databricks or other data platforms used for audience data.
+* Basic scripting in Python, JavaScript or C#.
+* Experience with HTML email templates and personalisation.
+* Exposure to Azure services such as Functions, Event Hubs and Azure SQL.
+
+**What We're Looking For**
+==========================
+
+* Curious technologist who enjoys working where marketing, data and engineering meet.
+* Methodical troubleshooter who investigates issues end to end.
+* Detail-oriented operator who validates before anything goes live.
+* Collaborative team member who communicates clearly with technical and non-technical stakeholders.
+
+**Why Join Us?**
+================
+
+* Genpact is the Agentic Operations company, where applied AI meets context-rich process intelligence. Here, you will help run and continuously improve business-critical web and marketing technology platforms for enterprise clients.
+* Collaborate with experienced product, design, engineering and client teams on high-traffic, consumer-facing digital experiences.
+* Use AI-assisted tools in day-to-day delivery, with your judgment shaping the outcome.
+* Grow through hands-on delivery, certifications, knowledge sharing and modern engineering practices.
+* Join a flexible, inclusive and high-performing team culture.
+
+We may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses. These tools assist our recruitment team but do not replace human judgment. Final hiring decisions are ultimately made by humans. If you would like more information about how your data is processed, please contact us.

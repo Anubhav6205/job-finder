@@ -1,0 +1,67 @@
+About Us:
+
+Seismic is the Go-To-Market Performance company, driving how organizations turn their strategy into revenue. Seismic brings together signals from customer conversations, buyer engagement, governed content, coaching and seller behavior to turn intelligence into winning action. Through its AI revenue execution platform, the company equips customer-facing teams with the insights, governance, and contextual guidance they need to execute with confidence and deliver measurable business outcomes. Trusted by 2,500 organizations and over 3.5 million users around the globe, Seismic is headquartered in San Diego with offices across North America, Europe and Asia-Pacific. Learn more at seismic.com.
+
+Seismic is committed to building an inclusive workplace that ignites growth for our employees and creates a culture of belonging that allows all employees to be seen and valued for who they are. Learn more about DEI at Seismic here.
+
+Overview:
+
+Seismic is a leader in sales enablement technology, delivering integrated solutions that connect marketing, sales, and buyers to drive meaningful engagement. We develop cutting-edge SaaS solutions, ensuring innovation, quality, and global reach to meet our customer needs.
+
+We specialize in delivering modern, scalable, and multi-cloud solutions that empower businesses to succeed in today's digital era. Leveraging the latest advancements in technology, including Generative AI, we are committed to driving innovation and transforming the way businesses operate.
+
+The Support Engineer I is a key member of the Customer Support team, directly assisting users of our software, which is utilized by some of the world’s largest brands and agencies. This individual will work collaboratively with customers and internal resources to field, research, diagnose, and resolve inquiries.
+
+The ideal candidate is a self-starter with a positive, motivated attitude who thrives in dynamic environments. If you are someone who is passionate about technology, tech support, and customer service, capable of handling diverse situations effectively via customer support cases and chat conversations, we want to hear from you!
+
+Who you are::
+
+* 2-3 years of relevant work experience.
+* Positive, motivated, and proactive attitude.
+* Strong academic record, demonstrated success in achieving goals, and a Bachelor’s degree preferred.
+* Ability to empathize with customer concerns and understand their key business objectives and challenges.
+* Comfort and adaptability in dynamic environments with changing priorities.
+* Excellent organizational, time management, multitasking, and attention to detail skills.
+* Analytical mindset with the ability to recognize trends in customer submissions.
+* Proficiency with written and oral communication, ensuring clarity and precision.
+* Strong listening skills and the ability to interpret complex questions.
+* Demonstrated interest in technology and solving challenging technical problems.
+* Desire to work in a high-growth, fast-paced environment.
+* Comprehensive understanding and technical knowledge across the different Seismic SaaS offerings.
+* Ability to troubleshoot common customer issues using tools such as HAR files, New Relic logging, and browser session information.
+* Experience with ServiceNow, Jira, Salesforce, or similar customer service systems is a plus.
+
+* Familiarity with Google Apps, iOS and Android, Microsoft Office, and other business applications.
+* Makes an impact on resolving customer issues while enhancing the ability to resolve issues requiring cross-departmental collaboration.
+* May support multiple channels of support.
+* Deals with conflict constructively, seeks guidance and feedback from others, leans on senior team members to learn best practices.
+* Communicates clearly and effectively with other engineers and external teams.
+* Is able to communicate and interact well with manager, team members, and other professionals in the team as well as cross-functionally at the same level.
+
+What you'll be doing::
+
+* Assist customers with primary issues and follow-up questions.
+* Diagnose customer issues and perform initial bug triage to determine severity.
+* Deliver an exceptional customer experience during all interactions.
+* Utilize the Knowledge Base and other tools to provide answers to customer questions.
+* Stay current on software updates by attending product and feature training sessions.
+* Demonstrate a growing expertise in the system and assist with ongoing Support Team initiatives and projects as needed.
+* Document and report bugs encountered during support interactions, ensuring they are logged accurately for engineering teams.
+* Identify and escalate complex issues.
+* Provide detailed and personalized support to customers, including best practices and preventive measures.
+* Work closely with other support engineers and departments to resolve customer issues efficiently.
+* Manage day-to-day case work and assigned tasks in a reliable manner.
+* Produce high-quality work and resolutions with limited direction.
+* Determine the best course of action for timely resolution.
+* Provide timely response and escalation of customer issues in accordance with established SLAs and support processes.
+* Regularly contribute to internal support meetings by taking ownership of cases and sharing insights on the cases reviewed. Occasionally, lead the L1 call.
+* Follow best practices around queue management and stay within target queue size.
+* Take ownership of cases comparable to other team members.
+* Manage case and chats for high customer satisfactions scores with minimal backlog and low MTTR.
+* Contribute to the support knowledge base for customers and internally.
+
+Job Posting Footer:
+
+Please note this job description is not designed to cover or contain a comprehensive listing of activities, duties or responsibilities that are required of the employee for this job. Duties, responsibilities and activities may change at any time with or without notice.
+
+Please be aware we have noticed an increase in hiring scams potentially targeting Seismic candidates. Read our full statement on our Careers page.

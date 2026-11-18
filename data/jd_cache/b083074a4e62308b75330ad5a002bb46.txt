@@ -1,0 +1,71 @@
+**Company Description**
+Renesas is one of the top global semiconductor companies in the world. We strive to develop a safer, healthier, greener, and smarter world, and our goal is to make every endpoint intelligent by offering product solutions in the automotive, industrial, infrastructure and IoT markets. Our robust product portfolio includes world leading MCUs, SoCs, Analog and power products, plus Winning Combination solutions that curate these complementary products. We are a key supplier to the world’s leading manufacturers of electronics you rely on every day; you may not see our products, but they are all around you.
+  
+  
+Renesas employs roughly 21,000 people in more than 30 countries worldwide. As a global team, our employees actively embody the Renesas Culture, our guiding principles based on five key elements: Transparent, Agile, Global, Innovative, and Entrepreneurial. Renesas believes in, and has a commitment to, diversity and inclusion, with initiatives and a leadership team dedicated to its resources and values. At Renesas, we want to build a sustainable future where technology helps make our lives easier. Join us and build your future by being part of what’s next in electronics and the world.
+  
+  
+**Job Description**
+**About the Role**
+We are looking for a
+**Senior AI Engineer**
+with deep expertise in Agentic AI, Multi-Agent Systems, MCP (Model Context Protocol), and LLM-powered applications.
+  
+  
+This role requires an engineer who can independently drive AI initiatives from idea to production. You will be responsible for identifying opportunities, building proofs of concept, validating business value, designing scalable architectures, and delivering production-grade AI solutions.
+  
+  
+The ideal candidate has hands-on experience building intelligent agents that can reason, plan, use tools, collaborate with other agents, and solve real business problems.
+  
+  
+**Responsibilities**
+
+* Design, build, and deploy Agentic AI solutions using modern LLMs and AI frameworks.
+* Architect and implement multi-agent systems with agent orchestration, planning, memory, and tool usage capabilities.
+* Design and develop MCP-based integrations to connect agents with enterprise systems, APIs, data sources, and external tools.
+* Build Retrieval-Augmented Generation (RAG) systems using enterprise knowledge sources and vector databases.
+* Define agent workflows, reasoning strategies, evaluation frameworks, and guardrails for reliable AI behavior.
+* Drive AI initiatives from proof-of-concept through production deployment and ongoing optimization.
+* Collaborate with product and engineering teams to translate business requirements into AI-powered solutions.
+* Build reusable AI components, frameworks, and platform capabilities that accelerate future AI development.
+* Establish best practices for prompt engineering, agent design, evaluation, observability, and governance.
+* Mentor other engineers and provide technical leadership for AI initiatives.
+
+**Qualifications**
+**Required Qualifications**
+
+* Bachelor's or Master's degree in Computer Science, Artificial Intelligence, Software Engineering, or a related field.
+* 6+ years of software engineering and AI application development experience.
+* Proven experience building and deploying production-grade Agentic AI solutions.
+* Strong understanding of LLM capabilities, limitations, reasoning patterns, and agent architectures.
+* Hands-on experience with multi-agent orchestration frameworks such as LangGraph, AutoGen, CrewAI, Semantic Kernel, OpenAI Agents SDK, or similar platforms.
+* Experience building MCP servers, MCP clients, tools, and integrations.
+* Strong experience designing and implementing RAG systems and enterprise knowledge retrieval solutions.
+* Strong proficiency in Python and modern backend development practices.
+* Experience integrating LLM providers such as OpenAI, Azure OpenAI, Anthropic, Gemini, or open-source models.
+* Experience building scalable APIs and AI-powered services.
+* Excellent system design, debugging, and problem-solving skills.
+* Strong communication skills and the ability to work independently with end-to-end ownership.
+
+**Preferred Qualifications**
+
+* Experience with AI evaluation frameworks such as LangSmith, DeepEval, RAGAS, TruLens, or similar tools.
+* Experience with vector databases such as Pinecone, Weaviate, Qdrant, Chroma, or Azure AI Search.
+* Experience deploying AI solutions on Azure, AWS, or GCP.
+* Experience leading technical initiatives and mentoring engineers.
+
+**What We Are Looking For**
+We are specifically looking for engineers who have built and shipped production AI agents and multi-agent systems.
+  
+  
+Candidates whose experience is primarily limited to prompt engineering, chatbot development, or traditional machine learning without hands-on ownership of agentic workflows, agent orchestration, MCP integrations, and production AI systems may not be a fit for this role.
+  
+  
+**Additional Information**
+Altium Limited, a part of the Renesas Group and headquartered in San Diego, California, is a global software company accelerating the pace of electronics innovation. We are redefining electronic product creation in a software-defined world with our industry-first cloud-based platform that unites every stakeholder and phase of electronics development.
+  
+  
+From startups to world’s technology giants, our digital platforms give more power to PCB designers, supply chain, and manufacturing, letting them collaborate as never before. At Altium, our teams are empowered to innovate, collaborate globally, and help create the future of electronics development.
+  
+  
+We believe in rewarding our employees with a competitive benefits package alongside their salary. More information will be provided during the hiring process.

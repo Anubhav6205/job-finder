@@ -1,0 +1,41 @@
+**Please apply if your available for F2F interview on 21st nov 2026.**
+
+**Interview will be conducted in Outer ring road, Bangalore**
+
+  
+
+**Years of exp**: 3+ Years
+
+**Skills**: Node JS, React JS, Typescript, AI tools( LLM, Langchain etc)
+
+**Mode of interview**: F2F on 21st Nov 2025
+
+**work Mode**: 5 days in office
+
+  
+
+We are looking for an engineer with strong hands-on experience in React.js and TypeScript, supported by Node.js skills, to build and maintain production-grade AI-enabled web applications.
+
+**Must-have experience**
+
+- Developing scalable React applications with reusable components, state management, responsive layouts, accessibility, and performance optimization.
+
+- Using Node.js to build or integrate APIs and backend services supporting frontend applications.
+
+- Integrating external AI/LLM services into applications, including streaming responses, tool calling, and reliable error handling.
+
+- Building agentic workflows involving tools, context management, and human approval where appropriate.
+
+- Owning production features from development through testing, deployment, monitoring, and ongoing support.
+
+- Applying secure integration practices, including server-side API key handling, authentication, and protection of sensitive data.
+
+- Working with Git, automated tests, CI/CD, and frontend development and integration tools.
+
+**Preferred experience**
+
+- Hands-on experience with ChatGPT / Claude APIs and AI-assisted development tools.
+
+- Relevant Claude/AI certifications or structured AI training.
+
+- Experience with retrieval-augmented generation (RAG), agent frameworks, and evaluation of AI outputs.

@@ -1,0 +1,42 @@
+At Snowflake, we are powering the era of the agentic enterprise. To usher in this new era, we seek AI-native thinkers across every function who are energized by the opportunity to reinvent how they work. You don’t just use tools; you possess an innate curiosity, treating AI as a high-trust collaborator that is core to how you solve problems and accelerate your impact. We look for low-ego individuals who thrive in dynamic and fast-moving environments and move with an experimental mindset — who rapidly test emerging capabilities to discover simpler, more powerful ways to deliver results. At Snowflake, your role isn't just to execute a function, but to help redefine the future of how work gets done.
+
+At Snowflake, we are powering the era of the agentic enterprise. To usher in this new era, we seek AI-native thinkers across every function who are energized by the opportunity to reinvent how they work. You don't just use tools; you possess an innate curiosity, treating AI as a high-trust collaborator that is core to how you solve problems and accelerate your impact. We look for low-ego individuals who thrive in dynamic and fast-moving environments and move with an experimental mindset, rapidly testing emerging capabilities to discover simpler, more powerful ways to deliver results. At Snowflake, your role isn't just to execute a function, but to help redefine the future of how work gets done.
+
+Snowflake is about empowering enterprises to achieve their full potential, and people too. With a culture that's all in on impact, innovation, and collaboration, Snowflake is the sweet spot for building big, moving fast, and taking technology and careers to the next level.
+
+Our Finance team in Pune is looking for a Senior Payroll Analyst to own accurate, compliant, and on-time payroll for our growing India workforce, while helping scale payroll operations across APAC. You will bring strong statutory expertise and a data-first mindset, using the Snowflake AI Data Cloud to make payroll smarter and faster.
+
+**AS A SENIOR PAYROLL ANALYST AT SNOWFLAKE, YOU WILL:**
+
+* Own end-to-end monthly payroll processing for India, partnering with our payroll vendor to ensure every employee is paid accurately and on time.
+* Ensure full compliance with Indian statutory requirements, including PF, ESI, Professional Tax, LWF, TDS, and Gratuity, and manage timely filings and remittances.
+* Build payroll reconciliations, variance analyses, and reporting on Snowflake, turning HR and Finance data into trusted, audit-ready insights.
+* Partner with HR, Total Rewards, Equity, and Accounting teams to process new hires, exits, bonuses, RSU taxation, and full and final settlements.
+* Use Snowflake Cortex AI and automation to streamline manual payroll workflows, validations, and employee query handling.
+* Support internal and external audits, SOX controls, and month-end close activities for payroll-related accounts.
+* Serve as a trusted point of contact for employee payroll and tax questions, including investment declarations and Form 16.
+* Contribute to payroll expansion and process standardization across APAC markets as Snowflake grows.
+
+**OUR IDEAL SENIOR PAYROLL ANALYST WILL HAVE:**
+
+* 5+ years of payroll experience, with hands-on ownership of India payroll in a multinational environment.
+* Deep knowledge of Indian payroll legislation, labour laws, and income tax rules.
+* Experience managing third-party payroll providers and working with an HRIS such as Workday.
+* Strong analytical skills and advanced Excel proficiency, with a track record of building reconciliations and reports.
+* High attention to detail and a strong sense of ownership over confidential data.
+* Clear, empathetic communication skills with employees and cross-functional partners.
+* Experience supporting audits and working within SOX or similar control frameworks.
+
+**BONUS POINTS FOR THE FOLLOWING:**
+
+* Working knowledge of SQL or experience querying data in Snowflake.
+* Payroll experience in other APAC countries such as Japan, Singapore, or Australia.
+* Experience with equity compensation taxation (RSUs, ESPP).
+* A professional qualification such as CA Inter, CMA, or a payroll certification.
+* Experience in a high-growth technology company.
+
+Snowflake is growing fast, and we’re scaling our team to help enable and accelerate our growth. We are looking for people who share our values, challenge ordinary thinking, and push the pace of innovation while building a future for themselves and Snowflake.
+
+How do you want to make your impact?
+
+For jobs located in the United States, please visit the job posting on the Snowflake Careers Site for salary and benefits information: careers.snowflake.com

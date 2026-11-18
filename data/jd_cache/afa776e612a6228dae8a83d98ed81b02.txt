@@ -1,0 +1,56 @@
+Tech Business analyst:  
+  
+
+**Job Title-  Senior Google Workspace (G Suite)Administrator**
+
+**Experience : 8-10 years**
+
+**Location : Hyderabad**
+
+**Roles and Responsibilities-**
+
+Manage users, groups, Organizational Units(OUs), licenses, and administrative role delegations.
+
+Configure and maintain directory synchronization(Google Cloud Directory Sync / GCDS) with Active Directory or Microsoft EntraID.
+
+Administer Single Sign-On (SSO), SAML/OAuthintegrations, multi-factor authentication (2SV/MFA), and contextual accesspolicies.
+
+Manage Gmail routing, split delivery, dualdelivery, inbound/outbound gateways, and retention policies.
+
+Implement and enforce email authenticationprotocols: SPF, DKIM, DMARC, and BIMI.
+
+Oversee Google Drive & Shared Drivesgovernance, external sharing permissions, Google Meet settings, and calendarinteroperability.
+
+Configure Data Loss Prevention (DLP) rules, anti-phishing/malware filters, and anomaly detection alerts.
+
+Manage Google Vault for legal holds, eDiscovery, and regulatory retention policies.
+
+Audit third-party OAuth application access andGoogle Workspace Marketplace apps to prevent shadow IT and unvetted APIintegrations.
+
+Review audit logs and the Security InvestigationTool; export telemetry to SIEM/observability platforms (e.g., Splunk, Datadog).
+
+Configure and support Google Endpoint Management(MDM/MAM) across iOS, Android, macOS, and Windows devices.
+
+Enforce device-level encryption, passwordcomplexity, remote wipe policies, and conditional access.
+
+ **Automation & Scripting** 
+
+Automate repetitive administrative workflowsusing GAM / GAMADV-XTD3, Google Apps Script, or Python via Google WorkspaceAdmin SDK APIs.
+
+Maintain automated scripts for streamlinedonboarding, role transitions, and offboarding workflows.
+
+**Qualifications & Required Skills-**
+
+**Education & Certifications:**  Bachelorsdegree in computer science, Information Technology, or equivalent practicalexperience. Google Professional Workspace Administrator certification isstrongly preferred.
+
+**Experience:**  8-10 years of relevanthands-on experience administering Google Workspace in enterprise or mid-marketenvironments.
+
+**Mandatory skills-**   Google Workspace
+
+**Qualifications : BE/BTech/Degree/MasterDegree**
+
+**ABOUT SONATA SOFTWARE**
+
+SonataSoftware is an AI-first modernization engineering company that helpsenterprises transform legacy systems into intelligent, scalable businessplatforms. Powered by its Platformation framework and Harmoni.AI platform, Sonata delivers AI-led modernization across cloud, data, AI, Dynamics, testautomation, and managed services. Headquartered in Bengaluru, India, Sonata hasmore than $1.2 billion in revenue and 6, 400+ AI engineers supporting globaldelivery across regions including the US, UK, India, Malaysia, Mexico, Australia, DACH, and the Nordics. With deep partnerships across Microsoft, AWS, Salesforce, and Snowflake, Sonata helps Fortune 500 enterprises accelerateinnovation, improve efficiency, and drive sustainable growth.
+
+Formore information, please visit   Accelerating Business and TechnologyModernization | Sonata Software

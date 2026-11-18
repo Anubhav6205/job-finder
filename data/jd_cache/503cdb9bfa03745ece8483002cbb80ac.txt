@@ -1,0 +1,111 @@
+**Position:** Senior Security Specialist
+
+**Experience:** 5-8 years in Application Security, Offensive Security, or Penetration Testing  
+ **Location:** India (Noida, Chennai, Hyderabad, And Bengaluru)
+
+  
+
+**About the Role**
+
+Straive is looking for an experienced, hands-on **Senior Security Specialist** to support its Generative AI security and evaluation services.
+
+The role involves conducting adversarial security assessments of Large Language Models (LLMs), Retrieval-Augmented Generation (RAG) applications, AI-powered chatbots, and agentic AI systems.
+
+The selected candidate will work closely with Straive's AI engineering and delivery teams, contributing specialized offensive-security expertise, conducting vulnerability assessments, and supporting the development of standardized red-teaming methodologies.
+
+The position requires strong technical capabilities, an investigative mindset, and the ability to translate security findings into actionable recommendations for enterprise clients.
+
+This is primarily a **hands-on technical role** involving security assessments, automation, vulnerability investigation, and collaboration with cross-functional teams.
+
+  
+
+**Key Responsibilities**
+
+**1. Security Testing and Evaluation**
+
+* Conduct hands-on adversarial testing of LLM applications, RAG pipelines, and AI agents.
+* Identify and validate vulnerabilities involving prompt injection, jailbreaking, sensitive information disclosure, insecure tool usage, and unauthorized access.
+* Evaluate application-level security risks involving APIs, authentication, authorization, and external integrations.
+* Investigate complex attack scenarios, reproduce vulnerabilities, and document technical findings.
+* Recommend remediation measures and perform validation testing.
+
+**2. Red-Teaming Tools and Automation**
+
+* Work with AI red-teaming frameworks such as Microsoft PyRIT, Promptfoo, NVIDIA garak, and Giskard.
+* Develop and customize Python-based scripts for adversarial testing and security automation.
+* Combine automated vulnerability scanning with manual security investigations.
+* Contribute to reusable test cases, attack scenarios, evaluation datasets, and reporting templates.
+* Support improvements in testing processes, automation, and assessment coverage.
+
+**3. Technical Collaboration**
+
+* Collaborate with AI engineers, evaluation specialists, and delivery teams to understand application architectures and potential security risks.
+* Participate in technical discussions, security reviews, and vulnerability investigations.
+* Provide technical guidance and share relevant expertise with colleagues during assessments.
+* Review technical findings, where required, to ensure accuracy and reproducibility.
+* Contribute to consistent testing practices and assessment quality.
+* Support proof-of-concept demonstrations and technical evaluations when required.
+* Execute security assessments within agreed testing boundaries.
+* Prepare technical reports covering identified vulnerabilities, supporting evidence, severity, business impact, and remediation recommendations.
+
+  
+
+**Required Technical Skills**
+
+**Application and Offensive Security**
+
+* Strong hands-on experience in web application and API penetration testing.
+* Understanding of authentication, authorization, access controls, injection vulnerabilities, and data security.
+* Experience identifying, reproducing, and documenting security vulnerabilities.
+* Familiarity with established security testing methodologies and tools.
+
+**Generative AI Security**
+
+* Working knowledge of Generative AI applications, including LLMs, RAG architectures, AI agents, and their associated security risks.
+* Understanding of prompt injection, jailbreak techniques, sensitive data leakage, and insecure tool interactions.
+* Familiarity with OWASP LLM Top 10, OWASP Agentic AI Top 10, and MITRE ATLAS is desirable.
+
+**Programming and Automation**
+
+* Proficiency in Python programming and scripting.
+* Experience working with REST APIs, HTTP protocols, and security automation.
+* Ability to develop or customize security testing scripts.
+* Exposure to PyRIT, Promptfoo, garak, Giskard, or similar frameworks is desirable.
+
+  
+
+**Preferred Certifications**
+
+**Hands-on Security Certifications**
+
+At least one of the following is strongly preferred:
+
+* Offensive Security Certified Professional (OSCP / OSCP+)
+* Offensive Security Web Expert (OSWE)
+* Burp Suite Certified Practitioner (BSCP)
+* GIAC Web Application Penetration Tester (GWAPT)
+* Equivalent practical CREST certification
+
+Equivalent demonstrated offensive-security experience may substitute for formal certifications.
+
+  
+
+**Experience and Qualifications**
+
+**Required**
+
+* 58 years of relevant experience in application security, offensive security, penetration testing, or related cybersecurity disciplines.
+* Working knowledge of Generative AI applications, including LLMs, RAG architectures, AI agents, and associated security risks.
+* Demonstrated ability to independently identify, reproduce, and explain application security vulnerabilities.
+* Experience in security assessments, vulnerability analysis, and technical reporting.
+* Proficiency in Python scripting and security testing automation.
+* Strong analytical, problem-solving, communication, and documentation skills.
+* Ability to collaborate effectively with cross-functional engineering and delivery teams.
+
+**Desirable**
+
+* Hands-on experience in security testing or vulnerability assessments of GenAI/LLM applications. Prior commercial AI red-teaming experience is an advantage but not mandatory.
+* Experience using AI red-teaming frameworks such as PyRIT, Promptfoo, garak, or Giskard.
+* Knowledge of adversarial testing techniques for RAG systems and AI agents.
+* Experience developing reusable security testing scripts, methodologies, or automation workflows.
+* Experience contributing to technical reviews and knowledge-sharing activities.

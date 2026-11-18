@@ -1,0 +1,12 @@
+* Takes a lead in analyzing designing coding testing and implementing more complex application enhancements as well as providing general production support meeting defined scopes target dates with minimal or no defects
+* Takes a lead in collaborating with customers business analysts partners and IT team members to understand business requirements that drive the analysis and design of quality technical solutions Concentrate on providing innovative solutions to more complex business needs
+* Takes a lead role in providing required technical support including release implementations oncall and 24x7 supports when necessary
+* Effectively communicates with team members customers partners and management including assisting with or conducting more complex technical walkthroughs reporting project status enabling vendor solutions and providing accurate and concise documentation
+* Extensive handson experience in configurations of core Informatica MDM Hub components such as Hub console Hub Store Hub Server CleanseMatch Server and Cleanse Adaptor
+* Utilizes and participates in the more complex full system development life cycle per current Highmark SDLC standards
+* Handson experience with Informatica MDM Service Integration Framework SIF and Informatica Business Entity Services BES
+* Build profile on heterogenous data sources Basic profiling join data profiling
+* Independently designs and builds Informatica MDM Customer 360 enhancement solutions as per business requirements using IDMC
+* Design and build business process workflows using CAI
+* Design and build data integrations with DB and downstream system like ERP and SFDC applications
+* Ensures Informatica MDM SaaS application code quality processes and performance optimization

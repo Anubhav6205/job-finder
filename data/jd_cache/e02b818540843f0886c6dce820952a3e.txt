@@ -1,0 +1,42 @@
+**Senior Software Engineer, Site Reliability & Platform Automation:**
+
+We have an opportunity for a **Senior Software Engineer, Site Reliability & Platform Automation** to join our SaaS Platform Engineering team in Pune, India, reporting to the Sr. Manager, Site Reliability & Platform Engineering. In this pivotal role, you will build software that improves reliability, reduces operational toil, and enables self-service across Infobloxs global cloud networking and SaaS platforms. You will work across reliability measurement, toil automation, resilience test engineering, and platform enablement, partnering with DevOps, CloudOps, product engineering, architecture, security, and product management teams.
+
+Environment runs on a shared platform that includes EKS clusters, RDS databases, CI/CD pipelines, and developer tooling used by product engineering teams. You will help treat operations as a software problem by understanding manual workflows, instrumenting them, and replacing repetitive effort with reliable automation. You will also use AI-assisted engineering and operational tools responsibly to improve productivity, analytics, content generation, automation, and incident decision support, with appropriate human review and security controls.
+
+**Be a Contributor What You'll Do**
+
+* Design and build production-quality components and services across reliability measurement, toil automation, resilience testing, or self-service enablement
+* Define and implement SLIs, SLOs, error budgets, burn-rate alerts, observability improvements, and reliability evidence
+* Automate recurring operational work, including CVE remediation, EKS and RDS upgrades, third-party provider testing, and infrastructure workflows
+* Build chaos experiments, disaster recovery tests, regional failover exercises, and incident-response tooling
+* Create golden paths, Terraform modules, and policy-as-code guardrails that enable product engineering teams to provision and operate services independently
+* Instrument workflows before optimizing them, and measure outcomes such as toil reduction, adoption, reliability, cost, and developer experience
+* Develop AI-assisted tools for log and incident summarization, alert correlation, anomaly analysis, documentation, code assistance, and remediation recommendations
+* Validate AI-generated code, content, analytics, and operational recommendations through testing, peer review, security checks, and human approval
+* Partner with DevOps, CloudOps, and product engineering teams to understand real workflows and deliver capabilities they adopt
+* Participate in on-call rotations, incident response, after-action reviews, and follow-through engineering
+
+**Be Prepared What You Bring**
+
+* 5+ years of professional software engineering experience, including meaningful exposure to infrastructure, platform, DevOps, SRE, or reliability systems
+* Strong production coding ability in Go, Python, or a comparable language
+* Practical cloud and Kubernetes experience in AWS or GCP, including the ability to operate and debug Kubernetes beyond deploying manifests
+* Infrastructure-as-code experience with Terraform or an equivalent technology on production systems
+* Experience owning software or services end to end, including reliability, operational cost, security, and user impact
+* Demonstrated success replacing recurring manual work with software and measuring the resulting improvement
+* Experience with observability, incident response, SLOs, SLIs, error budgets, resilience testing, or disaster recovery
+* Experience building internal platforms, developer tooling, or self-service capabilities for other engineers
+* Practical experience using AI-assisted engineering or operational tools with sound judgment regarding privacy, security, accuracy, auditability, and human oversight
+* Bachelors degree in Computer Science, Computer Engineering, Information Technology, or a related technical field; Master’s degree preferred
+
+**Nice to have**
+
+* Experience with Prometheus, Grafana, Loki, OpenTelemetry, ELK, Datadog, or comparable observability platforms
+* Experience with Jenkins, GitHub Actions, Argo, GitOps, or CI/CD platform engineering
+* Experience with chaos engineering or fault-injection tooling
+* Experience with RDS, PostgreSQL, database operations, or multi-region systems
+* Experience with Kyverno, OPA, Gatekeeper, or other policy-as-code technologies
+* Experience with Vault, Harbor, or secrets and artifact management
+* Experience operating multi-tenant or multi-region platforms or working in regulated environments
+* Experience applying LLM-based or agentic tooling to operational workflows

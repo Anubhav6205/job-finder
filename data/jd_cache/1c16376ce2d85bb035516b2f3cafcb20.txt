@@ -1,0 +1,58 @@
+**Location:**
+Bengaluru (On-site)
+
+**Experience:**
+4–6 Years
+
+**Employment Type:**
+Full-time | Individual Contributor
+
+Role Overview
+
+We are looking for a hands-on AI Engineer with a strong foundation in Machine Learning and practical experience in Generative AI. The candidate will own ML problems end to end, from data preparation and model training to evaluation, deployment and production optimization.
+
+This is a senior individual contributor role involving close collaboration with the Co-Founder & CTO and cross-functional engineering teams.
+
+Key Responsibilities
+
+* Develop and improve speech recognition, speaker identification and diarization models.
+* Build memory extraction, retrieval and reasoning systems using LLMs and RAG.
+* Develop AI agents capable of tool calling and executing actions based on conversational context.
+* Train, fine-tune and evaluate ML, deep learning and generative AI models.
+* Build evaluation datasets and measure model quality, accuracy, latency and cost.
+* Optimize models through fine-tuning, distillation and quantization.
+* Deploy ML models into production and monitor their performance.
+* Troubleshoot production issues and continuously improve model performance.
+* Collaborate with backend, application and hardware engineering teams.
+
+Mandatory Requirements
+
+* 4–6 years of industry experience in Machine Learning / AI Engineering.
+* Strong core ML foundation with hands-on experience in training, fine-tuning and evaluating models.
+* 1–2 years of practical experience in Generative AI, including LLMs, transformers, speech models, RAG, agents or Voice AI.
+* Must have taken at least one ML model into production and owned its performance after deployment.
+* Strong programming skills in Python and hands-on experience with PyTorch.
+* Understanding of model evaluation, optimization and deployment.
+* B.Tech / M.Tech / MS from IIT, NIT, BITS or IIIT Hyderabad.
+* Candidates from other institutes may be considered only with exceptional open-source contributions or demonstrable technical work.
+* Willingness to work full-time from the Bengaluru office.
+
+Good to Have
+
+* Experience in ASR, speech recognition, speaker diarization or speaker verification.
+* Experience with multilingual and code-mixed audio data.
+* Hands-on experience with LLM fine-tuning, RAG and agentic workflows.
+* Knowledge of model distillation, quantization and inference optimization.
+* Experience leading technical projects or mentoring a small team.
+* Research papers or notable open-source contributions in ML, speech AI or GenAI.
+
+Important Screening Criteria
+
+* Strong preference for hands-on ML engineers over API-based GenAI developers.
+* Candidates must demonstrate actual model training and fine-tuning experience.
+* Production deployment experience is mandatory.
+* Research-only profiles without production experience are not suitable.
+* PhD candidates are not preferred for this position.
+
+**Role Nature:**
+Hands-on technical ownership, model development and production engineering. This is an Individual Contributor position, not a people-management role.

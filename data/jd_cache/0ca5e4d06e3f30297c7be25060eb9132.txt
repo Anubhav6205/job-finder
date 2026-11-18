@@ -1,0 +1,100 @@
+**Company Description**
+
+**Bosch Global Software Technologies Private Limited** is a 100% owned subsidiary of Robert Bosch GmbH, one of the world's leading global supplier of technology and services, offering end-to-end Engineering, IT and Business Solutions. With over 27,000+ associates, it’s the largest software development center of Bosch, outside Germany, indicating that it is the Technology Powerhouse of Bosch in India with a global footprint and presence in the US, Europe and the Asia Pacific region.
+
+ **Job Description**
+
+**Roles & Responsibilities :**  
+**Role summary**
+
+Makes sure every change to the ServiceNow platform works, is safe to release and doesn't break what already works. Designs and runs functional, regression, integration and user-acceptance testing, builds automated tests with the Automated Test Framework (ATF) and other tools, and works inside Agile DevOps teams so testing happens during the sprint, not after it. During the transition, builds the regression suites that must run before each wave goes live. Good exposure to Agile methodology.
+
+**Job Description or Responsibilities**
+
+**Test planning and design**
+
+* Take part in backlog refinement to make acceptance criteria clear and testable before development starts.
+* Write test plans, test scenarios and test cases for stories, releases and platform upgrades.
+* Use a risk-based approach: focus test effort on critical services, high-volume catalog items, integrations and security-sensitive changes.
+* Prepare and manage test data in non-production instances, including masked data where needed.
+
+Functional and regression testing
+
+* Test changes across ServiceNow modules: ITSM, Service Catalog and order forms, Enterprise IT Hub, knowledge, Feedback Hub, Workflow Studio flows and approvals.
+* Run end-to-end tests from request to fulfillment, including approvals, task creation, notifications, SLAs and fulfillment integrations.
+* Test roles and access: confirm users see and do only what their roles allow, using impersonation.
+* Test portal usability, responsiveness and accessibility (WCAG 2.1 AA) on desktop and mobile.
+* Test translated order forms and knowledge articles in every supported language.
+
+**Test automation**
+
+* Build and maintain ATF test suites for catalog items, forms, flows, portal pages and server-side logic.
+* Run ATF suites in CI/CD pipelines as quality gates before promotion, and keep them stable and fast.
+* Use additional tools where ATF is not enough, such as Selenium, Playwright or Tricentis Tosca for browser tests and Postman for API tests.
+* Track automation coverage and grow it sprint by sprint.
+
+**Integration, AI and non-functional testing**
+
+* Test integrations end to end, including REST/SOAP APIs, MID Server, OpenText Automation Bus, Genesys and SMARA. Cover error handling, retries and failure scenarios.
+* Test AI services such as BD Assist, Now Assist skills, AI Agent Studio agents and AI cases: answer accuracy against test sets, safe handling of sensitive topics, guardrail behavior, hand-off to live agents, and regression after model or Store app updates.
+* Support performance and load testing for high-volume portals and catalog items.
+* Support security testing with the security architect, such as access control and input validation checks.
+
+**Release and upgrade quality**
+
+* Run regression testing for platform upgrades, patches and Store app updates, and report skipped records and broken behavior.
+* Coordinate and support user acceptance testing with process owners and catalog owners.
+* Give a clear go/no-go recommendation on test results for each release.
+
+**Defect management and quality reporting**
+
+* Log defects with clear steps, evidence and severity, and verify fixes.
+* Report test progress, pass rates, defect trends and automation coverage to the team and the quality lead.
+* Find recurring defect patterns and suggest improvements to development and design practices.
+
+**Experience and qualifications**
+
+* Hands-on experience building and running ATF tests.
+* Good functional knowledge of ServiceNow: Service Catalog, flows and approvals, portals, roles and ACLs, ITSM processes.
+* Experience with API testing (Postman or similar) and at least one browser automation tool (Selenium, Playwright, Tosca or similar).
+* Basic JavaScript, enough to read scripts and write ATF server-side test steps.
+* Experience with test management and defect tracking tools (ServiceNow Test Management, Jira, Xray, Azure DevOps or similar).
+* Experience testing in Agile DevOps teams and in CI/CD pipelines.
+* Understanding of ITIL processes, especially Request Fulfilment and Incident.
+* Clear written communication for test cases, defect reports and test summaries.
+* Bachelor's degree in Computer Science, IT or a related field.
+* **Certifications**
+* Required: ISTQB Certified Tester Foundation Level (or equivalent).
+* Preferred: ServiceNow Certified System Administrator (CSA); ISTQB Agile Tester or Test Automation Engineer; ServiceNow ATF learning paths or micro-certifications on Now Learning (check the current catalog).
+* **Nice to have**
+* Hands-on experience using GenAI tools such as ChatGPT, GitHub Copilot, Microsoft Copilot
+* Ability to use AI tools for:
+
+  + Test scenario and test case generation.
+  + Automation script creation and optimization.
+  + Test data generation.
+* Exposure to AI-enabled testing frameworks and agent-based testing approaches.
+* Knowledge of ServiceNow Now Assist, Virtual Agent, and AI-powered features is an added advantage
+* Experience testing multilingual applications.
+* Experience testing chatbots, virtual agents or other AI features.
+* Performance testing experience (JMeter or similar).
+* Accessibility testing tools (axe, WAVE, screen readers).
+* Experience with ServiceNow Test Management 2.0.
+
+  
+  
+**Qualifications**
+
+**Educational qualification:**
+
+BE/B-Tech/MCA
+
+**Experience :**
+
+3-5 Years
+
+**Mandatory/requires Skills :**  
+ServiceNow Now Assist, Virtual Agent, and AI-powered Testing
+
+**Preferred Skills :**  
+GenAI

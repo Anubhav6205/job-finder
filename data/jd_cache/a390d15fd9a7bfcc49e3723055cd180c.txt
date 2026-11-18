@@ -1,0 +1,43 @@
+Python Developer (5 to 9 Years Experience)
+
+Location: Bangalore
+
+Walk-In drive - 21st Nov 2026
+
+  
+
+Skill Combination
+
+Python + Azure + Gen AI
+
+Python + Fast API + React + AI Tools
+
+Python + Fast API + AWS + AI Tools
+
+  
+
+Required Skills
+
+* 5 to 9 years of hands-on experience in Python AI development.
+* Strong experience in building integrations with Knowledge Graphs, APIs, Git repositories, CI/CD pipelines, and engineering tools.
+* Strong experience with design, build, and optimize Neo4j graph databases, relationship models, and graph queries is preferred.
+* Hands-on experience in Prompt engineering, vibe coding, using AI-powered developer tools such as GitHub Copilot, Cursor AI, Claude Code, Windsurf, or similar coding assistants.
+* Experience and knowledge of SDLC and agile framework, Spec-Driven Development (SDD) and AI-governed SDLC practices.
+* Experience in creating reusable services, APIs, data pipelines, and automation workflows.
+* Experience in writing clean, maintainable, scalable, high-performance code
+* Experience in writing unit tests, adhering to coding standards, architecture guidelines, security guardrails, and engineering best practices.
+* Experience in building REST APIs using FastAPI or similar, pythons multi-threading, multi-processing, asynchronous programming, and performance optimization techniques.
+* Ability to review, validate, and optimize AI-generated code while ensuring maintainability, security, and performance standards. Nice to have skills
+* Basic understanding of AI/ML concepts and experience integrating AI/LLM-based services into applications
+* Familiarity with CI/CD pipelines and DevOps practices.
+* Experience with Docker and containerized application development.
+* Experience with Redis or other caching mechanisms.
+* Experience with cloud platforms such as Azure, AWS, or GCP.
+
+  
+
+Only shortlisted candidates will receive the call letter to attend the interview.
+
+  
+
+**Recruitment Fraud Disclaimer:** Hexaware never requests payment from candidates during the hiring process. Any such request is fraudulent. For details, please visit **Beware of Fake Job Offers**. Verify all opportunities through official Hexaware channels only.

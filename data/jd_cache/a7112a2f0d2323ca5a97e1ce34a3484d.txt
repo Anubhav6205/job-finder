@@ -1,0 +1,72 @@
+**Who We Are**
+
+  
+
+Applied Materials is the global leader in materials science and engineering solutions that are at the foundation of virtually every new semiconductor chip and advanced display in the world. The equipment that we create and service is essential to advancing AI and accelerating the commercialization of next-generation semiconductor chips. Join us and push the boundaries of materials science and engineering in a company at the foundation of the electronics industry. The work we do together advances the world’s technology.
+
+  
+  
+
+**What We Offer**
+
+  
+
+Location:
+
+Bangalore,IND
+
+You’ll benefit from a supportive work culture that encourages you to learn, develop, and grow your career as you take on challenges and drive innovative solutions for our customers. We empower our team to push the boundaries of what is possible—while learning every day in a supportive leading global company. Visit our Careers website to learn more.
+
+At Applied Materials, we care about the health and wellbeing of our employees. We’re committed to providing programs and support that encourage personal and professional growth and care for you at work, at home, or wherever you may go. Learn more about our benefits .
+
+  
+As a Software Engineer at Applied Materials, you’ll dive deep into ground-breaking technologies—like machine learning and AI—to craft novel software solutions that solve our customers’ high-value problems. Our Software Engineers are responsible for designing, prototyping, developing, and debugging software solutions for semiconductor equipment components and devices to ensure quality and functionality. You'll develop software documentation and test procedures, troubleshoot software problems, and communicate with internal customers to understand project requirements. As part of our team, you'll contribute your expertise in intricate systems, deciphering code, and anticipating software behaviors to ensure Applied remains the leader in the semiconductor and display sectors.  
+
+We are seeking a highly skilled **Software Development Engineer in Test (SDET)** who can understand software internals, debug complex issues, and develop robust automated tests using **Core Java** . The ideal candidate will have strong problem-solving skills, a passion for quality, and experience in building scalable automation frameworks.
+
+**Roles & Responsibilities:**
+
+* Design and develop **Test Automation Strategy and Plans** aligned with product requirements.
+* Analyze manual QA strategies and propose enhanced automation coverage.
+* Participate in designing and implementing improvements to the **test automation framework** .
+* Write clean, maintainable, and reusable automation code in **Core Java** .
+* Create and execute **test automation scenarios** for functional and non-functional requirements.
+* Research and evaluate new automation tools, technologies, and best practices.
+* Decompose requirements to design and implement automated testing approaches.
+* Investigate and resolve automation failures by identifying root causes.
+
+**Qualifications:**
+
+* **Bachelor’s degree** in computer science, Engineering, or equivalent.
+
+**Required Skills & Experience:**
+
+* **6–10 years** of proven experience as an SDET or in software development.
+* Strong proficiency in **Core Java** programming.
+* Hands-on experience with **Automation Frameworks** such as Selenium/playwright and **Unit Testing Frameworks** like TestNG.
+* Expertise in creating and enhancing **test plans, methodologies, and frameworks** , including translating functional and non-functional requirements into test scenarios.
+* Solid understanding of application architecture and system integrations.
+* Strong debugging skills and ability to isolate defects effectively.
+* Experience working in **Agile/Scrum** development environments.
+* Familiarity with **DevOps tools** (CI/CD pipelines) is a plus.
+* Exposure to **white-box and gray-box testing** with understanding of software design principles.
+
+**Additional Information**
+
+**Time Type:**
+
+Full time
+
+**Employee Type:**
+
+Assignee / Regular
+
+**Travel:**
+
+Yes, 10% of the Time
+
+**Relocation Eligible:**
+
+Yes
+
+Applied Materials is an Equal Opportunity Employer. Qualified applicants will receive consideration for employment without regard to race, color, national origin, citizenship, ancestry, religion, creed, sex, sexual orientation, gender identity, age, disability, veteran or military status, or any other basis prohibited by law.

@@ -1,0 +1,90 @@
+At Franklin Templeton, we believe success is built through powerful partnerships. As a forward‑thinking asset manager, we build dynamic relationships with clients, understand their goals, and navigate complex markets together. We leverage cutting‑edge strategies and deep insights to unlock opportunities for long‑term wealth creation. Our talented, global teams bring expertise that is both broad and unique.
+  
+  
+From our welcoming, inclusive, and supportive culture to our globally diverse business, we offer opportunities not only to help you reach your potential, but also to contribute to our clients’ success.
+  
+  
+**About The Department**
+
+* The AI and Digital Platform team develops AI, data, workflow, and digital solutions that enable the Sales and Distribution organization to operate more effectively and deliver greater business value. The team includes software engineers, AI specialists, architects, and technical leaders who collaborate with small, cross-functional teams to build scalable enterprise products. The environment encourages innovation, accountability, and evidence-based decision-making. Joining the team offers opportunities to work on enterprise AI solutions, modern cloud technologies, and strategic business initiatives.
+
+***How You Will Add Value?***
+***Core Responsibilities***
+
+* You will develop and enhance production-ready Generative AI solutions.
+* You will build modern web applications using React and Angular.
+* You will create scalable Python services and APIs.
+* You will design Retrieval-Augmented Generation solutions.
+* You will develop agent-based AI workflows.
+* You will integrate AI services with enterprise cloud platforms.
+* You will establish evaluation, monitoring, and telemetry practices.
+
+***Strategic Responsibilities***
+
+* You will assess architecture options using data-driven analysis.
+* You will create reusable engineering standards and frameworks.
+* You will improve solution quality through experimentation.
+* You will resolve AI performance and scalability issues.
+* You will support production readiness and measurable outcomes.
+
+***Team & Collaboration***
+
+* You will contribute to engineering best practices.
+* You will participate in architecture and code reviews.
+* You will collaborate with product, engineering, data, and governance teams.
+
+***What Will Help You Be Successful in This Role?***
+***Experience, Education & Certifications***
+
+* Bachelor’s degree in computer science, Engineering, or a related field.
+* 8+ years of software engineering experience.
+* Strong expertise in Python development.
+* Experience building and deploying Generative AI applications.
+* Experience developing scalable backend systems and APIs.
+* Experience with cloud-native technologies and enterprise platforms.
+* Proven track record of delivering measurable business outcomes.
+
+***Technical Skills***
+
+* Strong proficiency in Python, FastAPI, and Django.
+* Experience with React, Angular, and TypeScript.
+* Knowledge of Large Language Models and Retrieval-Augmented Generation.
+* Experience with agent orchestration frameworks.
+* Knowledge of SQL and NoSQL databases.
+* Experience with Docker, Kubernetes, and Continuous Integration/Continuous Deployment practices.
+* Experience with Azure AI, Azure OpenAI, and AWS Bedrock.
+
+***Soft Skills***
+
+* Strong analytical and problem-solving abilities.
+* Effective verbal and written communication skills.
+* Product-oriented engineering mindset.
+* Ability to make sound technical decisions independently.
+* Strong collaboration and stakeholder partnership skills.
+
+**Work Shift Timings - 2:00 PM -11:00 PM IST**
+At Franklin Templeton, we believe your benefits should support your life, your goals, and your future. That’s why we offer a comprehensive Total Rewards package designed to help you thrive both personally and professionally.
+  
+  
+**Highlights Of Our Benefits Include**
+
+* Professional development growth opportunities through in-house classes and over 150 Web-based training courses
+* An educational assistance program to financially help employees seeking continuing education
+* Medical, Life and Personal Accident Insurance benefit for employees. Medical insurance also cover employee’s dependents (spouses, children and dependent parents)
+* Life insurance for protection of employees’ families
+* Personal accident insurance for protection of employees and their families
+* Personal loan assistance
+* Employee Stock Investment Plan (ESIP)
+* 12 weeks Paternity leave
+* Onsite fitness center, recreation center, and cafeteria
+* Transport facility
+* Child day care facility for women employees
+* Cricket grounds and gymnasium
+* Library
+* Health Center with doctor availability
+* HDFC ATM on the campus
+
+Franklin Templeton is an Equal Opportunity Employer. We are committed to providing equal employment opportunities to all applicants and existing employees, and we evaluate qualified applicants without regard to ancestry, age, color, disability, genetic information, gender, gender identity, or gender expression, marital status, medical condition, military or veteran status, national origin, race, religion, sex, sexual orientation, and any other basis protected by federal, state, or local law, ordinance, or regulation.
+  
+  
+Artificial intelligence or automated tools may be used to assist in the screening, assessment, or selection of applicants for this position.

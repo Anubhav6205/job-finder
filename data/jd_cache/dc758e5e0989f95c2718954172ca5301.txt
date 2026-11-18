@@ -1,0 +1,55 @@
+Some careers shine brighter than others.
+  
+  
+If you’re looking for a career that will help you stand out, join HSBC and fulfil your potential. Whether you want a career that could take you to the top, or simply take you in an exciting new direction, HSBC offers opportunities, support and rewards that will take you further.
+  
+  
+HSBC is one of the largest banking and financial services organisations in the world, with operations in 64 countries and territories. We aim to be where the growth is, enabling businesses to thrive and economies to prosper, and, ultimately, helping people to fulfil their hopes and realise their ambitions.
+  
+  
+We are currently seeking an experienced professional to join our team in the role of Senior Consultant Specialist.
+  
+  
+**Full Stack Engineer (AI & Python) / AI Engineer**
+
+* Primary Skills: Python, Fast API, Gen AI, MCP, Agentic AI, ReactJS, NodeJs
+* Secondary Skills: AWS/GCP, Any Front End Technology (React/Angular/JS)
+* Must have knowledge: ClaudeCode. Git Copilot, Scrum, Agile, Good Communication & Analytical Skills
+
+**What You’ll Do**
+
+
+
+
++ Collaborate closely with product owners, frontend, and AI backend teams to drive requirement delivery and ensure smooth cross-team collaboration.
++ Own end-to-end delivery of AI inferences applications, including requirement analysis, implementation, and release activities.
++ Design, build, and maintain backend APIs and service interfaces to provide stable support for frontend and downstream integrations.
++ Participate in core application design and service architecture to ensure scalability and performance.
+
+**What You Will Need To Succeed In The Role**
+
+
+
+
++ 8+ years of backend development experience with strong proficiency in Python.
++ Proficient with mainstream web frameworks (e.g., FastAPI, Flask, Django), with solid experience in RESTful API design and development.
++ Experience with Generative AI / Large Language Model (LLM) / Open Source Models / Agentic AI, and know-how of applying Generative AI into different use cases via Prompt Engineering, MCP, RAG (Retrieval Augmentation Generation) or fine-turning techniques.
++ Experience building modern web applications using ReactJS, JavaScript or TypeScript, HTML5 and CSS. On the front end and python on the back end.
++ Solid understanding of HTTP, REST principles, JSON, authentication and API integration patterns.
++ Experience working with cloud platforms preferred (AWS) and container orchestration technologies (e.g., Kubernetes, Docker).
++ Experience with relational databases (e.g., PostgreSQL, MySQL) and NoSQL databases, including usage and optimization; plus Big Query (or other OLAP databases) data modeling and query optimization experience.
++ Proficient in containerization and delivery toolchains (Docker, Kubernetes, CI/CD, Helm), with familiarity in basic workflows on at least one major cloud platform for deployment and log troubleshooting.
+
+You’ll achieve more when you join HSBC.
+  
+  
+www.hsbc.com/careers
+  
+  
+HSBC is an equal opportunity employer committed to building a culture where all employees are valued, respected and opinions count. We take pride in providing a workplace that fosters continuous professional development, flexible working and, opportunities to grow within an inclusive and diverse environment. We encourage applications from all suitably qualified persons irrespective of, but not limited to, their gender or genetic information, sexual orientation, ethnicity, religion, social status, medical care leave requirements, political affiliation, people with disabilities, color, national origin, veteran status, etc., We consider all applications based on merit and suitability to the role.”
+  
+  
+Personal data held by the Bank relating to employment applications will be used in accordance with our Privacy Statement, which is available on our website.
+  
+  
+Issued by – HSBC Software Development India

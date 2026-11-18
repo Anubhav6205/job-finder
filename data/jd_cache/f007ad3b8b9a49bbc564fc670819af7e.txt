@@ -1,0 +1,77 @@
+**Job Description DevSecOps Specialist**
+
+**Experience:** 5+ Years
+
+Notice Period: up to 30 Days
+
+Location: Bangalore
+
+1st Round: Online Assignment & L1 Interview
+
+  
+
+if interested please share your details to bp00835635@techmahindra.com
+
+  
+
+Total Interview:
+
+Relevant Exp:
+
+Current Location:
+
+Preferred Location:
+
+Exp of SAST, DAST:
+
+Exp of Python:
+
+Notice Period:
+
+  
+  
+
+**Role Summary**
+
+We are seeking a skilled **DevSecOps Specialist** with expertise in application and infrastructure security, secure software development practices, and security automation. The ideal candidate will possess strong scripting capabilities in **Python** and **Linux Shell Scripting**, along with hands-on experience integrating security throughout the SDLC and CI/CD pipelines. This role requires a proactive security mindset and the ability to drive secure engineering practices across cloud-native and AI-enabled environments.
+
+**Key Responsibilities**
+
+* Design, implement, and enhance DevSecOps practices across software development and deployment pipelines.
+* Integrate and manage security testing tools, including **SAST**, **DAST**, dependency scanning, and container security solutions.
+* Develop and maintain security automation scripts using **Python** and **Linux Shell Scripting**.
+* Perform application and infrastructure security assessments and drive remediation efforts.
+* Collaborate with development, operations, and security teams to embed security controls within the SDLC.
+* Implement and manage security controls within **Azure DevOps** CI/CD pipelines.
+* Support the secure adoption of AI/ML solutions through **AI security assessments**, governance, and risk management practices.
+* Develop and maintain security standards, policies, and best practices for cloud, DevOps, and AI-enabled environments.
+* Monitor emerging threats and recommend appropriate security controls and mitigations.
+
+**Must-Have Skills**
+
+* Vast experience in **DevSecOps**, Application Security, or Infrastructure Security.
+* Strong proficiency in **Python** and **Linux Shell Scripting**.
+* Hands-on experience with:
+
++ Static Application Security Testing (**SAST**)
++ Dynamic Application Security Testing (**DAST**)
++ Vulnerability Management
+
+* Solid understanding of **Application Security** and **Infrastructure Security** principles.
+* Experience integrating security controls into **Azure DevOps** pipelines.
+
+**Nice to have Skills**
+
+* Knowledge of **AI Security**, LLM security risks, model security, and secure AI application development.
+* Experience securing **Kubernetes**, containers, and **Infrastructure as Code (Terraform preferred)**.
+* Experience with cloud security, preferably **Microsoft Azure**.
+* Container and Cloud Security
+* Knowledge of Ansible scripts
+
+**Desired Attributes**
+
+* Strong analytical and problem-solving skills.
+* Ability to work effectively across engineering, operations, and security teams.
+* Excellent communication and stakeholder management capabilities.
+* Self-driven mindset with a strong focus on automation and continuous improvement.
+* Passion for security innovation, secure software development, and emerging technologies.

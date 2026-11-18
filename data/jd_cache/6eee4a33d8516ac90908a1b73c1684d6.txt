@@ -1,0 +1,34 @@
+About This Role
+
+**8 years of experience**  
+**Skills: Test Automation, Python, Playwright, Selenium, AI Testing, LLM Testing, Pytest, REST API Testing, CI/CD, Test Strategy, BDD, Performance Testing, Git, Agile, Team Leadership**
+
+**About the Role**
+  
+We are looking for a QE Automation Test Lead with 8+ years of experience and strong Python and AI expertise to lead test automation across enterprise applications. You will design and own automation frameworks, apply AI augmented testing approaches, and lead a team of quality engineers while embedding quality across Agile delivery teams.
+
+**Key Responsibilities**
+
+* Lead and mentor a team of automation engineers providing technical direction, code reviews, and career development support.
+* Define test automation strategy and roadmap aligned to programme goals and risk profiles.
+* Design, build, and maintain scalable automation frameworks using Python, Pytest, Playwright, and Selenium covering UI, API, and end to end testing.
+* Apply AI augmented testing approaches including AI assisted test generation, self healing automation, and intelligent test maintenance using tools such as Mabl, Testim, or Copilot.
+* Test AI and GenAI applications including LLM output validation, RAG pipeline testing, and prompt regression using frameworks such as DeepEval or RAGAS.
+* Build and maintain REST API test suites using Python Requests, Postman, or RestAssured.
+* Integrate automated test suites into CI/CD pipelines using Jenkins, GitLab CI, or GitHub Actions with quality gates.
+* Champion shift left testing practices engaging developers, BAs, and architects early in the delivery lifecycle.
+* Design and execute performance tests using JMeter, Locust, or k6.
+* Manage defect triage, test reporting, and quality metrics providing clear status updates to senior stakeholders.
+
+**What We’re Looking For**
+
+* 8+ years of quality engineering experience with proven test automation leadership.
+* Strong Python automation skills including Pytest, fixtures, and parametrisation.
+* Hands on experience with Playwright and Selenium for UI and end to end test automation.
+* Practical exposure to AI augmented testing tools and AI assisted test development.
+* Experience testing AI or GenAI applications using evaluation frameworks such as DeepEval, RAGAS, or LangSmith.
+* Solid API testing skills using Python Requests, Postman, or RestAssured.
+* Strong CI/CD integration experience embedding quality gates into pipelines.
+* Proven team leadership including mentoring, task allocation, and code reviews.
+* Strong test strategy, planning, and risk based testing experience.
+* Excellent communication and stakeholder management skills.

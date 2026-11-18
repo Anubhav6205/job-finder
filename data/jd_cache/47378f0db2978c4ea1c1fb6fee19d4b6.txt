@@ -1,0 +1,22 @@
+**We're Hiring: Microsoft Power Platform Developer || Remote ||8+ Years**
+
+We are looking for an experienced **Microsoft Power Platform Developer** with strong expertise in Copilot Studio, Power Automate, Power Apps, and Microsoft AI technologies.  
+If you're passionate about building intelligent business solutions and driving digital transformation, we'd love to connect with you!
+
+Must-Have Skills & Experience  
+5+ years of experience in Microsoft Power Platform development.  
+Strong hands-on experience with **Microsoft Copilot Studio**.  
+Expertise in building and supporting **Power Automate Cloud Flows**.  
+Strong knowledge of **Microsoft Dataverse**, including tables, relationships, business rules, security roles, and data modeling.  
+Experience developing **Power Apps (Canvas and Model-Driven Apps)**.  
+Hands-on experience integrating solutions with SharePoint Online.  
+Experience with REST APIs, Custom Connectors, and HTTP actions.  
+Understanding of AI, Generative AI, and Conversational AI concepts.  
+Good knowledge of the Microsoft 365 ecosystem.  
+Understanding of ALM, solution packaging, release management, and deployment processes.  
+Experience with SDLC and Agile/Scrum methodologies.  
+Strong problem-solving, debugging, and troubleshooting skills.  
+Excellent communication, documentation, and stakeholder management skills.
+
+Interested candidates can share their updated resumes or DM us for more details.  
+**Mobile:** +91-6352139272 | **Email:** **radhika.p@apideltech.com**

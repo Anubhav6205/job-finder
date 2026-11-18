@@ -1,0 +1,40 @@
+Solugenix is a leader in IT services, delivering cutting-edge technology solutions, exceptional talent, and managed services to global enterprises. With extensive expertise in highly regulated and complex industries, we are a trusted partner for integrating advanced technologies with streamlined processes. Our solutions drive growth, foster innovation, and ensure complianceproviding clients with reliability and a strong competitive edge.  
+Recognized as a 2024 Top Workplace, Solugenix is proud of its inclusive culture and unwavering commitment to excellence. Our recent expansion, with new offices in the Dominican Republic, Jakarta, and the Philippines, underscores our growing global presence and ability to offer world-class technology solutions. Partnering with Solugenix means more than just business—it means having a dedicated our financial client focused on your success in today's fast-evolving digital world.
+
+**Position Title: Senior Gen AI Developer**  
+**Required Experience : 6- 8 yrs**  
+**Job Location: Hyderabad / Indore**  
+**Shift :**  **11.00 AM - 8.00 PM**
+
+  
+
+**Description:**
+
+* Design, develop, and maintain scalable backend systems using Python.
+* Integrate Generative AI technologies into applications to solve real-world problems and enhance user experiences.
+* Collaborate with cross-functional teams including product managers, data scientists, and UX designers to deliver high-quality solutions.
+* Optimize performance, ensure security compliance, and debug production issues in large-scale distributed systems.
+* Keep up-to-date with emerging trends in Generative AI and backend development to propose and implement innovative ideas.
+* Mentor junior engineers and contribute to a culture of technical excellence within the team.
+
+  
+
+**Must Have & Desired Skills:**
+
+* 4-6 years of professional software engineering experience.
+* Strong proficiency in Node.js and Python with a proven track record of delivering production-grade applications.
+* Expertise in Agentic AI, MCP, and agent orchestrations
+* Practical experience working with Generative AI frameworks and models (e.g., OpenAI GPT, Hugging Face, or similar).
+* Familiarity with cloud platforms like AWS, Azure, or GCP.
+* Strong knowledge of API development, microservices architecture, and RESTful principles.
+* Excellent problem-solving skills and ability to write clean, efficient, and well-documented code.
+* Strong communication and collaboration skills.
+* Strong understanding of TypeScript and its core principles.
+* Proficiency in designing and implementing RESTful APIs.
+* Knowledge of Node.js and its ecosystem.
+* Familiarity with databases, including Postgres.
+* Knowledge of server-side caching mechanisms.
+* 'Experience with containerization and orchestration tools (e.g., Docker, Kubernetes).
+* Familiarity with CI/CD pipelines and DevOps practices.
+* Knowledge of databases (SQL and NoSQL) and data processing pipelines.
+* Prior involvement in Generative AI projects or applications in production.

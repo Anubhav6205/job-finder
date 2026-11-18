@@ -1,0 +1,50 @@
+Hi,
+
+  
+
+I came across your profile on Naukri and found your experience highly relevant to an exciting opportunity with **Bahwan CyberTek (BCT)**.
+
+We are currently hiring for the position of **QA Automation Engineer** with expertise in **Playwright, API Automation, REST Assured, and Java**.
+
+Role Details:
+
+* **Position:** QA Automation Engineer
+* **Experience:** 6 - 9 Years
+* **Location:** Chennai
+* **Company:** Bahwan CyberTek (BCT)
+* **Skills:** Playwright, API Automation, REST Assured, Java, Selenium, CI/CD, Agile
+* **Preferred:** AI/GenAI Testing, Microservices Testing, SQL
+
+What We're Looking For:
+
+* Strong hands-on experience in Playwright automation.
+* Expertise in API automation using REST Assured.
+* Experience in developing and maintaining automation frameworks.
+* Knowledge of CI/CD pipelines, Agile methodologies, and end-to-end testing.
+* Exposure to AI-assisted testing or Generative AI testing is an added advantage.
+
+Why Join Bahwan CyberTek?
+
+* Global digital transformation company with strong focus on AI, Data, Cloud, and Automation.
+* Opportunity to work on enterprise-scale projects.
+* Exposure to modern QA practices including AI-enabled quality engineering.
+* Collaborative and innovation-driven work environment.
+
+If you are interested in exploring this opportunity, please share the following details:
+
+* Total Experience:
+* Relevant Experience in Playwright:
+* Relevant Experience in API Automation:
+* Relevant Experience in REST Assured:
+* Current Company:
+* Current CTC:
+* Expected CTC:
+* Notice Period:
+* Current Location:
+
+Looking forward to hearing from you.
+
+**Regards,**  
+**Shobana K**  
+Talent Acquisition  
+**Bahwan CyberTek (BCT)**

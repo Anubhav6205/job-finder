@@ -1,0 +1,39 @@
+Lead Digital Engineer:  
+  
+
+Job Title-  Salesforce Software Engineer III, Senior Salesforce Technical Engineer / Technical Lead Agentforce, CPQ & Experience Cloud
+
+Location- Hyderabad
+
+Experience : 6+ years
+
+Roles and Responsibilities-
+
+* Design and implement Agentforce AI solutions, agent workflows, prompts, and automation to improve business productivity.
+* Lead development of Salesforce CPQ solutions, including product configuration, pricing, quoting, renewals, and contract lifecycle management.
+* Manage Salesforce releases, deployments, and CI/CD pipelines using Git and tools such as Copado.
+* Provide technical leadership, perform code reviews, anensure scalable, secure, and high-quality solutions.
+
+Preferred Certifications ( Good to have)
+
+* Salesforce CPQ Specialist
+
+* Salesforce Platform Developer I/II
+
+Qualifications & Required Skills-
+
+* 6+ years of Salesforce development experience.
+* Strong hands-on expertise in Salesforce CPQ, Agentforce, Experience Cloud, Apex, LWC, SOQL, and Flows.
+* Experience with integrations, Salesforce DevOps, Git, and CI/CD practices.
+* Strong understanding of Quote-to-Cash processes and enterprise Salesforce architecture.
+* Excellent leadership, communication, and problem-solving skills.
+
+Mandatory skills-  Agentforce, Salesforce CPQ, Experience Cloud, Apex, LWC, Flows, Integrations, Copado, Git, CI/CD, AI Automation, Salesforce Architecture, Technical Leadership  .
+
+Qualifications : BE/BTech/Degree/Master Degree
+
+ABOUT SONATA SOFTWARE
+
+Sonata Software is an AI-first modernization engineering company that helps enterprises transform legacy systems into intelligent, scalable business platforms. Powered by its Platformation framework and Harmoni.AI platform, Sonata delivers AI-led modernization across cloud, data, AI, Dynamics, test automation, and managed services. Headquartered in Bengaluru, India, Sonata has more than $1.2 billion in revenue and 6, 400+ AI engineers supporting global delivery across regions including the US, UK, India, Malaysia, Mexico, Australia, DACH, and the Nordics. With deep partnerships across Microsoft, AWS, Salesforce, and Snowflake, Sonata helps Fortune 500 enterprises accelerate innovation, improve efficiency, and drive sustainable growth.
+
+For more information, please visit   Accelerating Business and Technology Modernization | Sonata Software

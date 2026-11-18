@@ -1,0 +1,78 @@
+**Below is the Job Description:**
+
+  
+
+**Job Title:** Control System Engineer
+
+**Location:** Chennai, TN
+
+**Job Type:** Full Time
+
+**Control System Engineer**
+
+  
+
+***Where Operations Meet Opportunity.***
+
+*Fuller Technologies moves industries forward by designing better ways of working both inside plants and within our own organization. For more than 140 years, weve refined processes and engineered solutions that make complex operations run smoother. And the way we work internally follows the same logic: clear roles, smart collaboration, and a culture built to keep improving.*
+
+*When you join Fuller, you become part of a team that values your contribution and supports your development. Youll work with colleagues around the world, gain exposure to a wide range of processes, and grow in an environment built on trust, inclusion, and continuous learning. Its the kind of role where capability turns into opportunity, and opportunity — into a long-term career. If you want to grow in a company where your work keeps the whole system moving — Fuller is where that happens.*
+
+  
+
+**About the role:**
+
+The Control Systems Engineer - Machinery Automation applies engineering and software development principles to design, develop, configure, test and support control software for industrial machinery and equipment. The role has a strong focus on machine automation, PLC-based control systems, structured software development and reusable software architecture. Working as part of a multidisciplinary engineering team, the engineer develops practical and maintainable automation solutions for assigned products, machines, and projects. The role collaborates closely with Electrical Engineering, Mechanical Engineering, Service, Production, Project Management, and other engineering resources to ensure successful integration and delivery of machinery control systems.
+
+The role works with general supervision, resolves technical problems within the assigned area, and progressively develops the capability to work independently on machinery automation and software solutions.
+
+  
+
+**Your Responsibilities:**
+
+* Execute control systems engineering, design, configuration, and programming activities for assigned product/project or system areas.
+* Develop and configure control system solutions, including PLC, HMI, SCADA, and related automation systems as applicable.
+* Develop structured, modular, maintainable, and reusable automation software in accordance with established software architectures and engineering standards.
+* Apply structured and object-oriented programming principles were appropriate to support scalable and reusable machine control solutions.
+* Develop and maintain reusable software libraries, function blocks, modules, and standard control solutions for use across products and projects.
+* Design and configure industrial communication and network solutions within established engineering standards.
+* Support integration of Machine control systems with equipment, instrumentation, and other plant systems.
+* Prepare system documentation, specifications, drawings, manuals, and other technical deliverables.
+* Develop and maintain engineering documentation in accordance with project and company requirements.
+* Participate in testing, troubleshooting, and Factory Acceptance Tests (FAT).
+* Participate in Commissioning and Site Testing.
+* Identify and resolve technical issues within assigned areas and escalate more complex issues as appropriate.
+* Provide technical support to internal and external engineering resources.
+* Collaborate with other engineering disciplines to coordinate control system/automation requirements and interfaces.
+* Provide work progress updates and communicate technical issues, risks, and requirements to the appropriate leader.
+* Apply established engineering standards, processes, and practices to assigned work.
+* Support continuous improvement of control system/automation engineering methods, tools, and documentation.
+* Promote a culture of personal and team safety and consider the safety of others who may be affected by the company's operational activities.
+* Other job duties as assigned.
+
+  
+
+**You bring:**
+
+* Bachelor's degree in Automation/Software Engineering, Control Systems Engineering or a related technical field, or equivalent combination of education and experience.
+* 1-3 years of experience in industrial controls, Machine Control, automation, process control, or a related field.
+* Practical knowledge of control system design, programming, configuration, and troubleshooting.
+* Working knowledge of PLC, HMI, SCADA, industrial networks, and communication protocols.
+* Ability to read and interpret electrical drawings, control system documentation, and technical specifications.
+* Strong analytical and troubleshooting skills.
+* Ability to work effectively as part of a multidisciplinary engineering team.
+* Ability to work with general supervision and communicate progress and technical issues effectively.
+
+  
+
+*As an equal opportunity employer, Fuller Technologies embraces diversity and equality by promoting an environment of inclusion. We encourage applicants of all backgrounds to apply irrespective of sex, gender identity/expression, disability, sexual orientation, or age. The more diverse our employees are, the stronger our team is.*
+
+  
+
+**Build a better world**
+
+Fuller Technologies helps build societies all over the world by contributing to the infrastructure needed for global economic growth. It is a big responsibility, and we are committed to driving growth while minimising environmental impact. To achieve this, your skills, your curiosity, and your drive for change are important. Together in our diverse team, we collaborate in an inclusive and supportive environment to discover further ways to economic and environmental success.
+
+  
+
+For further information on Fuller Technologies' business and services, visit https://www.fuller-technologies.com/

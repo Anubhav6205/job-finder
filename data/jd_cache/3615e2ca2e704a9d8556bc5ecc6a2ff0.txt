@@ -1,0 +1,111 @@
+**Job Details**
+---------------
+
+Location:
+
+Hyderabad, Telangāna, IN
+
+Category:
+
+Information Technology
+
+Employment Type:
+
+Full time
+
+Job Ref:
+
+R2627865-333
+
+IND Senior Software Engineer - GCC024
+
+We’re determined to make a difference and are proud to be an insurance company that goes well beyond coverages and policies. Working here means having every opportunity to achieve your goals – and to help others accomplish theirs, too. Join our team as we help shape the future.
+
+**Job Description: QA Automation Engineer**
+
+Location: Hyderabad, India
+
+Employment Type: Full-Time
+
+Experience Level: 2 to 4 Years
+
+**Position Overview**
+
+We are seeking a skilled **QA Automation Engineer** to join our Enterprise Digital Solutions team in **Hyderabad, India**. In this role, you will design, build, and maintain reliable automated tests across UI and API layers, embed quality checks into CI/CD, and partner with Engineering and Product to prevent defects early. You’ll contribute to scalable test architecture using **Playwright** with **TypeScript/JavaScript** and help improve test stability, coverage, and release confidence.
+
+**Key Responsibilities**
+
+**Test Automation Development**
+
+* Develop and maintain automated test suites for critical user journeys (smoke, regression, end-to-end).
+
+* Create maintainable UI automation using **Playwright** and **TypeScript/JavaScript** (reusable fixtures, selectors, and page abstractions).
+
+* Build and enhance API automation (request validation, data setup/teardown, and basic contract checks where applicable).
+
+* Analyze failures, triage defects, and collaborate with engineers to identify root causes and prevent regressions.
+
+**Framework & CI/CD Integration**
+
+* Contribute to and continuously improve the Playwright automation framework (structure, utilities, reporting, and test patterns).
+
+* Implement scalable execution capabilities such as parallelization, environment orchestration, and reliable test data management.
+
+* Integrate automation into CI/CD pipelines (PR validation and nightly runs), with clear reporting and quality gates to support fast, reliable releases.
+
+* Leverage AI/LLM tooling (where approved) to accelerate test case authoring, refactoring, and failure triage (log/trace summarization).
+
+* Follow responsible AI and data-handling guidelines; collaborate with Security/Platform teams to ensure compliant use of AI-enabled testing.
+
+* Contribute ideas and small proofs-of-concept to improve test intelligence (failure clustering, flaky detection), as needed.
+
+**Collaboration**
+
+* Partner with engineers, product owners, and DevOps to clarify acceptance criteria and ensure testability of requirements.
+
+* Participate in code reviews for automation and share best practices for stable, maintainable tests.
+
+* Promote shift-left quality by adding automation early in the lifecycle and providing fast feedback to the team.
+
+**Quality Engineering & Governance**
+
+* Define automation scope for critical business journeys and ensure coverage for new/changed features.
+
+* Track and report quality metrics (pass rate, stability/flakiness, defect leakage) and propose improvements.
+
+* Communicate test status, risks, and release readiness to stakeholders with clear, actionable information.
+  
+
+**Required Skills & Experience**
+
+* 5-7 years of hands-on experience in test automation for web (and/or mobile) applications, including designing and maintaining automation frameworks.
+
+* Strong proficiency in **TypeScript/JavaScript**.
+
+* Expertise in architecting and scaling cross-platform test execution using **BrowserStack SDK/Automate** in CI/CD environments
+
+* Deep experience integrating automation into **CI/CD pipelines**.
+
+* Practical experience using or operationalizing **AI/LLM-based testing tools**.
+
+* Familiarity with agent-based testing concepts and orchestration patterns (e.g., MCP or similar) is a plus.
+
+* Ability to influence quality outcomes through strong collaboration, clear communication, and pragmatic decision-making.
+
+* Experience making architecture-level automation decisions in complex environments.
+
+* Strong system-thinking mindset with the ability to balance speed, quality, and risk.
+
+* Strong background in Agile, DevOps, and continuous testing practices.
+
+* Experience supporting cloud-native, microservices, and API-driven systems.
+
+**Preferred Qualifications**
+
+* Experience in enterprise-scale or regulated environments.
+
+* Exposure to CIAM, security testing, or identity-centric platforms.
+
+* Prior experience driving quality transformation or modernization initiatives.
+
+* Familiarity with observability, analytics, and test intelligence platforms.

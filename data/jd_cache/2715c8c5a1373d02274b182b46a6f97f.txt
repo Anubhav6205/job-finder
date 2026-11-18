@@ -1,0 +1,36 @@
+**About The Opportunity**
+A fast-scaling AI-driven technology firm operating at the intersection of enterprise software and machine learning, we build scalable ML systems that power real-time decision engines, recommendation pipelines, and automated analytics for global clients. Our ML Engineers translate algorithms into production systems—leveraging cloud-native stacks and modern MLOps practices to drive measurable business impact.
+  
+  
+**Role & Responsibilities**
+
+* Design, train, and deploy machine learning models for real-time inference and batch scoring in cloud environments.
+* Build and maintain scalable data and feature pipelines using Python, SQL, and Apache Airflow or equivalent tools.
+* Collaborate with data scientists and software engineers to productionize models using containerization (Docker) and orchestration (Kubernetes).
+* Implement model versioning, monitoring, and retraining workflows using MLflow, SageMaker, or similar MLOps platforms.
+* Optimize model latency, throughput, and resource utilization for cost-efficient and high-availability deployments.
+* Conduct A/B testing and performance evaluations to validate model impact on KPIs and business outcomes.
+
+**Skills & Qualifications**
+
+* Must-Have
+* Python
+* Scikit-learn
+* TensorFlow
+* PyTorch
+* MLflow
+* Docker
+* Kubernetes
+* Apache Airflow
+* Preferred
+* Sagemaker
+* Spark
+* GitOps
+
+**Benefits & Culture Highlights**
+
+* On-site collaborative workspace in India with high-performance engineering teams.
+* Opportunity to work on cross-border ML solutions with global clients.
+* Professional growth paths with mentorship and hands-on exposure to cutting-edge MLOps tooling.
+
+Skills: python,rag,scikit-learn,tensorflow,ci cd,ci/cd,docker,llm,kubernetes,generative ai,genai,ml,pytorch

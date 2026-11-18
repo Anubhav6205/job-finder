@@ -1,0 +1,36 @@
+🚀
+**We're Hiring: AI/ML Lead Engineer**
+
+📍
+**Location:**
+Hyderabad, Bengaluru, Pune, Coimbatore
+
+💼
+**Experience:**
+8–11 Years
+
+🏢
+**Company:**
+ValueMomentum
+
+We are looking for an experienced
+**AI/ML Lead Engineer**
+with strong expertise in Artificial Intelligence, Machine Learning, Generative AI, and Data Engineering to build and deliver scalable, production-ready AI solutions.
+
+**🔹 Key Skills Required:**
+
+* Strong experience in Python, Machine Learning, and AI.
+* Hands-on expertise in Generative AI, LLMs, Prompt Engineering, and RAG.
+* Experience with Agentic AI frameworks – LangGraph, CrewAI, or AutoGen.
+* Strong knowledge of Data Engineering, PySpark, Apache Spark, and SQL.
+* Experience with Databricks, Delta Lake, and Lakehouse architecture.
+* Hands-on experience with MLOps, MLflow, model deployment, and monitoring.
+* Cloud experience in Azure, AWS, or Databricks.
+* Experience in REST APIs, Docker, CI/CD, and production deployments.
+
+**🔹 Good to Have:**
+
+* P&C Insurance domain experience (Claims, Underwriting, or Distribution).
+* Knowledge of Knowledge Graphs, Neo4j, and Ontologies.
+* Experience with Unity Catalog, Feature Store, and Model Serving.
+* Exposure to Kubernetes, Terraform, and MCP.

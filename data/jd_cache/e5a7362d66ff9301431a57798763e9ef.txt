@@ -1,0 +1,43 @@
+**We're looking for a**
+
+**Senior Al Engineer - India**
+==============================
+
+**This role is** **Hybrid, Hyderabad Office**
+
+**Who We're Looking For**
+  
+  
+Cornerstone is seeking a Senior AI Engineer to join the Architecture team that forms the backbone of our Cornerstone AI Platform. You will design and build the foundational services every AI capability depends on, including authentication and authorization for agentic and MCP integrations, along with AI design patterns spanning RAG, voice, and evaluations. This is a high-ownership role where your design decisions directly shape how AI is built, secured, and validated across the product suite. If you want to work at the intersection of secure platform engineering and modern GenAI and see your work power features used by a global workforce.
+
+**In This Role You Will...**
+
+* Build and operate core platform services, including authentication and authorization for agentic and MCP integrations, OAuth2/OIDC, and multi-tenant identity and trust.
+* Design and implement AI platform patterns covering RAG pipelines, voice-based role-play assistants, and the AI Evaluation Platform.
+* Contribute to API Gateway solution design for new AI services, setting patterns for how services are built, secured, and scaled.
+* Work on the Message Streaming Platform that processes internal and external events across microservices.
+* Collaborate with cross-functional teams across product, operations, database, and security to deliver reliable and secure platform components.
+* Contribute to solution design, reuse and extend the platform's common components, and help raise the engineering bar across the team.
+
+**You've Got What It Takes If You Have...**
+
+* 3+ years of backend engineering experience in Java (Spring / Spring Boot) and/or Python.
+* Hands-on experience building and operating production-grade AI/ML or GenAI solutions.
+* Solid cloud fundamentals on AWS (EKS/Kubernetes, IAM, DynamoDB, RDS) and infrastructure-as-code (Terraform).
+* Experience with SQL and NoSQL data stores and caching (Redis).
+* Strong API and platform design skills.
+* Good understanding of OAuth2 / OpenID Connect, token-based auth, and multi-tenant systems is a plus.
+* Strong system design and architecture skills.
+Bachelor's degree in Computer Science, Engineering, or a related field (or equivalent experience).  
+
+**#LI-onsite**
+
+**Our Culture:**
+
+Spark Greatness. Shatter Boundaries. Share Success. Are you ready? Because here, right now – is where the future of work is happening. Where curious disruptors and change innovators like you are helping communities and customers enable everyone – anywhere – to learn, grow and advance. To be better tomorrow than they are today.
+
+**Who We Are:**
+
+Cornerstone powers the potential of organizations and their people to thrive in a changing world. Cornerstone Galaxy, the complete AI-powered workforce agility platform, meets organizations where they are. With Galaxy, organizations can identify skills gaps and development opportunities, retain and engage top talent, and provide multimodal learning experiences to meet the diverse needs of the modern workforce. More than 7,000 organizations and 100 million+ users in 180+ countries and in nearly 50 languages use Cornerstone Galaxy to build high-performing, future-ready organizations and people today.
+
+Check us out on LinkedIn, Comparably, Glassdoor, and Facebook!

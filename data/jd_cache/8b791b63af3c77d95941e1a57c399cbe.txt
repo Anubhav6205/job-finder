@@ -1,0 +1,59 @@
+**Job Information**
+-------------------
+
+* Date Opened 11/18/2026
+* Industry IT Services
+* Job Type Full time
+* Work Experience 2-4 years
+* City Pune City
+* State/Province Maharashtra
+* Country India
+* Zip/Postal Code 411001
+
+**About Us**
+------------
+
+IncubXperts is a Software Technology Services company. We focus on building Web solutions for Enterprises and Independent Software Vendors or Product companies.
+
+To know more visit: www.incubxperts.com
+
+**Job Description**
+-------------------
+
+**Role Overview**
+
+We are looking for a Full Stack AI Engineer to join a fast-growing AI startup building intelligent systems for supplier risk and procurement teams in manufacturing and pharma. You will own features end-to-end—working across AI/ML, backend services, and frontend UI—while shipping production-ready solutions that solve real enterprise problems.
+
+**Key Responsibilities**
+
+* **Build AI/ML workflows on structured & unstructured data (ERP data, PDFs, emails, web data)**
+* **Design and develop backend services using Node.js & Python (FastAPI/Flask)**
+* **Develop full-stack product features including REST APIs and Vue.js UI**
+* **Improve model performance, prompts, and retrieval logic**
+* **Work closely with founders and customers to deliver impactful features**
+* **Make scalable architecture decisions (multi-tenancy, async workflows)**
+
+### **Requirements**
+
+**Required Skills**
+
+* 2- 4years of experience in production software development
+* Strong fundamentals in software engineering & data structures
+* Hands-on experience with full-stack development
+* Practical exposure to AI/ML or LLM-based systems
+* Comfortable working with real-world, messy datasets
+* Ownership mindset and ability to work in fast-changing environments
+
+**Tech Stack**
+
+* AI/ML: Pandas, scikit-learn, Transformers, HuggingFace, LLM APIs
+* Backend: Node.js/ Python (FastAPI/Flask)
+* Frontend: Vue.js (or strong JavaScript fundamentals)
+* Databases: PostgreSQL, MongoDB
+* Infra: REST APIs, async jobs, Docker (good to have)
+
+**Nice to Have**
+
+* Experience deploying ML models
+* Prompt engineering / LLM workflows
+* Startup or 0 1 product experience

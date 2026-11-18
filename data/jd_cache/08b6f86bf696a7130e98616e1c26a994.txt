@@ -1,0 +1,52 @@
+**DESCRIPTION**
+---------------
+
+Do you enjoy diving deep into data, developing real-time and batch pipelines that generate actionable insights?  
+  
+The DSP Analytics team has an exciting opportunity for a Data Engineer to make impactful contributions to Amazon's Delivery Service Partner (DSP) program tackling modern data challenges by combining traditional engineering practices with transformative analytics and Generative AI.  
+  
+You'll help design and build the next generation of data infrastructure powering GenAI applications, and develop agents that automate the end-to-end data operations lifecycle. We are a team of Data Engineers working closely with Data Scientists, Economists, and Analysts turning machine learning and AI research into scalable products that delight customers worldwide.  
+  
+You're passionate about technology, strongly biased toward going deep to find insights, and driven to build scalable analytical platforms. You're relentless about quality and reliability, and comfortable communicating across different levels of leadership. If that sounds like you, we'd love to talk.  
+  
+Key job responsibilities  
+  
+Lead and design complex data architectures, ensuring scalability, security, and alignment with business objectives  
+  
+Drive implementation of large-scale data pipelines and ETL processes using AWS technologies  
+  
+Identify and resolve system-wide data challenges, including performance bottlenecks and architectural deficiencies  
+  
+Establish data engineering best practices, including governance, security standards, and operational excellence  
+  
+Ensure data solutions are auditable, accessible, and maintainable across the organization  
+  
+Collaborate with cross-functional teams to deliver innovative data solutions  
+  
+About the team  
+We are the Amazon DSP Analytics team, supporting all business pillars across the DSP organization horizontally, with the vision to enable data-, insights-, and science-driven decision-making. We are an exceptionally talented and fun-loving team. Here, you'll have the opportunity to dive deep into complex business and data problems, drive large-scale technical solutions, and raise the bar for operational excellence. We love sharing ideas and learning from each other, and we believe in using those ideas to disrupt the status quo.
+
+**BASIC QUALIFICATIONS**
+------------------------
+
+* 4+ years of data engineering experience
+* Experience with data modeling, warehousing and building ETL pipelines
+* 2+ years of analyzing and interpreting data with Redshift, Oracle, NoSQL etc. experience
+* Experience with distributed computing, programs and systems
+* Experience working on and delivering end to end projects independently
+* Experience programming with at least one modern language such as C++, C#, Java, Python, Golang, PowerShell, Ruby
+
+**PREFERRED QUALIFICATIONS**
+----------------------------
+
+* Experience with AWS technologies like Redshift, S3, AWS Glue, EMR, Kinesis, FireHose, Lambda, and IAM roles and permissions
+* Experience with non-relational databases / data stores (object storage, document or key-value stores, graph databases, column-family databases)
+* Experience leveraging AI (Artificial Intelligence) agents for security review automation, spec-driven development practices, or adversarial red teaming
+* Familiarity with agentic AI patterns including tool use, function calling, and multi-agent orchestration
+* Familiarity with at least one agentic AI development IDE
+* Experience building or maintaining shared data models, semantic layers, or data contracts
+
+  
+Our inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how-we-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner.  
+  
+null

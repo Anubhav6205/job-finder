@@ -1,0 +1,96 @@
+Job Description
+
+**Job description**
+
+We are looking for a candidate who will be responsible for Finite Element Analysis (FEA) activities using MSC NASTRAN and Optistruct and support knowledge development projects. Your mission will be to support new product development for FEA activities & assist in FEA knowledge development at Global Engineering Center India Airpower. You should have very high penchant for engineering analysis and analytical work.
+
+MAJOR RESPONSIBILITIES:
+
+* You perform advanced FEA analyses for a wide range of applications and products. In close collaboration with your internal client and with the necessary creativity you translate your findings to a performant and cost-effective design. The client is guided by you from the moment you receive the request up to the implementation of the solution.
+* In all projects a customer focused approach is crucial. You are able to analyze the client’s problem and asses if he needs a simple hand calculation or a more complex FEA simulation. It is your task to select the most efficient and accurate solution strategy to tackle the job.
+* Components analyzed include compressor/pump frames, rotors, housings etc. Type of analyses includes linear static, non-linear and dynamic calculations.
+* You remain up to date with the latest developments in the field of CAE/FEA Domain. You identify opportunities to improve and/or expand our calculation models and tools. And together with your colleagues you introduce these improvements in our processes worldwide and develop the Static structural and dynamic competence domain in Atlas Copco.
+* Interaction with overseas Atlas Copco customers on a regular basis is required.
+* Provide CAE support to customers in phase of product development and product enhancement.
+* Support competence development and following best practices in CAE.
+Compliance to ISO Procedures.  
+
+**Experience requirements**
+
+2-6 years of FEA experience, experience on compressors/pumps is an added advantage.
+
+**Knowledge**
+
+* An in-depth knowledge of FEA, Applied Mechanics, Dynamics of structure.
+* Hands on experience in HyperMesh/HyperView/ Simlab /Inspire / SimSolid as pre/post-processor and Nastran/Opti-struct as solver are must and he/she needs to be an in dependable resource to the team in these areas.
+* Should be able to perform linear, Nonlinear and dynamic analysis on 3D solid components. Experience on Pressure vessels or Power Train is essential.
+* Ability to convert problem statements into FEA model strategy definition and results into solutions is essential.
+* The ideal candidate shall be able to judge and interpret the analysis results in a good manner with critical attitude. Should possess FE modeling reviewing skills and quality awareness.
+
+* Experience in the areas below is an added advantage
+  + Performing modal/frequency-response/random-vibration/vibration-fatigue calculations/
+  + Experience on Rotordynamics simulations
+  + Correlation of simulation results to test particularly in the dynamics domain
+  + Experience in providing solutions to vibration problem
+  + Knowledge of standards/codes (ASCE/EN/DNV) is an added advantage
+  Knowledge of ASME Sec. VIII Div.1/2 for strength and fatigue analysis of vessels is desired
+
+* Experience in below programming skills is an added advantage
+  + Unix-Shell scripts
+  + TCL/tK
+  + Python
+  + Matlab
+  + HTML
+  AI/ Machine Learning
+
+**Educational requirements**
+
+M.Tech/ M.E.
+
+**Personality requirements**
+
+* Research attitude
+
+* Good interpersonal skills and positive attitude.
+
+* Dynamic and energetic.
+
+* Good presentation, business communication and analytical skills.
+
+* High achievement drive and willingness to accept challenges
+Customer focused.  
+
+**Last Date to Apply**  
+25/11/26
+
+Apply now
+
+**Uniting curious minds**
+-------------------------
+
+Behind every innovative solution, there are people working together to transform the future. With careers sparked by initiative and lifelong learning, we are uniting curious minds, and you could be one of them.
+
+Information at a Glance
+
+Atlas Copco Group enables technology that transforms the future. We innovate to develop products, services and solutions that are key to our customers' success. Our four business areas offer technologies for air and gas compression, vacuum and abatement, automated assembly and quality control, mobile energy management and power generation as well as portable and industrial flow technologies.
+
+Visit the Atlas Copco Group website
+
+**Uniting curious minds**
+-------------------------
+
+Behind every innovative solution, there are people working together to transform the future. With careers sparked by initiative and lifelong learning, we are uniting curious minds, and you could be one of them.
+
+Employment type:
+
+Job type: Hybrid
+
+Posting End Date: 11/25/26
+
+Functional area: Research and Development
+
+Legal Entity: Atlas Copco (India) Private Ltd.
+
+Country/Region:
+
+City / Province: Pune

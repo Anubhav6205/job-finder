@@ -1,0 +1,33 @@
+**Job Summary**
+
+Design and execute automated and manual quality assurance solutions for AI powered Retrieval Augmented Generation and large language model platforms within a hybrid work model focusing on robust API validation behavior driven development practices and scalable test automation. Collaborate with cross functional engineering teams to ensure resilient end to end journeys across web services and data flows while continuously improving quality metrics for digital payment and financial technology e
+
+**Responsibilities**
+
+* Design and implement comprehensive automated test suites for AI powered Retrieval Augmented Generation workflows and large language model features ensuring stable and reliable behavior across evolving model versions and data pipelines.
+* Develop and maintain robust end to end regression suites using Selenium with Java and Playwright frameworks validating critical user journeys across web clients service layers and integrated back end components.
+* Create execute and optimize API test scenarios for REST and similar service interfaces validating functional coverage error handling data contracts and performance characteristics to support scalable production usage.
+* Apply behavior driven development practices by defining clear executable scenarios and acceptance criteria that capture business rules and AI quality expectations in a form that is understandable for product engineering and quality stakeholders.
+* Engineer reusable automation frameworks and utilities that standardize test patterns for AI inference endpoints context retrieval components and orchestration services reducing maintenance overhead and increasing test reliability.
+* Collaborate with data science and machine learning engineering peers to define test strategies for prompt behavior grounding quality hallucination reduction and response consistency across Retrieval Augmented Generation and large language model features.
+* Analyze test results production incidents and quality metrics to identify systemic issues drive root cause analysis and propose targeted improvements to automation coverage test data and environment configurations.
+* Coordinate closely with product management and business analysts to translate complex payment and card processing requirements into precise test conditions and high value regression scenarios that protect core business flows.
+* Contribute to performance and resilience validation by designing scenarios that exercise concurrency failure recovery and timeout handling for AI services and payments related transaction flows in hybrid deployment environments.
+* Document test strategies automation architecture scenario design guidelines and quality gates in a clear and maintainable form enabling consistent adoption by distributed engineering and quality teams.
+* Support continuous integration and continuous delivery pipelines by integrating automation suites managing test stability triaging failures and improving feedback loops for rapid and safe releases.
+* Engage with security and compliance partners to ensure that test designs consider data privacy constraints audit requirements and regulatory expectations relevant to card and payment processing solutions.
+* Adapt testing approaches to hybrid work conditions by using collaboration tools structured communication and asynchronous review practices that maintain transparency on quality status across teams.
+
+**Qualifications**
+
+* Showcase extensive experience in API validation and functional quality assurance including design of complex request and response scenarios boundary conditions and contract based checks aligned with enterprise standards.
+* Demonstrate strong proficiency in Selenium with Java automation including page object patterns reusable utilities data driven testing techniques and integration with continuous integration pipelines.
+* Apply hands on expertise with Playwright frameworks to construct reliable cross browser and cross context end to end scenarios emphasizing stability observability and maintainability in test suites.
+* Use practical background in behavior driven development to author clear executable specifications collaborate on example discovery workshops and ensure that scenarios reflect real world usage patterns.
+* Leverage familiarity with card and payments flows commercial off the shelf financial products and transaction authorization concepts to design tests that accurately reflect industry grade processing requirements.
+* Bring prior exposure to Base twenty four platforms or similar switching solutions that support nuanced validations for routing settlement and message formatting logic within payment ecosystems.
+* Operate effectively within hybrid work arrangements by using structured communication clear documentation and proactive coordination practices that keep quality activities aligned with delivery timelines.
+
+**Certifications Required**
+
+ISTQB Advanced Test Automation Engineer or Certified Selenium Tester or equivalent enterprise test automation certification.

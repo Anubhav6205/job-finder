@@ -1,0 +1,75 @@
+Job Description: As a member of the AI team at Tejas Networks, you will work on the UFS (Unified Forecasting System) platform, building and maintaining AI-driven forecasting and anomaly detection solutions for network telemetry. The role involves developing REST API-based microservices for forecasting at Node-Port-KPI granularity and owning the complete lifecycle of services, from design and development to production support and platform integration.
+
+You will work closely with observability platform and be responsible for ensuring reliable, scalable, and production-ready AI services.
+
+  
+
+* Responsibilities: Design, develop, and maintain Python-based microservices deployed using Docker and Kubernetes.
+
+* Contribute to existing Universal Forecasting Solution Platform by adding new features and use ecases.
+
+* Build and enhance REST API-based forecasting services for wireless and wireline network telemetry data.
+
+* Own services end-to-end, including architecture, implementation, deployment, monitoring, debugging, and production support.
+
+* Manage Kafka-based bulk forecasting pipelines, including:
+
+* Multi-topic architectures
+
+* Combination generation workflows
+
+* Consumer offset management
+
+* Token caching and performance optimization
+
+* Continuously improve data preprocessing services through research, experimentation, and implementation of new algorithms.
+
+* Integrate time-series foundation models into standalone, reusable forecasting microservices.
+
+* Design and implement large-scale anomaly detection systems across thousands of time series using statistical and machine learning techniques.
+
+* Review application code, deployment scripts, and infrastructure configurations.
+
+* Profile application performance, optimize resource utilization, and troubleshoot production bottlenecks.
+
+* Collaborate with platform teams to integrate AI services with systems such as Report Tool and TOP.  
+  Must Have Skills
+* + Strong programming experience in Python.
+* + Applied mathematics, statistics, linear algebra, Supervised/unsupervised learning, model training, evaluation, and hyperparameter tuning.
+* + Time‑series forecasting models: ARIMA, Prophet, LSTM, GRU, Transformer‑based models, handling missing values, normalization, feature selection, lag/rolling features, evaluation metrics like MAE, RMSE, MAPE, directional accuracy
+* + Exposure to MLOps, model deployment, and monitoring practices.
+* + Strong understanding of REST API design and microservice architecture.
+* + Hands-on experience with Docker and Kubernetes.
+* + Experience with CI/CD pipelines and version control systems (Git).
+* + Strong troubleshooting and debugging skills in distributed systems.
+* + Ability to independently investigate and resolve production issues.
+
+  
+
+About Us: Tejas Networks is a global broadband, optical and wireless networking company, with a focus on technology, innovation and R&D. We design and manufacture high-performance wireline and wireless networking products for telecommunications service providers, internet service providers, utilities, defence and government entities in over 75 countries. Tejas has an extensive portfolio of leading-edge telecom products for building end-to-end telecom networks based on the latest technologies and global standards with IPR ownership. We are a part of the Tata Group, with Panatone Finvest Ltd. (a subsidiary of Tata Sons Pvt. Ltd.) being the majority shareholder. Tejas has a rich portfolio of patents and has shipped more than 900,000 systems across the globe with an uptime of 99.999%. Our product portfolio encompasses wireless technologies (4G/5G based on 3GPP and O-RAN standards), fiber broadband (GPON/XGS-PON), carrier-grade optical transmission (DWDM/OTN), packet switching and routing (Ethernet, PTN, IP/MPLS) and Direct-to-Mobile and Satellite-IoT communication platforms. Our unified network management suite simplifies network deployments and service implementation across all our products with advanced capabilities for predictive fault detection and resolution. As an R&D-driven company, we recognize that human intelligence is a core asset that drives the organization’s long-term success. Over 60% of our employees are in R&D, we are reshaping telecom networks, one innovation at a time.
+
+**Diversity and Inclusion Statement:**
+
+* Tejas Networks is an equal opportunity employer. We celebrate diversity and are committed to creating all inclusive environment for all employees.
+* We welcome applicants of all backgrounds regardless of race color, religion, gender, sexual orientation, age or veteran status.
+* Our goal is to build a workforce that reflects the diverse communities we serve and to ensure every employee feels valued and respected.
+
+  
+
+About the Team: Tejas Networks provides scalable and innovative 4G/5G solutions. Our portfolio encompasses Radio Access Network solutions including Remote Radio Heads (RRHs) or Radio Units (RUs), Massive MIMO Radios (Advanced Antenna Systems, AAS) and Base Band Units (BBUs), Distributed Units (DUs) and Centralized Units (CUs), Mobile Packet Core and an Advanced Network management solution.
+
+Tejas Networks has invested in Wireless product development since 2012 with a vision to create globally deployable telecom solutions. Several of the key components developed by the Wireless R&D team have been installed and commissioned across multiple continents. We are an active partner for 4G and 5G in the Indian Ecosystem and have significantly contributed to India’s standardization efforts in 3GPP and TSDSI.
+
+The wireless team has over 100 patents. As part of the Wireless team, you will work on developing products for next generation wireless systems.
+
+Product Lifecycle Management at Tejas are the forefront runners taking the world class solutions to our customers.
+
+Tejas solutions are unique with inhouse Radio designs developed by seasoned experts in ASIC chip design involving 4G LTE Radio and 5G NR Radios.
+
+Tejas offers best Network Management solution for the entire portfolio of 4G and 5G device ecosystem management.
+
+Tejas Wireless offering include an advanced Mobile Packet Core, solution is critical for ensuring seamless, high-performance connectivity.
+
+Engineering Program Management, which plays a crucial role in overseeing and coordinating the successful execution of engineering projects or programs.
+
+All Tejas Wireless solutions are monitored by Network Support Group who constantly handle various aspects like validation of the solutions.

@@ -1,0 +1,83 @@
+**Job Title**
+
+Workflow Engineer, 1
+
+**Job Description**
+
+**AI Workflow & Automation Engineering**
+
+* Prototype and productionize new AI-driven automations.
+* Design and implement Slack features including slash commands, message actions, interactive modals, triage flows, and user-friendly bot behaviors.
+* Develop frameworks, templates, and reusable automation components to accelerate future workflow builds — both for code-first builds and for our low-code stack (n8n, Zapier, Google Workspace Studio).
+* Raise concerns when a proposed approach has technical risk, and help shape a better path forward.
+
+**Retrieval, Data Pipelines & AI Quality**
+
+* Build and refine retrieval pipelines, vector stores, data-sync workflows, hashing/diffing systems, and content preprocessing pipelines.
+* Implement structured outputs, evaluation loops, hallucination prevention methods, and AI quality assurance systems.
+* Maintain and improve RAG pipelines using content from Confluence, Google Sheets, Jira, Slack logs, and other internal knowledge sources.
+
+**Backend, Reliability & Production Readiness**
+
+* Build and maintain backend services, REST APIs, and serverless orchestrators powering our internal automation platforms.
+* Implement logging, monitoring, retry logic, structured error handling, and observability to keep our automations production-grade.
+* Contribute to CI/CD workflows, testing practices, and version-controlled deployment patterns.
+
+**Cross-Team Enablement & Expansion**
+
+* Partner with teams across People Inc. to identify processes that can benefit from intelligent automation or AI augmentation.
+* Translate business needs into reliable automated workflows and internal tools.
+* Contribute to documentation, change management procedures, and the overall evolution of People Inc.'s internal AI platform.
+* Take initiative to propose new AI-enabled enhancements, systems, or assistants the organization has not yet defined.
+
+**What You'll Likely Work On in Your First 6 Months**
+
+* **Dottie as a service**: help extract Dottie (our L1 tech support triage agent) from the existing in-process #it-techsupport implementation into a standalone API, define quality metrics, and onboard at least one new consuming surface.
+* **Reusable build patterns**: turn our "Slack workflow + AI matcher + Apps Script" pattern into proper templates with example code, intake forms, and stakeholder-facing docs so future builds ship faster.
+* **Stack-level upgrades**: identify where our current Sheets-based audit logs, Apps Script glue, and ad-hoc retrieval should graduate to more durable infrastructure, and help drive the migration where it makes sense.
+
+**Required Skills**
+
+**Background**
+
+* 3+ years of professional software engineering experience, with meaningful exposure to AI/LLM-based systems.
+* Bachelor's degree in Computer Science, Engineering, or a related field — or equivalent practical experience.
+
+**Core Engineering**
+
+* Solid experience with Python and JavaScript; comfort working in Apps Script, or willingness to become fluent.
+* Comfort with REST APIs, webhooks, and event-driven integrations.
+* Experience building and shipping services that have run in production.
+
+**AI & LLM**
+
+* Hands-on experience with LLMs, OpenAI APIs, embeddings, retrieval pipelines (RAG), and prompt engineering.
+* Familiarity with data normalization, indexing, content segmentation, and retrieval basics.
+
+**Cloud & Systems**
+
+* Experience with Google Cloud, particularly Cloud Functions (Cloud Run, Pub/Sub, IAM a plus).
+* Experience building on Slack via the SDK, Bolt, or Events API, including interactive UI components.
+* Experience integrating with Jira and similar APIs.
+
+**Preferred Skills (Not Required)**
+
+* Experience with low-code or iPaaS tools (n8n, Zapier, Make) used alongside code.
+* Background in agentic workflows or LangChain.
+* Exposure to observability tools and CI/CD pipelines.
+* Experience designing systems with reliability and a real user-experience focus.
+* Experience operating internal tools — running them, watching usage, iterating — not just building them.
+* Knowledge of Confluence APIs, content hashing, or knowledge retrieval.
+* Experience containerizing AI workloads (Docker) or working with vector databases.
+
+**Who Thrives in This Role**
+
+* Engineers who think in systems, not isolated tasks.
+* Builders who enjoy being a strong technical contributor on a small team and want their work to ship and get used.
+* Developers who care about reliability, uptime, and high-quality user experience.
+* Technologists who stay curious about emerging AI advancements and adopt them responsibly.
+* Problem-solvers energized by complex, cross-functional technical challenges.
+
+It is the policy of People Inc. to provide equal employment opportunity (EEO) to all persons regardless of age, color, national origin, citizenship status, physical or mental disability, race, religion, creed, gender, sex, sexual orientation, gender identity and/or expression, genetic information, marital status, status with regard to public assistance, veteran status, or any other characteristic protected by federal, state or local law. In addition, the Company will provide reasonable accommodations for qualified individuals with disabilities.
+
+#INDIA#

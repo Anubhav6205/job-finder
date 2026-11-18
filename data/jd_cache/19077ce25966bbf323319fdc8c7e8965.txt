@@ -1,0 +1,28 @@
+**Role & responsibilities**
+
+  
+
+* Design, develop, and maintain end-to-end **Machine Learning Operations (ML Ops)** pipelines.
+* Automate model training, validation, deployment, and retraining workflows.
+* Build and manage CI/CD pipelines for machine learning applications.
+* Deploy and monitor ML models in production environments using scalable cloud infrastructure.
+* Implement model versioning, experiment tracking, and artifact management.
+* Establish monitoring frameworks for model performance, drift detection, data quality, and system reliability.
+* Collaborate with Data Scientists and Data Engineers to productionize ML solutions.
+* Optimize infrastructure costs, model serving performance, and deployment strategies.
+* Ensure compliance with security, governance, and operational standards.
+
+  
+
+**Preferred candidate profile**
+
+* Bachelor's or Master's degree in Computer Science, Data Science, Engineering, or a related field.
+* Strong experience with MLOps, machine learning model deployment, and production support.
+* Proficiency in Python and scripting for automation.
+* Experience with ML frameworks such as TensorFlow, PyTorch, or Scikit-learn.
+* Hands-on experience with CI/CD tools such as Jenkins, GitHub Actions, GitLab CI/CD, or Azure DevOps.
+* Experience with containerization and orchestration technologies including Docker and Kubernetes.
+* Knowledge of cloud platforms such as Microsoft Azure, AWS, or Google Cloud Platform.
+* Experience with ML lifecycle and experiment management tools such as MLflow, Kubeflow, SageMaker, or Vertex AI.
+* Familiarity with monitoring and observability tools such as Prometheus, Grafana, ELK Stack, or Datadog.
+* Strong understanding of software engineering principles, version control (Git), and infrastructure automation.

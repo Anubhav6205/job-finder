@@ -1,0 +1,38 @@
+We're looking for
+**AI ML Engineers**
+!
+
+**Responsibilities**
+:
+
+* Design, develop, train, and optimize Machine Learning and Deep Learning models.
+* Analyze structured and unstructured datasets to identify business insights and opportunities.
+* Build and maintain data pipelines for model training and inference.
+* Develop AI solutions using NLP, Computer Vision, Recommendation Systems, or Predictive Analytics.
+* Deploy ML models using cloud platforms and MLOps best practices.
+* Perform feature engineering, model evaluation, hyperparameter tuning, and performance optimization.
+* Collaborate with Data Scientists, Software Engineers, and business stakeholders.
+* Monitor model performance and retrain models as required.
+* Document model architecture, experiments, and deployment processes
+* Be a team player and work across teams.
+
+**Skills Required**
+:
+
+* Strong programming skills in Python.
+* Familiarity with Machine Learning libraries such as Scikit-learn, XGBoost, TensorFlow, Keras, or PyTorch.
+* Good understanding of Supervised & Unsupervised Learning, Deep Learning, NLP, and Computer Vision.
+* Familiarity with data analysis tools like Pandas, NumPy, Matplotlib.
+* Knowledge of SQL and working with large datasets.
+* Familiarity with REST APIs and model deployment. Familiarity with Git version control
+* Exposure to Generative AI, LLMs, LangChain, RAG, Vector Databases (Pinecone, ChromaDB, FAISS).
+* Familiarity with cloud platforms such as AWS, Azure, or GCP.
+* Knowledge of Docker, Kubernetes, CI/CD, and MLOps tools.
+* Familiarity with MLflow, Airflow, or Kubeflow. Experience with prompt engineering and AI agent frameworks
+
+**Shift Timing:**
+Must be comfortable with rotational/night shift
+
+(
+**Note:**
+Relevant applicants will receive an email requesting additional information as part of the next stage. The application process will be completed directly on the team's designated platform, and all subsequent communication and decisions regarding the opportunity are managed by the respective hiring team.)

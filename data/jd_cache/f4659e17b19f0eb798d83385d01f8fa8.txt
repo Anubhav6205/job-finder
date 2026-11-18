@@ -1,0 +1,17 @@
+Our client is a global technology leader in telecommunications and network infrastructure, delivering advanced solutions across mobile, optical, fixed, and cloud networks. The organization plays a critical role in enabling the next generation of connectivity, supporting telecom operators, enterprises, and data centers worldwide.
+
+We are seeking to hire an experienced Data Science and ML professional with a strong track record of building and deploying ML models in production environments.
+
+  
+
+**Key Requirements:**
+
+  
+
+* **Production ML Experience:** Hands-on experience in developing, deploying, and maintaining ML models in production.
+* **Model Development & Evaluation:** Strong understanding of ML algorithms, feature engineering, model development, performance evaluation, and optimization.
+* **ML Pipelines:** Experience designing and building end-to-end ML pipelines, including data preparation, training, validation, deployment, and monitoring.
+* **Generative AI:** Good understanding of GenAI, including GenAI application development, LLM-based solutions, and RAG.
+* **AI Security & Governance:** Awareness of AI security risks such as prompt injection, data leakage, and other LLM vulnerabilities, along with mitigation strategies.
+* **AI Value Measurement:** Ability to define and measure the business impact, benefits, and productivity gains delivered through AI solutions.
+* **Project Ownership:** Ability to independently drive projects end to end, from problem identification and solution design to implementation, deployment, and stakeholder management.

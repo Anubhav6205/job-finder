@@ -1,0 +1,61 @@
+**Role Overview**
+
+We are looking for an experienced Senior Mobile Developer to design, develop, and maintain high-quality mobile applications as part of an AI-powered conversational analytics solution for a large enterprise client.
+
+The ideal candidate will have strong experience in native or cross-platform mobile application development using Swift, Kotlin, Flutter, or React Native. You will be responsible for building secure, scalable, and user-friendly mobile experiences, integrating backend APIs and enterprise services, and ensuring seamless application performance across iOS and Android platforms.
+
+The role requires a strong understanding of mobile application architecture, mobile security, API integration, CI/CD pipelines, and modern software engineering practices. You will work closely with backend engineers, AI engineers, product teams, and client stakeholders to deliver reliable, production-grade mobile solutions.
+
+  
+
+**Key Responsibilities**
+
+* Design, develop, and maintain high-quality mobile applications for iOS and Android platforms.
+* Build native mobile applications using Swift (iOS) or Kotlin (Android), or cross-platform applications using Flutter or React Native.
+* Develop intuitive, responsive, and user-friendly mobile interfaces aligned with product and business requirements.
+* Integrate mobile applications with backend services, REST APIs, authentication services, and enterprise platforms.
+* Implement secure mobile application architecture, including data encryption, secure storage, authentication, and authorization.
+* Apply mobile security best practices to protect sensitive user information and ensure secure communication between mobile applications and backend services.
+* Optimize application performance, responsiveness, scalability, and overall user experience.
+* Implement and maintain CI/CD pipelines for automated mobile application builds, testing, and deployment.
+* Develop and maintain unit tests, integration tests, and UI automation tests to ensure application quality.
+* Troubleshoot, debug, and resolve application defects, performance issues, and platform-specific challenges.
+* Collaborate with backend, AI, and data engineering teams to integrate AI-powered features and conversational experiences into mobile applications.
+* Work with product managers, designers, and client stakeholders to translate business requirements into technical solutions.
+* Participate in code reviews, technical discussions, architecture decisions, and Agile development ceremonies.
+* Maintain technical documentation and support deployment, release management, and knowledge transfer activities.
+
+  
+
+**Required Qualifications**
+
+* 5+ years of professional experience in mobile application development.
+* Strong hands-on experience in at least one of the following mobile development technologies:
+* Swift / SwiftUI for iOS development.
+* Kotlin / Jetpack Compose for Android development.
+* Flutter / Dart for cross-platform mobile development.
+* React Native / JavaScript / TypeScript for cross-platform mobile development.
+* Strong understanding of mobile application architecture, design patterns, and development best practices.
+* Experience integrating REST APIs, backend services, and third-party SDKs.
+* Good understanding of mobile application security, including secure data storage, encryption, authentication, authorization, and API security.
+* Experience implementing CI/CD pipelines for mobile application development, testing, and deployment.
+* Familiarity with Git and version control workflows.
+* Experience with mobile application testing, debugging, performance optimization, and release management.
+* Understanding of iOS and Android platform guidelines, lifecycle management, and application deployment processes.
+* Experience working in Agile/Scrum environments with cross-functional engineering teams.
+* Strong problem-solving, communication, and collaboration skills.
+
+  
+
+**Preferred / Good-to-Have Skills**
+
+* Experience developing applications for both iOS and Android platforms.
+* Exposure to cloud platforms such as Google Cloud Platform (GCP), AWS, or Azure.
+* Familiarity with Firebase, Crashlytics, analytics tools, and mobile monitoring solutions.
+* Experience implementing enterprise authentication mechanisms such as OAuth 2.0, OpenID Connect, and Single Sign-On (SSO).
+* Exposure to biometric authentication, secure key management, and certificate pinning.
+* Experience integrating AI-powered features, chatbots, conversational interfaces, or LLM-based services into mobile applications.
+* Familiarity with automated mobile testing frameworks such as Appium, XCTest, or Espresso.
+* Experience with mobile application distribution and deployment through Apple App Store and Google Play Store.
+* Exposure to cloud-based CI/CD tools such as Jenkins, GitHub Actions, Bitrise, or Fastlane.
+* Experience working with enterprise-grade applications and security/compliance requirements.

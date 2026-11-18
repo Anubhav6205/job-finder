@@ -1,0 +1,98 @@
+At NetApp, our High Achievement Principles shape how we work: we innovate to elevate, drive results, and excel as a team. We have a history of helping customers turn challenges into business opportunities. That’s because we bring new thinking to age-old problems, like how to use data most effectively in the most efficient possible way. As an Engineer with NetApp, you’ll have the opportunity to work with modern cloud and container orchestration technologies in a production setting. You’ll play an important role in scaling systems sustainably through automation and evolving them by pushing for changes to improve reliability and velocity.
+
+**Success profile**
+-------------------
+
+Ready to be an engineer at NetApp? Explore the traits that can help you thrive.
+
+* Analytical
+* Adaptable
+* Communicator
+* Detail-oriented
+* Quick-thinking
+* Problem solver
+
+**Responsibilities**
+--------------------
+
+Bengaluru, Karnataka, India **Job category:** Engineering **Job ID:** 137168-en\_US
+
+**Own Every Moment at NetApp**
+
+At NetApp, your ideas power innovation. We lead in intelligent data infrastructure—delivering unified storage, integrated data services, and solutions that help organizations unlock the full potential of their data, from AI to multicloud.
+
+Ready to innovate and contribute to our path to $10B? Here, you'll collaborate with passionate teams, tackle real-world challenges, and see your impact in how customers transform and grow. If you're ready to bring curiosity, creativity, and drive to every moment, NetApp is where your journey begins. Join teams that innovate to elevate, drive results, and excel together across every function.
+
+**Job Summary**
+---------------
+
+NetApp's Chief Platform and Technology Office (CPTO) is hiring AI/ML Full Stack Engineers to design and build AI/ML-powered incubation projects that drive NetApp's technology strategy and business transformation. You'll own solutions end to end: the AI/ML core, scalable backend services in Python and Go, and React frontends that put AI capabilities in users' hands.The ideal candidate has hands-on experience deploying AI/ML solutions in production, with deep expertise in AI agents, LLM integration and optimization, RAG architectures, and modern ML frameworks. You should be proficient in Python and Go for backend development, and in React (with TypeScript) for the frontend. Strong experience with vector databases, MLOps practices, and containerized deployment (Docker/Kubernetes) is essential, as is familiarity with cloud AI/ML services (AWS SageMaker, Azure ML, GCP Vertex AI). A solid foundation in classical ML/DL, distributed systems, and software engineering best practices is also required. Experience in the storage or cloud domain is a strong plus. We value strong communicators who care about responsible AI and quality, and who deliver on deadlines.
+
+**Job Requirements**
+--------------------
+
+* Design and build backend services and APIs (REST, gRPC, WebSocket/streaming) in Python and Go to serve AI/ML capabilities.
+* Build large-scale, fault-tolerant, low-latency distributed systems and microservices for real-time AI inference.
+* Build responsive React and TypeScript applications, including conversational interfaces, agent workflow dashboards, and data visualizations.
+* Design and build intelligent AI agents that can reason, plan, use tools, and execute multi-step tasks.
+* Architect and optimize LLM-powered systems, including token optimization, cost-efficient inference, prompt engineering frameworks, and caching mechanisms.
+* Build and scale advanced RAG pipelines with hybrid search, re-ranking, agentic retrieval, and dynamic knowledge base integration.
+* Develop and maintain MLOps pipelines for model training, evaluation, deployment, and monitoring at scale.
+* Fine-tune and customize foundation models for domain-specific use cases in storage, cloud infrastructure, and enterprise operations.
+* Integrate frontends with backend and LLM services, supporting streaming responses, real-time updates, and complex application state.
+* Own features end to end, from problem definition and architecture through development, testing, CI/CD, deployment, and early customer support.
+* Contribute to POCs and incubation projects that shape NetApp's AI/ML roadmap and long-term product vision.
+* Explore unconventional AI architectures, including multi-modal AI, edge inference, and distributed training.Collaborate cross-functionally with engineers, data scientists, designers, and product teams from problem definition through deployment.
+* Stay current with the evolving AI/ML and full-stack landscape and drive adoption of emerging models, frameworks, and techniques that deliver business value.
+
+**Education**
+-------------
+
+* IC - Typically requires a minimum of 5 years of related experience.Mgr & Exec - Typically requires a minimum of 3 years of related experience.
+* Bachelor's or Master's degree in Computer Science, Artificial Intelligence, Machine Learning, Data Science, or a related field, or equivalent experience.
+
+At NetApp, we embrace a hybrid working environment designed to strengthen connection, collaboration, and culture for all employees. This means that most roles will have some level of in-office and/or in-person expectations, which will be shared during the recruitment process.
+
+**Equal Opportunity Employer:**
+
+NetApp is firmly committed to Equal Employment Opportunity (EEO) and to compliance with all federal, state and local laws that prohibit employment discrimination based on age, race, color, gender, sexual orientation, gender identity, national origin, religion, disability or genetic information, pregnancy, protected veteran status, and any other protected classification.
+
+**Why You'll Thrive at NetApp**
+
+At NetApp, you won't wait for the perfect moment—you'll make it. The early planning, the extra thought, the bold idea that turns good into great: That's how our people operate and how we continue to push the boundaries of data infrastructure.
+
+NetApp is the trusted partner for organizations transforming data into opportunity. As the only enterprise-grade storage service natively embedded in Google Cloud, AWS, and Microsoft Azure, we empower customers to run everything from traditional workloads to enterprise AI with unmatched performance, resilience, and security.
+
+**Our culture**
+
+We celebrate mold breakers, bold thinkers, and problem solvers. We reward initiative, impact, and ownership. We provide flexibility so you can balance professional ambition with your personal life. Here, differences are not just welcomed—they drive everything we do.
+
+If you're ready to innovate, rise to the challenge, and own every moment - make your next move your best one. Apply now.
+
+**Submitting an Application**
+
+To ensure a streamlined and fair hiring process for all candidates, our team only reviews applications submitted through our company website. This practice allows us to track, assess, and respond to applicants efficiently. Emailing our employees, recruiters, or Human Resources personnel directly will not influence your application.
+
+**AI Disclosure**
+
+For select roles, some stages of our hiring process may use artificial intelligence tools to help evaluate applications and candidate selection. These tools support—rather than replace—human decision-making.
+
+**Our values**
+--------------
+
+Put the customer at the center. Care for each other and our communities. Think and act like owners. Build belonging every day. Embrace a growth mindset.
+
+**Benefits**
+------------
+
+### **Volunteer time off**
+
+40 hours of paid volunteer time each year.
+
+### **Well-being**
+
+Employee Assistance Program, fitness, and mental health resources to help employees be their best.
+
+### **Time away**
+
+Paid time off for vacation and to recharge.

@@ -1,0 +1,47 @@
+**Where Ambition Meets Innovation**
+
+At LPL’s Global Capability Center, you'll find a collaborative culture where your voice matters, integrity guides every decision, and technology fuels progress. Your skills, talents, and ideas will redefine what's possible. LPL's success reflects its exceptional employees, who together pursue one noble purpose: empowering financial advisors to deliver personalized advice for all who need it. We’re proud to be expanding and reaching new heights in Hyderabad.
+
+Join us as we create something extraordinary together.
+
+**Job Overview:**  
+We are seeking a skilled software developer to help with the development of projects within the Account Lifecycle Management domain, that span different technologies and requirements. You will be working with a motivated team in a fast-paced environment.  
+  
+A software developer's day involves attending a morning stand-up meeting, reviewing code, working on complex coding tasks, collaborating with team members, and participating in design and architecture discussions. They also attend meetings like sprint planning and retrospectives, monitor project progress, deploy code, and mentor junior developers. By the end of the day, they review their progress, update documentation, and prepare for the next day's tasks.  
+  
+**Responsibilities:**
+
+* Work on a team that is responsible for the design, implementation, and development of dynamic account opening and account maintenance applications
+* Explore and implement AI based solutions to enhance the account opening and client onboarding systems
+* Provide technical leadership to teammates through technical design and implementation of industry best practices adhering to LPL’s modernization practices, cloud practices, SDLC, and release management processes
+* Develop positive relationships with business partners to understand their needs, manage expectations, deliver value-add solutions and support translation of problem statements into system requirements
+* Assess opportunities for application and process improvements and show success through KPIs
+* Full application life-cycle coordination and management of deliverables in alignment with best practices and organizational compliance goals
+* Collaborate with other shared services teams (technical and non-technical) to ensure solutions and platforms are both functional and sustainable
+* Use customer and business feedback to inform roadmaps and non-functional goals
+* Use AI to identify potential bugs and suggest fixes in real-time as you write code
+* Code Refactoring: Employing AI to suggest and automate code refactoring, improving code quality and maintainability
+* Documentation Generation: Utilizing AI to generate documentation for code, including comments, function descriptions, and usage examples
+* Leverage AI to provide intelligent code completions, reducing the time spent on writing repetitive code.
+
+**What are we looking for?**
+
+We’re looking for strong collaborators who deliver exceptional client experiences and thrive in fast-paced, team-oriented environments. Our ideal candidates **pursue greatness**, **act with integrity**, and are **driven to help our clients succeed**. We value those who embrace creativity, continuous improvement, and contribute to a culture where we **win together** and **create and share joy** in our work.  
+  
+**Requirements:**
+
+* Understanding of .NET Core and .NET Framework
+* Ability to create and consume RESTful services
+* Experience with Angular or a similar framework
+* Knowledge of core AWS services such as EC2, S3, RDS, and Lambda
+* CI/CD using GitHub repositories
+* Experience with AI-powered tools like Copilot to generate code snippets, boilerplate code, and entire functions based on natural language descriptions
+
+**Core Competencies:**
+
+* Excellent verbal and written communication skills, both technical and non-technical
+* Strong problem-solving skills and the ability to debug and resolve issues efficiently
+* Capable of effectively planning, prioritizing, and executing tasks utilizing resources and tools
+* Understanding responsive design principles to ensure applications work on various devices
+
+LPL Global Business Services, LLP - PRIVACY POLICY

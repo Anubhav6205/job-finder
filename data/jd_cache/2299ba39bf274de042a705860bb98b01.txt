@@ -1,0 +1,32 @@
+Do you enjoy working with autonomous systems for automated driving? We are looking for a hardworking engineer passionate about automotive software quality to join the Automotive System Integration and Test (SIT) group. This position is part of a dynamic team that tests and maintains the quality of complex heterogeneous computing systems powering state-of-the-art automotive products used in self-driving cars. As a Senior QA Test Developer, you will develop and execute exploratory and automated tests to ensure the self-driving car software and hardware stack meets high standards of quality. As a member of this core team, you will collaborate with highly motivated engineers and work closely with module leads and release managers. Join us at the forefront of the autonomous vehicle revolution. Learn more about NVIDIA’s autonomous driving technology .
+
+**What you’ll be doing:**
+
+* Provide technical leadership and end-to-end ownership of an ADAS testing vertical, driving strategy, priorities, execution, delivery, and quality sign-off recommendations.
+* Translate vehicle-level requirements into test specifications, plans, and automated tests, covering nominal, safety, fault-injection, and performance scenarios.
+* Build and improve automation frameworks and validation tools to increase coverage, reliability, and execution efficiency.
+* Drive failure triage, root-cause investigations, and regression bisection, ensuring critical issues reach closure.
+* Align cross-functional PICs, developers, infrastructure teams, and V&V teams on dependencies, risks, and delivery commitments.
+Define quality gates and measurable acceptance criteria, report readiness, and ensure deliverables meet high standards of coverage and traceability.  
+
+**What we need to see**
+
+* B.Tech. or equivalent degree in CS/CE/IT/ECE/EEE, with 8+ years of experience in automotive software testing and validation, particularly ADAS.
+* Understanding of L2++/L3/L4 driving features and autonomous driving modules, including perception, sensor fusion, localization, planning, and HD maps.
+* Advanced Python skills and hands-on expertise in test automation architecture and implementation.
+* Proficiency in Linux and/or QNX, simulation-based testing (HIL and SIL), and automotive V&V workflows.
+* Strong system-level debugging capabilities using signals, logs, traces, metrics, and source-code analysis.
+* Knowledge of agentic AI workflows and tools such as Cursor, Codex, and Claude.
+Strong analytical, communication, and collaboration skills, with the ability to influence decisions across teams.  
+
+**Ways to stand out from the crowd:**
+
+* Hands-on experience applying AI agents or LLM-based workflows to engineering problems, along with certification in machine learning or self-driving car technologies.
+* Familiarity with GitLab CI, Jenkins, Docker, Kubernetes, cloud platforms, and large-scale simulation infrastructure.
+Working knowledge of ASPICE, ISO 26262, and ADAS regulatory and safety assessment frameworks, including Euro NCAP, UNECE DCAS, GSR, and applicable UNECE homologation regulations.  
+
+We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, sex, gender, gender expression, sexual orientation, age, marital status, veteran status, or disability status. We will ensure that individuals with disabilities are provided reasonable accommodation to participate in the job application or interview process, to perform essential job functions, and to receive other benefits and privileges of employment.
+
+  
+
+With competitive salaries and a generous benefits package, we are widely considered to be one of the world’s most desirable technology employers. We have some of the most forward-thinking and hardworking people in the world working for us and, due to unprecedented growth, our best-in-class engineering teams are rapidly growing. If you're a creative and autonomous engineer with a real passion for technology, we want to hear from you.

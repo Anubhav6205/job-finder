@@ -1,0 +1,58 @@
+**About Northern Trust**
+
+As a global leader in innovative wealth management, asset servicing, asset management and banking services, Northern Trust (Nasdaq: NTRS) is proud to guide the world’s most successful individuals, families, corporations and institutions.
+
+  
+
+Since 1889, we have aligned our efforts with our three guiding Principles That Endure: Service, Expertise, and Integrity. Together, they reflect the three cornerstones of business conduct which we strive to instill in our employees, whom we call partners, and to provide to our clients and the communities we serve worldwide.
+
+  
+
+With more than 135 years of financial experience and over 24,000 partners, we serve the world’s most sophisticated clients using leading technology and exceptional service.
+
+  
+  
+
+**Role Overview**
+
+We are looking for a Lead Software Engineer with 10+ years of software development experience and strong hands-on expertise in full-stack development, AI/ML, and Azure cloud technologies. The role requires a hands-on technical engineer who can design scalable solutions, contribute to development, and guide engineering teams through successful delivery.
+
+**Required Skills**
+
+* 10+ years of software development experience.
+
+* Strong hands-on experience in Full Stack using React JS using Micro Front End framework, Node JS, TypeScript, Python, and SQL Server.
+* Practical experience developing and integrating AI/ML and Generative AI solutions.
+* Hands-on experience with RAG, vector databases/vector search, prompt engineering, AI agents, and MCP servers using Lang Graph / Lang Chain.
+* Experience with Microsoft Azure and cloud-native application development.
+* Experience with REST APIs, microservices, and distributed application architectures.
+* Strong understanding of CI/CD, Git, automated testing, and DevOps practices.
+* Strong problem-solving, technical leadership, communication, and mentoring skills.
+
+**Preferred Skills**
+
+* Experience with Azure OpenAI and Azure AI services.
+* Experience with Docker, Kubernetes/AKS, and cloud-native deployment.
+* Knowledge of AI solution evaluation, observability, security, and responsible AI practices.
+
+**Working with Us**
+
+As a Northern Trust partner, you will be part of a flexible and collaborative work culture, which has a strong history of financial strength and stability. Movement within the organization is encouraged, senior leaders are accessible, and you can take pride in working for a company committed to an inclusive workplace and assisting the communities we serve.
+
+  
+
+Philanthropy is deeply rooted in Northern Trust’s history and is an essential element of our culture. Employees around the world give their time and talent to work for the greater good of their communities.
+
+  
+
+**Reasonable Accommodation**
+
+Northern Trust is committed to working with and providing adjustments to individuals with health conditions and disabilities. If you need a reasonable accommodation for any part of the employment process, please email our HR Service Center at MyHRHelp@ntrs.com, or alternatively you can discuss your individual requirements with the recruiter you are working with.
+
+  
+
+**About Our Pune Office**
+
+The Northern Trust Pune office, established in 2016, is now home to over 3,000 employees. The office handles various functions, including Operations for Asset Servicing and Wealth Management, as well as delivering critical technology solutions that support business operations across the globe.
+
+Our Pune team takes our commitment to service to heart. In 2024, they volunteered more than 10,000+ hours into the communities where they live and work. Learn more.

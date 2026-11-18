@@ -1,0 +1,97 @@
+**Role : AI** **Engineer GenAI & Agentic AI**
+
+* **Experience: 5+ Years**
+* **Location: Bangalore**
+* **Working days - 5 days WFO**
+
+  
+
+**Interview process-**
+
+* 1st Round Assessment Test
+* 2nd Round Face-to-Face (F2F) Technical
+* Interview 3rd Round Client discussion   
+    
+  Key Responsibilities
+* Build AI workflows for exception classification, triage, root-cause analysis, impact assessment and remediation recommendations.
+* Develop agentic workflows involving orchestration, tool/function calling, state management and human-in-the-loop validation.
+* Correlate new exceptions with historical issues, known root causes, business rules and transaction/data attributes.
+* Build Python and SQL-based services to query, transform and analyze structured enterprise datasets.
+* Integrate AI applications with enterprise APIs, databases, workflow/ticketing platforms and internal data sources.
+* Develop reusable tools and services that AI agents can invoke for retrieval, investigation, analysis and workflow execution.
+* Apply RAG/context retrieval where regulatory documents, historical knowledge or issue repositories need to be searched.
+* Implement confidence scoring, validation, guardrails and traceability for AI-generated outcomes.
+* Build backend services and APIs using Python/FastAPI.
+* Implement testing, logging, evaluation, observability, exception handling and production engineering practices.
+* Collaborate with onshore AI engineers, architects, business analysts, data engineers and application teams.
+
+**Required Skills**
+
+* Python
+* SQL & Data Analysis
+* GenAI / LLM Application Development
+* Agentic AI / Workflow Orchestration
+* APIs / FastAPI
+* Tool / Function Calling
+* Structured Data Processing
+* Problem Solving / Root-Cause Analysis
+* Git / Software Engineering
+* RAG / Retrieval
+* LLM Evaluation / Guardrails
+
+Cloud Agentic AI ExperienceHands-on experience with at least one agent/workflow orchestration framework such as LangGraph, Google ADK, CrewAI, AutoGen, Semantic Kernel, or an equivalent custom framework.Candidates should understand how to implement workflows such as:
+
+* Input
+* Classification
+* Tool/Data Retrieval
+* Investigation
+* Reasoning
+* Validation
+* Action
+
+Preferred Domain Experience
+
+* Financial-services experience is preferred but not mandatory.
+* Exposure to Regulatory Reporting, Capital Markets, trade lifecycle, post-trade processing, transaction reporting, reconciliations, exception management, risk or controls will be advantageous.
+* Familiarity with regulations such as EMIR, MiFID II or SFTR is a plus.
+
+Nice to Have
+
+* Model Context Protocol (MCP) and reusable agent tool interfaces.
+* Knowledge Graph / Graph RAG or data-lineage concepts.
+* Vector databases, hybrid search or re-ranking.
+* AI observability and evaluation frameworks.
+* Spec-Driven Development (SDD): ability to translate business/technical requirements into clear specifications, tasks and acceptance criteria before implementation.
+* Experience using Claude Code or equivalent AI coding assistants within disciplined software-engineering practices.
+* Basic React or frontend integration experience.
+
+Qualifications
+
+* 5+ years of professional experience in software engineering, AI/ML engineering, data engineering, GenAI or related roles.
+* Strong hands-on Python development experience.
+* Demonstrated experience building LLM/GenAI applications beyond proof-of-concept chatbots.
+* Practical experience implementing agentic workflows, tools or orchestration.
+* Strong analytical, debugging and problem-solving skills.
+* Ability to collaborate effectively across onshore/offshore engineering and business teams.
+* Bachelor's or Master's degree in Computer Science, Engineering, AI, Data Science or a related discipline preferred.
+
+Our Commitment to Diversity & Inclusion:Did you know that Apexon has been Certified by Great Place To Work, the global authority on workplace culture, in each of the four regions in which it operates: USA (for the seventh time in 2026), India (for the tenth consecutive time in 2026), the UK (for the fourth time in 2026) and Mexico (for the second time in 2026). Apexon is committed to being an equal opportunity employer and promoting diversity in the workplace. We take affirmative action to ensure equal employment opportunity for all qualified individuals. Apexon strictly prohibits discrimination and harassment of any kind and provides equal employment opportunities to employees and applicants without regard to gender, race, color, ethnicity or national origin, age, disability, religion, sexual orientation, gender identity or expression, veteran status, or any other applicable characteristics protected by law. You can read about our Job Applicant Privacy policy here Job Applicant Privacy Policy (apexon.com)
+
+  
+
+Our Commitment to Environment:Actively contribute to Apexon's commitment to environmental responsibility by following sustainable practices and supporting ESG initiatives.
+
+Our Perks and Benefits:Our benefits and rewards program has been thoughtfully designed to recognize your skills and contributions, elevate your learning/upskilling experience, and provide care and support for you and your loved ones. As an Apexon Associate, you get continuous skill-based development, opportunities for career advancement, and access to comprehensive health and well-being benefits and assistance.
+
+  
+
+We also offer:
+
+* Group Health Insurance covering family of 4
+* Term Insurance and Accident Insurance
+* Paid Holidays & Earned Leaves
+* Paid Parental Leave
+* Learning & Career Development
+* Employee Wellness
+
+**Disclaimer:** Apexon does not request or accept any fees or payments from candidates at any stage of the recruitment process, including interviews, offer letters, or training. Any such payment request is unauthorized and is not made on behalf of Apexon. Candidates are advised to verify recruitment communications through Apexons official channels or website.

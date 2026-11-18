@@ -1,0 +1,105 @@
+**Company:**
+------------
+
+Qualcomm India Private Limited
+
+**Job Area:**
+-------------
+
+Engineering Group, Engineering Group > Software Engineering
+
+**General Summary:**
+
+As a leading technology innovator, Qualcomm pushes the boundaries of what's possible to enable next-generation experiences and drives digital transformation to help create a smarter, connected future for all. As a Qualcomm Software Engineer, you will design, develop, create, modify, and validate embedded and cloud edge software, applications, and/or specialized utility programs that launch cutting-edge, world class products that meet and exceed customer needs. Qualcomm Software Engineers collaborate with systems, hardware, architecture, test engineers, and other teams to design system-level software solutions and obtain information on performance requirements and interfaces.
+
+**Minimum Qualifications:**
+
+* Bachelor's degree in Engineering, Information Systems, Computer Science, or related field and 2+ years of Software Engineering or related work experience.
+
+OR
+  
+Master's degree in Engineering, Information Systems, Computer Science, or related field and 1+ year of Software Engineering or related work experience.
+  
+OR
+  
+PhD in Engineering, Information Systems, Computer Science, or related field.
+  
+  
+
+* 2+ years of academic or work experience with Programming Language such as C, C++, Java, Python, etc.
+
+**Job Overview:**
+
+As a leading technology innovator, Qualcomm pushes the boundaries of what's possible to enable next-generation experiences and drives digital transformation to help create a smarter, connected future for all. As a Qualcomm Software Engineer, you will design, develop, create, modify, and validate embedded and cloud edge software, applications, and/or specialized utility programs that launch cutting-edge, world class products that meet and exceed customer needs. Qualcomm Software Engineers collaborate with systems, hardware, architecture, test engineers, and other teams to design system-level software solutions and obtain information on performance requirements and interfaces.
+
+**Minimum Qualifications:**
+
+* Bachelor's degree in Engineering, Computer Science, or related field and 2-5+ years of Software Engineering or related work experience.
+
+OR
+
+Master's degree in engineering, Computer Science, or related field and 2-3 + year of Software Engineering or related work experience.
+
+  
+
+* 2-5 + years of work experience with Programming Language such as Python/C++ etc.
+
+  
+
+**Role:** Python based automation framework developer
+
+  
+
+**Summary:**
+
+We are looking for a seasoned Engineer who is good with Python programming, problem
+
+solving skills and solid understanding of data structures and programming concepts , OOPS- Object Oriented Programming
+
+with experience on distributed , modular framework development
+
+  
+
+**Responsibilities**
+
+* Development of distributed and modular Python based framework
+
+* Should mentor junior engineers and guide the team towards best practices.
+
+* Develop automation scripts and perform system optimizations
+
+**Skills:**
+
+* Proficient in Python programming with string problem solving skills
+
+* With solid understanding of data structures and programming concepts , OOPS- Object Oriented Programming
+
+* Must be good enough to write python scripts for given automation requirements.
+
+* Understanding of ML/AI concepts , conceptual understanding and knowledge of generative AI models
+
+* Knowledge of Microsoft ONNXRT, WinML stack is a plus
+
+* Experience to work on Windows OS based software and development environment
+
+* Working knowledge for Jenkins , MongoDB, SQL ,GitHub
+
+* Should have good communication skills and sound analytical and troubleshooting skills.
+
+* Working knowledge of creating docker images, containers and troubleshooting automation pipelines
+
+**Education**
+
+* Batchlor of Technology / Master of Technology (BTech/MTech) with Computer Science engineering
+
+**Work Experiences**
+
+* 2-5 years of relevant experience in Python based development and AI/ML/GenerativeAI
+
+**Applicants** : Qualcomm is an equal opportunity employer. If you are an individual with a disability and need an accommodation during the application/hiring process, rest assured that Qualcomm is committed to providing an accessible process. You may e-mail disability-accomodations@qualcomm.com or call Qualcomm's toll-free number found here . Upon request, Qualcomm will provide reasonable accommodations to support individuals with disabilities to be able participate in the hiring process. Qualcomm is also committed to making our workplace accessible for individuals with disabilities. (Keep in mind that this email address is used to provide reasonable accommodations for individuals with disabilities. We will not respond here to requests for updates on applications or resume inquiries).
+
+Qualcomm expects its employees to abide by all applicable policies and procedures, including but not limited to security and other requirements regarding protection of Company confidential information and other confidential and/or proprietary information, to the extent those requirements are permissible under applicable law.
+
+**To all Staffing and Recruiting Agencies** : Our Careers Site is only for individuals seeking a job at Qualcomm. Staffing and recruiting agencies and individuals being represented by an agency are not authorized to use this site or to submit profiles, applications or resumes, and any such submissions will be considered unsolicited. Qualcomm does not accept unsolicited resumes or applications from agencies. Please do not forward resumes to our jobs alias, Qualcomm employees or any other company location. Qualcomm is not responsible for any fees related to unsolicited resumes/applications.
+
+If you would like more information about this role, please contact Qualcomm Careers .

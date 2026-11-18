@@ -1,0 +1,56 @@
+**About Hevo:**
+
+* Hevo is a Series B data infrastructure company with $42M raised.
+* More than 2,000 companies across 40 plus countries use Hevo to move data from more than 150 sources into platforms such as Snowflake and BigQuery.
+* Our customers include DoorDash, Shopify, Pinterest, Postman and Icelandair.
+* Our engineering team is built in India, and so are the decisions.
+* We are not the remote engineering office of a US company.
+* The people building the product are the people deciding what to build.
+
+  
+
+**What we are building:**
+
+* We are building an AI system that creates data connectors by itself and keeps them working by itself.
+* No engineer should need to manually build every connector. No engineer should need to come back six months later because the source API changed.
+* Work that traditionally takes weeks or months should take hours. But building a connector is not the hardest part.
+* The real question is: Would you trust this system to run by itself, with nobody watching, for months?
+* That is the job.
+
+**What you’ll own as Associate SDE at Hevo:**
+
+* Implement SaaS connectors for assigned applications, learning application specific nuances like basic auth and data extraction.
+* Assist in building simple REST API components, focusing on clean implementation and testing.
+* Debug and optimize code for data pipeline efficiency under mentorship.
+* Contribute to feature breakdown, coding, and documentation for smaller tasks.
+* Apply logical thinking to solve integration issues and improve component quality.
+* Build internal tools with AI for business teams to run their functions
+
+  
+
+**What you’ll bring to the table:**
+
+* Basic object-oriented programming skills and familiarity with design principles.
+* Exposure to data pipelines or APIs; eagerness to learn concurrency and performance basics.
+* Foundational knowledge of REST APIs (e.g., making calls, handling JSON) – no deep expertise needed.
+* Proficiency in Java/TypeScript/Python, good problem-solving with data structures and algorithms.
+* Strong analytical and logical thinking for real-world challenges.
+
+  
+
+**Candidate Persona:**
+
+* Freshers with experience in software development, ideally with internships in integrations or data tools.
+* B Tech in Computer Science or equivalent from a reputed college.
+
+  
+
+**Why this role:**
+
+* Very few teams are building autonomous AI systems that operate production infrastructure where being wrong has real consequences.
+* This is not a chatbot. It is infrastructure that has to remain correct, quietly, for months.
+* If that kind of problem excites you, there are not many places working on it this early.
+* You can talk to anyone in the company, including the CEO.
+* What you are trusted with depends on what you can do, not your title.
+
+We may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses and identifying potential inconsistencies or verification signals in application materials based on available information. These tools assist our recruitment team but do not replace human judgment. Final hiring decisions are ultimately made by humans. If you would like more information about how your data is processed, please contact us.

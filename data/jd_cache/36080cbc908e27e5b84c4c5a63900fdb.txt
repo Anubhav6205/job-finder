@@ -1,0 +1,56 @@
+**The role**
+------------
+
+You own a set of enterprise accounts once they go live, and your job is to grow them. That means making sure delivery lands, the client sees results in their own numbers, and each account has a clear plan for what we do next with them.
+
+You work with the client's business leaders on one side and our forward deployed engineers (FDEs) on the other. You run discovery with the client, turn their business logic into a call flow, and hand the FDE a clear spec for the workflow. When the FDE is deep in a complex build, you write the agent prompt yourself.
+
+This is not a sales role. You grow accounts by delivering value the client can measure, and by spotting where else in their business we can do the same.
+
+ **Requirements**  
+
+**What you'll do**
+------------------
+
+* Run discovery. Understand the use case and the client's process, find the real pain point, and agree the north star metric with the client so everyone knows what outcome the agent has to deliver.
+* Design the call flow. Translate business logic into a call flow and conversation design, then brief the FDE on the workflow to build.
+* Build agents. Write and iterate production prompts, especially when the FDE is busy on a complex workflow.
+* Do RCA. When results dip, listen to the conversations, work out why they failed (prompt, data, flow or telephony) and drive the fix.
+* Own the client relationship. Be the person the client calls first. Run governance calls, reviews and escalations, and build trust with stakeholders from operations teams up to business heads.
+* Make delivery happen. Plan and run the project with the FDEs: scope, timelines, dependencies on the client's tech and data teams, go-lives. Unblock things before they slip.
+* Run on numbers. Own the account's metrics (connect rate, conversion, collections, cost per outcome). Build the analysis, explain what moved and why, and turn it into the next change to the agent.
+* Build the account roadmap. For every account, write a strategic plan for expansion: new use cases, new teams, more volume. Size each one, build the business case and take it to the client.
+* Sell through value. Pitch upsell and cross-sell with evidence from your own account's results, working with sales and leadership on commercials.
+* Test and improve. Run A/B tests on agents, prompts and voices, and read them out.
+
+**Who we're looking for**
+-------------------------
+
+Two backgrounds have worked best for this role:
+
+* A growth product manager, ideally with about 2 years of consulting before moving into product, or
+* A consultant with 3 to 4 years at a top-tier consulting firm.
+
+Either way, you have:
+
+* Strong client handling. You're comfortable in a room with senior stakeholders and can manage difficult conversations.
+* Sharp analytics. You can pull and work the data yourself (SQL, spreadsheets) and turn it into a recommendation.
+* Project management discipline across several workstreams and people you don't manage.
+* Commercial instinct: you can see where an account can grow and make the case for it.
+* Clear, short writing.
+* Prompt engineering experience. We don't mean using ChatGPT or Claude day to day; we mean you have built agents that carry out a specific task and have run at scale with real users.
+* Conversation design sense. You can read a transcript, see where it went wrong, and fix the flow or the prompt.
+
+**Nice to have**
+----------------
+
+* Experience at a voice or conversational AI company, or deploying AI for enterprise clients.
+* BFSI background: lending, collections or insurance operations.
+* Working proficiency in Hindi or a South Indian language.
+
+  
+**Benefits**  
+
+* You own real revenue accounts from day one and work directly with the partner who runs them.
+* You'll learn what makes AI agents work in production at scale.
+* There's a clear path to running a portfolio of accounts as the team grows.

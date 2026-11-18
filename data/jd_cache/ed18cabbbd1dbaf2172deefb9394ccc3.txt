@@ -1,0 +1,23 @@
+ExaThought is hiring an AI Solutions Engineer to turn proofs of concept into secure, production-grade enterprise solutions. In this AI-native role, most code is built with Cursor and other approved AI tools, so manual coding is minimal. Your value lies in problem framing, steering the tools, validating their output, and getting each solution into production.
+
+**Responsibilities**
+
+* Understand the business need and use case behind each POC.
+* Work with the Architect on the production architecture and the required enterprise approvals.
+* Refactor or rebuild solutions using Cursor and other approved AI development tools to speed up delivery.
+* Work with other departments as needed, such as Data Management.
+* Own or support testing and QA, using AI where appropriate.
+* Partner with SRE on deployment and production readiness.
+* Document solutions and hand them off to product and support teams.
+
+**Requirements**
+
+* 5+ years in software engineering, including taking prototypes to production.
+* Hands-on daily use of AI coding tools such as Cursor, Copilot, or Claude Code.
+* Strong skills in Python, TypeScript, Java, or C#.
+* Experience with AWS, Azure, or GCP, plus APIs, containers, and CI/CD.
+* Experience with automated testing and QA.
+* Understanding of enterprise security, compliance, and change-management processes.
+* Strong communication with both business and technical teams.
+
+**Good to have:** LLM, RAG, or agent experience; Snowflake or Databricks; Terraform; cloud or AI certifications.

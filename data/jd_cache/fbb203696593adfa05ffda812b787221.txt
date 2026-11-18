@@ -1,0 +1,102 @@
+We are looking for a highly skilled and self-driven professional to join our Product Support team specializing in Oracle AIDP, Oracle Analytics Products, Oracle’s Big Data Service (BDS) , DFS, DIS, Data Catalog offerings. In this role, you will work directly with customers, engineering, and cross-functional teams to troubleshoot complex issues, drive resolution, and deliver exceptional support for both on-premise and cloud-based big data platforms. You will also play a critical role in supporting advanced data workflows, including AI/ML integrations, agentic framework adoption, and intelligent retrieval architectures.
+
+As a Sr. Support Engineer, you will be the technical interface to customers, Original Equipment Manufacturers (OEMs) and Value-Added Resellers (VARs) for resolution of problems related to the installation, recommended maintenance and use of Oracle products. Have an understanding of all Oracle products in their competencies and in-depth knowledge of several products and/or platforms. Also, you should be highly experienced in multiple platforms and be able to complete assigned duties with minimal direction from management. In this position, you will routinely act independently while researching and developing solutions to customer issues.
+
+**Qualifications:**  
+Bachelor’s degree in Computer Science, Engineering, or a related technical field. 4+ years of proven experience supporting Oracle AI Data Platform , Oracle Analytics , Oracle Big Data platforms including Oracle’s Big Data Service (BDS) , DFS, DIS, Data Catalog, and Oracle Cloud Infrastructure (OCI). Hands-on experience with LLMs, agentic frameworks (LangChain, Semantic Kernel, CrewAI), RAG pipelines, and vector databases (FAISS, Pinecone, Weaviate). Proficiency in Python and Shell scripting. Strong expertise in Hadoop ecosystem: HDFS, YARN, Spark, Hive, Impala, Sqoop, Oozie, Ranger, Kerberos. Experience in Linux OS administration, networking, TLS/SSL, and SSO integration. Experience with data integration tools (ODI/Informatica) and cloud data sources (FusionApps/BICC, Snowflake).
+
+**Skills & Competencies:**  
+
+* Deep understanding of Oracle AI Data Platoform and Oracle Analytics Products .
+* Cluster administration using Ambari and troubleshooting across the Cloudera stack.
+* Real-time processing using Kafka, Flink.
+* AI/ML workflow support, including OCI Gen AI services and integration of agentic pipelines.
+* Working knowledge of cloud services, networking, system-level security, and distributed architectures.
+* Experience supporting multi-tier enterprise applications.
+
+  
+**Personal Competencies:**  
+Strong customer focus with ability to handle escalations and technical deep dives. Structured problem-solving mindset. Self-motivated with a continuous learning attitude. Excellent communication, documentation, and global collaboration skills. Results-oriented with a passion for service quality and technical excellence.
+
+  
+
+**Key Responsibilities**  
+**Technical Support and Solution Delivery-Customer Support and Advocacy:**  
+-Serves as a point of contact for customers and facilitates customer relationship building, fielding inquiries via phone, electronic, or in-person means.
+  
+-Provides technical support to customers by answering technical questions, troubleshooting and resolving moderately complex issues related to assigned product(s).
+  
+-Prepares and conducts training for new product releases and/or functionality updates to existing products, providing user guidance, as needed.
+  
+**Technical Support and Solution Delivery-Technical Problem-Solving and Resolution:**  
+-Leverages advanced understanding of problem resolution, which may include fix delivery and product certification to research, re-create, and test advanced technical issues for assigned product area(s) issues reported by customers to ensure a resolution.
+  
+-Follows up with customer on service request(s) to communicate resolution and ensure all issues are resolved, escalating complex customer technical issues to appropriate technical teams for resolution, as needed.
+  
+-Partners with internal teams to report design, reliability, and maintenance problems or bugs, contributing to resolution of routine and non-routine issues through roll-up.
+  
+**Technical Support and Solution Delivery-Technical Support Documentation:**  
+-Documents activities taken on service request and/or product documentation, leveraging troubleshooting guides and/or Knowledge Base articles, through resolution.
+  
+-Prepares troubleshooting guides and/or creates Knowledge Base articles for non-routine events and/or resolved issues.
+  
+**Technical Proficiency and Support Enhancement-Technical Support Collaboration:**  
+-Maintains a deep understanding of assigned Oracle product ecosystem(s) and customer environment(s) and broad understanding across all Oracle product ecosystems and customer environments in advanced scenarios.
+  
+-Consults internal teams and stakeholders on diverse and advanced customer situations and technical issues.
+  
+-Contributes to and participates in cross-functional training, workshops, and collaborative projects and initiatives to support business processes and key business initiatives.
+  
+**Technical Proficiency and Support Enhancement-Technical Support Improvement:**  
+-Leverages automation/tooling (e.g., A.I. Assistance) to discover root causes of common issues.
+  
+-Identifies frequently reported issues and recommends ideas to contribute to the reduction of repetitive issues, escalating as needed.
+  
+-Identifies and recommends enhancements to existing support processes, workflows, guidelines, and best practices based on customer feedback and/or operational insights.
+  
+**Strategic Planning:**  
+-Begins to collaborate with management to contribute to projects and initiatives for product, process, and customer experience improvements.
+  
+**Performance Monitoring and Management:**  
+-Reviews and executes own support service performance metrics and builds awareness of team's support service performance.
+  
+  
+**Additional Responsibilities (as needed)**  
+**Vertical Lead:**  
+-Provides on-site and in-person technical assistance, including case consultation for complex cases, to Technical Support team.
+  
+-Proactively reviews cases, providing troubleshooting guidance and recommending next action items.
+  
+-Assesses product-related issues and assists in technical reviews of issue drafts.
+  
+-Conducts internal training and learning sessions focused on product, technical, and skills development.
+  
+-Acts as the point of contact (POC) for specific products or features, ensuring that training content is up-to-date and leading release preparations for the Vertical.
+  
+-Leads discussion of case transfer and feature coordination between the Vertical and other teams or product areas.
+  
+-Participates in knowledge documentation to support repeatable, scalable, knowledge base self-services.
+  
+**Services Translation:**  
+-Provides translation services for technical and non-technical inquiries for products and services.
+  
+-Understands more niche or technical terms and provide translation services for them.
+  
+-Provides verbal translations and assists with escalations.
+  
+  
+**Core Responsibilities**  
+**Planning & Execution:**  
+-Independently manages work, monitoring timelines and deliverables to ensure projects or initiatives stay on track and meet requirements. Proactively prioritizes work and adapts to resource or timeline shifts, suggesting adjustments to maintain project efficiency.
+  
+**Collaboration & Partnership:**  
+-Collaborates across teams to align on expectations and achieve shared objectives. Builds and maintains a comprehensive understanding of business, stakeholder, and/or customer needs to build and support effective partnerships. Actively listens to diverse perspectives and asks questions to ensure understanding of others.
+  
+**Problem Solving:**  
+-Independently identifies and addresses standard and non-standard issues in accordance with standard practices, escalating more complex issues as appropriate. Analyzes data and/or information from multiple sources to troubleshoot standard and non-standard errors. Contributes to knowledge sharing and best practices.
+  
+**Continuous Learning:**  
+-Embraces continuous learning by actively seeking to build knowledge and new skills and/or tools, and staying current with industry trends and best practices. Seeks out and leverages feedback and training to improve skills. Contributes to a culture of continuous learning and knowledge sharing with team members.
+  
+**Continuous Improvement:**  
+-Develops ideas and recommends updates to increase the efficiency and effectiveness of processes, protocols, and workflows within a team. Seeks input from team members on alternative approaches and methods for improving work.

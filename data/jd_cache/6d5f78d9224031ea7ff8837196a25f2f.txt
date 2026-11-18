@@ -1,0 +1,68 @@
+**Job Description:**
+--------------------
+
+**Job Title: Payments & Cards QA Engineer**
+
+**Corporate Title: Associate**
+
+**Location: Pune, India**
+
+**Role Description**
+
+Quality Assurance (QA) is responsible for ensuring testing strategies, plans and deliverables are executed for all applications and programs of work within their domain. Work includes: •Designing and conducting testing procedures and frameworks to verify software and other technical products to ensure expected functional performance •Investigating instances where software and technical products do not perform as expected •Designing and conducting quality assurance practices to support business development activities •Driving the adoption of recognized best practice and policy and contributes to the ongoing improvement of methodologies and assets for the business •Working with their counterparts across the business to raise the standard of QA across the bank •Recording of defects and the collation of metrics and KPI information for reporting purposes •Testing disciplines include: Performance Testing, Test Automation, Test Processes, Testing Products
+
+**What we’ll offer you**
+
+As part of our flexible scheme, here are just some of the benefits that you’ll enjoy,
+
+* Best in class leave policy.
+* Gender neutral parental leaves
+* 100% reimbursement under childcare assistance benefit (gender neutral)
+* Sponsorship for Industry relevant certifications and education
+* Employee Assistance Program for you and your family members
+* Comprehensive Hospitalization Insurance for you and your dependents
+* Accident and Term life Insurance
+* Complementary Health screening for 35 yrs. and above
+
+**Your key responsibilities**
+
+* Accountability for overall test delivery covering all activities within Cards sub-domain (Programme test management).
+* Work with the testing team to develop testing strategies, plans and deliverables related to sub-domain applications.
+* You are involved in the Software Development Lifecycle starting from analyzing requirements, maintaining test cases, developing test automation features and testing software - continuously improving these topics.
+* Your primary focus will be on creating test cases, developing test automation features and execute test activities on different test environments
+* You drive development of high-quality and mostly automated test solutions that meet functional as well as non-functional requirements.
+* You actively participate and contribute into the sprint activities and ceremonies e.g. daily stand-up, Sprint planning, retrospectives, refinements etc.
+* You collaborate with other team members to achieve the sprint objectives.
+* Track and prepare the report of testing activities like testing results, test case coverage, required resources, defects discovered and their status, performance baselines etc.
+* Champions and participates in the activities of the broader QA & Testing community.
+
+**Your skills and experience**
+
+* Broad and profound understanding of test strategies, test infrastructure set up, Test data management experience and overall test management.
+* Strong experience in requirements analysis for test case creation and test execution of user stories using tools like Karata API Automation framework, Postman, Performance Centre, SQL developer, Quality Centre/ALM, Confluence and Jira.
+* Strong experience required in REST API, JSON, XML.
+* Pro-active team player with good communication skills as well as good English language skills.
+* Experience with Agile/SCRUM environment including agile tooling and methodology together with knowledge of cards.
+* Bachelor's degree from a college or university with an focus on IT or data evaluation and / or comparable professional experience
+* Should have experience in JAVA, selenium & Rest Assured tool.
+
+**Proven ability to leverage AI tools to enhance productivity, optimise workflows to solve business problems, while applying critical judgment to ensure responsible and ethical use of data and AI outputs.**
+
+**How we’ll support you**
+
+* Training and development to help you excel in your career
+* Coaching and support from experts in your team
+* A culture of continuous learning to aid progression
+* A range of flexible benefits that you can tailor to suit your needs
+
+**About us and our teams**
+
+Please visit our company website for further information:
+
+**https://www.db.com/company/company.html**
+
+We strive for a culture in which we are empowered to excel together every day. This includes acting responsibly, thinking commercially, taking initiative and working collaboratively.
+
+Together we share and celebrate the successes of our people. Together we are Deutsche Bank Group.
+
+We welcome applications from all people and promote a positive, fair and inclusive work environment.

@@ -1,0 +1,68 @@
+**Job Description – AI Native Developer / AI Engineer**
+**Experience:**
+4+ Years
+  
+  
+**Department:**
+Technology / Engineering
+  
+  
+**Team:**
+AI Foundry – Central AI Engineering Team
+  
+  
+**Location:**
+Hyderabad, (Hybrid)
+  
+  
+We welcome candidates with varying availability and are open to discussions around start dates to ensure a smooth onboarding process.
+  
+  
+About the Role: We are hiring AI Native Developers with hands-on experience in AI-powered software development, LLMs, AI agents and workflow automation. Candidates should be comfortable using AI coding tools to build scalable, reliable applications.
+  
+  
+**Key Responsibilities**
+
+* Develop applications using Claude Code, Cursor and GitHub Copilot.
+* Build AI agents and intelligent automation workflows.
+* Integrate LLMs with APIs, databases and enterprise applications.
+* Develop and optimise prompts and AI-powered solutions.
+* Review, test and validate AI-generated code.
+* Convert business requirements into technical specifications.
+* Build RAG-based applications and intelligent search solutions.
+
+**Mandatory Skills**
+
+* Claude Code / Cursor / GitHub Copilot
+* Generative AI, LLM and Prompt Engineering
+* Agentic AI and AI Workflows
+* Python / JavaScript / TypeScript / Java
+* API Integration and Database Knowledge
+* Specification-Driven Development
+* Git and Software Engineering Fundamentals
+
+**Good to Have**
+
+* LangChain, LangGraph, LlamaIndex
+* RAG, Vector Database, pgvector
+* Pinecone, Chroma, MCP
+* Docker, CI/CD and Cloud Deployment
+
+**Preferred Candidate Profiles**
+AI Engineer, AI Native Developer, Generative AI Developer, Agentic AI Engineer, LLM Engineer, Python Developer – Generative AI, Full Stack Developer – AI.
+  
+  
+**Interview Process**
+Our interview process includes a technical screen, a hands-on coding exercise, and a final round with the engineering team. Detailed information will be shared with shortlisted candidates.
+  
+  
+**Benefits & Perks: Excellent Salary + Hybrid mode + other benefits**
+**Search Keywords & Hashtags**
+#AINativeDeveloper #AIEngineer #GenerativeAI #AgenticAI #AIAgents #LLMEngineer #PromptEngineering #ClaudeCode #CursorAI #GitHubCopilot #PythonDeveloper #LangChain #LangGraph #RAG #AIAutomation #SoftwareEngineering #TechHiring #ITJobs
+  
+  
+**Important:**
+Practical experience building AI-powered applications and using AI coding agents is mandatory. Traditional development experience alone is not sufficient.
+  
+  
+Skills: python,large language models (llm),code,prompt,api,automation,claude code,ai output testing & validation,generative ai,github
