@@ -105,6 +105,13 @@ def query_pending() -> list[dict]:
             "role": (props.get("Role", {}).get("title") or [{}])[0].get("plain_text", ""),
             "company": (props.get("Company", {}).get("rich_text") or [{}])[0].get("plain_text", ""),
             "url": props.get("URL", {}).get("url", ""),
+            "site": (props.get("Site", {}).get("select") or {}).get("name", ""),
+            "city": (props.get("City", {}).get("select") or {}).get("name", ""),
+            "score": props.get("Score", {}).get("number"),
+            "fit": (props.get("Fit", {}).get("select") or {}).get("name", ""),
+            "fit_reason": (props.get("Fit Reason", {}).get("rich_text") or [{}])[0].get("plain_text", ""),
+            "salary_max": props.get("Salary Max (LPA)", {}).get("number"),
+            "salary_source": (props.get("Salary Source", {}).get("rich_text") or [{}])[0].get("plain_text", ""),
         })
     return out
 
@@ -303,9 +310,28 @@ def process_one(item: dict) -> None:
             gaps = ""
 
     if ok and pdf_path.exists() and pdf_path.stat().st_size > 1000:
+        jobbr_note = ""
+        try:
+            import jobbr_sync
+            j_ok, j_msg = jobbr_sync.push_application(
+                company=company, role=role, source_url=url,
+                site=item.get("site", ""), city=item.get("city", ""),
+                pdf_path=pdf_path,
+                salary_max_lpa=item.get("salary_max"),
+                score=item.get("score"), fit=item.get("fit"),
+                fit_reason=item.get("fit_reason"),
+                skill_gaps=gaps,
+                salary_source=item.get("salary_source"),
+                notion_page_id=page_id,
+                model="Claude Opus 4.7",
+                follow_up_days=10,
+            )
+            jobbr_note = f" | jobbr: {j_msg}" if j_ok else f" | jobbr FAIL: {j_msg}"
+        except Exception as e:
+            jobbr_note = f" | jobbr exception: {e}"
         set_status(page_id, "Resume Ready", path=str(pdf_path),
-                   log_msg=f"built in {dur}s via Claude+Tectonic", gaps=gaps)
-        log(f"  OK  -> {pdf_path} ({dur}s)  gaps={gaps[:80]!r}")
+                   log_msg=f"built in {dur}s via Claude+Tectonic{jobbr_note}", gaps=gaps)
+        log(f"  OK  -> {pdf_path} ({dur}s)  gaps={gaps[:80]!r}{jobbr_note}")
     else:
         reason = "pdf missing or empty" if ok else "claude CLI non-zero"
         set_status(page_id, "Resume Failed",
