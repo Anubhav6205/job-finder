@@ -1,0 +1,117 @@
+An early-career business analyst or product owner who turns business needs into clear, testable requirements and a well-ordered backlog. At 23 years, they should run discovery for a feature or small product area on their own, write stories the team can build without constant clarification, and accept work against agreed criteria, with a senior product manager or architect guiding priorities and scope.
+
+They will work on our internal AI and agent-based applications and on customer projects, so they must be comfortable learning a domain quickly and working closely with engineers. We prefer candidates with domain knowledge in marketing, finance, or risk and compliance.
+
+What separates this level from entry level: they ask the right questions without a script, spot gaps and edge cases before development starts, and can say no to scope that does not serve the goal.
+
+Core skills
+
+Area
+
+What they should be able to do
+
+Priority
+
+Discovery and elicitation
+
+Run stakeholder interviews and workshops; observe current processes; separate the real problem from the requested solution
+
+Must have
+
+Process mapping
+
+Document current and future state with BPMN, swimlanes or flowcharts; identify hand-offs, delays and failure points
+
+Must have
+
+Requirements writing
+
+User stories with clear acceptance criteria (Given / When / Then), business rules, non-functional requirements, edge cases
+
+Must have
+
+Backlog management
+
+Groom and prioritize a backlog (MoSCoW, value vs. effort); split epics into small stories; keep the backlog ready two sprints ahead
+
+Must have
+
+Agile delivery
+
+Work in Scrum or Kanban: sprint planning, refinement, reviews, retrospectives; act as product owner for one team
+
+Must have
+
+Data and integration literacy
+
+Read API documentation and JSON; write field mappings between systems; basic SQL to query and check data
+
+Must have
+
+Testing and acceptance
+
+Write test scenarios from requirements, run user acceptance testing, log clear defects
+
+Must have
+
+Communication
+
+Write concise specs, status updates and release notes; present to business and technical audiences
+
+Must have
+
+Tools
+
+Jira or Azure DevOps, Confluence or Notion, Miro or Lucid, Excel or Google Sheets
+
+Must have
+
+Wireframing
+
+Low-fidelity wireframes or clickable prototypes in Figma or Balsamiq to clarify requirements
+
+Strong plus
+
+Metrics
+
+Define success measures for a feature and read product analytics or dashboards
+
+Strong plus
+
+AI product basics
+
+Understand LLM capabilities and limits; write requirements for AI features including expected quality, evaluation examples and human review steps
+
+Strong plus
+
+Stakeholder management
+
+Manage expectations and conflicting requests; escalate with options, not just problems
+
+Strong plus
+
+**Experience requirements**
+
+* 2–3 years as a business analyst, product owner, associate product manager or similar role on software projects.
+* Has written requirements or user stories for at least one feature or product that went live.
+* Has worked in an agile team with engineers, testers and designers through full sprints and releases.
+* Has run workshops or interviews with business stakeholders and documented the outcomes.
+* Has supported user acceptance testing and a go-live.
+* Degree in business, information systems, computer science or related field, or equivalent experience.
+* A certification is welcome but not required (e.g. ECBA / CCBA, PSPO or CSPO).
+
+**Nice to have**
+
+* Worked on an AI, chatbot or automation product, or written requirements for one.
+* Preferred: domain knowledge in marketing, finance, or risk and compliance (e.g. campaign and lead processes, budgeting and financial reporting, regulatory controls, audit and policy management).
+* Contract management, procurement or legal domain knowledge.
+* Integration projects: field mapping, interface specifications, test data preparation.
+* B2B SaaS experience with enterprise customers.
+
+**Working style**
+
+* Curious: asks “why” until the real need is clear.
+* Structured: keeps documents, backlog and decisions organized and current.
+* Writes clearly and briefly; uses examples and diagrams instead of long text.
+* Collaborative with engineers; respects their estimates and constraints.
+* Owns follow-ups and closes loops with stakeholders.

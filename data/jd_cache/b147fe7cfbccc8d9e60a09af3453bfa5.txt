@@ -1,0 +1,54 @@
+**Focus**
+Agentic AI, AI Shopping Assistants & Virtual Try-On
+  
+  
+We are looking for a Full-Stack AI Engineer to build, deploy, and operate production-grade AI applications, including agentic shopping assistants and multimodal AI experiences. The role requires strong hands-on expertise in Python, TypeScript, LLM-based applications, real-time streaming, evaluation, and cloud infrastructure.
+  
+  
+The ideal candidate can independently deliver end-to-end features across backend agent runtimes and frontend interfaces, with a strong focus on reliability, latency, cost optimisation, and production performance.
+  
+  
+**Key Responsibilities**
+
+* AI Agent Development: Build and maintain Python-based agent runtimes using LLMs, tool calling, structured outputs, retrieval-augmented generation (RAG), multi-turn state, and human escalation workflows.
+* Full-Stack Engineering: Develop asynchronous Python APIs and TypeScript web components, implementing server-sent events (SSE), streaming interfaces, interactive product cards, and resilient client-side error handling.
+* LLM Evaluation: Build evaluation datasets and automated test harnesses using deterministic and model-based graders, regression gates, ablation studies, and pass@k/pass^k metrics.
+* Performance & Cost Optimisation: Improve response latency, time to first token, token consumption, caching efficiency, context management, and cost per conversation.
+* Production Operations: Implement distributed tracing, structured logging, LLM observability, monitoring, incident resolution, feature flags, controlled rollouts, and rollback mechanisms.
+* Cloud & DevOps: Deploy containerised services, manage CI/CD pipelines, infrastructure as code, and production workloads on cloud platforms.
+* E-commerce AI Integration: Integrate product search, catalogue data, product details, grounded recommendations, and commerce-related event tracking into AI-powered shopping experiences.
+* Virtual Try-On & Multimodal AI: Contribute to image-based generative AI applications, including embeddable frontend widgets and scalable backend services.
+* Internationalisation & Scalability: Support multilingual experiences, brand-specific configurations, localisation, currency handling, and backward-compatible integrations.
+* Cross-Functional Collaboration: Work with product, business, and engineering stakeholders to troubleshoot quality issues and deliver measurable improvements to customer experience and business outcomes.
+
+**Essential Skills & Experience**
+
+* Strong hands-on experience with Python and TypeScript.
+* Production experience building LLM-powered applications using tool/function calling, structured outputs, streaming, retries, context management, and RAG.
+* Strong understanding of asynchronous Python, REST APIs, SSE, and event-driven communication.
+* Practical experience designing LLM evaluation frameworks, test datasets, automated graders, regression testing, and evaluation metrics.
+* Experience deploying and operating cloud-based applications, containerised services, CI/CD pipelines, and infrastructure as code.
+* Familiarity with production observability, distributed tracing, structured logging, performance monitoring, and incident management.
+* Experience with caching, latency optimisation, token and inference cost management, feature flags, and safe deployment strategies.
+* Strong software engineering fundamentals, debugging skills, and end-to-end ownership of production features.
+
+**Preferred Skills**
+
+* Experience with agent frameworks such as Google ADK, LangGraph, or Claude Agent SDK.
+* Hands-on exposure to Google Cloud Platform, Vertex AI, Gemini, FastAPI, and Cloud Run.
+* Experience with frontend frameworks and tools such as Lit, Next.js, esbuild, and Vitest.
+* Familiarity with PostgreSQL, BigQuery, OpenTelemetry, Opik, and LLM tracing platforms.
+* Knowledge of MCP servers, sub-agents, agent-to-agent integrations, and retrieval systems.
+* Experience with e-commerce search, multimodal AI, image generation, virtual try-on, and third-party web embeds.
+* Understanding of prompt-injection mitigation, multilingual applications, and inference performance optimisation.
+* Effective use of AI coding assistants and developer productivity tools.
+
+**Role Expectations**
+
+* Deliver production-ready features across both backend AI services and frontend applications.
+* Demonstrate evaluation evidence, observability, and safe rollout practices for AI-driven changes.
+* Balance response quality, reliability, latency, infrastructure costs, and user experience.
+* Work effectively within existing systems, maintaining backward compatibility and planning migrations and rollbacks.
+* Take ownership of troubleshooting, continuous improvement, and production reliability.
+
+(ref:hirist.tech)

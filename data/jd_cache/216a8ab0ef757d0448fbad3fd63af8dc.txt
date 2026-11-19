@@ -1,0 +1,70 @@
+DeepIntent is the leading healthcare marketing platform, purpose-built to help marketers plan, activate, and optimize data-driven campaigns with speed and precision. Trusted by the world's top healthcare brands and their agencies, DeepIntent uniquely unites media, identity, and real-world clinical data to power privacy-safe, omnichannel marketing across every screen. Backed by patented technology and proven outcomes, DeepIntent's platform delivers measurable audience quality and script lift at scale. Learn more at www.deepintent.com.
+
+**What You'll Do:**
+
+As an AI/ML Engineer, you will own the full life of the models that measure what advertising actually does for brands and patients, from the business question to a production system that clients rely on. You will build attribution, causal inference and media mix models (MMM) that show which channels, tactics and audiences drove outcomes such as new prescriptions, patient starts and HCP engagement. You will also build the pipelines and services that train, serve and monitor those models.
+
+This role requires two skill sets in one person. You need the full statistics and data science depth that measurement demands, and you need proven experience productionalizing machine learning models.
+
+You will work closely with DeepIntent Data Science teams in New York, India and Bosnia, and with product, engineering and client-facing teams. You will turn medical claims, Rx, clinical, demographic and impression-level data into measurement products and insights that clients act on.
+
+We are an AI-native team. We expect you to use AI tools across the whole ML lifecycle, from framing a problem and writing pipelines to testing, reviewing, documenting, deploying and monitoring models, while owning the rigor of every result you ship.
+
+* **Full lifecycle ownership:** Take a measurement problem from the business question (did this campaign drive new prescriptions? where should the next dollar go?), frame it as a modeling problem, build the data and training pipelines, and deliver a system that serves results to end users. You keep owning it after launch.
+* **Attribution modeling:** Design, build and maintain multi-touch and data-driven attribution models that credit outcomes such as Rx, patient starts and HCP actions to channels, tactics and audiences across the DeepIntent platform.
+* **Causal inference:** Measure incremental lift using methods such as difference-in-differences, synthetic control, propensity score matching, instrumental variables, uplift modeling and double/debiased ML. Make sure results stand up to selection bias, confounding and data leakage.
+* **Media mix modeling:** Build and calibrate Bayesian and econometric MMMs with adstock, saturation and seasonality effects. Use them for budget allocation, scenario planning and spend optimization, and calibrate them against experiments.
+* **Experimentation:** Design and read randomized tests, holdouts and geo experiments, including power analysis, sample sizing and guardrails against peeking.
+* **Data and training pipelines:** Build scalable, tested pipelines (for example Spark, Airflow and BigQuery) that ingest claims, Rx, clinical, demographic and impression-level data, build features, and train, validate and retrain models on a schedule or trigger.
+* **Model serving and measurement products:** Design and build the services, APIs and batch systems that deliver model outputs into DeepIntent products and to clients, as reusable production-grade features, not one-off analyses.
+* **Engineering best practices:** Build systems that are scalable, maintainable, stable and extensible: modular code, automated tests, CI/CD, infrastructure as code, code review, documentation and clear interfaces that other engineers can build on.
+* **Production deployment and monitoring:** Release and version models, and monitor availability, data drift and model performance, with alerts, guardrails and failsafes. Keep training and serving reproducible.
+* **Healthcare data:** Analyze medical claims, Rx, clinical, demographic and clickstream data to measure campaign outcomes, patient journeys and script lift.
+* **Communication and partnership:** Work with product and engineering on design and delivery, and present results, uncertainty and recommended actions clearly to internal stakeholders.
+* **AI-native delivery:** Use agentic coding and AI tools across the data science and software lifecycle (problem framing, EDA, feature and pipeline code, tests, model reviews and documentation) to ship faster without lowering the bar on statistical rigor or engineering quality.
+
+**Who You Are:**
+
+We are looking for someone who has taken models through the entire model and software lifecycle: understanding the business problem, turning it into a modeling problem, building the pipelines that gather data and train the model, and building the system that serves it to end users, all to engineering best practices.
+
+* Bachelor's or Master's degree in a quantitative field such as Statistics, Mathematics, Economics, Computer Science, Engineering or Data Science.
+* 4+ years of experience as a Data Scientist, ML Engineer or Researcher in digital marketing, advertising, ad tech, or another field that relies on customer-level measurement.
+* Hands-on experience shipping attribution models (multi-touch or data-driven) and media mix models inside products used for real budget decisions.
+* Strong grounding in causal inference: potential outcomes, DAGs, quasi-experimental designs and incrementality testing, and knowing when each one applies.
+* Experience designing and analyzing experiments, including power analysis, holdouts and geo tests.
+* Advanced Python for statistics and modeling, with libraries such as statsmodels, scikit-learn, EconML, PyMC or Stan, and familiarity with MMM tools such as Meridian, Robyn or PyMC-Marketing.
+* Strong SQL and comfort working with large, messy, event-level data.
+* Explains complex quantitative results, including their uncertainty, clearly to non-technical audiences.
+* Experience across the full model and software lifecycle: understanding the business problem, translating it into a modeling problem, building the data and training pipelines, and creating the system that serves the model to end users.
+* Experience productionalizing machine learning models: releases and versioning, monitoring availability and predictive performance, detecting data and prediction drift, and implementing guardrails and fail-safes.
+* Experience building data and model pipelines with tools such as Spark, Airflow and Docker, and comfort with cloud platforms such as Google Cloud (BigQuery) or AWS.
+* Experience building model-serving systems, such as batch scoring jobs, APIs or services, that real users and downstream products depend on.
+* Builds systems that are scalable, maintainable, stable and extensible, and can explain the tradeoffs behind their design choices.
+* Writes production-level code and follows software engineering best practices such as versioning, code reviews, automated tests, CI/CD and documentation.
+* Collaborates with product and engineering teams on design, delivery and on-call or operational ownership of what you ship.
+* **AI-native delivery:** You have shipped real data science work with AI across the lifecycle (problem framing, EDA, feature engineering, pipeline code, tests, model reviews, documentation, production deployment and monitoring), not just experimented with it.
+* **AI tools:** You are hands-on with agentic coding tools such as Claude Code, Cursor or Copilot, and quick to pick up new ones.
+* **Open mindset:** You treat AI as a pair programmer and analysis partner, not a threat or a shortcut. You use it to explore more hypotheses and model variants, not to skip the thinking.
+* **Solutioning mindset:** You start from the business question and the decision it informs, such as where the next dollar should go, not just the ticket or the model.
+* **Ownership of AI output:** You review, test and debug AI-generated code and analysis. You check joins, leakage, model assumptions and whether the numbers reconcile. "The AI wrote it" is never an excuse.
+* **Strong fundamentals:** Statistics, experimental design, causal reasoning, software design, data structures and clean pipeline architecture still matter. AI amplifies good ML engineers; it does not replace the basics.
+* **Responsible AI:** You understand the security and data-privacy guardrails for using AI tools with sensitive data, such as never exposing PHI or client data to unapproved tools. This is non-negotiable for us given healthcare data
+* Experience with US healthcare data such as medical claims, Rx, NPI-level HCP data or patient-level data is a plus.
+* Pharma or healthcare marketing measurement experience, such as script lift, new-to-brand Rx or HCP and DTC campaign measurement, is a plus.
+* Experience calibrating MMM with lift tests, or reconciling top-down MMM with bottom-up attribution, is a plus.
+* Experience with privacy-safe measurement, such as data clean rooms or aggregated and de-identified data, is a plus.
+* Experience with Kubernetes and infrastructure as code (for example Terraform) for deploying and scaling model services is a plus.
+* Experience building evals, agents or LLM-based tools for analytics workflows is a plus.
+* Having publications, open-source contributions, or an active Kaggle profile is a plus.
+
+We believe great work starts with great support. That's why DeepIntent offers a competitive, holistic benefits package designed to empower you both professionally and personally.
+
+Here's what you can expect when you join our team based in the US: Competitive base salary plus performance based bonus or commission, comprehensive medical, dental, and vision insurance, 401K match program, flexible PTO policy and paid holidays, remote friendly culture with flexible work options, career development and advanced education support, WFH and internet stipends, plus many more perks and benefits!
+
+Here's what you can expect when you join our team based in India: Competitive base salary plus performance based bonus, comprehensive medical insurance, and paid holidays. Hybrid-friendly culture with flexible work options, professional development reimbursement, WiFi reimbursement and health and wellness allowance plus many more perks and benefits!
+
+Here's what you can expect when you join our team based in Europe: Competitive base salary plus performance-based bonus, comprehensive medical insurance, and flexible PTO. Hybrid-friendly culture with flexible work options, professional development reimbursement, WiFi reimbursement, and parental leave plus many more perks and benefits!
+
+DeepIntent is committed to bringing together individuals from different backgrounds and perspectives. We strive to create an inclusive environment where everyone can thrive, feel a sense of belonging, and do great work together. DeepIntent is an Equal Opportunity Employer, providing equal employment and advancement opportunities to all individuals. We recruit, hire and promote into all job levels the most qualified applicants without regard to race, color, creed, national origin, religion, sex (including pregnancy, childbirth and related medical conditions), parental status, age, disability, genetic information, citizenship status, veteran status, gender identity or expression, transgender status, sexual orientation, marital, family or partnership status, political affiliation or activities, military service, immigration status, or any other status protected under applicable federal, state and local laws. If you have a disability or special need that requires accommodation, please let us know in advance. DeepIntent's commitment to providing equal employment opportunities extends to all aspects of employment, including job assignment, compensation, discipline and access to benefits and training.
+
+CCPA Notice: If you are a California resident applying for a role at DeepIntent, we may collect personal information as part of the application process in accordance with the California Consumer Privacy Act (CCPA). To learn more about the categories of information we collect and your rights, please contact PeopleOps@deepintent.com to see our full Applicant Privacy Notice.

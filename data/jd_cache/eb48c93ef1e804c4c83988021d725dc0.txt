@@ -1,0 +1,11 @@
+**Mandatory Skills**
+
+* 12+ years of experience in IT services, including a minimum of 5 years in a Technical Lead or Delivery Lead role.
+* Strong technical background in at least one of the following: **.NET/.NET Core, Java/Spring Boot, or Python-based enterprise development**.
+* Experience in end-to-end project delivery, delivery governance, project planning, and execution.
+* Strong understanding of system design, solution architecture, enterprise applications, APIs, and microservices.
+* Experience with cloud platforms such as Azure, AWS, or GCP.
+* Knowledge of database design, performance tuning, DevOps, CI/CD, and the software development lifecycle.
+* Hands-on exposure to Generative AI, AI-assisted development tools, or AI-driven software engineering practices.
+* Strong experience in client-facing roles, stakeholder management, risk management, and team leadership.
+* Excellent communication, presentation, decision-making, and problem-solving skills.

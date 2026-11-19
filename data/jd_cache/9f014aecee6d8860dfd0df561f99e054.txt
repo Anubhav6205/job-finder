@@ -1,0 +1,62 @@
+Job Title: AI/ML Engineer
+
+**Location:** Bengaluru  
+**Experience:** 6 years+  
+**Employment Type:** Full-Time
+
+Job Summary
+
+We are looking for an AI/ML Engineer with hands-on experience in Python, Machine Learning, Deep Learning, and Natural Language Processing (NLP). The candidate will be responsible for developing, deploying, and maintaining machine learning models and end-to-end ML pipelines.
+
+The role involves working on AI-based detection systems, text classification, content moderation, and business forecasting solutions. The candidate should have experience building production-ready ML solutions and working with distributed data processing and MLOps tools.
+
+Mandatory Technical Skills
+
+* Strong hands-on experience in Python programming.
+* Practical experience with PyTorch.
+* Good understanding of Machine Learning and Deep Learning concepts.
+* Experience in NLP and text classification.
+* Hands-on experience with Databricks and PySpark.
+* Experience developing APIs using FastAPI or Flask.
+* Knowledge of Docker and containerisation.
+* Understanding of MLOps practices.
+* Experience in model evaluation, performance monitoring, and deployment.
+
+Roles & Responsibilities
+
+* Design, develop, test, and maintain Machine Learning and Deep Learning models.
+* Build and deploy end-to-end ML pipelines using Databricks and PySpark.
+* Develop NLP-based solutions for text classification and content moderation.
+* Work on AI-based detection systems and forecasting solutions.
+* Develop time-series forecasting models using tools such as Prophet (formerly FBProphet).
+* Perform data preparation, feature engineering, model selection, and model evaluation.
+* Build and integrate ML applications using FastAPI or Flask.
+* Implement MLOps practices to support model deployment, monitoring, and maintenance.
+* Use Docker for application containerisation and deployment.
+* Monitor model performance and improve accuracy and reliability.
+* Collaborate with engineering, product, and business teams.
+* Participate in code reviews, technical discussions, and project documentation.
+
+Education Qualification
+
+Bachelor's degree in Computer Science, Information Technology, Engineering, or an equivalent technical field.
+
+Preferred Candidate Profile
+
+* Experience in developing and deploying production-level AI/ML solutions.
+* Strong understanding of data engineering and distributed computing.
+* Ability to independently handle ML development tasks.
+* Good problem-solving, analytical, and communication skills.
+* Experience working in an Agile development environment.
+
+Pay: ₹3,000,000.00 per year
+
+Application Question(s):
+
+* 2. Do you have hands-on experience with Databricks, PySpark, NLP/Text Classification, and building ML pipelines? Please mention the tools you have used.
+* Have you deployed ML models in a production environment using FastAPI/Flask, Docker, and MLOps tools for model monitoring and evaluation?
+* What is your current and expected ctc ?
+* Are you an immediate joiner?
+* 1. How many years of hands-on experience do you have in Python, Machine Learning, and Deep Learning, particularly using PyTorch? Total Experience, should be 6 + years.
+
+Work Location: In person

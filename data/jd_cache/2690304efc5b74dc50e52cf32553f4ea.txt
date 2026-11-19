@@ -1,0 +1,51 @@
+**Job Summary**  
+
+Net Full Stack with Angular, TypeScript, Microservices, Docker, and Container Developer - Pune
+
+As a **Senior Full Stack Engineer**, you will design, develop, and enhance scalable enterprise applications within the FIS Private Equity Suite platform. You will work across the full technology stack, leveraging **Angular, C#, .NET, microservices, and containerized architectures** to deliver secure, high-performing solutions for global clients. This role requires strong technical leadership, hands-on development expertise, and the ability to drive modernization initiatives using modern engineering practices, including **AI-assisted development with GitHub Copilot**. Success is measured by the quality, scalability, reliability, and business impact of the solutions delivered.
+
+**Responsibilities**  
+
+* Design, develop, and maintain enterprise-grade applications using **Angular**, **TypeScript**, **C#**, and **.NET** technologies.
+* Develop and enhance **microservices-based solutions** and distributed application architectures.
+* Build responsive, accessible, and user-centric web interfaces that provide an exceptional client experience.
+* Design and implement RESTful APIs and backend services, ensuring scalability, performance, and security.
+* Develop and deploy applications using **Docker**, containerization technologies, and modern CI/CD pipelines.
+* Collaborate with product, UX/UI, architecture, DevOps, and engineering teams to translate business requirements into technical solutions.
+* Leverage **GitHub Copilot** and AI-assisted engineering tools to improve development productivity, code quality, and innovation.
+* Participate in architecture discussions and contribute to application modernization initiatives, including cloud-native and container-based deployments.
+* Write clean, maintainable, testable, and well-documented code following engineering best practices.
+* Perform code reviews, mentor junior developers, and contribute to engineering standards and continuous improvement initiatives.
+* Troubleshoot, debug, and resolve complex application issues while improving overall system performance and reliability.
+* Support Agile delivery practices including estimation, sprint planning, development, testing, and release activities.
+* Analyze complex technical challenges and recommend scalable, maintainable, and resilient solutions.
+
+  
+  
+**Required Qualifications**  
+
+* 6-10+ years of hands-on software development experience with **C#, .NET, Angular, TypeScript, Microservices, Docker, and Container Technologies**.
+* Strong expertise in developing full stack applications using **Angular**, **C#**, **ASP.NET Core**, and **.NET Framework/.NET Core**.
+* Proven experience designing and building **microservices-based architectures** and distributed systems.
+* Hands-on experience with **Docker**, containerization, and container orchestration platforms (Kubernetes/AKS/OpenShift preferred).
+* Strong knowledge of RESTful API design, development, and integration patterns.
+* Experience with modern front-end technologies including **Angular**, HTML5, CSS3, RxJS, and responsive design principles.
+* Familiarity with cloud-native development practices and CI/CD pipelines.
+* Experience using **GitHub Copilot** or AI-powered developer productivity tools in software development workflows.
+* Strong experience with Git-based source control, branching strategies, and collaborative development practices.
+* Experience with Agile/Scrum software development methodologies.
+* Excellent analytical, problem-solving, debugging, and performance optimization skills.
+* Bachelor's degree in Computer Science, Engineering, or a related field, or equivalent practical experience.
+
+  
+  
+**Preferred Qualifications**  
+
+* Experience with **Azure, AKS, cloud-native architectures, and DevOps practices**.
+* Knowledge of messaging/event-driven frameworks such as Kafka, RabbitMQ, Azure Service Bus, or similar technologies.
+* Experience with testing frameworks such as Jasmine, Karma, xUnit, NUnit, or similar tools.
+* Understanding of observability, monitoring, logging, and performance analysis tools.
+* Experience developing solutions within **financial services, fintech, private equity, or investment management** domains.
+* Familiarity with secure coding practices, application security, and compliance requirements.
+* Experience leading technical design discussions, mentoring engineers, and driving engineering best practices.
+* Exposure to AI-assisted development tools and modern software engineering productivity platforms.

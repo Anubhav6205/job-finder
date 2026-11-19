@@ -1,0 +1,109 @@
+The Opportunity
+  
+  
+Join our Acceleration Center India and help shape the future of business for our diverse client portfolio across geographies and jurisdictions. You’ll work at the heart of global teams across Advisory, Assurance, Tax and Business Services—solving real client challenges through connected collaboration. We’ll help you grow your skills so you can go further. With hands-on learning, cutting-edge tools and an inclusive culture, this is your opportunity to do inspiring work that makes a difference—every day.
+  
+  
+As an AI Engineer you will develop and support software solutions within our Software Engineering practice, focusing on digital integration, architecture, and AI-enabled systems that connect platforms, data, and applications. As a Senior Associate you will analyze complex workstreams, manage assigned deliverables, mentor junior team members, and use critical thinking to navigate ambiguity while building client relationships and deepening your technical skills. In this role at PwC, you will contribute to enterprise integration efforts, support API and middleware delivery, and help shape scalable solutions within Technology Consulting and Digital Integration & Architecture.
+  
+  
+**Responsibilities**
+
+* Designing and developing AI-enabled software components, services, and integrations across enterprise platforms
+* Translating business requirements into scalable technical solutions using software engineering methods and architecture patterns
+* Building and refining APIs, microservices, and application interfaces to support data flow and system interoperability
+* Applying Python, Java, JavaScript, or similar programming languages to create, test, and maintain application code
+* Reviewing code, troubleshooting defects, and resolving issues across development and deployment environments
+* Supporting CI/CD pipelines, version control, and release activities to improve delivery speed and code reliability
+* Collaborating with client teams to gather requirements, interpret feedback, and adapt technical solutions to changing needs
+* Evaluating AI fluency, AI-human collaboration, and digital tooling to improve automation and application performance
+* Contributing to solution architecture, technical documentation, and development standards for enterprise software delivery
+* Mentoring junior team members through code reviews, technical guidance, and practical problem-solving
+
+What You Must Have
+  
+  
+
+* At least a Bachelor's degree
+* At least 4 years of experience
+* Oral and written proficiency in English required
+
+What Sets You Apart
+  
+  
+
+* Preference for at least one of the following fields of study: Artificial Intelligence, Business Analytics, Computer and Data Engineering, Computer Science, Human Computer Interaction, Industrial Engineering, Information Systems/Technology, Machine Learning, Management Information Systems, Software Engineering
+* Strong hands-on experience in Machine Learning, Deep Learning, Generative AI, and Agentic AI, with proven production implementations.
+
+Experience building, training, fine-tuning, evaluating, and deploying ML models using PyTorch, TensorFlow, Scikit-learn, and Hugging Face.
+  
+  
+Hands-on experience developing
+**LLM-powered applications**
+using Claude, GPT, open-source models, and enterprise AI platforms.
+  
+  
+Strong experience implementing
+**RAG architectures**
+, embeddings, vector databases, semantic search, and context engineering.
+  
+  
+Proven experience designing and building
+**AI agents and multi-agent systems**
+using LangGraph, LangChain, CrewAI, AutoGen, or equivalent frameworks.
+  
+  
+Experience implementing
+**agent orchestration, planning, reasoning, tool calling, memory, state management, and human-in-the-loop workflows**
+.
+  
+  
+Hands-on experience with
+**MCP, A2A protocols**
+, API integrations, and enterprise tool connectivity.
+  
+  
+Strong understanding of
+**AI agent harness architecture**
+, including execution loops, context management, tool permissions, guardrails, and error recovery.
+  
+  
+Experience building
+**AI evaluation frameworks**
+covering LLM-as-a-Judge, RAG quality, hallucination detection, agent task success, and tool-call accuracy.
+  
+  
+Hands-on experience with
+**AI observability and evaluation tools**
+such as LangSmith, Langfuse, Ragas, DeepEval, or Arize Phoenix.
+  
+  
+**Mandatory full-stack development experience**
+with Python, Java/TypeScript, REST APIs, microservices, and frontend frameworks such as React or Angular.
+  
+  
+**Mandatory cloud engineering experience**
+with AWS, Azure, or GCP, including Docker, Kubernetes, serverless architectures, and cloud-native deployments.
+  
+  
+Strong experience in
+**MLOps, DevOps, CI/CD, Terraform, automated testing, security, and production monitoring**
+for AI applications.
+  
+  
+Demonstrated
+**real-world, end-to-end production delivery experience**
+, including architecture, development, deployment, scalability, performance optimization, and operational support.
+  
+  
+**Bonus:**
+Anthropic certifications or training, Claude Code, Claude Agent SDK, custom agent harnesses, agent skills, subagents, hooks, and AI-powered developer tooling.
+  
+  
+
+* Demonstrating client-facing software engineering experience on integration engagements
+* Applying Python, Java, or JavaScript in AI solution development
+* Developing APIs, microservices, or enterprise application architecture
+* Using CI/CD, testing, and code review practices in delivery work
+* Mentoring junior team members while navigating ambiguity
+* Translating technical concepts into business-focused recommendations

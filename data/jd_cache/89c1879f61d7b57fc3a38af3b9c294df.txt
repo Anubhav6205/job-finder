@@ -1,0 +1,13 @@
+**Roles and Responsibilities :**
+
+* Design, develop, and deploy machine learning models using Python and Azure ML services to solve complex business problems.
+* Collaborate with cross-functional teams to gather requirements, design solutions, and implement data pipelines for large-scale projects.
+* Develop high-quality code that is scalable, efficient, and maintainable using best practices in software development.
+* Troubleshoot issues related to model performance, data quality, and deployment on Azure platforms.
+
+**Job Requirements :**
+
+* 6.1-12 years of experience in Machine Learning Engineering or a related field.
+* Strong proficiency in programming languages such as Python with expertise in libraries like scikit-learn, TensorFlow/PyTorch.
+* Experience working with cloud-based platforms like Microsoft Azure including AI Services (Azure Functions), Data Factory & Synapse Analytics.
+* Proficiency in building predictive models using various algorithms such as regression techniques (linear/non-linear) and classification methods (logistic/naive bayes).

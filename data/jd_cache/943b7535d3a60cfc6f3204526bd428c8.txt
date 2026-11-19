@@ -1,0 +1,26 @@
+**Frontend Game Developer - TS/JS**
+
+About the Role:  
+We?re looking for a skilled Frontend Game Developer to create high-quality, app-based slot games. You?ll work with modern JavaScript frameworks, animation libraries, and cutting-edge tools to deliver fast, engaging, and visually stunning games on our in-house framework.
+
+**Key Responsibilities:**
+
+? 3-5 years of experience in frontend development for slot or casino games using Typescript or Javascript  
+? Develop and maintain slot games using JavaScript/TypeScript.  
+? Work on custom frameworks built on pixi/phaser/unity for slot game development.  
+? Apply OOJS, SOLID principles and Clean Code.  
+? Optimize games for speed, scalability, and cross-platform performance.  
+? Build reusable, well-documented code libraries.  
+? Debug and resolve live issues in both legacy and new games.  
+? Collaborate with designers, artists, and backend teams in an Agile/Scrum environment.  
+? Perform code reviews, mentor junior developers, and contribute to framework improvements.  
+? Stay updated with emerging technologies and recommend innovative solutions.
+
+**Skills & Qualifications:**
+
+? Proven experience with JavaScript/TypeScript and one or more frameworks (Pixi.JS, Phaser).  
+? Strong knowledge of OOJS, SOLID, Clean Code, and design patterns.  
+? Experience with animation tools (Spine, Pixi-Spine, Timelines).  
+? Familiarity with Node.js, NPM, Webpack, Rollup, Git, and build tools.  
+? Strong problem-solving, debugging, and communication skills.  
+? Agile/Scrum experience preferred.

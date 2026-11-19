@@ -1,0 +1,21 @@
+**Role Summary**
+
+We are looking for a highly experienced Senior Full Stack Developer with expertise in modern web application development and hands-on experience in AI-native Software Development Lifecycle (SDLC). The ideal candidate should be proficient in leveraging AI coding assistants such as Cursor, Claude, GitHub Copilot, or similar tools to accelerate development through AI-first software engineering practices to improve code quality and optimize delivery processes.
+
+  
+
+**Required Skills & Qualifications**
+
+* **8+ years of software development experience.**
+* **Minimum 1 year of experience working in AI-native SDLC** using Cursor, Claude, GitHub Copilot, or similar AI-assisted development tools.
+* **8+ years of full-stack development experience** in:
+* React.js
+* Python FastAPI
+* MySQL
+* MongoDB
+* Strong understanding of REST APIs, microservices, and cloud-native architectures.
+* Experience with Git, CI/CD pipelines, and Agile/Scrum methodologies.
+* Excellent problem-solving and leadership skills.
+* Experience with prompt engineering.
+* Experience in Azure DevOps, GitHub Actions, Docker, and Kubernetes.
+* Knowledge of software architecture patterns and system design.

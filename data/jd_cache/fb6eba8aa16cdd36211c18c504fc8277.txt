@@ -1,0 +1,24 @@
+Marlabs, a global AI and Digital Solutions Consulting firm, delivers intelligent solutions across AI, data, analytics, and product engineering. Since 2000, we have partnered with some of the largest healthcare, life sciences, financial services, and government organizations worldwide. As we continue to expand our global footprint, we have an exciting opportunity for a highly skilled Data Engineer – Data Pipelines & GenAI Reporting to join our innovative and dynamic team.
+
+**Data Engineer – Data Pipelines & GenAI Reporting | About You**
+
+As a Data Engineer – Data Pipelines & GenAI Reporting, you will build standardized data pipelines that provide trusted, high-quality information for enterprise reporting and GenAI applications. You will be responsible for implementing ingestion workflows, applying established architecture standards, incorporating data-quality controls, and building reporting artifacts that support business users and AI-enabled solutions.
+
+**Data Engineer – Data Pipelines & GenAI Reporting | Day-to-Day**
+
+* Design, develop, and maintain standardized data pipelines based on established enterprise architecture and engineering standards.
+* Build data ingestion and transformation workflows that integrate source data into trusted reporting and GenAI-ready datasets.
+* Implement data quality checks and validation controls to ensure data accuracy, completeness, consistency, and reliability.
+* Develop reporting artifacts in partnership with business and technical teams, ensuring data is structured appropriately for downstream consumption.
+* Build and support reports, email-enabled outputs, and GenAI chat links, including access patterns appropriate for different user personas.
+* Apply established architectural patterns, coding standards, and security requirements while creating clear technical and operational handoff documentation.
+* Collaborate with Senior Data Engineers, Test Engineers, and business users to troubleshoot data issues and improve production reliability.
+
+**Data Engineer – Data Pipelines & GenAI Reporting | Skills & Experience**
+
+* 3+ years of Data Engineering experience developing production-grade data pipelines, ingestion processes, transformations, and reporting datasets.
+* Strong skills in SQL and data transformation, with experience working with structured enterprise data and scalable pipeline architectures.
+* Experience implementing data quality checks, validation rules, reconciliation processes, and production monitoring within data pipelines.
+* Understanding of data modeling, reporting structures, security, and role/persona-based data access principles.
+* Experience supporting analytics, reporting, or GenAI-enabled applications that consume enterprise data.
+* Strong troubleshooting, documentation, and collaboration skills, with experience following established architecture and engineering standards.

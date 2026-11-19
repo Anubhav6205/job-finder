@@ -1,0 +1,75 @@
+Meet the Team
+  
+Join a team developing forwarding software for Cisco IOS XR service provider platforms. You’ll work on software that moves packets through high-capacity routers, contributing to Layer 2 and Layer 3 features across the forwarding path.
+  
+This role suits an engineer with solid networking fundamentals, hands-on C or C++ experience, and an interest in embedded systems. You’ll work with experienced engineers to implement features, investigate defects, and improve code and test coverage. Regular use of approved AI tools is part of the engineering workflow; engineers remain responsible for reviewing and validating AI-generated output.
+  
+  
+Your Impact
+  
+  
+
+* Develop, enhance, and maintain L2/L3 forwarding software for Cisco IOS XR platforms using C and C++.
+* Turn feature requirements and design specifications into code, tests, and technical documentation.
+* Work on forwarding areas such as packet classification, route and label handling, adjacency resolution, tunnels, ACLs, QoS, mirroring, OAM, and slow path processing.
+* Contribute to Layer 2 and Layer 3 technologies used in service provider networks. Relevant examples include EVPN, VPLS, MPLS, Segment Routing, SRv6, IPv4, and IPv6.
+* Debug software issues using logs, traces, packet captures, core files, and other diagnostic data; help identify root causes and deliver fixes.
+* Write and maintain unit, integration, and regression tests. Use scripting to automate routine development and validation tasks.
+* Collaborate with forwarding, protocol, platform, hardware, and test teams through design reviews, code reviews, and defect investigations.
+* Use approved AI tools regularly to assist with code exploration, development, test generation, debugging, and documentation. Check their output for correctness, security, and fit with the codebase before using it.
+* Communicate progress, technical findings, and risks clearly to teammates.
+
+Minimum qualifications
+  
+  
+
+* 2–5 years of software development experience, preferably in networking, embedded software, systems programming, or a related area.
+* Bachelor’s degree in Computer Science, Computer Engineering, Electrical Engineering, or a related field, or equivalent practical experience.
+* Proficiency in C or C++, with the ability to read and modify production code.
+* Working knowledge of scripting, preferably Python, for automation, debugging, or test development.
+* Good understanding of networking fundamentals, including Ethernet, IP, packet forwarding, routing, and the roles of Layer 2 and Layer 3.
+* Familiarity with Linux or UNIX development environments, debugging tools, source control, and collaborative code review.
+* Practical experience using generative AI or AI coding tools as part of day-to-day engineering work, with sound judgment about reviewing and validating the results.
+* Strong troubleshooting, problem-solving, communication, and teamwork skills.
+
+Preferred qualifications
+  
+  
+
+* Experience with Cisco IOS XR or another carrier-grade network operating system.
+* Exposure to L2/L3 technologies such as EVPN, VPLS, MPLS, Segment Routing, SRv6, QoS, ACLs, BFD, GRE, or BGP FlowSpec.
+* Familiarity with forwarding and data plane concepts, including hardware-assisted packet processing or NPU-based architectures.
+* Experience with unit testing, test automation, CI systems, static analysis, or performance debugging.
+* Familiarity with tools such as GDB, Valgrind, packet analyzers, or traffic generators.
+* Knowledge of operating system concepts, multithreading, memory management, and inter-process communication.
+
+What success looks like
+  
+In the first year, the engineer should be able to contribute code and tests to a defined forwarding feature, investigate and resolve scoped defects with guidance, explain how packets move through the relevant software path, and use AI tools productively while independently checking their results.
+  
+  
+Why Cisco?
+  
+  
+At Cisco, we’re revolutionizing how data and infrastructure connect and protect organizations in the AI era – and beyond. We’ve been innovating fearlessly for 40 years to create solutions that power how humans and technology work together across the physical and digital worlds. These solutions provide customers with unparalleled security, visibility, and insights across the entire digital footprint.
+  
+Fueled by the depth and breadth of our technology, we experiment and create meaningful solutions. Add to that our worldwide network of doers and experts, and you’ll see that the opportunities to grow and build are limitless. We work as a team, collaborating with empathy to make really big things happen on a global scale. Because our solutions are everywhere, our impact is everywhere.
+  
+We are Cisco, and our power starts with you.
+  
+  
+Disclaimer
+  
+To ensure that we hire the best talent in the right way, we follow a strict hiring process and recently, Cisco has been made aware of fraudulent recruiters claiming to be from the company. Please be advised that any communication from Cisco about careers will:
+  
+  
+
+* be in direct response to an application you have submitted through the company career site
+* begin with screening or an interview
+* originate from a Cisco email address, and
+* be conducted across email, phone, or WebEx
+
+Cisco will never make a job offer without conducting an interview process or ask you for money in any way. If you have been requested to apply for a role or have received an offer from a site other thanhttps://careers.cisco.com orcisco.wd5.myworkday.com, do not provide any personal identifying information, including your Aadhaar or other personal identifying number, birth certificate, banking information, driver's license, or passport.
+  
+  
+If you are the target of a recruiting scam, consider filing a report with your local law enforcement authorities. Cisco bears no responsibility, and cannot be held liable, for any claims, damages, expenses, or other inconvenience resulting from or in any way connected to recruiting scams.

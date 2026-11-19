@@ -1,0 +1,79 @@
+Founded in 1976, CGI is among the largest independent IT and business consulting services firms in the world. With 94,000 consultants and professionals across the globe, CGI delivers an end-to-end portfolio of capabilities, from strategic IT and business consulting to systems integration, managed IT and business process services and intellectual property solutions. CGI works with clients through a local relationship model complemented by a global delivery network that helps clients digitally transform their organizations and accelerate results. CGI Fiscal 2024 reported revenue is CA$14.68 billion and CGI shares are listed on the TSX (GIB.A) and the NYSE (GIB). Learn more at cgi.com.  
+  
+Position: Senior Software Engineer  
+Experience: 8+ Years  
+Category: Software Development/ Engineering  
+Main location: India, Karnataka, Bangalore  
+Position ID: J1026-2852  
+Employment Type: Full Time  
+  
+Position Description: -  
+An embedded technology specialist working side by side with Trading & Supply teams to accelerate delivery of digital, automation and AI solutions. The role identifies high impact opportunities close to the business, translates business problems into scalable, production ready solutions, and bridges business demand with IT delivery, architecture and governance – improving decision making speed, reducing manual effort and strengthening quality and control.
+
+**Your future duties and responsibilities**
+
+Roles & Responsibilities:  
+
+* Solution delivery: Design, build and deliver digital, automation and AI solutions from idea to production – POCs, prototypes and production grade solutions aligned to the target architecture.
+* Right sized engineering: Apply low code, scripting, data engineering or AI based on problem complexity.
+* Business engagement: Work alongside traders, contract advisors and operations teams; observe workflows to spot inefficiencies, risks and automation potential.
+* Use case definition: Translate business problems into clearly defined digital/AI use cases with measurable value.
+* Stakeholder bridge: Connect business, engineers, architects, security and governance; communicate progress, value and risks clearly.
+* Governance & compliance: Support risk assessment and approvals; ensure solutions are secure, supportable and compliant with data, security, AI and regulatory policies.
+
+  
+Technical Requirements:  
+  
+Primary:  
+Python, SQL / SQL Server, Data Access & Data Analysis, Azure AI Engineering (Azure AI Foundry), Databricks (incl. Mosaic AI)  
+  
+Secondary Skills:
+  
+Power Automate, Power Apps, MS Copilot Studio, LangChain, LangGraph, GenAI workflows (assistive AI, document automation, agents)  
+  
+MUST HAVE:  
+
+* 8+ years of hands-on delivery of digital, automation or AI solutions from idea to production
+* Strong Python and SQL / SQL Server with data access and data analysis skills
+* Azure AI engineering and Databricks; hands on with GenAI / agentic tooling (AI Foundry, Copilot Studio, LangChain / LangGraph – depth in a subset)
+* Proven experience working directly with business teams in fast paced environments
+* Agile, iterative delivery; balances speed with security, risk and architectural discipline
+
+  
+NICE TO HAVE:  
+
+* Automation / AI delivery in operational, trading or contract heavy environments
+* Exposure to Trading & Supply, Commercial Operations or similar complex domains
+* Strong problem framing and value articulation; upskilling business users on digital tools
+* Experience in embedded, federated or hub and spoke capability models
+
+  
+Office:  
+
+* 2–3 days per week (Hybrid; embedded with Trading & Supply teams)
+
+  
+Certifications:  
+
+* Desirable, not mandatory: Cloud / Data / Automation / AI certifications; Agile (Scrum, SAFe, Kanban)
+
+**Required qualifications to be successful in this role**
+
+Education:  
+
+* Bachelor's or master’s in computer science, Engineering, Data, Information Systems or related field.
+
+**Together, as owners, let’s turn meaningful insights into action.**  
+  
+Life at CGI is rooted in ownership, teamwork, respect and belonging. Here, you’ll reach your full potential because…  
+  
+You are invited to be an owner from day 1 as we work together to bring our Dream to life. That’s why we call ourselves CGI Partners rather than employees. We benefit from our collective success and actively shape our company’s strategy and direction.  
+  
+Your work creates value. You’ll develop innovative solutions and build relationships with teammates and clients while accessing global capabilities to scale your ideas, embrace new opportunities, and benefit from expansive industry and technology expertise.  
+  
+You’ll shape your career by joining a company built to grow and last. You’ll be supported by leaders who care about your health and well-being and provide you with opportunities to deepen your skills and broaden your horizons.
+  
+  
+That same commitment to fairness extends to how we use technology. To support our recruitment team, AI tools may be used to help assess applications though they never replace human judgement. All hiring decisions remain entirely in the hands of our recruitment professionals.  
+  
+Come join our team—one of the largest IT and business consulting services firms in the world.

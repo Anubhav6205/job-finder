@@ -1,0 +1,49 @@
+**About us**
+------------
+
+Administrative work eats 15 to 25 percent of US healthcare spending. Much of it still runs through phone calls, faxes and payer portals that never had an API. Akomi builds digital staff that does this work the way a person would, inside the systems a practice already uses.
+
+Some of the tasks Akomi already takes on:
+
+* **The Front desk.** Akomi plugs into a practice's telephony system and handles incoming and outgoing phone calls. Akomi autonomously completes complex tasks around patient scheduling, medication refills and patient recalls without a human involved.
+* **Referrals.** Practices use Akomi to handle patient scheduling and documentation follow ups for incoming referrals. For outgoing, Akomi takes care of provider communication and referral authorizations with the payer.
+* **Benefits.** The day a visit is booked, Akomi checks eligibility and benefits with the payer. Coverage, copay and deductible go on the chart before the patient arrives.
+* **Prior Auths.** Akomi checks whether a procedure needs authorization and reads the chart against the payer's medical-necessity criteria. It submits through the payer's portal, fax or phone, follows up until the decision lands and appeals denials.
+
+More than 500 healthcare providers use Akomi. We are growing fast and have $5 million in seed funding.
+
+**The role**
+------------
+
+You'll work directly with Akomi's founders to build long horizon agents that handle complex workflows in a highly regulated environment.
+
+Our agents run over days, sometimes weeks. You'll build the systems that help them retain context, recover from failures, track progress, and ask for human input when needed. You'll own this work from idea generation to production.
+
+You'll speak directly with customers, understand where the product falls short, and use that feedback to decide what to build. As an early engineer, you'll also help set our technical direction and engineering standards.
+
+Hours are flexible, with at least 4 hours of overlap with US Eastern time (EST).
+
+**Responsibilities**
+--------------------
+
+* Build a world class product
+
+**What we look for**
+--------------------
+
+* Strong software engineering fundamentals. You can design, build, and debug complex systems.
+* Experience building and shipping LLM systems in production.
+* Curiosity and an eagerness to learn. You dig into unfamiliar problems and question your assumptions.
+* Strong technical judgment. You know when to move quickly and when to invest in a more robust solution.
+* Ownership. You can take an open-ended problem through to a working system and keep improving it.
+
+**Compensation**
+----------------
+
+₹1 cr to ₹1.2 cr plus equity.
+
+**Benefits**
+------------
+
+* Equity
+* Health insurance

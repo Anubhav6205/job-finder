@@ -1,0 +1,80 @@
+**Function**
+
+Engineering
+
+**Our Company**
+===============
+
+We’re Hitachi Vantara, the data foundation trusted by the world’s innovators. Our resilient, high-performance data infrastructure means that customers – from banks to theme parks – can focus on achieving the incredible with data.
+
+If you’ve seen the Las Vegas Sphere, you’ve seen just one example of how we empower businesses to automate, optimize, innovate – and wow their customers. Right now, we’re laying the foundation for our next wave of growth. We’re looking for people who love being part of a diverse, global team – and who get excited about making a real-world impact with data.
+
+**Job description**
+===================
+
+**About the Role**
+
+We are looking for an experienced **QA Engineer / SDET** to join the team that focusses on building robust test automation and validating the **functionality, reliability, scalability, and performance of a large-scale distributed file-storage platform** .
+
+  
+
+**Key Responsibilities**
+
+* Design and develop **end-to-end automation frameworks** for distributed storage and file-system functionality.
+* Automate functional, integration, and end-to-end qualification for **storage protocols, REST APIs and CLI workflows.**
+* Develop automated workloads using tools such as **FIO, VDBench, MLPerf and IO500** .
+
+* Implement **chaos and fault-injection testing** to validate high availability, node failovers, and disaster recovery
+* Integrate automated test suites into **CI/CD pipelines (Jenkins)** for continuous qualification gates
+* Diagnose system failures, triage logs and core dumps, and collaborate with development teams to reproduce and resolve defects
+* Collaborate using Agile tools such as **Jira, GitHub, and Confluence**
+* Leverage **AI-based developer and testing tools** to improve test coverage, script generation, and defect analysis.
+
+  
+
+**Required Skills & Experience**
+
+* **5+ years** of experience in software test automation or SDET roles for distributed systems, cloud infrastructure, or storage platforms
+* Strong programming skills in **Python** (specifically writing modular test harnesses with pytest) and **Bash** scripting
+* Experience developing scalable **test automation frameworks** , not just automated testcases.
+* Hands-on experience with **NFS/NFS-Ganesha** ; pNFS knowledge is a plus.
+* Experience with storage/performance tools such as **FIO, VDBench, IO500, tcpdump/Wireshark, or eBPF** .
+* Experience with **Git, Jenkins/GitHub Actions, REST APIs, Containerization concepts and Kubernetes** .
+* Solid understanding of **distributed systems concepts** , high availability, and fault tolerance
+* Familiarity with storage concepts and protocols such as **NFS, SMB, S3, or POSIX file systems**
+* Strong **Linux operating system** administration, troubleshooting, and network debugging skills (tcpdump, routing, logs)
+* Hands-on experience integrating test automation into **Jenkins or similar CI/CD systems**
+
+  
+
+**Nice to Have**
+
+* Exposure to **NVMe/NVMe-oF, SPDK, RocksDB, WAL/transaction processing, or distributed storage systems**
+* Familiarity with performance benchmarking tools ( **fio** ) and telemetry systems ( **Prometheus/Grafana** ).
+
+  
+
+**Education**
+
+* **BE/BTech or ME/MTech in Computer Science, Engineering, or related field**
+
+#LI-PN1
+
+**About us**
+============
+
+We’re a global team of innovators. Together, we harness engineering excellence and passion for insight to co-create meaningful solutions to complex challenges. We turn organizations into data-driven leaders that can a make positive impact on their industries and society. If you believe that innovation can inspire the future, this is the place to fulfil your purpose and achieve your potential.
+
+**Fostering innovation through diverse perspectives**
+=====================================================
+
+Hitachi is a global company operating across a wide range of industries and regions. One of the things that sets Hitachi apart is the diversity of our business and people, which drives our innovation and growth.
+
+We are committed to building an inclusive culture based on mutual respect and merit-based systems. We believe that when people feel valued, heard, and safe to express themselves, they do their best work.
+
+**How we look after you**
+=========================
+
+We help take care of your today and tomorrow with industry-leading benefits, support, and services that look after your holistic health and wellbeing. We’re also champions of life balance and offer flexible arrangements that work for you (role and location dependent). We’re always looking for new ways of working that bring out our best, which leads to unexpected ideas. So here, you’ll experience a sense of belonging, and discover autonomy, freedom, and ownership as you work alongside talented people you enjoy sharing knowledge with.
+
+We’re proud to say we’re an equal opportunity employer and welcome all applicants for employment without attention to race, colour, religion, sex, sexual orientation, gender identity, national origin, veteran, age, disability status or any other protected characteristic. Should you need reasonable accommodations during the recruitment process, please let us know so that we can do our best to set you up for success.

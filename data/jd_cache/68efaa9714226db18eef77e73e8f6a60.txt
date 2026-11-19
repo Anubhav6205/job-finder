@@ -1,0 +1,41 @@
+**Hiring for BRAHMA AI**
+— via Flexiple, the recruiting partner on this role.
+
+**About the Company**
+
+BRAHMA AI is an enterprise AI content creation platform. Its products help media, sports and enterprise brands create, edit and distribute video and multimodal content at scale using generative AI. The team is growing its AI engineering group in Bengaluru to build the agentic systems behind its next generation of content workflows.
+
+**About the Role**
+
+You'll design, build and scale AI agents and GenAI applications in production: agentic systems powered by LLMs, retrieval-augmented generation and multimodal models that turn text, images and video into finished content. You'll take recent research and make it into reliable, observable production systems.
+
+**What you'll do**
+
+* Architect and deploy agentic AI systems with frameworks such as LangGraph, LangChain, CrewAI, Autogen, Semantic Kernel or Google ADK
+* Design RAG pipelines on vector databases such as OpenSearch, Pinecone, FAISS or Weaviate
+* Build modular agent architectures for reasoning and tool orchestration
+* Integrate and fine-tune foundation models (GPT, Claude, Gemini, Llama, Mistral) for domain tasks
+* Build multimodal generation workflows: text to image, image to video, text to video and text to speech
+* Set up observability, performance tracking and continuous evaluation of models and agents
+* Work with platform, data and product teams to ship and run these systems reliably
+
+**What you bring**
+
+* 3+ years in AI/ML engineering, with hands-on work on LLMs or generative AI
+* Have shipped an ML, computer vision or LLM feature that runs in a real product
+* Strong Python, plus experience with microservices or API-based systems
+* Hands-on experience with LLMs, vector search and RAG architectures
+* A good grasp of prompt engineering, model evaluation and context optimisation
+* Experience with AWS, Azure or GCP and containerised deployments
+* Exposure to fine-tuning, LoRA or custom embeddings
+
+**Nice to have**
+
+* Experience with video, sports or media AI products (highlights, clipping, video analytics)
+* Multimodal AI across text, image, audio and video
+* Built or contributed to agent SDKs or AI developer platforms
+* Optimising inference latency and cost for production models
+* Familiarity with hallucination control and AI safety practices
+
+**Originally posted on:**
+21 Oct 2026

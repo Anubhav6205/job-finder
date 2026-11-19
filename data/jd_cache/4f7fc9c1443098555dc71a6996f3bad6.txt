@@ -1,0 +1,43 @@
+**JOB DESCRIPTION**  
+  
+  
+
+Assume a critical role in defining the future of a globally recognized firm and have a direct and significant effect in a realm tailored for top achievers
+
+As a Lead Software Engineer at JPMorgan Chase within the Commercial & Investment Bank, Markets, you will handle significant volumes of trades and settlements—potentially more than 20 million per day—so performance, resiliency, data integrity, security, and operational excellence are essential. You will help build and support high-throughput transaction-processing applications in Post Trade Technology. You will take end-to-end ownership of technical outcomes, independently derive solutions from business and technology needs, and contribute across the full software development lifecycle. You'll work with product owners, business stakeholders, architects, engineers, and production management to evolve a business-critical application hosted on AWS, while building expertise in trades, settlements, and positions.
+
+**Job Responsibilities**
+
+* Designs, develops, tests, and maintains secure, scalable backend services and API microservices, primarily using Java 21 and modern engineering practices.
+* Builds and supports integrations across messaging layers and upstream and downstream systems, ensuring reliable processing and consistent data.
+* Develop sufficient, maintainable database interactions, including SQL and stored procedures where appropriate, and contribute to reports and feeds delivered to downstream platforms.
+* Refines requirements and translate them into technical designs, implementation plans, and testable outcomes that account for business priorities and regulatory needs.
+* Participates in the full SDLC, including technical design, development, code review, automated testing, deployment, and production support.
+* Improves performance, resiliency, security, observability, and data integrity across the application; identify recurring issues and deliver durable fixes or automation.
+* Takes ownership of production issues through diagnosis, coordination, and recovery, working in partnership with production management and other teams.
+* Participates in a rotating on-call support model to help restore service quickly and strengthen operational readiness.
+* Communicates technical decisions and trade-offs clearly, collaborate across stakeholders, and share engineering knowledge while fostering an inclusive team culture.
+* Uses enterprise-authorized AI capabilities within the work environment to accelerate major-incident triage, troubleshooting, and post-incident analysis, validating outputs and handling operational data according to sensitivity and security requirements.
+* Leads reuse-first adoption of AI-assisted reliability workflows across SDLC/toolchain practices (e.g., CI/CD quality checks, test/validation automation, and operational readiness), ensuring traceability/auditability, resiliency, and security controls.
+
+**Required qualifications,** **capabilities, and skills**
+
+* Formal training or certification on Software Engineering concepts and 10+ years applied experience
+* Approximately 9+ years of applied software engineering experience, supported by relevant education, training, or equivalent practical experience.
+* Strong hands-on experience in system design, Java application development, springboot, testing, deployment, and production operations. Advanced Java proficiency; Java 21 experience
+* Experience building and operating applications on public cloud, AWS, and familiarity with cloud-native engineering practices.
+* Practical knowledge of APIs, messaging, relational databases, SQL, and integration patterns.
+* Proficiency with automated testing, CI/CD, source control, and delivery automation.
+* Strong understanding of application security, resilient system design, agile delivery, and the software development lifecycle.
+* Ability to analyze complex problems independently, prioritize effectively, and deliver reliable outcomes in a changing environment.
+* Clear communication skills and the ability to collaborate with technical teams, business stakeholders, and production management.
+* Demonstrated experience using enterprise-authorized AI capabilities within the work environment to improve workflows with strong validation habits and awareness of data sensitivity.
+* Ability to evaluate AI-assisted operational recommendations for correctness and risk, define appropriate guardrails for team usage, and ensure outcomes align to resiliency and security expectations.
+
+**Preferred qualifications,** **capabilities, and skills**
+
+* Experience in financial services, post-trade processing, or other high-volume transaction systems.
+* Familiarity with trades, settlements, positions, and downstream reporting or data feeds.
+* Experience supporting business-critical production applications, including incident response and service recovery.
+
+**ABOUT US**

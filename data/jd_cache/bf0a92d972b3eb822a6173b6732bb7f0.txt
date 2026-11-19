@@ -1,0 +1,82 @@
+Date live: 11/18/2026
+
+Business Area: Customer Digital and Data
+
+Area of Expertise: Technology
+
+Contract: Permanent
+
+Reference Code: JR-0000131045
+
+  
+
+**To be successful as a Java Developer, you should have experience with:**
+
+* This is a hands-on Software Engineer role responsible for designing, developing and testing features across UI, mobile and API-based applications.
+* The role will work with developers, product colleagues and other engineering teams to understand requirements, design maintainable solutions, review code, investigate defects and support reliable software releases.
+* A typical day may include Java coding, developing Spring Boot services and REST APIs, reviewing designs and code, creating and executing automated tests, analysing failures, supporting CI/CD execution and contributing to engineering and release-readiness discussions.
+* The role is not directly customer-facing, but it supports the performance, reliability, security and usability of customer-facing digital services.
+* Working across varied applications, technologies and delivery teams; building secure, maintainable and testable software; diagnosing complex application, API and environment-related failures; applying multithreading and asynchronous programming safely; implementing effective observability; learning new tools quickly; and balancing hands-on technical delivery with stakeholder communication, risk management and release deadlines.
+* The role offers opportunities to modernise Java services, strengthen API and engineering standards, improve automated test coverage and CI/CD quality gates, enhance observability and performance, and apply AI-assisted engineering practices.
+* The successful colleague will use Claude or an equivalent enterprise-approved AI tool to support tasks such as solution design, code generation and review, test design and automation, failure analysis, documentation and productivity improvement, while following Barclays security, privacy and responsible-AI controls.
+  
+
+  
+
+**Mandatory skills include:**
+
+* Strong hands-on Core Java engineering skills, with a sound understanding of object-oriented programming principles, collections, exception handling and modern Java development practices.
+* Practical experience with Spring and Spring Boot, including inversion of control, dependency injection, transactions, Spring Data JPA and Spring MVC.
+* Experience designing, developing and consuming RESTful APIs, with an understanding of API architecture, contracts, versioning, error handling, security and API gateway patterns.
+* Experience with Gradle or Maven for dependency management, build automation and integration with delivery pipelines.
+* Practical experience with testing frameworks and tools such as Mockito, EasyMock, Pact and Karate, including unit, component, contract and API testing.
+* Hands-on experience with multithreading and concurrent programming, including ExecutorService, CompletableFuture and thread-safety techniques.
+* Experience implementing application observability using tools such as the ELK Stack, Splunk or AppDynamics, including logging, monitoring, tracing and production-failure analysis.
+* Working knowledge of SQL and relational database concepts.
+* Experience integrating build, test and deployment activities with CI/CD pipelines and source-control workflows using Jenkins or GitLab.
+  
+
+  
+
+**Preferred skills include:**
+
+* Exposure to React Native, React 18, TypeScript or JavaScript, Redux and mobile UI/UX engineering.
+* Exposure to performance tuning and cloud services on AWS or Microsoft Azure.
+* Experience with automated UI and mobile testing using tools such as Jest, Appium or Detox.
+* Practical experience using Claude or an equivalent enterprise-approved AI assistant for software engineering tasks, alongside clear communication, problem solving and stakeholder collaboration.
+* You may be assessed on key critical skills relevant for success in the role, such as risk and controls, change and transformation, business acumen, strategic thinking, and digital and technology, as well as job-specific technical skills.
+  
+
+  
+
+The role is based out of Pune.
+
+**Purpose of the role**
+
+To design, develop and improve software, utilising various engineering methodologies, that provides business, platform, and technology capabilities for our customers and colleagues.
+
+**Accountabilities**
+
+* Development and delivery of high-quality software solutions by using industry aligned programming languages, frameworks, and tools. Ensuring that code is scalable, maintainable, and optimized for performance.
+* Cross-functional collaboration with product managers, designers, and other engineers to define software requirements, devise solution strategies, and ensure seamless integration and alignment with business objectives.
+* Collaboration with peers, participate in code reviews, and promote a culture of code quality and knowledge sharing.
+* Stay informed of industry technology trends and innovations and actively contribute to the organization’s technology communities to foster a culture of technical excellence and growth.
+* Adherence to secure coding practices to mitigate vulnerabilities, protect sensitive data, and ensure secure software solutions.
+* Implementation of effective unit testing practices to ensure proper code design, readability, and reliability.
+
+**Assistant Vice President Expectations**
+
+* To advise and influence decision making, contribute to policy development and take responsibility for operational effectiveness. Collaborate closely with other functions/ business divisions.
+* Lead a team performing complex tasks, using well developed professional knowledge and skills to deliver on work that impacts the whole business function. Set objectives and coach employees in pursuit of those objectives, appraisal of performance relative to objectives and determination of reward outcomes
+* If the position has leadership responsibilities, People Leaders are expected to demonstrate a clear set of leadership behaviours to create an environment for colleagues to thrive and deliver to a consistently excellent standard. The four LEAD behaviours are: L – Listen and be authentic, E – Energise and inspire, A – Align across the enterprise, D – Develop others.
+* OR for an individual contributor, they will lead collaborative assignments and guide team members through structured assignments, identify the need for the inclusion of other areas of specialisation to complete assignments. They will identify new directions for assignments and/ or projects, identifying a combination of cross functional methodologies or practices to meet required outcomes.
+* Consult on complex issues; providing advice to People Leaders to support the resolution of escalated issues.
+* Identify ways to mitigate risk and developing new policies/procedures in support of the control and governance agenda.
+* Take ownership for managing risk and strengthening controls in relation to the work done.
+* Perform work that is closely related to that of other areas, which requires understanding of how areas coordinate and contribute to the achievement of the objectives of the organisation sub-function.
+* Collaborate with other areas of work, for business aligned support areas to keep up to speed with business activity and the business strategy.
+* Engage in complex analysis of data from multiple sources of information, internal and external sources such as procedures and practises (in other areas, teams, companies, etc).to solve problems creatively and effectively.
+* Communicate complex information. 'Complex' information could include sensitive information or information that is difficult to communicate because of its content or its audience.
+* Influence or convince stakeholders to achieve outcomes.
+
+All colleagues will be expected to demonstrate the Barclays Values of Respect, Integrity, Service, Excellence and Stewardship – our moral compass, helping us do what we believe is right. They will also be expected to demonstrate the Barclays Mindset – to Empower, Challenge and Drive – the operating manual for how we behave.

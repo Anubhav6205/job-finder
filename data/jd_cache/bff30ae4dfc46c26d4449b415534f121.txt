@@ -1,0 +1,33 @@
+In most instances, this position requires in-person interviews as part of the hiring process.  
+
+### **Minimum qualifications:**
+
+* Bachelor's degree in Computer Science, Mathematics, a related field, or equivalent practical experience.
+* Experience with coding in Python.
+* 1 year of experience with Gen AI agents and machine learning.
+* 1 year of experience in data analytics and data warehousing.
+
+  
+
+### **Preferred qualifications:**
+
+* 2 years of experience designing data pipelines (ETL) and dimensional data modeling for synch and async system integration and implementation using internal (e.g., Flume, etc.) and external stacks (e.g., DataFlow, Spark, etc.).
+* 2 years of experience analyzing data, database querying (e.g., SQL), and creating dashboards/reports.
+* Working experience with Geo-Spatial data, generative AI models (e.g., Gemini.), Retrieval Augmented Generation (RAG) techniques, AI/ML libraries (e.g., TensorFlow, PyTorch, Sklearn) and understanding of AI/ML principles, including deep learning, natural language processing.
+
+**About the job**
+-----------------
+
+The Google Cloud Consulting Professional Services team guides customers through the moments that matter most in their cloud journey to help businesses thrive. We help customers transform and evolve their business through the use of Google’s global network, web-scale data centers, and software infrastructure. As part of an innovative team in this rapidly growing business, you will help shape the future of businesses of all sizes and use technology to connect with customers, employees, and partners.  
+  
+As a Data Engineer, you will guide customers on how to ingest, store, process, analyze, explore, and visualize data on Google Cloud Platform. You will lead data migrations and transformations, partner with clients to architect scalable data processing systems, build efficient data pipelines, and resolve platform challenges. In this role, you'll collaborate with Google's strategic cloud customers and our team to successfully implement Google Cloud products.
+
+**Responsibilities**
+--------------------
+
+* Contribute to the design, and independently develop, test, and maintain scalable and reliable data pipelines for acquiring and processing petabyte-scale satellite and aerial imagery. Analyze existing overhead imagery operational workflows to identify bottlenecks and opportunities for automation and efficiency improvements.
+* Define requirements for develop, and deploy tooling solutions, potentially leveraging Generative AI (GenAI), to enhance data quality checks and automate manual tasks in collaboration with Engineering and Operations teams. Implement, monitor, and refine robust data quality checks and validation systems to ensure the accuracy, completeness, and integrity of imagery data.
+* Identify and implement optimizations within the data infrastructure to enhance performance, cost-efficiency, and scalability.
+* Develop and maintain dashboards and reports to provide actionable insights into data quality, pipeline status, and key operational metrics for the Overhead Imagery Operations and partner teams.
+
+Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also Google's EEO Policy and EEO is the Law. If you have a disability or special need that requires accommodation, please let us know by completing our Accommodations for Applicants form.

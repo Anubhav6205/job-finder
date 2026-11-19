@@ -1,0 +1,31 @@
+Applied AI Engineer - Operations & Middle Office
+
+**About Millennium**  
+Millennium is a global, diversified alternative investment firm, founded in 1989. Defined by evolution, innovation and focus, Millennium’s mission is to deliver results for our investors.
+
+Our people are empowered with both independence and support: the autonomy to pursue ideas with conviction and the backing of a global network committed to collaboration, disciplined risk management and continuous learning. With opportunities to deepen expertise and accelerate development, talent at Millennium is equipped to adapt, evolve and build lasting impact over time. Discover how transformative growth accelerates impact.
+
+**Meet the Team**  
+Operations and Middle Office works across departments and regions to improve processes, strengthen controls and data quality, and reduce manual work. The team partners with senior management, the Enterprise AI team, internal resources and external counterparties to drive continuous improvement.
+
+**What You'll Do**  
+
+* Partner with Operations, Middle Office, Finance and Risk Operations teams to map workflows, identify opportunities for AI, and prioritize use cases by value, feasibility and risk.
+* Lead multiple projects end to end, from discovery and rapid prototyping through development, deployment, user adoption and impact measurement.
+* Present business cases, proposals, roadmaps and results to stakeholders and senior management, building support and setting clear expectations for scope, timelines and outcomes.
+* Design and build agentic AI workflows and tools using large language models, machine learning models and multistep agents to automate operational tasks, flag anomalies and identify risks early.
+* Build Python applications, intuitive user interfaces and reliable data pipelines using SQL, Python, databases and REST APIs.
+* Partner with the Enterprise AI team to align on platforms, tooling, standards and governance, reuse firmwide capabilities and contribute business requirements to the enterprise AI roadmap.
+* Ensure solutions are production-ready, with appropriate controls, auditability and human oversight; implement and maintain CI/CD pipelines for reliable deployment.
+* Advise business teams on AI adoption and best practices, and coordinate with global internal teams and external parties on projects, regulatory reports and control frameworks.
+
+**What You Bring**  
+
+* At least 7 years of experience in data science, machine learning or automation, with strong hands-on engineering skills and a track record of delivering AI solutions into live use alongside business users.
+* Experience building with generative AI, including LLM APIs, retrieval-augmented generation, agent frameworks and tool orchestration, and a practical understanding of their strengths, limitations and risks in a regulated environment.
+* Advanced Python and SQL skills, including pandas and NumPy, with experience in API development and databases. KDB experience is a plus.
+* Experience with HTML, CSS, JavaScript and a modern front-end framework such as React or Angular.
+* Strong knowledge of financial instruments, securities and derivatives, with experience in financial services, fintech or similar environments. Exposure to market risk concepts, sensitivities and the trade lifecycle is a significant plus.
+* A track record of identifying, scoping and delivering automation or AI initiatives from initial concept through production and adoption.
+* Ability to turn ambiguous business needs into well-scoped, prioritized solutions, supported by strong project management skills.
+* Strong communication and interpersonal skills, with the ability to influence decision-makers and explain technical concepts to nontechnical audiences. An entrepreneurial, self-starting approach and the ability to work with urgency under pressure and meet tight deadlines.

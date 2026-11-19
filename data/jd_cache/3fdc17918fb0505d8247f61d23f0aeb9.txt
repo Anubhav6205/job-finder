@@ -1,0 +1,14 @@
+**Roles and Responsibilities**
+
+* Design, develop, and deploy NLP models using Python and LLM libraries such as Hugging Face Transformers.
+* Collaborate with cross-functional teams to integrate AI solutions into existing systems.
+* Develop and maintain large-scale machine learning pipelines using tools like Langchain and Langgraph.
+* Ensure high-quality data processing through natural language understanding (NLU) techniques.
+* Participate in code reviews to ensure adherence to coding standards.
+
+**Desired Candidate Profile**
+
+* 4-7 years of experience in Artificial Intelligence Engineering with expertise in Generative AI, Machine Learning, Natural Language Processing, or related fields.
+* Bachelor's degree in Any Specialization (B.Tech / B.E.).
+* Master's degree in Any Specialization (M.Tech).
+* Strong proficiency in programming languages such as Python; knowledge of other languages is a plus.

@@ -1,0 +1,13 @@
+**Requirements**  
+
+* 5 to 8 Years of professional experience in in DevOps, MLOps, or systems engineering environment.
+* Bachelor's degree in Computer Science, Engineering, Information Technology, or a closely related technical field. Trimble's Professional ladder typically requires four or more years of formal education.
+* Expertise in working with Microsoft Azure and its services including ML/AI (Azure ML, Azure DevOps, etc.) - Must Have
+* Highly proficient in Python or other scripting languages (Shell / Bash / PowerShell / Perl) for automation scripting and system integration (Must have)
+* Strong experience of containerization technologies (Docker) and orchestration concepts (Kubernetes).
+* Strong experience of DevOps principles and practices, with understanding of CI/CD concepts and system administration.
+* Strong experience with CI/CD tools such as Jenkins, GitHub Actions, or ArgoCD.
+* Experience with monitoring and observability tools (Prometheus, Grafana, Datadog, New Relic).
+* Hands-on with version control systems (Git) and collaborative development workflows.
+* Experience with data engineering concepts and technologies (SQL, NoSQL, ETL pipelines).
+* Experience with MLOps tools and frameworks (Kubeflow, MLflow, Weights & Biases, or similar).

@@ -1,0 +1,48 @@
+**India T Special Bonus:**  
+Senior Data Engineer — Azure, Databricks dbt
+  
+  
+Position Overview
+  
+  
+We are looking for a Senior Data Engineer with experience designing, developing and optimizing data solutions on Azure and Databricks. The successful candidate will build data ingestion and transformation pipelines, modernize data platforms, and implement data quality and governance controls.
+  
+  
+Responsibilities
+  
+
+* Design, develop and maintain end-to-end ETL/ELT pipelines using Azure Data Factory, Databricks and dbt.
+* Integrate data from databases, APIs, files, SharePoint and other enterprise sources.
+* Develop scalable transformations using PySpark, Spark SQL and Python.
+* Create and maintain Delta Lake data models, including incremental tables and slowly changing dimensions.
+* Develop reusable dbt models using macros, Jinja templates, tests and snapshots.
+* Migrate processes and business logic from legacy platforms to Azure and Databricks.
+* Implement data quality controls, automated validation and pipeline monitoring.
+* Optimize Spark jobs, queries and storage to address bottlenecks and reduce costs.
+* Contribute to data governance and security, including the use of Unity Catalog.
+* Support deployment automation and version control using Git and Azure DevOps.
+* Collaborate with business, analytics and engineering teams to translate requirements into reliable data solutions.
+
+Requirements
+  
+
+* At least 5 years of experience in data engineering or data solution development.
+* Hands-on experience with Azure Databricks, Apache Spark and PySpark.
+* Strong SQL and Python skills for data transformation and validation.
+* Experience developing data pipelines with Azure Data Factory and Azure Data Lake Storage Gen2.
+* Experience with dbt, including incremental models, macros and tests.
+* Knowledge of Delta Lake, data modeling and ETL/ELT processes.
+* Experience optimizing data pipelines and troubleshooting issues.
+* Experience with Git and continuous integration and deployment tools.
+* Ability to work with cross-functional teams and communicate technical decisions.
+
+Preferred Qualifications
+  
+
+* Experience with Azure Synapse, Snowflake or Airflow.
+* Knowledge of AWS Glue, EMR and S3.
+* Experience with Great Expectations or other data quality tools.
+* Experience migrating workloads from SAS, Denodo, DataStage, Ab Initio or other legacy platforms.
+* Experience in regulated industries, particularly healthcare or insurance.
+* Experience with AI agent solutions, LangChain or LangGraph applied to data workflows.
+* Certifications related to Databricks, Azure or data engineering.

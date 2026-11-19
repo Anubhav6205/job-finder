@@ -1,0 +1,18 @@
+**Role & responsibilities**
+
+* Build strong functional knowledge of the Icertis platform and develop expertise in Icertis Contract Lifecycle Management (CLM) system configuration, testing, and troubleshooting.
+* Configure and deploy solutions with a focus on quality, accuracy, and timely delivery.
+* Collaborate with customers, consultants, Engineering, Quality Assurance, Support and other groups within the organization and beyond throughout the implementation lifecycle.
+* Participate in requirements gathering and translate business needs into clear functional and system configuration elements.
+* Use approved AI-enabled applications and automation tools to accelerate analysis, documentation, configuration, testing, and knowledge discovery.
+* Validate AI-generated outputs and apply sound judgement to ensure accuracy, security, and responsible use.
+
+  
+
+**Preferred candidate profile**
+
+* Genuine curiosity about enterprise technology, AI, automation, and business processes.
+* Strong analytical and structured problem-solving skills. Demonstrated grit, ownership, and willingness to work through ambiguity and unfamiliar problems.
+* Ability to learn quickly and deliver against defined timelines.
+* Collaborative mindset and willingness to seek feedback, share knowledge, and support team outcomes.
+* Familiarity with generative AI tools, productivity copilots, data analysis, automation, or no/low-code applications is desirable.

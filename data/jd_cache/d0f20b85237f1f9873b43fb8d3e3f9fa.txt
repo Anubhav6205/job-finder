@@ -1,0 +1,101 @@
+**Requirements**
+
+Primary Responsibilities
+
+These roles will help standup and implement the GRC program under the Information Security GRC Director.
+
+Enterprise Compliance Transformation
+
+* Lead enterprise control framework modernization.
+* Develop compliance methodologies and operational standards.
+* Drive compliance process optimization initiatives.
+* Configure Optro Cross Comply and Accelerate for compliance processes.
+
+Compliance Framework Architecture
+
+* Lead design and optimization of the Unified Control Framework.
+* Lead enterprise framework harmonization.
+* Establish enterprise compliance methodologies.
+* Lead control rationalization initiatives.
+* Evaluate emerging global regulations.
+* Determine enterprise impacts of new compliance requirements.
+
+AI Regulatory Compliance & AI Governance
+
+* Lead implementation of enterprise AI compliance capabilities.
+* Establish enterprise methodology for integrating AI regulatory requirements into the Unified Control Framework.
+* Lead compliance alignment activities across:
+
++ NIST AI RMF
++ ISO/IEC 42001
++ EU AI Act
++ FDA AI/ML Expectations
++ Responsible AI Governance Standards
++ Emerging Global AI Regulatory Requirements
+
+* Lead AI readiness assessments.
+* Evaluate AI governance maturity.
+* Define AI compliance monitoring approaches.
+* Lead customer and regulator AI governance responses.
+* Partner with Legal, Privacy, Product Security, Data Governance, AI Governance, Engineering, and Risk Management teams.
+
+Enterprise Regulatory Readiness
+
+Lead enterprise readiness efforts for:
+
+* NIST CSF
+* ISO/IEC 27001
+* HIPAA
+* SOX ITGC
+* NIS2
+* BSI C5
+* ENS
+* ACN
+* GDPR
+* AI RMF
+* ISO 42001
+* EU AI Act
+
+Information Security Risk Management
+
+* Configure Optro IT & Cyber Risk Management, RiskOversight, and Scenario Planning.
+* Develops, implements, administers, and continuously improves information security risk management processes, procedures, standards, and governance activities supporting the Information Security Risk Management Program.
+* Executes enterprise cybersecurity, technology, data, and artificial intelligence risk management activities in accordance with methodologies, governance standards, and program objectives.
+* Maintains and administers cybersecurity, technology, information, data, and artificial intelligence risk assessment methodologies, risk taxonomies, scoring models, and supporting program documentation.
+* Leads and facilitates risk assessments across cybersecurity, information technology, enterprise applications, cloud services, infrastructure, digital platforms, data environments, artificial intelligence initiatives, and other technology-enabled business processes to identify, evaluate, prioritize, and mitigate security threats and risks impacting organizational assets.
+* Maintains the enterprise information security risk register, ensuring risks are appropriately identified, assessed, documented, prioritized, assigned, monitored, escalated, and reported throughout their lifecycle.
+* Coordinates with risk owners to document mitigation plans, treatment activities, residual risk decisions, target completion dates, and status updates.
+* Partners with business leaders, technology teams, security stakeholders, and risk owners to evaluate risk exposure and recommend treatment strategies, including mitigation, transfer, acceptance, and avoidance options.
+* Provides independent challenge and oversight of risk assessments, treatment plans, and risk acceptance recommendations to ensure alignment with established methodologies, governance expectations, and organizational risk appetite.
+* Assesses security threats and risks throughout the lifecycle of technology, cloud, data, artificial intelligence, and business initiatives and supports development of risk mitigation strategies.
+* Evaluates security control effectiveness, governance processes, and risk treatment activities to identify opportunities for enhanced protection of organizational assets and reduction of enterprise risk exposure.
+
+Information Assurance & Security Governance
+
+* Supports identification, analysis, and validation of security requirements during technology implementations, digital transformation initiatives, emerging technology deployments, and significant business changes.
+* Assesses cybersecurity and technology-related regulatory compliance requirements and supports integration of information security and risk management practices into organizational processes.
+* Supports development and continuous improvement of enterprise information security risk management standards, methodologies, governance processes, and operational plans that influence cybersecurity strategy and program maturity.
+* Supports information assurance activities designed to improve the protection, resilience, and governance of enterprise information assets.
+* Evaluates governance processes and security requirements to support secure adoption of new technologies, digital capabilities, and emerging business initiatives.
+
+Risk Metrics, Reporting & Program Administration
+
+* Develops, maintains, and monitors key risk indicators (KRIs), key performance indicators (KPIs), risk metrics, dashboards, and reporting artifacts used to support risk monitoring, governance activities, and program effectiveness measurement.
+* Develops, maintains, and enhances risk reporting data, metrics, dashboards, and supporting documentation used to support governance activities, operational decision-making, and program maturity measurement.
+* Supports implementation, optimization, and ongoing administration of Governance, Risk & Compliance (GRC) platforms used to manage risk workflows, risk registers, reporting, metrics, and issue tracking.
+* Maintains risk management procedures, standards, templates, workflows, and supporting documentation to ensure consistency and repeatability of program activities.
+* Provides risk reporting and analysis to support governance processes, leadership decision-making, and continuous improvement initiatives.
+
+Cyber, Data & Artificial Intelligence Risk Management
+
+* Assesses risks associated with information protection, data classification, access management, data governance, data retention, data sharing, data residency, integrity, availability, and protection of sensitive information.
+* Evaluates emerging technology and artificial intelligence risks, including governance, data protection, third-party dependencies, model integrity, transparency, explainability, human oversight, bias, and responsible-use considerations.
+* Develops and maintains governance processes supporting artificial intelligence risk management activities and advises stakeholders on alignment with applicable AI governance frameworks, standards, and regulatory expectations.
+* Supports integration of AI risk management practices into enterprise governance, risk, compliance, and security processes.
+* Analyzes risk events, incidents, audit findings, assessments, threat intelligence, control deficiencies, and industry trends to identify risk themes, emerging concerns, and opportunities for continuous improvement.
+
+Mentorship & Technical Leadership
+
+* Mentor internal Risk and Compliance Leads.
+
+Serve as senior technical advisor to the InfoSec GRC Director

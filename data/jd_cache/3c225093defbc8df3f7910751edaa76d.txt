@@ -1,0 +1,45 @@
+**Your Job**
+
+Molex is looking for a QA Engineer to join our Global Operational Excellence team in Bengaluru on a fixed-term contract. You will use Playwright with TypeScript and AI-assisted tools to automate testing and repetitive tasks. You will also automate KPI calculations that pull data from multiple enterprise systems and feed business dashboards. This role helps shape how our team uses automation and AI, and it could lead to a full-time position.
+
+**Our Team**
+
+The Global Operational Excellence team supports enterprise projects for stakeholders around the world. Our developers are in China, our business owners are in the US and our subject matter experts are in Germany. We have flexible working hours that change with global meeting schedules, which sometimes include early morning or evening calls.
+
+**What You Will Do**
+
+* Build and maintain Playwright automation frameworks in TypeScript to test UI, functional and regression scenarios across complex enterprise applications
+* Automate repetitive work and KPI calculations across multiple data sources so the team spends less time on manual effort
+* Use AI tools such as GitHub Copilot and Claude to speed up test creation and script writing, and review all AI-generated output for accuracy
+* Create reusable Page Object Model and component-based libraries that let automation scale across applications
+* Integrate automation suites into CI/CD pipelines so tests run continuously during each sprint
+* Work with developers, testers and business teams in different time zones to find opportunities for automation
+* Investigate automation failures to separate unstable tests from real defects, and keep the test suites reliable
+
+**Who You Are (Basic Qualifications)**
+
+* Experience building and maintaining Playwright automation frameworks in TypeScript or JavaScript
+* Experience designing Page Object Model or component-based automation architectures
+* Experience integrating automation suites into CI/CD pipelines (Jenkins, Azure DevOps, GitHub Actions or equivalent)
+* Hands-on experience using GenAI/AI tools (GitHub Copilot, ChatGPT, Claude or similar) for test case generation and automation script writing, including prompt and context engineering
+* Experience with Git version control, including branching and pull request reviews for automation code
+* Experience testing complex enterprise web applications
+* Experience with Agile/Scrum delivery and test management tools (Jira, Xray or equivalent)
+* Experience finding the root causes of automation failures through debugging and analysis
+
+**What Will Put You Ahead**
+
+* Experience in manufacturing/MES, ERP, CRM or similar domains
+* Experience with API test automation (Playwright API Request or Postman)
+* Exposure to visual regression or accessibility testing tools
+* Experience building automation frameworks from scratch (greenfield) and maturing or extending existing ones (brownfield migrations)
+* Experience working independently with distributed offshore or remote teams across time zones
+* ISTQB or an equivalent QA certification
+
+At Koch companies, we are entrepreneurs. This means we openly challenge the status quo, find new ways to create value and get rewarded for our individual contributions. Any compensation range provided for a role is an estimate determined by available market data. The actual amount may be higher or lower than the range provided considering each candidate's knowledge, skills, abilities, and geographic location. If you have questions, please speak to your recruiter about the flexibility and detail of our compensation philosophy.
+
+**Who We Are**
+
+At Koch, employees are empowered to do what they do best to make life better. Learn how our business philosophy helps employees unleash their potential while creating value for themselves and the company.
+
+Additionally, everyone has individual work and personal needs. We seek to enable the best work environment that helps you and the business work together to produce superior results.

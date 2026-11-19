@@ -1,0 +1,37 @@
+**Your Journey at Crowe Starts Here:**
+
+At Crowe, you can build a meaningful and rewarding career. With real flexibility to balance work with life moments, you’re trusted to deliver results and make an impact. We embrace you for who you are, care for your well-being, and nurture your career. Everyone has equitable access to opportunities for career growth and leadership. Over our 80-year history, delivering excellent service through innovation has been a core part of our DNA across our audit, tax, and consulting groups. That’s why we continuously invest in innovative ideas, such as AI-enabled insights and technology-powered solutions, to enhance our services. Join us at Crowe and embark on a career where you can help shape the future of our industry.
+
+**Job Description:**
+
+Role overview:
+
+AI Engineer Apprentice learns to support AI products, data agents, copilots, chatbots, RAG, prompt evaluation & responsible AI.
+
+Apprenticeship Duration: 12 Months
+
+Learning: Python, SQL, APIs, GenAI, LLMs, embeddings, vector search, RAG, agents, privacy, safety & governance.
+
+Responsibilities: Assist with AI prototypes, document ingestion, embeddings, retrieval & prompts; support integrations, response validation, testing & documentation.
+
+Deliverables: AI prototype component, prompt test set, RAG evaluation notes & responsible AI checklist.
+
+Eligibility: Must meet NATS registration & organization-specific apprenticeship eligibility requirements.
+
+Guardrails: Supervised developmental role; production-critical ownership only after competency and mentor approval. Conversion depend on business need, policy & performance
+
+We expect the candidate to uphold Crowe’s values of Care, Trust, Courage, and Stewardship. These values define who we are. We expect all of our people to act ethically and with integrity at all times.
+
+**Our Benefits:**  
+At Crowe, we know that great people are what makes a great firm. We value our people and offer employees a comprehensive benefits package. Learn more about what working at Crowe can mean for you!  
+  
+**How You Can Grow:**  
+We will nurture your talent in an inclusive culture that values diversity. You will have the chance to meet on a consistent basis with your Career Coach that will guide you in your career goals and aspirations. Learn more about where talent can prosper!  
+  
+**More about Crowe:**
+
+Crowe Capability Center – India, operating under the legal entity C3 India Delivery Centre LLP (formerly known as Crowe Horwath IT Services LLP) is a wholly owned subsidiary of Crowe LLP (U.S.A.), a public accounting, consulting and technology firm with offices around the world. Crowe LLP is an independent member firm of Crowe Global, one of the largest global accounting networks in the world. The network consists of more than 200 independent accounting and advisory firms in more than 130 countries around the world.
+
+Crowe does not accept unsolicited candidates, referrals or resumes from any staffing agency, recruiting service, sourcing entity or any other third-party paid service at any time. Any referrals, resumes or candidates submitted to Crowe, or any employee or owner of Crowe without a pre-existing agreement signed by both parties covering the submission will be considered the property of Crowe, and free of charge.
+
+We are committed to a merit-based hiring process, evaluating all candidates consistently using objective, job-related criteria such as relevant experience, demonstrated skills, measurable impact, and alignment with the role’s responsibilities, and making employment decisions in a fair and inclusive manner free from discrimination.

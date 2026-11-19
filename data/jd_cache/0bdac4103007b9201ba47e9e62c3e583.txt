@@ -1,0 +1,65 @@
+Mid-level Engineer, Full Stack
+
+Lucid GCC, Hyderabad, India
+
+Leading the future in luxury electric and mobility
+
+Lucid is building modern digital platforms that power enterprise operations and customer
+
+experiences. Our Full Stack Engineers play a key role in delivering secure, scalable, and high-quality
+
+software solutions.
+
+Role Overview
+
+We are seeking a Mid-level Full Stack Engineer to contribute to the development of enterprisegrade
+
+web applications and backend services. You will work under the guidance of senior engineers
+
+while owning features end-to-end and growing into increasingly complex technical responsibilities.
+
+An ideal candidate will:
+
+* Design, develop, test, and maintain frontend and backend features
+
+* Write clean, maintainable, and testable production-ready code
+
+* Build responsive user interfaces and integrate with backend APIs
+
+* Participate in architectural discussions and design reviews
+
+* Investigate defects, perform root cause analysis, and implement fixes
+
+* Follow secure coding standards and compliance guidelines
+
+* Collaborate effectively within an Agile development team
+
+* Use GenAI-assisted tools to understand codebases and speed up development
+
+* Participate in code reviews, learning and applying feedback
+
+* Communicate progress, risks, and blockers proactively
+
+* Collaborate with US-based teams across time zones
+
+Basic Qualifications
+
+* Bachelor’s degree (or equivalent work experience) with 4–6 years of relevant experience
+
+Preferred Skills / Experience
+
+* Experience developing frontend applications using React, Angular, or Vue
+
+* Backend experience with Java/Spring Boot or Node.js
+
+* Familiarity with TypeScript, REST APIs, and microservices
+
+* Basic understanding of database concepts (SQL / NoSQL)
+
+* Exposure to cloud platforms (AWS preferred)
+
+* Familiarity with containerization (Docker) and CI/CD concepts
+
+* Experience with Git-based workflows and Agile methodologies
+
+* Interest in learning scalable system design and cloud-native architectures

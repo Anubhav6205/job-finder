@@ -1,0 +1,44 @@
+Role:-
+
+**1. Core AI Engineering & Architecture**
+
+* Design, develop, and implement enterprise-grade AI and Generative AI applications.
+* Build scalable applications using **LLMs, multimodal models, AI agents, RAG, vector databases, knowledge graphs, APIs, and enterprise data platforms**.
+* Architect AI solutions capable of supporting enterprise-scale workloads with appropriate considerations for:
+
++ Scalability
++ Reliability
++ Security
++ Performance
++ Observability
++ Cost optimization
++ Governance
+
+* Develop and implement advanced **Retrieval-Augmented Generation (RAG)** architectures including hybrid search, reranking, metadata filtering, semantic retrieval, and knowledge grounding.
+* Build multi-agent and agentic AI applications capable of reasoning, tool usage, workflow execution, orchestration, and enterprise system integration.
+* Design AI applications integrating structured and unstructured enterprise information.
+* Evaluate architecture choices between commercial models, open-source models, small language models, domain-specific models, and hosted AI platforms.
+* Implement model routing, prompt orchestration, caching, guardrails, evaluation pipelines, and fallback strategies.
+* Work closely with cloud, platform, security, enterprise architecture, DevOps, and application engineering teams.
+
+  
+
+**7. AI Evangelism & Enterprise Adoption**
+
+  
+  
+
+**Mandatory Skills / Candidate Requirements:**
+
+The candidate must meet the following criteria:
+
+1. **Total Experience:** Minimum 10+ years of overall professional experience.
+2. **Application Development:** Minimum 5 years of hands-on experience in application development.
+3. **AI Architecture:** Must have experience in designing and developing applications using AI-driven technologies.
+4. **Solution Provider:** Must have a solution-oriented mindset and the ability to provide end-to-end technical solutions.
+5. **Architectural Experience:** Should have experience leveraging AI as an architect to design, develop, and implement scalable application solutions.
+6. **Interview Availability:** Must be available for a **face-to-face (F2F) interview**.
+
+  
+
+**Key Requirement:** We are looking for an experienced professional with 9+ years of overall experience, including at least 5 years in application development, who can independently drive AI-powered application development and provide architectural solutions.

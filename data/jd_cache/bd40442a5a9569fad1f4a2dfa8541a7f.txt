@@ -1,0 +1,148 @@
+**Job Title:** Senior Java Full Stack Developer  
+ **Experience:** 7-12 Years  
+ **Location:** Pune / Mumbai / Bangalore / Hyderabad / Chennai / Gurgaon  
+ **Employment Type:** Full-Time
+
+  
+
+Job Summary
+
+Capgemini is seeking a highly skilled **Senior Java Full Stack Developer** with 7-12 years of experience in designing, developing, and implementing scalable enterprise applications. The ideal candidate should possess strong expertise in **Java, Spring Boot, Microservices, Angular/React, Cloud Technologies, and DevOps practices**. The role requires hands-on development, technical leadership, and collaboration across global teams to deliver high-quality digital solutions.
+
+Key Responsibilities
+
+* Design, develop, and maintain enterprise-grade Full Stack applications.
+* Build scalable backend services using Java, Spring Boot, and Microservices architecture.
+* Develop responsive and intuitive user interfaces using Angular or React.
+* Create and consume RESTful APIs and integrate with third-party systems.
+* Participate in solution design, architecture discussions, and technical reviews.
+* Write clean, maintainable, and reusable code following best practices.
+* Perform code reviews and mentor junior developers.
+* Troubleshoot production issues and optimize application performance.
+* Work closely with Product Owners, Architects, QA, and DevOps teams.
+* Follow Agile/Scrum methodologies and participate in sprint ceremonies.
+* Ensure application security, scalability, and high availability.
+
+Mandatory Technical Skills
+
+Backend Development
+
+* Java 8/11/17
+* Spring Boot
+* Spring MVC
+* Spring Security
+* Spring Data JPA
+* Hibernate/JPA
+* Microservices Architecture
+* RESTful Web Services
+
+Frontend Development
+
+* Angular (10+) or ReactJS
+* TypeScript
+* JavaScript (ES6+)
+* HTML5
+* CSS3
+* Bootstrap/Material UI
+
+Database Technologies
+
+* Oracle
+* PostgreSQL
+* MySQL
+* SQL Server
+* MongoDB (Preferred)
+
+Cloud & DevOps
+
+* AWS / Azure
+* Docker
+* Kubernetes
+* Jenkins
+* GitHub Actions
+* CI/CD Pipelines
+
+Messaging & Integration
+
+* Apache Kafka
+* RabbitMQ
+* REST APIs
+* Event-Driven Architecture
+
+Development Tools
+
+* Git
+* Maven
+* Gradle
+* SonarQube
+* Nexus/Artifactory
+* JIRA
+* Confluence
+
+Required Experience
+
+* 7-12 years of hands-on experience in Java Full Stack Development.
+* Strong experience in developing Microservices-based applications.
+* Experience with Angular or React development in enterprise environments.
+* Experience with cloud-native application development on AWS or Azure.
+* Strong understanding of Object-Oriented Design, Design Patterns, and SOLID Principles.
+* Hands-on experience with containerization using Docker and orchestration using Kubernetes.
+* Experience implementing secure authentication and authorization mechanisms (OAuth2, JWT, SSO).
+
+Preferred Skills
+
+* Spring Cloud
+* OpenShift
+* GraphQL
+* Terraform
+* Redis
+* ELK Stack
+* Grafana
+* Prometheus
+* AI/GenAI integration exposure
+* Performance tuning and application monitoring
+
+Soft Skills
+
+* Strong communication and stakeholder management skills.
+* Ability to work in a global delivery model.
+* Strong analytical and problem-solving capabilities.
+* Experience leading small technical teams and mentoring developers.
+* Customer-focused mindset with excellent collaboration skills.
+
+Educational Qualification
+
+* Bachelor's or Master's Degree in Computer Science, Information Technology, Engineering, or related discipline.
+
+Preferred Certifications
+
+* Oracle Certified Professional Java Programmer
+* AWS Certified Developer Associate
+* AWS Solutions Architect Associate
+* Microsoft Azure Developer Associate
+* Kubernetes Certification (CKA/CKAD)
+* Spring Professional Certification
+
+Mandatory Skills (Recruiter Screening Keywords)
+
+Java 8/11/17  
+ Spring Boot  
+ Microservices  
+ Angular (10+) / ReactJS  
+ REST APIs  
+ Hibernate/JPA  
+ SQL & Database Design  
+ Kafka/RabbitMQ  
+ Docker  
+ Kubernetes  
+ AWS/Azure  
+ CI/CD (Jenkins, GitHub Actions)  
+ Git & Maven  
+ Agile/Scrum
+
+Nice to Have
+
+* Banking, Financial Services, Insurance (BFSI) domain experience
+* Healthcare, Telecom, Retail, or Manufacturing domain knowledge
+* Experience in application modernization and cloud migration projects
+* Exposure to AI-assisted development tools such as GitHub Copilot

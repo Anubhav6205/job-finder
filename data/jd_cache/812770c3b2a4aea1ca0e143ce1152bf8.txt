@@ -1,0 +1,51 @@
+**Our Company:**
+
+At Teradata, we believe that people thrive when empowered with better information. Teradata Autonomous Knowledge Platform activates enterprise intelligence by unifying data, knowledge and business context to achieve tangible outcomes. With Teradata, organizations can provide agents with full context for impact when it matters. Our solution lets businesses connect and scale on premises, in the cloud, or through a hybrid approach. Teradata delivers real business value with AI.
+
+**What We Do**
+
+The Teradata Global Support Organization-Base (GSO BASE) Support team is a 24x7, high volume global support centre. Along with incident management, we provide technical/functional knowledge necessary to resolve customer’s problems, both internal and external. The support is provided in multiple languages across the globe.
+
+**What You’ll Do**
+
+The **Customer** **Technical Support Professional** works in a fast-paced, demanding technical customer support centre environment that requires timely solutions to complex technical problems, often of a critical nature to the customer. As a technical support specialist for Teradata’s Base Support team, you will perform troubleshooting activities, escalate problems to the appropriate party(s), and assist in communicating the solution to the customer. You will develop and maintain a working knowledge of current hardware, software, firmware, processes, and tools. You are required to have both strong technical and interpersonal skills. The work environment requires 24x7 coverage which is achieved via follow the sub-Model, on-call rotations, and extended hours, as needed, to accommodate customer needs. This position will also be supporting international customers in Japan for after hours and the ability to be proficient in English is a plus.
+
+  
+
+**Who You’ll Work With**
+
+As the Technical Support Specialist for GSO BASE typically works in a collaborative environment and interacts with various teams and individuals within Teradata. Some of the key stakeholders and colleagues that a Technical Support Specialist may work with Customers, Product Support Engineers, Platform support engineers, Service Experience Managers, Critical Support Managers, Infrastructure and Operations Teams, Training and Onboarding Teams, Third-party Vendors and other Engineering teams.
+
+**What Makes You a Qualified Candidate**
+
+* Effective oral and written communications skills in English language.
+
+* 1-4 years of Technical Support related experience.
+* Good Database and Operating System knowledge
+* Experience in Help Desk/Customer service position is a plus
+* Knowledge of Support Center procedures and troubleshooting protocols.
+* Knowledge of UNIX, Linux, Windows and other current operating systems.
+* Knowledge of Teradata support tools including the installation of remote tools is a plus.
+
+**What You’ll Bring**
+
+As a Technical Support Specialist for GSO BASE, you will need to bring a combination of technical expertise, customer service skills, and problem-solving abilities to effectively assist customers with their cloud-related issues. You will serve as a bridge between customers and the technical aspects of Teradata services. Your ability to solve problems, provide excellent customer service, and stay current with cloud & Onprem technologies will be essential in ensuring customer satisfaction and success in this role. . Here's what you should bring to excel in this role:
+
+* You should accept and respond to incoming calls and emails from English Speaking customers.
+* You should be able to collaborate effectively with other support analysts, developers, engineers, and various teams to resolve complex issues.
+* Provide Initial problem triage and clarify problem definition.
+* Search knowledge bases for known solutions to known problems.
+* Identification and management of duplicate incidents
+* Extract logs, dumps, error files from customer systems and analyse.
+* Prepare and transmit source upgrade files.
+* Provide remote support to on-site resources.
+* Isolates standard problems.
+* Log problem resolution and support knowledge creation
+* Coordinates activities associated with product/service resolution issues.
+* Apply search tools to identify previously developed solutions and recognize patterns and symptoms.
+* Coordinate with customers and end-users to implement solutions.
+* Track, monitor and maintain incident progress.
+* Work set schedules including weekends and holidays in support of 24X7 coverage.
+  
+
+#LI-TC1

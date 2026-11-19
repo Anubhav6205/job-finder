@@ -1,0 +1,45 @@
+**Job Summary**
+---------------
+
+The AI Developer supports team in implementing AI-enabled applications and customer prototypes using OpenAI APIs and enterprise platforms. Supports in building user interfaces, APIs and services that connect OpenAI capabilities with backend systems and data, following secure coding, testing and enterprise software development lifecycle practices.
+
+**Key Responsibilities**
+------------------------
+
+* Supports in building UI, API and service features using OpenAI APIs and platform capabilities under the guidance of senior engineers and solution architects.
+* Integrate OpenAI endpoints with application workflows, backend systems and approved enterprise data sources; apply secure credential management, input validation and basic testing.
+* Contribute to customer proofs of concept and prototypes for use cases such as knowledge assistants, document processing and workflow automation; maintain traceable artifacts and engineering handoff documentation.
+* Implement reusable UI and service components and basic prompt templates, following API contracts and solution designs defined by architects and senior engineers.
+* Support debugging using logs and telemetry; assist with checks on response quality, latency, token usage and API failures, escalating issues to senior engineers.
+* Participate in code reviews, document implementation and test results, and follow SDLC, security, privacy and Responsible AI standards when handling customer data and model outputs.
+
+**Skill Requirements**
+----------------------
+
+* 1 year of experience with relevant academic projects, internships or initial development experience in application or AI-enabled software development.
+* Bachelor’s degree in Computer Science, Information Technology, Engineering or a related discipline, or equivalent practical experience.
+* Ability to explain project contributions, follow technical guidance and collaborate with developers and engineering teams.
+
+**Must Have Skills**
+====================
+
+* Foundational proficiency in at least one programming language such as Python, JavaScript, TypeScript, Java or C#, with an understanding of debugging and modular code.
+* Basic understanding of REST APIs, JSON, backend integration and data handling; familiarity with UI or service development.
+* Foundational understanding of generative AI and OpenAI API integration, including prompts, request and response handling, error handling and secure credential management.
+* Familiarity with version control, basic unit testing, code reviews and technical documentation.
+
+**Must Have Skill**
+-------------------
+
+Advanced Business Analysis - RPA & Agentic AI,AI/ML Tools - Others,AWS AI/ML (GenAI),OpenAI GPT-5 & “o” Family Models
+
+**Good to Have Skill**
+----------------------
+
+ChatGPT,OpenAI Agents SDK
+
+**Other Requirements**
+----------------------
+
+* Academic or internship experience building with OpenAI APIs, including exposure to embeddings, retrieval augmented generation or tool calling.
+* Exposure to cloud platforms, CI/CD, application logging, AI output evaluation or Codex-assisted development; willingness to complete relevant OpenAI PartnerU learning.

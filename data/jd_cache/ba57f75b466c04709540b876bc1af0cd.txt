@@ -1,0 +1,141 @@
+Job Description
+  
+  
+**R3, Senior Specialist:** AI Engineering
+  
+  
+The Opportunity
+  
+Join a global biopharma company with a 130-year legacy and mission to achieve new milestones in healthcare. Be part of technology driven, data-led organization supporting a diversified portfolio of medicines, vaccines and animal health products. Work alongside passionate teams that use data, analytics and insights to drive decisions, and tackle some of the world’s greatest health threats.
+  
+  
+Our Technology Centers are globally distributed hubs that enable our digital transformation and business outcomes across IT. They bring together diverse teams to collaborate, share best practices, and deliver solutions that save and improve lives.
+  
+  
+This role is based at our Hyderabad Tech Center and follows a hybrid working model (3 days per week in the office and 2 days remote). Candidates are expected to reside within a commuting distance of the Hyderabad office.
+  
+  
+Role Overview
+  
+As a Senior AI Engineer, you will drive the end-to-end development of GenAI applications, including prompt engineering, fine-tuning, RAG pipelines, and LLM-based workflows, while ensuring high standards of performance, scalability, and responsible AI practices. You will provide technical leadership, mentor teams, and translate complex AI capabilities into impactful business solutions.
+  
+  
+What will you do in this role
+  
+
+* Design and implement Agentic AI systems leveraging frameworks such as LangChain, Google ADK, Strands, and Semantic Kernel, enabling multi-step reasoning and task orchestration.
+* Develop and operationalize multi-agent systems, incorporating patterns such as planning, tool usage, memory, and iterative reasoning.
+* Apply advanced prompt engineering techniques (React, few-shot learning, chain-of-thought, prompt chaining) to improve accuracy, determinism, and robustness of LLM systems.
+* Establish AgentOps practices, including observability, tracing, logging, and performance monitoring for production-grade AI systems.
+* Build multimodal AI solutions, integrating text with images or structured data to support complex enterprise use cases.
+* Apply harness engineering practices to systematically design, test, and evaluate AI/agent workflows across different scenarios.
+* Develop reusable agent tooling and integrations, enabling interaction with enterprise services, tools, and workflows, including Model Context Protocol (MCP) and Agent-to-Agent (A2A) communication patterns.
+* Collaborate with cross-functional stakeholders to translate business problems into scalable GenAI-driven solutions.
+* Leverage modern AI developer tooling such as Claude CLI, GitHub Copilot, Vertex AI, and Codex to accelerate development workflows.
+* Support deployment and operationalization of AI solutions using cloud platforms such as AWS and GCP.
+
+What should you have
+  
+Educational requirement is mandatory. The years of experience forR3 is fixed to 7-11 years,do not alter;possible to add minimum years of experience requirement in specific skill/role. Skills are separated intoPrimary Skills :
+  
+Agentic AI, NLP, ML,core Agentic AI building solutions
+  
+  
+
+* Masters in a relevant quantitative, applied field (Statistics, Econometrics, Computer Science, Mathematics, Engineering)
+* 7-11 years of experience in Software Engineering.
+* Minimum of 3 years of work experience in the end-to-end lifecycle of ML model development and deployment into production within a cloud infrastructure (Databricks is highly preferred).
+
+Primary skills (must-have)
+  
+  
+
+* Deep expertise in RAG architectures, including embedding generation, retrieval optimization, grounding, and context management.
+* Proficiency in prompt engineering techniques (ReAct, chain-of-thought, few-shot learning, prompt chaining, instruction refinement).
+* Hands-on experience building and deploying LLM-powered applications and agent-based systems in production environments.
+* Experience implementing AgentOps practices, including observability, tracing, logging, and performance evaluation of AI systems.
+* Strong Python programming skills with experience in tooling, function-calling, and agent-driven integrations.
+* Experience designing context engineering strategies, including chunking, context optimization, and prompt-context alignment.
+* Familiarity with harness engineering approaches for systematic testing, validation, and benchmarking of AI systems.
+* Understanding of Model Context Protocol (MCP) and Agent-to-Agent (A2A) interaction patterns.
+* Experience building ML/AI pipelines, including automation, orchestration, and CI/CD integration.
+* Solid expertise in NLP and text processing, including tokenization, embeddings, and preprocessing pipelines.
+* Understanding of transformer architectures and modern LLM ecosystems.
+* Understanding of basic machine learning, including supervised/unsupervised learning concepts and model evaluation techniques.
+
+Secondary skills (nice to have)
+  
+
+* Experience with advanced agentic patterns, such as planner-executor, reflection, and memory-augmented agents.
+* Exposure to multimodal AI systems involving text, vision, or structured data fusion.
+* Familiarity with LLM evaluation techniques, including synthetic test generation and prompt regression testing.
+* Experience with advanced chunking strategies and context window optimization.
+* Exposure to LLMOps/MLOps practices for deployment, monitoring, and scaling AI systems.
+
+Who we are
+  
+We are known as Merck Co., Inc., Rahway, New Jersey, USA in the United States and Canada and MSD everywhere else. For more than a century, we have been bringing forward medicines and vaccines for many of the worlds most challenging diseases. Today, our company continues to be at the forefront of research to deliver innovative health solutions and advance the prevention and treatment of diseases that threaten people and animals around the world.
+  
+  
+What we look for
+  
+Imagine getting up in the morning for a job as important as helping to save and improve lives around the world. Here, you have that opportunity. You can put your empathy, creativity, digital mastery, or scientific genius to work in collaboration with a diverse group of colleagues who pursue and bring hope to countless people who are battling some of the most challenging diseases of our time. Our team is constantly evolving, so if you are among the intellectually curious, join us—and start making your impact today.
+  
+  
+**Additional location(s) Compensation Information:**  
+**Required Skills:**  
+AI Programming, AI Programming, Animal Health Care, Contextual Design, Databricks Unified Data Analytics Platform, Data Engineering, Design Applications, Engineering Principle, Information Security, Intelligent Agents, Large Language Models (LLMs), LLMOps, Machine Learning (ML), Model Context Protocol, Multiagent Systems, MultiModal AI, Prompt Engineering, Python (Programming Language), Regression Testing, Software Development, Software Development Life Cycle (SDLC), Supervised Learning, System Designs, System Integration, Testing {+ 1 more}
+  
+  
+**Preferred Skills:**  
+Current Employees applyHERE
+  
+  
+Current Contingent Workers applyHERE
+  
+  
+**Secondary Language(s) Job Description:**  
+#MSDHYDIT
+  
+  
+Search Firm Representatives Please Read Carefully
+  
+Merck Co., Inc., Rahway, NJ, USA, also known as Merck Sharp Dohme LLC, Rahway, NJ, USA, does not accept unsolicited assistance from search firms for employment opportunities. All CVs / resumes submitted by search firms to any employee at our company without a valid written search agreement in place for this position will be deemed the sole property of our company. No fee will be paid in the event a candidate is hired by our company as a result of an agency referral where no pre-existing agreement is in place. Where agency agreements are in place, introductions are position specific. Please, no phone calls or emails.
+  
+  
+**Employee Status:**  
+Regular
+  
+  
+**Relocation:**  
+Domestic
+  
+  
+**VISA Sponsorship:**  
+No
+  
+  
+**Travel Requirements:**  
+No Travel Required
+  
+  
+**Flexible Work Arrangements:**  
+Hybrid
+  
+  
+**Shift:**  
+Not Indicated
+  
+  
+**Valid Driving License:**  
+No
+  
+  
+**Hazardous Material(s):**  
+n/a
+  
+  
+**Job Posting End Date:**  
+11/24/2026\*A job posting is effective until 11:59:59PM on the dayBEFORE the listed job posting end date. Please ensure you apply to a job posting no later than the dayBEFORE the job posting end date.
+  
+**Requisition ID:** R427202

@@ -1,0 +1,82 @@
+**About This Role**
+Wells Fargo is seeking a...
+  
+  
+**In This Role, You Will**
+
+* Lead the architecture, design, development, testing, deployment, and production support of enterprise-grade GenAI and Agentic AI solutions.
+* Design and build AI agents and multi-agent systems capable of planning, reasoning, tool utilization, workflow orchestration, human-in-the-loop execution, and controlled autonomous actions.
+* Build solutions leveraging LLMs, foundation models, RAG, embeddings, vector databases, knowledge retrieval, prompt engineering, context engineering, and structured tool/function calling.
+* Develop agentic solutions using frameworks such as LangGraph, LangChain, Semantic Kernel, AutoGen, CrewAI or equivalent enterprise AI orchestration frameworks. These frameworks are specifically represented in current Wells Fargo GenAI/Agentic AI engineering requirements.
+* Develop reusable AI components, APIs, services, agent patterns, prompt libraries, evaluation frameworks, and reference implementations.
+* Build robust Python-based AI services, APIs, automation capabilities and data-processing pipelines.
+* Define technical patterns for integrating GenAI capabilities with enterprise applications, APIs, databases, knowledge stores, engineering platforms, and business workflows.
+* Establish engineering approaches for LLMOps/MLOps, AI observability, evaluation, benchmarking, monitoring and production support.
+* Implement appropriate AI guardrails addressing hallucination, data leakage, prompt injection, inappropriate tool invocation, access controls and unsafe agent behavior.
+* Apply Responsible AI, AI security, privacy, risk, compliance and governance requirements throughout the solution lifecycle.
+* Participate in architecture reviews, technical design reviews, code reviews and engineering governance.
+* Partner closely with product owners, architects, engineers, cybersecurity, risk, data, platform and business teams to translate business outcomes into appropriate technical solutions.
+* Drive engineering excellence through CI/CD, automated testing, DevSecOps, observability, resiliency, performance engineering and operational readiness.
+* Diagnose and resolve complex technical problems involving AI models, applications, data, integrations, APIs and agent workflows.
+* Mentor engineers and provide technical direction on GenAI, Agentic AI and modern software engineering practices.
+* Evaluate emerging AI technologies through hands-on experimentation and convert successful approaches into reusable enterprise patterns.
+* Contribute to standards, reference architectures and engineering best practices that enable safe adoption of AI at enterprise scale.
+
+**Required Qualifications**
+
+* 5+ years of Specialty Software Engineering or Software Engineering experience, or equivalent demonstrated through work experience, training, military experience, or education, consistent with current Wells Fargo Lead Specialty Software Engineer requirements.
+* Strong hands-on software engineering experience using Python and modern application-development practices.
+* Demonstrated experience building production-grade Generative AI and/or Agentic AI solutions.
+* Strong understanding of LLMs, foundation models, RAG, prompt engineering, embeddings, vector search and AI orchestration.
+* Hands-on experience with one or more frameworks such as LangChain, LangGraph, Semantic Kernel, AutoGen, CrewAI or equivalent.
+* Experience designing API-based, microservices-oriented and cloud-native architectures.
+* Strong understanding of software engineering fundamentals including design patterns, automated testing, API design, CI/CD, security and observability.
+* Experience leading technical design and solving complex engineering problems across multiple systems.
+
+**Desired Qualifications**
+
+* Deep expertise in Agentic AI and multi-agent architectures, including planning, reasoning, memory, tool use, workflow orchestration and human-in-the-loop patterns.
+* Experience building enterprise-scale GenAI platforms supporting multiple applications and use cases.
+* Experience with LLMOps/MLOps, model evaluation, AI observability and benchmarking.
+* Experience with cloud platforms such as Microsoft Azure, Google Cloud Platform or AWS.
+* Experience with Kubernetes, containers, microservices, CI/CD, Infrastructure as Code and platform engineering.
+* Knowledge of Responsible AI and AI governance, including model risk, privacy, security, auditability and regulatory controls.
+* Understanding of AI security practices including prompt-injection defense, adversarial testing, AI red teaming, OWASP guidance for LLM applications, MITRE ATLAS and NIST AI RMF. These are explicitly identified in a current Wells Fargo GenAI/Agentic AI Lead role.
+* Experience with enterprise knowledge platforms, vector databases, knowledge graphs and semantic search.
+* Experience implementing AI observability using platforms such as OpenTelemetry, Splunk or Arize Phoenix. A current Wells Fargo Generative AI engineering posting specifically describes observability-first design using these technologies.
+* Strong technical leadership, communication and mentoring skills.
+* Demonstrated ability to convert AI experimentation into secure, governed, reusable production capabilities.
+
+**Posting End Date**
+24 Nov 2026
+  
+  
+
+* Job posting may come down early due to volume of applicants.
+
+**We Value Equal Opportunity**
+Wells Fargo is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, status as a protected veteran, or any other legally protected characteristic.
+  
+  
+Employees support our focus on building strong customer relationships balanced with a strong risk mitigating and compliance-driven culture which firmly establishes those disciplines as critical to the success of our customers and company. They are accountable for execution of all applicable risk programs (Credit, Market, Financial Crimes, Operational, Regulatory Compliance), which includes effectively following and adhering to applicable Wells Fargo policies and procedures, appropriately fulfilling risk and compliance obligations, timely and effective escalation and remediation of issues, and making sound risk decisions. There is emphasis on proactive monitoring, governance, risk identification and escalation, as well as making sound risk decisions commensurate with the business unit’s risk appetite and all risk and compliance program requirements.
+  
+  
+Candidates applying to job openings posted in Canada: Applications for employment are encouraged from all qualified candidates, including women, persons with disabilities, aboriginal peoples and visible minorities. Accommodation for applicants with disabilities is available upon request in connection with the recruitment process.
+  
+  
+**Applicants With Disabilities**
+To request a medical accommodation during the application or interview process, visit Disability Inclusion at Wells Fargo.
+  
+  
+**Drug and Alcohol Policy**
+Wells Fargo maintains a drug free workplace. Please see our Drug and Alcohol Policy to learn more.
+  
+  
+**Wells Fargo Recruitment And Hiring Requirements**
+
+* Third-Party recordings are prohibited unless authorized by Wells Fargo.
+* Wells Fargo requires you to directly represent your own experiences during the recruiting and hiring process.
+* Please be prepared to provide accurate information and supporting documentation in connection with any lawful employment and education verification conducted by Wells Fargo.
+
+**Reference Number**
+R-586882

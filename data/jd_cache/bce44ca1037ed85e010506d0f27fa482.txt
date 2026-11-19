@@ -1,0 +1,45 @@
+**Roles and Responsibilities:**
+
+* Work directly with business and engineering teams to analyze existing processes and identify automation opportunities.
+* Design and implement AI agents and intelligent automation solutions for enterprise workflows.
+* Develop AI-powered assistants integrated with Microsoft Teams, SharePoint, and Copilot Studio.
+* Build automation solutions that integrate with SAP and other enterprise systems.
+* Design and implement data pipelines and ETL workflows for AI-driven applications.
+* Work with Azure Synapse Analytics to process and analyze enterprise data.
+* Develop and deploy machine learning and AI solutions using Azure Machine Learning.
+* Implement AI agents capable of accessing enterprise knowledge bases and documentation.
+* Build scalable AI services using Python and Azure cloud services.
+* Implement monitoring, governance, and reliability mechanisms for AI solutions.
+* Collaborate with leadership and teams during organizational transformation initiatives to ensure critical processes are supported through automation.
+
+**Your Qualifications (Educational Background, Personality, and Skills):-**
+
+* **5+ years**
+  of experience in AI engineering, data engineering, or enterprise automation.
+* Strong experience with
+  **Microsoft Azure cloud platform**
+  and
+  **Copilot Studio**
+  .
+* Deep expertise in
+  **Azure Machine Learning (Azure ML**
+  ).
+* Strong knowledge of
+  **Azure Synapse Analytics.**
+* Experience building
+  **data pipelines**
+  and
+  **ETL workflows**
+  .
+* Proficiency in
+  **Python**
+  .
+* Experience designing
+  **AI-powered automation systems**
+  or
+  **AI agents**
+  .
+* Experience integrating enterprise systems such as SAP.
+* Experience working with
+  **Microsoft ecosystem tools (Teams, SharePoint, Power BI)**
+  .

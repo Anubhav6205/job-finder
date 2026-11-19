@@ -1,0 +1,24 @@
+Marlabs, a global AI and Digital Solutions Consulting firm, delivers intelligent solutions across AI, data, analytics, and product engineering. Since 2000, we have partnered with some of the largest healthcare, life sciences, financial services, and government organizations worldwide. As we continue to expand our global footprint, we have an exciting opportunity for a highly skilled Test Engineer – Data & GenAI Validation to join our innovative and dynamic team.
+
+**Test Engineer – Data & GenAI Validation | About You**
+
+As a Test Engineer – Data & GenAI Validation, you will ensure the accuracy, reliability, and business readiness of data products, reports, and GenAI capabilities. You will validate underlying data, reconcile report outputs against established KPIs, and test GenAI agent responses and access controls across different user personas. The ideal candidate combines strong data-testing fundamentals with an understanding of the additional validation requirements introduced by Generative AI solutions.
+
+**Test Engineer – Data & GenAI Validation | Day-to-Day**
+
+* Develop and execute data testing and validation activities across data pipelines, reporting solutions, and GenAI-enabled applications.
+* Validate report outputs against established business KPIs, source data, calculations, and expected results to ensure accuracy and consistency.
+* Test GenAI agent responses to confirm answers are aligned with approved data, business context, instructions, and expected acceptance criteria.
+* Validate user personas, roles, permissions, and access controls, ensuring AI agents and reporting capabilities expose appropriate information to authorized users.
+* Perform functional, regression, integration, and data-quality testing while documenting defects, evidence, expected results, and retest outcomes.
+* Partner with Data Engineers, Senior Data Engineers, business users, and project leadership to investigate discrepancies and drive issues through resolution.
+* Support business acceptance and release readiness by maintaining traceable test cases and clear validation evidence for data and GenAI capabilities.
+
+**Test Engineer – Data & GenAI Validation | Skills & Experience**
+
+* 3+ years of experience in Data Testing, ETL Testing, BI/Analytics Testing, or software quality engineering within data-intensive environments.
+* Strong experience with data validation, SQL-based testing, reconciliation, and data-quality verification, including comparison of source data with reporting outputs.
+* Experience validating reports, dashboards, KPIs, calculations, and business metrics against established requirements.
+* Experience testing AI/GenAI applications, conversational agents, or natural-language interfaces is highly valued, including validation of answer accuracy and consistency.
+* Understanding of role-based access control, user personas, security validation, and data-access testing.
+* Strong analytical, troubleshooting, defect-management, and documentation skills with the ability to work closely with technical and business stakeholders.

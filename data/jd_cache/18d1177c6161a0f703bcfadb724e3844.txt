@@ -1,0 +1,29 @@
+Optum is a global organization that delivers care, aided by technology to help millions of people live healthier lives. The work you do with our team will directly improve health outcomes by connecting people with the care, pharmacy benefits, data and resources they need to feel their best. Here, you will find a culture guided by inclusion, talented peers, comprehensive benefits and career development opportunities. Come make an impact on the communities we serve as you help us advance health optimization on a global scale. Join us to start **Caring. Connecting. Growing together.**
+
+AI/ML Engineers code and develop software that deploys ML models and algorithms into production. Communicate and present complex analytics results and concepts to leadership and internal stakeholders. Employ AI and/or ML that may include natural language processing (NLP), natural language understanding (NLU), semantic understanding, intent classification, computer vision, deep learning, and automatic speech recognition (ASR).Applies deep learning technologies to give computers the capability to visualize, learn and respond to complex situations. May adapt machine learning to areas such as artificial intelligence, robotics and other products that allow users to have an interactive experience. Work with large scale computing frameworks, data analysis systems. Employees in this role are expected to apply knowledge of experimental methodologies, statistics, optimization, probability theory and machine learning using code for tool building, statistical analysis, using both general purpose software and statistical languages. Generally work is self-directed and not prescribed.
+
+AI/ML Engineers code and develop software that deploys ML models and algorithms in production. Communicate and present complex analytics results and concepts to leadership and internal stakeholders. Employee AI and/or ML that may include natural language processing (NLP), natural language understanding (NLU), semantic understanding, intent classification, computer vision, deep learning, and automatic speech recognition (ASR). Applies deep learning technologies to give computers that capability to visualize, learn and respond to complex situations. May adapt machine learning to areas such as artificial intelligence, robotics and other products that allow users to have an interactive experience. Work with large scale computing frameworks, data analysis systems. Employees in this role are expected to apply knowledge of experimental methodologies, statistics, optimization, probability theory and machine learning using code for tool building, statistical analysis, using both general purpose software and statistical languages. AI/ML Applied Scientists specialize in advancing and applying artificial intelligence through research-driven, experimental research, and translate research findings into practical AI solutions for the organization.
+
+**Primary Responsibilities:**
+
+* Lead and manage a team of data scientists, fostering a collaborative and innovative environment
+* Oversee the design and development of predictive models and machine learning algorithms
+* Collaborate with business stakeholders to understand and define their data needs
+* Translate business problems into data-driven solutions, presenting complex results in a clear and actionable manner
+* Monitor model performance and continuously improve the accuracy of predictions and insights
+* Maintain up-to-date knowledge of the latest data science trends and technologies, implementing new methodologies as appropriate
+* Promote data literacy throughout the organization, educating staff on how to use data to drive decision-making
+* Ensure data integrity and compliance with privacy regulations
+* Works with less structured, more complex issues
+* Serves as a resource to others
+* Reviews the work of others
+* Develops innovative approaches
+* Sought out as expert
+* Serves as a leader/ mentor
+* Comply with all applicable Company policies, procedures, and business directives, changes including those relating to work location, team assignments, work schedules, and flexible work arrangements
+
+**Required Qualification:**
+
+* Bachelor of Engineering
+
+*At UnitedHealth Group, our mission is to help people live healthier lives and make the health system work better for everyone. We believe everyone-of every race, gender, sexuality, age, location and income-deserves the opportunity to live their healthiest life. Today, however, there are still far too many barriers to good health which are disproportionately experienced by people of color, historically marginalized groups and those with lower incomes. We are committed to mitigating our impact on the environment and enabling and delivering equitable care that addresses health disparities and improves health outcomes - an enterprise priority reflected in our mission.*

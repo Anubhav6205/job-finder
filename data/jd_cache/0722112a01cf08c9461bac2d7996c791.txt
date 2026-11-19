@@ -1,0 +1,28 @@
+At Capgemini Engineering, the world leader in engineering services, we bring together a global team of engineers, scientists, and architects to help the world’s most innovative companies unleash their potential. From autonomous cars to life-saving robots, our digital and software technology experts think outside the box as they provide unique R&D and engineering services across all industries. Join us for a career full of opportunities. Where you can make a difference. Where no two days are the same.
+
+**Your Role**
+-------------
+
+* Design and develop modern, scalable, and maintainable web applications using **Angular 21+** .
+* Build reusable frontend modules, components, and responsive user interfaces.
+* Integrate frontend applications with backend systems through **REST APIs** .
+* Contribute to frontend architecture, technical decisions, and engineering best practices.
+* Collaborate with developers, QA teams, and support deployment activities in **Linux/Docker** environments.
+
+**Your Profile**
+----------------
+
+* **Total Experience in 9-12 Years.10+ years** of frontend development experience with strong expertise in **Angular 21+** .
+* Strong programming skills in **TypeScript, JavaScript, HTML5, and CSS3** .
+* Solid understanding of **Object-Oriented Programming (OOP)** principles and reusable component design.
+* Experience with **REST API integration** , **Git** , and frontend development best practices.
+* Hands-on experience with **Linux, Docker, Docker Compose** , and strong English communication skills.
+
+**What you'll love about working here**
+---------------------------------------
+
+* You can shape your career with us. We offer a range of career paths and internal opportunities within Capgemini group. You will also get personalized career guidance from our leaders.
+* You will get comprehensive wellness benefits including health checks, telemedicine, insurance with top-ups, elder care, partner coverage or new parent support via flexible work.
+* At Capgemini, you can work on cutting-edge projects in tech and engineering with industry leaders or create solutions to overcome societal and environmental challenges.
+
+Capgemini is a global business and technology transformation partner, helping organizations to accelerate their dual transition to a digital and sustainable world, while creating tangible impact for enterprises and society. It is a responsible and diverse group of 340,000 team members in more than 50 countries. With its strong over 55-year heritage, Capgemini is trusted by its clients to unlock the value of technology to address the entire breadth of their business needs. It delivers end-to-end services and solutions leveraging strengths from strategy and design to engineering, all fueled by its market leading capabilities in AI, generative AI, cloud and data, combined with its deep industry expertise and partner ecosystem.

@@ -1,0 +1,110 @@
+**Job Description:** Junior GenAI & Data Engineer
+  
+  
+**Role:** Junior GenAI & Data Engineer
+  
+**Experience Level:** Entry Level / Fresher (0-2 Years)
+  
+**Location:** Pune ( Compulsory Work From Office (WFO))
+  
+**Employment Type:** Full-time
+  
+About the Role
+  
+We are looking for a passionate and technically agile Junior GenAI & Data Engineer to join our innovation team. This is not a typical software engineering role; it is a hybrid position that sits at the intersection of Big Data, Generative AI, Cloud Computing, and Business Intelligence.
+  
+We are looking for a "Vibe Coder" — someone who codes with rhythm and intuition, leverages modern AI tools to move fast, and isn't afraid to experiment with the latest in Large Language Models (LLMs) and distributed systems.
+  
+Key Responsibilities
+  
+**GenAI Development:** Build and deploy applications using RAG (Retrieval-Augmented Generation) architectures. Implement agentic workflows using LangChain and LangGraph.
+  
+**Research & Innovation:** Conduct deep-dive research on emerging GenAI trends, model architectures, and optimization techniques. Synthesize findings into technical blogs, whitepapers, or research summaries to guide the team's technical direction.
+  
+**Big Data Processing:** Design and implement scalable data pipelines using Apache Spark and Hadoop to handle large datasets effectively.
+  
+**Business Intelligence & Reporting:** Design and maintain interactive dashboards using PowerBI or MicroStrategy to visualize model outputs, track KPIs, and drive data-driven decision-making.
+  
+**Prompt & Context Engineering:** Optimize system prompts and context windows to ensure high-accuracy model responses.
+  
+**Data Engineering & ETL:** Design data pipelines with an understanding of core distributed computing concepts. Assist in ETL workflows using tools like DataStage, Postgres, or custom scripts.
+  
+**Model Selection:** Analyze business problems and identify the correct Machine Learning algorithm or GenAI model for the task.
+  
+**Cloud Deployment:** Deploy and maintain services on AWS (specifically EC2 for compute and RDS for storage).
+  
+**Agile Collaboration:** Participate in daily stand-ups, sprint planning, and use Jira for task tracking and Git for version control.
+  
+Technical Requirements
+  
+1. Core Languages
+  
+**Python (Must-Have):** Strong proficiency for AI/ML and PySpark workflows.
+  
+**Java:** Solid understanding of OOPs concepts and willingness to work on Big Data integrations.
+  
+2. Artificial Intelligence & GenAI
+  
+Hands-on experience (academic projects or internships) with Generative AI.
+  
+Knowledge of LangChain and LangGraph for orchestration.
+  
+Deep understanding of Prompt Engineering and Context Engineering.
+  
+**Research Literacy:** Ability to read, understand, and implement concepts from technical research papers (e.g., arXiv) and documentation.
+  
+Familiarity with Vector Databases (e.g., Pinecone, ChromaDB, or Milvus) is a strong plus.
+  
+3. Big Data & Data Engineering
+  
+**Big Data Frameworks:** Foundational knowledge of Apache Spark and the Hadoop Ecosystem (HDFS). Understanding of how to process data in a distributed environment.
+  
+**Databases:** Strong proficiency in PostgreSQL.
+  
+**Data Warehousing:** Familiarity with modern Data Warehouse architectures (e.g., Snowflake, Redshift, or generic Data Warehousing concepts).
+  
+**Core Concepts:** Conceptual clarity on Partitioning, Sharding, Distributed Computing, and Data Modeling.
+  
+Ability to distinguish when to use Classical ML (Regression, Classification, Clustering) vs. GenAI solutions.
+  
+4. Business Intelligence & Analytics
+  
+**Visualization Tools:** Proficiency or strong familiarity with PowerBI, MicroStrategy, or similar BI tools.
+  
+**Analytics Architecture:** Understanding of OLAP Cubes and multi-dimensional data modeling.
+  
+**ETL Tools:** Awareness of ETL frameworks and tools like IBM DataStage or similar data integration platforms.
+  
+5. Cloud & Tools
+  
+**AWS:** Basic awareness of EC2 and RDS.
+  
+**DevOps Basics:** Git (branching/merging) and Jira.
+  
+The "Vibe" & Soft Skills
+  
+**Researcher Mindset:** You are curious by nature. You don't just use tools; you want to understand how they work. You are comfortable writing technical content that explains "Why" we are using a specific technology.
+  
+**Vibe Coding:** You don't just write code; you get into the flow state. You are comfortable using AI coding assistants (GitHub Copilot, Cursor, etc.) to accelerate development without losing understanding of the underlying logic.
+  
+**Problem Solver:** You love untangling complex logic and don't give up easily when code breaks.
+  
+**Clear Communicator:** You can explain complex AI concepts in simple terms.
+  
+**Agile Mindset:** Flexible, iterative, and open to feedback.
+  
+Additional Desirable Skills (Added for Freshers)
+  
+While not mandatory, having these skills will fast-track your application:
+  
+**SQL Proficiency:** Ability to write complex queries (Joins, Window Functions) to extract data for your models.
+  
+**API Development:** Experience building REST endpoints using FastAPI or Flask to serve your AI models to the front end.
+  
+**Linux/Shell Scripting:** Comfort with the command line for server management.
+  
+**Docker:** Basic understanding of containerization to package your applications.
+  
+Work Arrangement
+  
+**Office Policy:** This role requires compulsory Work From Office (WFO) to facilitate mentorship, onboarding, and team alignment. Hybrid options may be discussed post-probation.

@@ -1,0 +1,45 @@
+**Build the Intelligent Workflows of E-Commerce • Fully Remote**
+
+**About the company:**
+
+Marbill is a fast-growing brand within the Luna Group, a global leader redefining the future of e-commerce. Marbill empowers merchants worldwide and focuses on delivering cutting-edge, AI-driven solutions and seamless automations.
+
+We are an ambitious, agile team of professionals from 20 different countries. We thrive on challenges, move quickly, and value solution-oriented thinking. We equip our team with the tools and support they need to succeed, fostering both professional and personal growth in a fully remote environment.
+
+**What we offer:**
+
+* **Fully Remote Position:** Work from anywhere in the world.
+* + **Flexible Working Hours:** Work when you're most productive.
+* **Referral Bonuses:** Get rewarded for bringing great talent on board.
+
+We are looking for a highly skilled **Automations Engineer** to join our team. In this role, you will be the mastermind behind our operational efficiency, connecting internal systems, cutting-edge AI platforms (like Claude and ChatGPT), and third-party tools through robust APIs and MCP integrations. Instead of just maintaining infrastructure, you will develop intelligent AI agents, automate critical workflows across departments like Marketing and Risk, and build AI-powered dashboards that transform how we operate. This is a fully remote position, perfect for a developer who is self-motivated, disciplined, and ready to make a significant impact.
+
+If you're looking to boost your career and love making systems talk to each other to eliminate manual work, now is the perfect opportunity!
+
+**What you'll do:**
+
+* **Workflow Automation:** Identify, automate and improve existing workflows across Marketing & Monetization and Risk & P&L, reducing manual work and improving operational efficiency.
+* **AI-Powered Visual Management:** Build and improve visual management boards, dashboards and internal tools using AI platforms such as Claude and ChatGPT to make business processes, KPIs and operational insights more accessible.
+* **AI Agents & Integrations:** Develop and implement AI agents that connect to our existing systems, analyse data, execute tasks and automate business processes.
+* **API & MCP Management:** Maintain, troubleshoot and improve existing API connections and MCP integrations. Build new integrations between internal systems, external platforms and AI tools to enable seamless data access and automation.
+* **Continuous Innovation:** Explore and implement new AI tools, technologies and automation opportunities to continuously improve how our departments operate.
+
+**What you’ll bring:**
+
+* **Automation Expertise:** Proven experience as a Backend or Automation Developer with a strong focus on building custom integrations, workflows, and cron jobs in Node.js.
+* **Integration Skills:** Deep expertise consuming and creating RESTful APIs, GraphQL, and handling Webhooks securely. Familiarity with workflow tools (like n8n, Make, or custom orchestration engines) is a major plus.
+* **Asynchronous Processing:** Hands-on experience with Redis, message brokers (RabbitMQ, AWS SQS), and background job queues (e.g., BullMQ).
+* **Database Mastery:** Solid experience with MySQL at scale (query optimization, indexing) for logging and retrieving automation states.
+* **Applied AI:** Practical knowledge of triggering AI/LLM pipelines (OpenAI/Gemini) within automated workflows, including basic RAG concepts.
+* **Cloud & DevOps:** Strong AWS experience, specifically with EKS and Helm, adhering to Git/CI/CD (GitHub Actions, Docker) for deploying your automations.
+* **SaaS Understanding:** Solid grasp of multi-tenant architectures and data isolation strategies.
+
+**Why Marbill & Luna Group?**
+
+We believe in empowering our people. Here, your ideas matter, and your growth is a priority. If you are looking for a challenging role where you can work with the latest technologies, automate complex problems away, and build impactful solutions, this is the perfect opportunity.
+
+**Apply now and let’s make an impact together!**
+
+By submitting this application, I agree that my personal data will be collected, processed, and retained by the company solely for the purposes of managing and assessing my candidacy.
+
+Notice: This is a remote position based in India.

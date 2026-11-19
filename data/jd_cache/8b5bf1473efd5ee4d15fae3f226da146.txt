@@ -1,0 +1,111 @@
+**Job Information**
+-------------------
+
+* Number of Positions 1
+* Industry IT Services
+* Date Opened 11/18/2026
+* Job Type Permanent
+* Work Experience 2-5 years
+* Required Skills
+  + apollo software
+  + B2B sales
+  + +4
+* City Bangalore
+* State/Province Karnataka
+* Country India
+* Zip/Postal Code 560066
+* Location Bangalore
+
+**About Us**
+------------
+
+CloudifyOps is a company with **DevOps** and **Cloud** in our DNA. CloudifyOps enables businesses to become more agile and innovative through a comprehensive portfolio of services that addresses hybrid IT transformation, Cloud transformation, and end-to-end DevOps Workflows.
+
+We are a proud Advance Partner of Amazon Web Services and have deep expertise in Microsoft Azure and Google Cloud Platform solutions.
+
+We are passionate about what we do. The novelty and the excitement of helping our customers accomplish their goals drives us to become excellent at what we do.
+
+  
+
+**Job Description**
+-------------------
+
+About the role:
+
+We're hiring a Business Development Executive to build the outbound engine for our Staff Augmentation business in India. You'll report directly to the Director of Operations, who owns the staffing line, and you'll work with our Marketing team on campaigns.
+
+Staff augmentation is already a solid part of our revenue, but most of it has come through founder relationships and existing accounts. Your job is to change that. You'll open new logos, build a pipeline we can plan our bench around, and close deals for DevOps, SRE, Cloud and GenAI teams. In this role you will:
+
+* Own new-logo acquisition for staff augmentation across India, with the goal of sourcing at least half of our new staffing pipeline through outbound within your first two to three quarters.
+* Sell pods of two to five engineers plus a lead, not single CVs.
+* Keep a clean, current pipeline in Zoho CRM so we can see one to two quarters ahead and build a bench to match.
+
+**Key Responsibilities**
+------------------------
+
+### **1. Outbound Prospecting & Lead Generation**
+
+* Run the hiring-signal play: track DevOps, SRE and cloud job postings and reach out with a team that can be deployed within two weeks.
+* Run the lookalike play: target companies that resemble our existing marquee customers, backed by a matching case study and a reference call where the customer allows it.
+* Focus on four segments: India GCCs and captive centres, product companies and ISVs, funded digital natives (Series B and above), and SIs and IT services firms.
+* Reach CTOs, engineering and platform heads, and procurement teams through LinkedIn, Apollo or Lusha, email, calls, referrals and events.
+* Keep track of former champions from our client accounts and reach out within a week when they move to a new company.
+* Work with the Marketing team on outbound campaigns, inbound leads and customer case studies.
+
+### **2. Qualification & Closing**
+
+* Run every opportunity through our qualification checklist before any bench or interview effort goes in: a clear need and detailed JD, budget, access to decision-makers, a defined timeline and a minimum of two engineers.
+* Agree the evaluation bar with the client upfront and make sure every profile rejection comes with a written reason.
+* Push for our standard terms: 6 - 12 month engagements, one MSA per client with heads added by PO, a one-month trial clause and no more than two interview rounds.
+* Give priority to direct customers over SI-routed deals, and bring customer-site, below-rate or non-standard deals to the Director of Operations for approval.
+* Build proposals from our rate card and work with Finance to check margins before anything goes to the client.
+* Hand over each closed deal for kickoff with the engineer's role, reporting line, location, tools, access needs and trial success criteria written down.
+
+### **3. Pipeline Management & Reporting**
+
+* Log every account, contact, conversation and stage in Zoho CRM, from first contact through to deployment, with a reason code for every lost or dropped deal.
+* Follow up on open opportunities twice a week and run the weekly pipeline review with the Director of Operations.
+* Track and report weekly numbers: outbound meetings booked, outbound share of new pipeline, submit-to-select ratio and rejections with a logged reason.
+* Flag demand early so Talent Acquisition and delivery can line up bench and vendor profiles ahead of time.
+
+### **4. Fulfilment Coordination & Account Growth**
+
+* Pass qualified requirements to Talent Acquisition with complete details, and help match bench and vendor profiles to what the client needs.
+* Coordinate submissions, interviews and client feedback so we hit our two-week fulfilment target.
+* Stay close to the client through the first month so the trial converts, and look for chances to add heads or move into a larger engagement.
+
+### **5. Market Intelligence**
+
+* Keep track of bill rates, in-demand skills and what other staffing firms are offering in the Indian market.
+* Bring what you hear on calls back into our target customer profile, messaging and rate card.
+
+### **What Your First 90 Days Look Like**
+
+* Days 1 to 30: learn our services, rate card, case studies and qualification checklist, build your target account lists and set up your pipeline in Zoho CRM.
+* Days 31 to 60: run the hiring-signal and lookalike plays at full pace and start the weekly pipeline review.
+* Days 61 to 90: review your outbound share, submit-to-select ratio and rejection log with the Director of Operations, and adjust plays and targets based on what's working.
+
+**Skills & Qualifications**
+---------------------------
+
+### **Must-Have:**
+
+* 3+ years in B2B sales or business development for IT staffing or staff augmentation in India, including at least 2 years of hunting new logos.
+* A track record of closing contract staffing or time-and-material deals with GCCs, product companies or tech-led enterprises.
+* Working knowledge of cloud (AWS, Azure, GCP), DevOps and SRE roles, enough to hold a credible conversation with an engineering leader and spot a weak requirement.
+* Hands-on outbound experience with LinkedIn Sales Navigator, Apollo or Lusha, cold email and calling, and the discipline to keep a CRM up to date.
+* Comfort with bill rates, margins and utilisation, and the judgement to walk away from a deal that doesn't fit.
+* Clear spoken and written English, and the confidence to negotiate with senior stakeholders and procurement teams.
+* Self-driven and happy in a small, hands-on team where you'll help shape the process as well as follow it.
+
+### **Good to Have:**
+
+* An existing network among engineering leaders at GCCs or funded startups in Bangalore or Chennai.
+* Experience selling pod or managed-team models alongside individual placements.
+* Experience working with SI partners or with vendor empanelment.
+* Hands-on use of Zoho CRM.
+* An MBA or a recognised sales certification.
+
+Equal opportunity employer :
+
+CloudifyOps is proud to be an equal opportunity employer with a global culture that embraces diversity. We are committed to providing an environment free of unfair discrimination and harassment. We do not discriminate based on age, race, color, sex, religion, national origin, disability, pregnancy, marital status, sexual orientation, gender reassignment, veteran status, or other protected category.

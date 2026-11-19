@@ -1,0 +1,39 @@
+We are seeking a **Lead Forward Deployed Engineer - GCP** to design, build, and deploy production-grade agentic AI solutions for enterprise clients, working hands-on with Gemini Enterprise, Google ADK, and the broader Google Workspace ecosystem to deliver scalable, secure, and intelligent multi-agent systems.
+
+  
+
+**Responsibilities**
+
+* Design, develop, and deploy production-grade Multi-Agent Systems and agentic workflows using Gemini Enterprise
+* Identify the need for Pro Code vs No Code design based on customer's problem statement and data sources
+* Build and deploy custom agents using the ADK and Agent Platform AI Reasoning Engine, and integrate them with Gemini Enterprise
+* Build native integrations across the Google Workspace Ecosystem and NotebookLM for grounded enterprise research, document automation, and conversational discovery
+* Architect scalable short-term session storage, conversation state persistence, and long-term memory architectures across multi-agent interactions
+* Implement end-to-end authentication and authorization perimeters for agents, GCP services, and 3rd-party SaaS integrations using IAM, OAuth 2.0, OIDC, and service identities
+* Enforce fine-grained ACLs, user/group permission inheritance, and data governance policies to ensure agents strictly adhere to enterprise access boundaries
+* Utilize developer tooling including Agent CLI and Antigravity for local rapid prototyping, testing, emulation, distributed tracing, and RCA
+* Architect HITL workflows, ensuring seamless Interrupt and Resume patterns between autonomous agents and human experts for critical decision points
+* Build and maintain automated CI/CD pipelines to manage versioned agent deployments, automated testing, and continuous regression evaluations
+* Implement advanced reasoning patterns such as Chain-of-Thought (CoT), ReAct, Plan-and-Solve, and Self-Reflection to enhance agent reliability
+* Collaborate directly with client engineering and architecture teams to deploy, validate, and operationalize enterprise agentic AI solutions in client environments
+
+**Requirements**
+
+* 7-13 years of overall IT experience, including 4 to 6+ years in software development, cloud solution architecture, and AI engineering, preferably on GCP
+* Proficiency in Python with production-level software engineering practices, and expertise in building multi-agent systems using Google ADK or comparable agentic frameworks
+* Hands-on experience deploying and customizing Gemini Enterprise, NotebookLM, and integrating with the Google Workspace Ecosystem, including APIs, Add-ons, and Drive/Docs connectors
+* Expertise in managing agent session state, short-term context caching, and durable long-term memory backends such as vector databases and relational/NoSQL session stores
+* Experience with MCP Connectors to securely integrate core third-party platforms with Gemini Enterprise
+* Understanding of authentication and authorization protocols across GCP and 3rd-party SaaS platforms, including IAM, OAuth 2.0, and OIDC
+* Knowledge of enterprise ACLs, identity federation, permission trimming, and RBAC across heterogeneous data sources
+* Proficiency in developer tooling such as Agent CLI and Antigravity for local simulation, debugging, prompt engineering, and execution graph tracing
+* Proven track record of configuring and maintaining automated CI/CD pipelines for agent containerization, deployment, and test automation
+* Knowledge of AI evaluation methodologies, trajectory analysis, and performing RCA on agent execution failures, tool errors, and prompt regressions
+* Proven track record of designing, building, and deploying production AI agents or enterprise GenAI solutions using ADK, Vertex AI, or Gemini
+* Hands-on experience in customer-facing technical delivery, solutions engineering, or FDE roles, with familiarity with enterprise Agile SDLC, sprint delivery, and stakeholder management
+
+**Nice to have**
+
+* Experience with inter-agent communication protocols such as MCP and A2A architectures
+* Experience integrating agents with Enterprise Knowledge Graphs, structured ontologies, and hybrid vector search systems
+* Experience with enterprise data security frameworks such as Sensitive Data Protection and VPC Service Controls

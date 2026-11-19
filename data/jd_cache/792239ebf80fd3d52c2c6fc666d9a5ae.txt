@@ -1,0 +1,32 @@
+**Full Stack Game Developer**
+
+We are looking for a self-driven individual with a passion for gaming and innovation. Someone who is dynamic and skilled enough to kick-start game development from scratch with minimal supervision and contribute across both frontend and backend development.
+
+**Responsibilities:**
+
+? Develop web-based slot games and other casino games, including both frontend and backend functionalities, using JavaScript/Typescript.  
+? Design and develop game backend math engines for maintaining Return to Player (RTP) calculations specific to slot games.  
+? Implement new user-facing game features using our in-house framework.  
+? Build reusable code and libraries for future use to improve efficiency and scalability.  
+? Optimize both the frontend and backend for maximum speed and performance.  
+? Collaborate with other team members and stakeholders in a SCRUM-like development environment.  
+? Conduct code reviews for juniors and interns, providing guidance and mentorship.  
+? Troubleshoot and fix live issues/bugs on both old and new slot games.  
+? Research new technologies and suggest technical solutions for improvement.  
+? Contribute to our game development framework by adding new functionalities and improving existing ones.
+
+**Required Skills & Experience:**
+
+? 3-5 years of experience in game development with JavaScript and TypeScript.  
+? Strong knowledge of HTML5 game development frameworks (experience with Pixi.js, Phaser.js).  
+? Expertise in developing backend game logic and math engines while maintaining RTP integrity, particularly for slot games.  
+? Strong debugging skills for both frontend and backend issues.  
+? In-depth understanding of Object-Oriented JavaScript (OOJS), SOLID principles, Clean Code practices, and design patterns.  
+? Experience in structured software development with an emphasis on scalability and maintainability.  
+? Hands-on experience with unit testing to ensure high-quality code.  
+? Proficiency in Node.js, NPM, Webpack, Grunt, Rollup, and other relevant tools.  
+? Experience with version control systems like Git and Perforce.  
+? Familiarity with Agile methodologies and tools like JIRA for issue and project tracking.  
+? Strong ability to review code and design, ensuring adherence to best practices.  
+? Excellent analytical skills for debugging and problem-solving.  
+? Strong written and verbal communication skills, with the ability to collaborate effectively in a team environment.

@@ -1,0 +1,141 @@
+### **Site Reliability Engineer – GenAI / AI Platforms**
+
+* JR-164647
+* Hybrid
+
+* Bengaluru
+
+* Technology
+
+* Full time
+
+**Who are we?**
+
+Equinix is the world’s digital infrastructure company®, shortening the path to connectivity to enable the innovations that enrich our work, life and planet.
+
+A place where bold ideas are welcomed, human connection is valued, and everyone has the opportunity to shape their future.
+
+Help us challenge assumptions, uncover bias, and remove barriers—because progress starts with fresh ideas. You’ll find belonging, purpose, and a team that welcomes you—because when you feel valued, you’re empowered to do your best work.
+
+**Job Summary**
+
+Keeps Equinix's GenAI products and platforms stable and reliable, and makes them more resilient over time. Writes the code and automation that prevents failures, rather than only responding to them. Defines service-level objectives, builds monitoring and alerting, hardens services against dependency and capacity failures, and tests failure and recovery before they happen in production. Leads incident response when issues occur and turns each incident into a lasting fix. Works in a team with senior engineers and with product, platform and security partners to keep AI products, agents, connectors and self-hosted models robust, secure, observable and performant.
+
+  
+
+Knowledge and Application
+
+Applies solid knowledge of software engineering and site reliability engineering (SRE) practice: service-level objectives (SLOs), error budgets, monitoring, alerting, incident response, CI/CD and infrastructure as code. Understands how distributed systems fail and how to contain those failures (timeouts, retries, circuit breakers, graceful degradation). Understands how GenAI products behave in production, including model latency, rate limits, quotas, streaming and token cost. Follows established standards and suggests improvements.
+
+  
+  
+
+Complexity and Problem Solving
+
+Works on problems of defined scope where analysis requires evaluation of identifiable factors. Diagnoses failures across application, model, data, pipeline and infrastructure layers, and fixes the underlying cause rather than the symptom. Applies existing runbooks and approaches, and improves them. Escalates unusual or high-impact issues. Work is reviewed at defined checkpoints.
+
+  
+  
+
+Collaboration and Interaction
+
+Works with AI engineers, product managers, platform and security teams. Reviews designs and releases for reliability risk before they ship. Explains status, incidents and results clearly to partners who are not familiar with the subject. Asks for guidance early and shares knowledge with the team.
+
+  
+  
+
+**Responsibilities**
+
+Reliability and resilience engineering (primary focus)
+
+* Write code and automation that makes GenAI products and platforms more resilient: retries, timeouts, circuit breakers, rate limiting, graceful degradation and fallback between models and providers
+* Run load tests, failure-injection tests and game days to find weak points before users do, and fix what they reveal
+* Harden services running on Kubernetes: health checks, autoscaling, disruption budgets, resource limits and multi-zone deployment
+* Plan capacity ahead of launches and growth, including model-provider quotas, GPU and inference capacity, and database headroom
+* Maintain backup, restore and disaster-recovery plans, and test recovery on a regular schedule
+* Automate repeated operational tasks, and reduce manual work each quarter
+  
+
+  
+
+Monitoring and service levels
+
+* Define and track service-level indicators and objectives with product owners: availability, latency, error rate, token cost and quality scores
+* Instrument services with logs, metrics and traces (e.g., OpenTelemetry), from the user request through agent, tool and model calls
+* Build and tune dashboards and alerts for user-facing failures, and remove alerts that are noisy or not actionable
+  
+
+  
+
+Release and deployment
+
+* Support release readiness for GenAI products and platforms: checks for monitoring, alerts, runbooks, capacity, security review and rollback plan
+* Deploy through CI/CD and GitOps pipelines, using containers and infrastructure as code, with canary rollouts and fast rollback
+  
+
+  
+
+Incident response
+
+* Take part in the on-call rotation, respond to incidents, and write blameless post-incident reviews
+* Track post-incident actions to completion, so the same failure does not happen twice
+* Write and update runbooks, and turn recurring incidents into automation or fixes
+  
+
+  
+
+GenAI and self-hosted models
+
+* Support the reliability of self-hosted open-weight and small language models: serving, GPU usage, scaling, rollout and rollback
+* Monitor model and provider latency, errors, rate limits and cost, and flag capacity and cost risks
+* Apply security, patching, secrets and data-boundary requirements to every deployment
+  
+
+  
+
+**Qualifications**
+
+Required
+
+* 2–4 years in site reliability, DevOps, platform or software engineering, with hands-on work on production systems
+* Bachelor's degree in computer science, engineering or a related field, or equivalent experience
+* Proficiency in Python or Go, with solid software engineering habits: version control, testing, code review
+* Experience with Linux, containers, Kubernetes and a major cloud platform (Google Cloud preferred)
+* Experience with CI/CD and infrastructure as code (e.g., Terraform)
+* Working knowledge of monitoring, logging, tracing and alerting
+* Understanding of how distributed systems fail and of common resilience patterns
+* Experience with on-call or incident response, and willingness to join an on-call rotation
+* Familiarity with LLM applications (model APIs, retrieval, agents, tool calls)
+* Clear written and verbal communication
+  
+
+  
+
+Nice to have
+
+* Experience running GenAI or ML systems in production, including managed model platforms (e.g., Vertex AI) or model serving (e.g., vLLM)
+* Experience with observability tools (e.g., OpenTelemetry, Prometheus, Grafana) and incident tools (e.g., PagerDuty)
+* Experience with GitOps (e.g., Argo CD), Helm and canary deployments
+* Experience with load testing or chaos engineering
+* Experience with secrets management (e.g., Vault) and security scanning
+* Experience building automation or AI agents that reduce operational work
+  
+
+  
+
+What success looks like
+
+* GenAI products and platforms meet their service-level objectives, and releases ship without avoidable incidents
+* Alerts catch failures before users report them, and each incident ends with a documented fix
+* The same incident does not happen twice
+* Load tests and recovery tests run on schedule, and launches scale without capacity issues
+* Manual operational work goes down each quarter
+* The engineer takes on larger, less defined work each quarter with decreasing guidance
+
+Equinix is committed to ensuring that our employment process is open to all individuals, including those with a disability. If you are a qualified candidate and need assistance or an accommodation, please let us know by completing form.
+
+Equinix is an Equal Employment Opportunity and, in the U.S., an Affirmative Action employer. All qualified applicants will receive consideration for employment without regard to unlawful consideration of race, color, religion, creed, national or ethnic origin, ancestry, place of birth, citizenship, sex, pregnancy / childbirth or related medical conditions, sexual orientation, gender identity or expression, marital or domestic partnership status, age, veteran or military status, physical or mental disability, medical condition, genetic information, political / organizational affiliation, status as a victim or family member of a victim of crime or abuse, or any other status protected by applicable law.
+
+**We use artificial intelligence in our hiring process. Learn more** **here****.**
+
+This posting is a new position within our organization.

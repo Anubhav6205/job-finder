@@ -1,0 +1,49 @@
+DeepIntent is the leading healthcare marketing platform, purpose-built to help marketers plan, activate, and optimize data-driven campaigns with speed and precision. Trusted by the world's top healthcare brands and their agencies, DeepIntent uniquely unites media, identity, and real-world clinical data to power privacy-safe, omnichannel marketing across every screen. Backed by patented technology and proven outcomes, DeepIntent's platform delivers measurable audience quality and script lift at scale. Learn more at www.deepintent.com.
+
+**What You'll Do:**
+
+* **Application security:** Embed security into the SDLC. Run threat modeling, secure design and code reviews, and manage SAST, DAST, SCA, secrets scanning, and container image scanning in CI/CD pipelines.
+* **Security testing:** Plan and run vulnerability assessments and penetration tests across web apps, APIs, and cloud infrastructure. Track findings to remediation with engineering teams.
+* **Kubernetes hardening:** Secure our clusters using CIS benchmarks, Pod Security Standards, RBAC and network policies, admission control (OPA Gatekeeper or Kyverno), image signing, and runtime protection.
+* **AWS security:** Strengthen IAM, VPC and network controls, S3, RDS, and KMS configurations. Use GuardDuty, Security Hub, Config, and CloudTrail for posture and detection.
+* **GCP security:** Review IAM and least-privilege access, organization policies, storage and service account hygiene, and use Security Command Center for visibility.
+* **Threat detection and response:** Build detections and alerts across cloud, Kubernetes, and application logs. Triage security events, lead incident response, and run post-incident reviews.
+* **Cloud security posture:** Continuously assess misconfigurations, enforce guardrails as code (Terraform, policy-as-code), and reduce attack surface.
+* **Secrets and identity:** Improve secrets management (Vault), access reviews, and privileged access controls.
+* **Compliance support:** Help meet HIPAA, SOC 2, and similar requirements by providing evidence, audits, and control automation.
+* **Collaboration:** Work with DevOps, SRE, and development teams to make secure choices the default.
+* **SIEM:** Onboard and normalize log sources into our SIEM, build correlation rules and dashboards, tune alerts to cut noise, and support investigations.
+* **Docker image hardening:** Define secure base images, minimize images (distroless or slim), run as non-root, scan for vulnerabilities, sign images, and enforce policies in registries and CI/CD.
+* **IAM and identity security:** Design and review identity controls across AWS, GCP, and Kubernetes: least privilege, SSO/MFA, role and service account hygiene, federation, and periodic access reviews.
+* **MCP and AI security testing:** Assess the security of LLM-powered features, agents, and MCP servers. Test for prompt injection, tool poisoning, excessive permissions, data leakage, insecure tool and credential handling, and model supply chain risks (OWASP Top 10 for LLM Applications).
+* **Application penetration testing:** Perform manual and automated pentests of web apps, APIs, and microservices. Cover authentication and authorization flaws, injection, business logic, and SSRF, then write clear reports and verify fixes.
+
+**Who You Are:**
+
+* 3+ years of experience in a security engineering, cloud security, or DevSecOps role.
+* Strong hands-on knowledge of AWS security services and best practices (IAM, VPC, KMS, GuardDuty, Security Hub, CloudTrail).
+* Working knowledge of GCP security (IAM, org policies, Security Command Center, VPC Service Controls).
+* Proven experience securing Kubernetes: CIS benchmarks, RBAC, network policies, admission controllers, and runtime security tools such as Falco.
+* Experience with application security: OWASP Top 10, threat modeling, and SAST/DAST/SCA tools (for example SonarQube, Snyk, Trivy, OWASP ZAP, Burp Suite).
+* Hands-on experience with vulnerability management and penetration testing methodologies.
+* Experience with threat detection and incident response, including SIEM or log analytics tooling and writing detection rules.
+* Proficiency in Python or Bash for security automation.
+* Familiarity with Terraform and CI/CD pipelines (Jenkins, GitHub Actions, or ArgoCD) for security-as-code.
+* Understanding of networking, TLS/PKI, authentication protocols (OAuth, OIDC, SAML), and encryption fundamentals.
+* Hands-on experience with a SIEM platform (for example Splunk, Elastic, Microsoft Sentinel, or Chronicle), including log onboarding, correlation rules, and alert tuning.
+* Experience hardening Docker images and container supply chains (minimal base images, non-root users, image scanning and signing, registry policies).
+* Strong understanding of IAM and identity security: least privilege, RBAC/ABAC, SSO/MFA, federation, service account and workload identity management.
+* Hands-on application and API penetration testing experience (Burp Suite, OWASP ZAP, Postman, custom scripts) with strong knowledge of OWASP Top 10 and API Security Top 10.
+* Understanding of AI/LLM security risks: prompt injection, jailbreaks, data exfiltration, insecure agent tool use, and MCP server security. Experience with AI red-teaming or LLM testing tools is a plus.
+
+We believe great work starts with great support. That's why DeepIntent offers a competitive, holistic benefits package designed to empower you both professionally and personally.
+
+Here's what you can expect when you join our team based in the US: Competitive base salary plus performance based bonus or commission, comprehensive medical, dental, and vision insurance, 401K match program, flexible PTO policy and paid holidays, remote friendly culture with flexible work options, career development and advanced education support, WFH and internet stipends, plus many more perks and benefits!
+
+Here's what you can expect when you join our team based in India: Competitive base salary plus performance based bonus, comprehensive medical insurance, and paid holidays. Hybrid-friendly culture with flexible work options, professional development reimbursement, WiFi reimbursement and health and wellness allowance plus many more perks and benefits!
+
+Here's what you can expect when you join our team based in Europe: Competitive base salary plus performance-based bonus, comprehensive medical insurance, and flexible PTO. Hybrid-friendly culture with flexible work options, professional development reimbursement, WiFi reimbursement, and parental leave plus many more perks and benefits!
+
+DeepIntent is committed to bringing together individuals from different backgrounds and perspectives. We strive to create an inclusive environment where everyone can thrive, feel a sense of belonging, and do great work together. DeepIntent is an Equal Opportunity Employer, providing equal employment and advancement opportunities to all individuals. We recruit, hire and promote into all job levels the most qualified applicants without regard to race, color, creed, national origin, religion, sex (including pregnancy, childbirth and related medical conditions), parental status, age, disability, genetic information, citizenship status, veteran status, gender identity or expression, transgender status, sexual orientation, marital, family or partnership status, political affiliation or activities, military service, immigration status, or any other status protected under applicable federal, state and local laws. If you have a disability or special need that requires accommodation, please let us know in advance. DeepIntent's commitment to providing equal employment opportunities extends to all aspects of employment, including job assignment, compensation, discipline and access to benefits and training.
+
+CCPA Notice: If you are a California resident applying for a role at DeepIntent, we may collect personal information as part of the application process in accordance with the California Consumer Privacy Act (CCPA). To learn more about the categories of information we collect and your rights, please contact PeopleOps@deepintent.com to see our full Applicant Privacy Notice.

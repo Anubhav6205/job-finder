@@ -1,0 +1,49 @@
+Role: Data Engineer
+
+Experience: 3-6 years
+
+The Data Engineer is responsible for designing, developing, and maintaining scalable data pipelines and data platforms that enable analytics, reporting, and AI/ML solutions. This role works independently on moderately complex data engineering challenges, partners with business and technology stakeholders to understand requirements, and develops reliable data solutions that support enterprise data needs. The Data Engineer serves as a technical resource to team members, provides guidance on best practices, and contributes to the continuous improvement of data platforms and engineering processes.
+
+  
+  
+
+**Primary Responsibilities:**
+
+* Design, develop, and maintain scalable data ingestion, transformation, and integration pipelines
+* Build and optimize ETL/ELT workflows to process structured and unstructured data from multiple sources
+* Analyze business and customer requirements and translate them into technical data solutions
+* Identify and resolve non-standard data challenges and moderately complex engineering problems
+* Develop and maintain data models, data quality frameworks, and validation processes
+* Collaborate with data analysts, data scientists, product teams, and business stakeholders to deliver trusted data assets
+* Monitor and optimize pipeline performance, reliability, scalability, and cost efficiency
+* Support cloud-based data platforms and data warehouse/lakehouse environments
+* Implement data governance, security, lineage, and compliance standards across data assets
+* Create technical documentation, design specifications, and operational procedures
+* Participate in code reviews and promote engineering best practices for development, testing, and deployment
+* Troubleshoot production issues, perform root-cause analysis, and implement sustainable solutions
+* Contribute to automation, CI/CD processes, and continuous improvement initiatives across the data ecosystem
+* Comply with the terms and conditions of the employment contract, company policies and procedures, and any and all directives (such as, but not limited to, transfer and/or re-assignment to different work locations, change in teams and/or work shifts, policies in regards to flexibility of work benefits and/or work environment, alternative work arrangements, and other decisions that may arise due to the changing business environment). The Company may adopt, vary or rescind these policies and directives in its absolute discretion and without any limitation (implied or otherwise) on its ability to do so
+
+**Required Qualifications:**
+
+* Bachelor's degree in Computer Science, Data Engineering, Information Systems, Engineering, or a related field
+* 3+ years of experience in data engineering, software engineering, or big data development
+* Experience developing ETL/ELT pipelines and working with large-scale datasets
+* Experience with data warehouses, data lakes, and modern data architectures
+* Solid proficiency in SQL and Python for data processing and engineering
+* Knowledge of cloud-based data platforms such as Azure, AWS, or Google Cloud
+* Understanding of data modeling, data quality, and data governance principles
+* Proven solid analytical and problem-solving skills
+* Proven excellent communication and stakeholder collaboration skills
+* Proven ability to work independently with minimal supervision and handle multiple priorities
+  
+
+  
+
+**Preferred Qualifications:**
+
+* Cloud platform certifications in Azure, AWS, or GCP
+* Experience with Databricks, Spark/PySpark, Snowflake, BigQuery, or similar cloud data technologies
+* Experience supporting analytics, business intelligence, or AI/ML workloads
+* Experience in healthcare, financial services, or other highly regulated industries
+* Familiarity with workflow orchestration tools such as Airflow, Azure Data Factory, or Cloud Composer

@@ -1,0 +1,11 @@
+Experience: 6 - 18 years
+  
+  
+Max Experience: 18
+  
+  
+
+* Generative AI, LLM and RAG.
+* LangChain, LangGraph and Agentic AI.
+* FastAPI / Flask and REST APIs.
+* AWS Bedrock, and cloud integration.

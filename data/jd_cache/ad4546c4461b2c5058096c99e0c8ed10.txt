@@ -1,0 +1,165 @@
+**Job ID** 2026-20339 **Date posted** Nov. 18, 2026 **Location** Bengaluru, India **Category** Software Engineering
+
+  
+
+**JOB OVERVIEW**
+
+  
+
+About Arm
+  
+Arm Limited is the company behind the world's most widely used compute architecture. Headquartered
+  
+in Cambridge, UK, Arm designs the CPU architecture and processor IP that our partners build into
+  
+hundreds of billions of chips – from smartphones and IoT devices to vehicles, robots and data centres.
+  
+As compute moves into the physical world, Arm technology is at the heart of the automotive and
+  
+Physical AI systems where safety and security are non-negotiable.
+  
+About the team
+  
+The Arm CE Quality and Compliance team is responsible for how Arm products meet Functional Safety
+  
+(ISO 26262, IEC 61508), Automotive Cybersecurity (ISO/SAE 21434) and Quality requirements. We
+  
+work alongside Arm's CPU, SoC, software and ML engineering teams and with our automotive and
+  
+robotics partners, from early development through external assessment and certification. Our products
+  
+– including Arm processors, compute subsystems and software self-test libraries – are relied on by the
+  
+world's leading automotive and industrial companies.
+  
+Job Description
+  
+Arm is looking for a Functional Safety Engineer with a focus on tooling, automation and AI to join the
+  
+Arm CE Quality and Compliance team.
+  
+In this role you will support Functional Safety, Automotive Cybersecurity and Quality activities, working
+  
+closely with engineering and assurance teams to explore and implement process-improvement and
+  
+automation solutions. These will include data analytics and the use of AI to support – not replace –
+  
+human judgement on safety and security.
+  
+Youwill implement and maintain practical, scalable compliance solutions for ISO 26262, IEC 61508 and
+  
+ISO/SAE 21434.
+
+**RESPONSIBILITIES**
+
+* Identify and evaluate opportunities to improve productivity through automation, data analytics and AI.
+* Design and implement AI-powered assistants and autonomous or semi-autonomous agents that
+
+support engineering activities.
+  
+
+* Develop automated solutions for work-product quality checks, maturity assessments, consistency
+
+reviews and engineering-process monitoring.
+  
+
+* Integrate automation solutions with existing engineering tools, databases and enterprise systems.
+* Develop data-analytics solutions and dashboards to monitor engineering performance, quality and
+
+process effectiveness.
+  
+
+* Establish appropriate validation, monitoring and human oversight for AI-supported engineering
+
+decisions, ensuring compliance with the requirements of ISO 26262, IEC 61508, ISO/SAE 21434,
+  
+ISO/PAS8800 (Safety and AI) or similar standards.
+  
+
+* Collaborate with engineering teams, process owners and IT to translate business needs into scalable
+
+technical solutions.
+  
+
+* Measure and continuously improve the effectiveness, reliability and adoption of the solutions you
+
+deliver.
+
+**REQUIRED SKILLS AND EXPERIENCE**
+
+* Degree in Computer Science, Software Engineering, Data Science, Engineering or a related
+
+technical discipline.
+  
+
+* Strong software development experience, including building automation solutions.
+* Practical experience developing AI/LLM-based applications, assistants or agentic workflows.
+* Knowledge of LLM integration, prompt engineering, retrieval-augmented generation (RAG), API
+
+integration and evaluation of AI output.
+  
+
+* Experience with data analytics, data processing and visualisation.
+* Understanding of modern software engineering practice, including version control, automated testing
+
+and deployment.
+  
+
+* Ability to work across technical and organisational boundaries in complex engineering environments.
+* Strong communication, stakeholder-management and problem-solving skills.
+
+**NICE-TO-HAVE SKILLS AND EXPERIENCE**
+
+* Practical knowledge of ISO 26262, ISO/SAE 21434, Automotive SPICE, IEC 61508 or similar
+
+standards.
+  
+
+* Familiarity with ISO/PAS8800 (Road vehicles – Safety and artificial intelligence) and emerging
+
+guidance on the use of AI in safety-related engineering.
+  
+
+* Experience in a safety-critical or regulated engineering environment.
+* Experience with requirements/ALM tools (e.g. Jira, Polarion, DOORS) and their APIs.
+
+**IN RETURN**
+
+In this role you will support Functional Safety, Automotive Cybersecurity and Quality activities, working
+  
+closely with engineering and assurance teams to explore and implement process-improvement and
+  
+automation solutions. These will include data analytics and the use of AI to support – not replace –
+  
+human judgement on safety and security.
+  
+Youwill implement and maintain practical, scalable compliance solutions for ISO 26262, IEC 61508 and
+  
+ISO/SAE 21434.
+
+#LI-DA1
+
+**Our 10x Mindset**
+-------------------
+
+At Arm, we believe progress happens when people are empowered to think bigger and push beyond what seems possible. Our 10x mindset is about curiosity, ambition and creating impact that will be used by millions. We learn fast, prioritise collaboration and turn bold ideas into real technology. We look for people who are inspired by this way of working and want to grow in an environment where bold ideas are welcomed. Discover how the 10x mindset shapes life at Arm: https://careers.arm.com/10x-mindset (opens in new window)
+
+**Use of AI in Your Application**
+---------------------------------
+
+At Arm, we embrace the benefits AI can bring, including in recruitment. You may use AI to support your preparation, such as improving the clarity of written responses, practicing interview questions, or learning more about our industry. However, your application and interview responses must reflect your own thinking, experience, and abilities. We want to understand your authentic perspective, creativity, and approach to problem solving. As such, you may not use AI to complete assigned tasks as part of any assessments. If you plan to use AI-supported or assistive technologies as part of a reasonable adjustment, please contact accommodations@arm.com so we can support you.
+
+**Recruitment Adjustments and Accommodations**
+----------------------------------------------
+
+At Arm, we want to build extraordinary teams. If you need an adjustment or an accommodation during the recruitment process, please email accommodations@arm.com. To note, by sending us the requested information, you consent to its use by Arm to arrange for appropriate accommodations. All accommodation or adjustment requests will be treated with confidentiality, and information concerning these requests will only be disclosed as necessary to provide the accommodation. Although this is not an exhaustive list, examples of support include breaks between interviews, having documents read aloud, or office accessibility. Please email us about anything we can do to accommodate you during the recruitment process.
+
+**Hybrid Working**
+------------------
+
+Arm’s approach to hybrid working is designed to create a working environment that supports both high performance and personal wellbeing. We believe in bringing people together face to face to enable us to work at pace, whilst recognizing the value of flexibility. Within that framework, we empower groups/teams to determine their own hybrid working patterns, depending on the work and the team’s needs. Details of what this means for each role will be shared upon application. In some cases, the flexibility we can offer is limited by local legal, regulatory, tax, or other considerations, and where this is the case, we will collaborate with you to find the best solution. Please talk to us to find out more about what this could look like for you.
+
+**Equal Opportunities**
+-----------------------
+
+Arm is an equal opportunity employer, committed to providing an environment of mutual respect where equal opportunities are available to all applicants and colleagues. We are a diverse organization of dedicated and innovative individuals, and don’t discriminate on the basis of race, color, religion, sex, sexual orientation, gender identity, national origin, disability, or status as a protected veteran.

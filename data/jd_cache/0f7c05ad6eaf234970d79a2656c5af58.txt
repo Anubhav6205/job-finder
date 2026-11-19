@@ -1,0 +1,75 @@
+Job Description Senior Power BI & Microsoft Fabric Consultant Experience
+
+12+ Years
+
+Location
+
+India (Remote/Hybrid)
+
+Role Overview
+
+We are seeking an experienced **Senior Power BI & Microsoft Fabric Consultant** with strong expertise in Business Intelligence, Data Engineering, Data Analytics, and Enterprise Reporting. The ideal candidate will have hands-on experience designing and delivering end-to-end analytics solutions using Microsoft Fabric, Power BI, Azure Data Services, and modern data platforms. The role requires deep technical expertise combined with stakeholder engagement and solution delivery capabilities. [Bhausaheb...V-PBI.docx | Word]
+
+Key Responsibilities
+
+* Design, develop, and implement enterprise-scale BI and analytics solutions using Microsoft Fabric and Power BI.
+* Build and maintain scalable data pipelines using Azure Data Factory (ADF), Databricks (PySpark), and Fabric Dataflows.
+* Develop semantic models, KPI frameworks, dashboards, and self-service analytics capabilities for business users
+* Design Lakehouse, Data Warehouse, and OneLake-based architectures to support reporting and analytics workloads.
+* Integrate data from diverse enterprise sources including ERP, CRM, cloud platforms, APIs, databases, and files.
+* Implement Power BI security models, performance optimization, and governance standards.
+* Lead migration initiatives from legacy BI platforms (SSIS, SSAS, SSRS) to Microsoft Fabric and Azure-based analytics solutions.
+* Collaborate with business stakeholders to define KPIs, reporting requirements, and data strategies.
+* Support DevOps, CI/CD, infrastructure automation, and deployment best practices across BI platforms.
+* Mentor teams on Power BI, Fabric architecture, analytics best practices, and AI-assisted development using Copilot.
+
+Required Skills Primary Skills
+
+* Microsoft Fabric
+* Power BI
+* Data Modeling
+* DAX
+* Azure Data Factory (ADF)
+* Azure Databricks
+* SQL Server
+* Azure Synapse Analytics
+* Data Warehousing
+* Lakehouse Architecture
+* OneLake
+* ETL/ELT Development
+* CI/CD and Azure DevOps
+
+Programming & Scripting
+
+* SQL
+* Python
+* PySpark
+* PowerShell
+
+Desired Expertise
+
+* Data Visualization and Executive Reporting
+* Enterprise Data Architecture
+* Data Governance and Data Quality
+* Self-Service Analytics
+* Data Pipeline Orchestration
+* Performance Optimization
+* Cloud Data Modernization
+* AI-assisted Analytics and Copilot Enablement
+
+Certifications Preferred
+
+* Microsoft Certified: Power BI Data Analyst Associate (PL-300)
+* Microsoft Certified: Azure Data Engineer Associate (DP-203)
+* Microsoft Certified: Azure Fundamentals (AZ-900)
+
+Domain Experience
+
+* Insurance
+* Retail / CPG
+* Healthcare (RCM)
+* Telecom Expense Management (TEM)
+
+Candidate Profile
+
+The ideal candidate is a seasoned BI and Analytics professional with experience delivering enterprise analytics platforms, modernizing legacy reporting ecosystems, and enabling business-driven decision making through data. The candidate should possess strong stakeholder management, solution architecture, and delivery leadership capabilities while driving adoption of Microsoft Fabric and Power BI across the organization.

@@ -1,0 +1,64 @@
+**About The Role**
+We are looking for a hands-on Machine Learning Engineer to design, build, and deliver end-to-end machine learning products at scale.
+  
+  
+In this role, you will work across the complete ML lifecycle - from problem framing and research to production deployment, monitoring, and continuous improvement.
+  
+  
+You will balance the development of new AI capabilities with the modernization and optimization of existing machine learning solutions.
+  
+  
+You will collaborate closely with Data Scientists, Software Engineers, Product Managers, and business stakeholders to transform complex business problems into scalable, measurable AI solutions.
+  
+  
+**Key Responsibilities**
+
+* Lead end-to-end machine learning projects, from scoping and data discovery through deployment, monitoring, and iteration.
+* Design and deploy production-grade ML systems, including batch processing jobs, real-time APIs, and data and feature pipelines.
+* Develop clean, reliable, fault-tolerant, and well-tested code using Python and SQL.
+* Apply modern MLOps practices, including CI/CD, Docker, Kubernetes, model registries, and feature stores.
+* Use AI-assisted development and coding tools to improve engineering productivity, code quality, testing, and development workflows.
+* Select and apply appropriate machine learning approaches, including classical ML, deep learning, NLP, LLMs, RAG, and agentic AI systems.
+* Work on use cases such as recommendations, search and ranking, forecasting, pricing, fraud detection, personalization, and supply chain optimization.
+* Own feature engineering, experimentation, model evaluation, A/B testing, model monitoring, drift detection, and retraining strategies.
+* Modernize legacy ML solutions and improve inference latency, cost efficiency, reproducibility, observability, and governance.
+* Translate ambiguous business requirements into clearly defined machine learning problems and communicate technical trade-offs to stakeholders.
+* Contribute to technical standards, ML platform improvements, and mentor junior engineers and data professionals.
+
+**Required Skills & Qualifications**
+
+* Master's or PhD in Computer Science, Machine Learning, Statistics, Mathematics, Physics, or a related quantitative discipline; equivalent practical experience will also be considered.
+* Proven experience delivering machine learning products into production at scale.
+* Strong understanding of data structures, algorithms, data modelling, and software architecture.
+* Strong knowledge of the end-to-end ML lifecycle, including data discovery, feature engineering, model development, evaluation, deployment, and monitoring.
+* Advanced Python programming skills with experience in libraries and tools such as Pandas, NumPy, Scikit-learn, and Jupyter.
+* Strong SQL skills for data analysis and analytical workflows.
+* Hands-on experience using AI-assisted coding tools or coding agents as part of the software development lifecycle.
+* Experience with at least one major cloud platform; experience with Google Cloud Platform is preferred.
+* Practical knowledge of Docker, Kubernetes, and CI/CD pipelines for machine learning workflows.
+* Strong understanding of applied statistics, including hypothesis testing, sampling, experimentation, A/B testing, anomaly detection, predictive modelling, and regression analysis.
+* Strong communication and stakeholder management skills, with the ability to manage multiple projects and work effectively across cross-functional teams.
+
+**Preferred Skills**
+
+* Experience with agent frameworks and AI agent development platforms.
+* Hands-on experience with PyTorch or TensorFlow, particularly for computer vision or multimodal AI use cases.
+* Experience with distributed data processing technologies such as Spark, Beam, or Dataflow.
+* Experience with streaming technologies such as Kafka or Pub/Sub.
+* Knowledge of feature stores and experiment-tracking tools such as Feast, MLflow, Weights & Biases, or similar platforms.
+* Experience working on machine learning use cases in retail, e-commerce, fintech, or other large-scale digital platforms.
+* Contributions to open-source projects, published technical work, Kaggle projects, or a strong public technical portfolio.
+
+**What We Offer**
+
+* Opportunity to work on modern AI and machine learning technologies.
+* Exposure to complex, large-scale business and technology challenges.
+* Collaborative environment with experienced engineering and data professionals.
+* Opportunities for continuous learning, technical development, and career growth.
+
+**Equal Opportunity**
+
+* We are an equal opportunity employer and are committed to building an inclusive and respectful workplace.
+* Employment decisions are based on skills, qualifications, experience, and business requirements, without discrimination as protected by applicable laws.
+
+(ref:hirist.tech)

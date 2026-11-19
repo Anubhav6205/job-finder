@@ -1,0 +1,61 @@
+**About Persistent**
+We are an AI-led, platform-driven Digital Engineering and Enterprise Modernization partner, combining deep technical expertise and industry experience to help our clients anticipate what’s next. Our offerings and proven solutions create a unique competitive advantage for our clients by giving them the power to see beyond and rise above. We work with many industry-leading organizations across the world, including 18 of the Fortune 50 companies, 7 of the 10 top US banks, 9 of the 10 technology companies, and numerous innovators across the healthcare ecosystem.
+  
+  
+Our disruptor’s mindset, commitment to client success, and agility to thrive in the dynamic environment have enabled us to sustain our growth momentum. Persistent has been recognized across top industry platforms for innovation, leadership, and inclusion. We have delivered 26 sequential quarters of growth with $487.6M in Q2 FY27 revenue, up 7.8% Q-o-Q and 20.0% Y-o-Y. Our 29,500+ global team members, located in 21 countries, have been instrumental in helping the market leaders transform their industries. We received five awards at the ISG (Information Services Group) Provider Lens™ Awards 2026 and, for the second year in a row, were awarded the Growth Honor of the Year at the Everest Group Elevate 2026.
+  
+  
+**About Position**
+We are seeking a skilled GenAI & Agentic AI Engineer with strong experience in building end‑to‑end AI/ML solutions, Generative AI applications, and agent‑based automation workflows. The ideal candidate will have a solid background in machine learning along with hands‑on expertise in LLMs, RAG, embeddings, vector databases, and Agentic AI frameworks such as CrewAI, AutoGen, LangGraph, or LangChain Agents.
+  
+  
+
+* Role: GenAI & Agentic AI Engineer
+* Location: Pune
+* Experience: 8 to 12 years
+* Job Type: Full Time Employment
+
+**What You'll Do**
+
+* Build and deploy GenAI applications using LLMs (OpenAI, Azure OpenAI, Claude, Gemini, Llama, etc.).
+* Develop Agentic AI workflows using frameworks such as CrewAI, AutoGen, LangGraph, or LangChain Agents.
+* Design and implement RAG pipelines, vector search solutions, and embedding‑based retrieval systems.
+* Build scalable AI services using Python, FastAPI/Flask, and cloud platforms (Azure/AWS/GCP). Collaborate with cross‑functional teams to define use cases and convert them into production‑ready GenAI solutions.
+* Implement hallucination reduction, prompt‑engineering strategies, and model evaluation methods.
+* Integrate LLMs with enterprise applications, APIs, and automation workflows. Work with vector databases (FAISS, Pinecone, Chroma, Weaviate) for semantic search. Monitor, evaluate, and optimize GenAI models for accuracy, performance, and cost.
+
+**Expertise You'll Bring**
+
+* Need a lead level resource in GenAI team.
+* Operating Systems - MS Windows, Linux
+* Languages - Python, SQL
+* Deep Learning - TensorFlow, Keras
+* Machine Learning - Pandas, NumPy, Scikit Learn DL
+* Models - LLM, RNN, LSTM, Transformers, CNN, Yolo, ANN.
+* ML Models - Regression, Classification, Unsupervised, Forecasting.
+* Visualization - Power BI, Tableau
+* Cloud - Azure, ML Studio, Azure Cognitive services, Data Robot, AWS, Bedrock
+* Generative AI - Open AI, Gemini, Gemma, Gpt Model, Lang chain, Hugging Face, RAG, MCP, Agents
+
+**Benefits**
+
+* Competitive salary and benefits package
+* Culture focused on talent development with quarterly growth opportunities and company-sponsored higher education and certifications
+* Opportunity to work with cutting-edge technologies
+* Employee engagement initiatives such as project parties, flexible work hours, and Long Service awards
+* Annual health check-ups
+* Insurance coverage: group term life, personal accident, and Mediclaim hospitalization for self, spouse, two children, and parents
+
+**Values-Driven, People-Centric & Inclusive Work Environment**
+Persistent is dedicated to fostering diversity and inclusion in the workplace. We invite applications from all qualified individuals, including those with disabilities, and regardless of gender or gender preference. We welcome diverse candidates from all backgrounds.
+  
+  
+
+* We support hybrid work and flexible hours to fit diverse lifestyles.
+* Our office is accessibility-friendly, with ergonomic setups and assistive technologies to support employees with physical disabilities.
+* If you are a person with disabilities and have specific requirements, please inform us during the application process or at any time during your employment
+
+**Let’s unleash your full potential at Persistent -**
+**persistent.com/careers**
+***“Persistent is an Equal Opportunity Employer and prohibits discrimination and harassment of any kind.”***
+GenAI Landscape,Python

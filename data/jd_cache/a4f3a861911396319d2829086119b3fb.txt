@@ -1,0 +1,115 @@
+A mid-to-senior Python developer who builds and runs production backend services, APIs and integrations on their own, with light guidance on architecture. At 45 years, they should own features end to end (design, code, tests, deployment, monitoring), review others' code, and be ready to contribute to AI and agent-based applications on our internal platform.
+
+What separates this level from junior: they write code others can maintain, choose sensible designs without being told, debug production issues independently, and know when to ask for an architecture review.
+
+Core technical skills
+
+Area
+
+What they should be able to do
+
+Priority
+
+Core Python
+
+Idiomatic Python 3.11+: typing and type hints, dataclasses / Pydantic models, generators, context managers, decorators, packaging; understands the GIL and when it matters
+
+Must have
+
+Async and concurrency
+
+asyncio, async HTTP clients, task queues (Celery, RQ or similar), threading vs. multiprocessing trade-offs
+
+Must have
+
+Web APIs
+
+Build REST APIs with FastAPI, Django or Flask; validation, auth (OAuth 2.0 / JWT), pagination, error handling, OpenAPI docs
+
+Must have
+
+Databases
+
+SQL (PostgreSQL preferred), schema design, indexes, query tuning; an ORM (SQLAlchemy or Django ORM) and migrations; basic Redis
+
+Must have
+
+Testing
+
+pytest, fixtures, mocking, integration tests against real dependencies, measuring and improving coverage
+
+Must have
+
+Integration
+
+Consume third-party REST and OData APIs; retries, backoff, idempotency, rate limits; parse JSON, XML, CSV, PDF
+
+Must have
+
+Code quality
+
+Git workflows, code review, linting and formatting (ruff, black), static typing (mypy or pyright), clean modular design
+
+Must have
+
+DevOps basics
+
+Docker, CI/CD pipelines, environment config and secrets, reading logs and metrics in production
+
+Must have
+
+Cloud
+
+Deploy and run services on AWS, Azure or GCP (functions, containers, managed databases, object storage)
+
+Strong plus
+
+Observability
+
+Structured logging, tracing (OpenTelemetry), metrics, alerting
+
+Strong plus
+
+LLM application development
+
+Call LLM APIs, structured outputs, tool/function calling, prompt design, basic retrieval (embeddings, vector store)
+
+Strong plus
+
+Data handling
+
+pandas or Polars for data preparation and analysis
+
+Nice to have
+
+Frontend awareness
+
+Enough JavaScript/TypeScript to work with a frontend team or build a simple internal UI
+
+Nice to have
+
+**Experience requirements**
+
+* 4–5 years of professional Python development, at least 3 of them on production backend systems.
+* Has shipped and maintained at least one service or API used by real users, including fixing production incidents.
+* Has built integrations with external systems (SaaS APIs, ERP, document stores) and handled their failure modes.
+* Has written and maintained automated test suites and worked in a CI/CD pipeline.
+* Has worked in an agile team with code review, tickets and regular releases.
+* Degree in computer science or related field, or equivalent practical experience.
+
+**Nice to have**
+
+* Hands-on work with LLM APIs or agent frameworks (e.g. LangGraph, Claude Agent SDK, OpenAI Agents SDK), or building MCP servers.
+* Retrieval-augmented generation: chunking, embeddings, vector databases (pgvector, OpenSearch, Pinecone or similar).
+* Document processing: PDF and Word parsing, OCR, table extraction.
+* Enterprise integration: SAP S/4HANA or Ariba APIs, or an iPaaS such as SAP Integration Suite or Jitterbit.
+* Workflow engines (Temporal, Airflow, Step Functions).
+* Experience in contract management, procurement or legal tech.
+
+**Working style**
+
+* Owns a feature from ticket to production and follows up after release.
+* Writes clear pull requests, design notes and README files.
+* Asks for help early on unfamiliar areas, but arrives with options.
+* Gives and receives code review constructively.
+* Cares about security and data handling by default.

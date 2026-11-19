@@ -1,0 +1,47 @@
+**We're looking for a**
+
+**Advanced Technical Support Specialist**
+=========================================
+
+**This role is** **Office Based, Pune Office**
+
+The Advance Product Support Specialist is part of the Global Customer Support Team. Advanced Product Support Engineer serve as product and technical expert providing advanced technical support across Cornerstone OnDemand’s suite of enterprise applications. The Advanced Technical Support Specialist conducts thorough research and testing when specific product behaviours are challenged by clients and employees, articulately explains designed behaviours, acts as a champion for enhancements when appropriate, mentors junior team members, serves as a point of escalation and works closely with technology teams. They must also be able to communicate effectively with clients and internal stakeholders to ensure that Cornerstone OnDemand fulfils its commitment to providing world-class support and service. This position requires a hands-on individual, who can passionately and patiently educate our clients on, how our product is designed to work, and excels in problem solving skills, has eagerness to learn and brings customer centric mindset.
+
+**In this role you will…**
+
+* Own complex cases end-to-end: integrations, APIs, data issues, multi-module configuration — to Earned Resolution, not ticket closure.
+* Deliver Pro Desk as the primary expert: scheduled 1:1 session that replace CSM coaching with certified product expertise.
+* Take escalated Live Chat and voice — real-time expertise when the customer’s business is stuck.
+* Reproduce and evidence defects: clean repro steps, logs, and breadth data that feed EIM scoring and the OneList.
+* Mentor L1s daily — the 15-minute rule works because someone answers; claim hard cases at the line-up (‘I’ve got it’).
+* Work AI-in-the-loop as default: copilot research, drafted responses reviewed, knowledge gaps closed.
+* Pod Specialist certification within 45 days; multi-product breadth valued.
+
+**You've got what it takes if you have…**
+
+* 5+ years technical support with real troubleshooting depth — logs, APIs, SSO, integrations, data flows.
+* Experience troubleshooting SSO, authentication, user provisioning, and identity management solutions.
+* Working knowledge of SAML, OAuth, SCIM, OpenID Connect, and identity providers such as Microsoft Entra ID, Okta, or similar platforms.
+* Hands-on experience troubleshooting REST APIs, web services, webhooks, connectors, and integration workflows.
+* Ability to analyze logs, audit records, browser traces, and API responses to isolate and resolve technical issues.
+* Experience supporting HRIS, HCM, LMS, ERP, Talent Management, or related enterprise applications and integrations.
+* Knowledge of FTP/SFTP, data feeds, synchronization processes, and integration monitoring.
+* Experience working with log analysis tools such as Splunk or equivalent platforms.
+* Ability to independently diagnose complex customer issues and drive resolution across multiple systems and stakeholders.
+* Teaching instinct: you make customers and L1s smarter in every interaction.
+* Composure in escalated moments; documentation discipline that makes handoffs invisible.
+
+#LI-Onsite
+
+  
+  
+
+**Our Culture:**
+
+Spark Greatness. Shatter Boundaries. Share Success. Are you ready? Because here, right now – is where the future of work is happening. Where curious disruptors and change innovators like you are helping communities and customers enable everyone – anywhere – to learn, grow and advance. To be better tomorrow than they are today.
+
+**What We Do:**
+
+Cornerstone powers the potential of organizations and their people to thrive in a changing world. Cornerstone Galaxy, the complete AI-powered workforce agility platform, meets organizations where they are. With Galaxy, organizations can identify skills gaps and development opportunities, retain and engage top talent, and provide multimodal learning experiences to meet the diverse needs of the modern workforce. More than 7,000 organizations and 100 million+ users in 180+ countries and in nearly 50 languages use Cornerstone Galaxy to build high-performing, future-ready organizations and people today.
+
+Check us out on LinkedIn, Comparably, Glassdoor, and Facebook!

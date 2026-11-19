@@ -1,0 +1,28 @@
+It's fun to work in a company where people truly BELIEVE in what they are doing!
+  
+  
+*We're committed to bringing passion and customer focus to the business.*
+**Responsibilities**
+**Job Description**
+
+* Design and implement advanced solutions utilizing Large Language Models (LLMs).
+* Demonstrate self-driven initiative by taking ownership and creating end-to-end solutions.
+* Conduct research and stay informed about the latest developments in generative AI and LLMs.
+* Develop and maintain code libraries, tools, and frameworks to support generative AI development.
+* Participate in code reviews and contribute to maintaining high code quality standards.
+* Engage in the entire software development lifecycle, from design and testing to deployment and maintenance.
+* Collaborate closely with cross-functional teams to align messaging, contribute to roadmaps, and integrate software into different repositories for core system compatibility.
+* Possess strong analytical and problem-solving skills.
+* Demonstrate excellent communication skills and the ability to work effectively in a team environment. Primary Skills:
+* Natural Language Processing (NLP): Hands-on experience in use case classification, topic modeling, Q&A and chatbots, search, Document AI, summarization, and content generation. AND/OR
+* Computer Vision and Audio: Hands-on experience in image classification, object detection, segmentation, image generation, audio, and video analysis.
+* Generative AI: o Proficiency with SaaS LLMs, including Lang chain, llama index, vector databases, Prompt engineering (COT, TOT, ReAct, agents). Experience with Azure OpenAI, Google Vertex AI, AWS Bedrock for text/audio/image/video modalities. o Familiarity with Open-source LLMs, including tools like TensorFlow/Pytorch and huggingface. Techniques such as quantization, LLM finetuning using PEFT, RLHF, data annotation workflow, and GPU utilization.
+* Cloud: Hands-on experience with cloud platforms such as Azure, AWS, and GCP. Cloud certification is preferred.
+* Application Development: Proficiency in Python, Docker, FastAPI/Django/Flask, and Git.
+
+If you like wild growth and working with happy, enthusiastic over-achievers, you'll enjoy your career with us!
+  
+  
+Not the right fit? Let us know you're interested in a future opportunity by clicking
+*Introduce Yourself*
+in the top-right corner of the page or create an account to set up email alerts as new job postings become available that meet your interest!

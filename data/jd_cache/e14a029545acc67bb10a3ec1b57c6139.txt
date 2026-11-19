@@ -1,0 +1,56 @@
+DeepIntent is the leading healthcare marketing platform, purpose-built to help marketers plan, activate, and optimize data-driven campaigns with speed and precision. Trusted by the world's top healthcare brands and their agencies, DeepIntent uniquely unites media, identity, and real-world clinical data to power privacy-safe, omnichannel marketing across every screen. Backed by patented technology and proven outcomes, DeepIntent's platform delivers measurable audience quality and script lift at scale. Learn more at www.deepintent.com.
+
+**What You'll Do:**
+
+We're hiring a **Senior Software Engineer, Security** to own product and platform security across every DeepIntent product. Hybrid, Pune, India. You'll sit in our Developer Experience team, which owns security on the engineering roadmap.
+
+Security requirements now reach every product we ship: annual Google CASA assessments for OAuth apps, SOC 2 evidence, third-party penetration tests and customer security reviews. AI agents and MCP servers add new attack surface on top. Today our product and platform engineers handle this alongside their roadmaps; you'll turn it into a proactive, engineered practice.
+
+This is an engineering role, not a monitoring one. You'll write and ship code, build guardrails into our pipelines and fix issues at their root, using AI to cover far more ground than one person could alone.
+
+* **Own security assessments end to end:** Google CASA (App Defense Alliance) for OAuth apps, SOC 2 evidence, third-party penetration tests and customer security questionnaires. Turn each into repeatable controls, not a yearly fire drill.
+* **Build application security into every product:** threat models and secure design reviews, plus fixes for authentication, MFA, session, token and tenant-isolation flaws.
+* **Drive deny-by-default authorization:** help teams adopt a central, entity-level authorization model and role-based access across our DSP, media, audience, measurement and AI products.
+* Secure our AI and agent surfaces: MCP servers, OAuth for third-party connectors, agent tool permissions, prompt injection and data-exfiltration risks.
+* Own vulnerability and supply-chain management: dependency, container, workflow and infrastructure-as-code scanning (such as Dependabot, OSV, Trivy or zizmor), CVE gates in CI/CD and fix-time targets for what they find.
+* Run secrets and key management: Vault and cloud secret managers, and automated rotation of credentials, encryption keys and token-signing secrets.
+* **Harden cloud and Kubernetes:** least-privilege IAM, workload security contexts, network controls and posture findings across AWS and GCP.
+* **Build security automation and agents:** AI-driven penetration testing, triage of code-scanning findings, and remediation agents that open fixes for engineers to review.
+* **Strengthen detection and response with SRE:** audit logging, SIEM detections and incident investigations.
+* **Raise the bar for every engineer:** secure coding standards, review checklists and guardrails that make the secure path the easy one.
+
+**Who You Are:**
+
+* 5.5+ years of software engineering experience, with 3+ years focused on application, cloud or product security.
+* Strong coder in at least one of Java, Python, Go or TypeScript. You fix vulnerabilities in code, not just report them.
+* Deep web and API security knowledge: OWASP Top 10 and API Top 10, OAuth 2.0 and OIDC, MFA, session and token security, and multi-tenant isolation.
+* Has taken products through security assessments or audits such as CASA, SOC 2 or ISO 27001, including producing the evidence.
+* Hands-on with SAST, DAST, dependency and container scanning in CI/CD, using tools such as Burp Suite, ZAP, Semgrep, SonarQube or Trivy.
+* Cloud and Kubernetes security experience on AWS or GCP: IAM, KMS, secrets management (such as Vault) and network controls.
+* Prioritizes by real exploitability and business impact, and can explain risk trade-offs to engineers and leaders.
+* Has shipped real security work using AI across the SDLC (threat modeling, coding, testing, reviews, documentation), not just experimented with it.
+* Uses agentic coding and AI security tools (such as Claude Code, Cursor or Copilot) every day, and picks up new ones quickly.
+* Treats AI as a pair programmer and owns the output: verifies AI-reported findings and AI-written fixes before they ship. "The AI said so" is never the evidence.
+* Understands the new attack surface AI brings, including prompt injection, tool abuse and agent authorization.
+* Knows the security and data-privacy guardrails for using AI tools with the healthcare data we work with.
+* Solution-oriented: starts from the risk and the outcome, not the ticket or the scanner report.
+* Leads security work across teams and influences without direct authority.
+* A clear communicator with engineers, product, compliance and customers' security teams.
+* Experience securing LLM apps or agents (OWASP Top 10 for LLM applications, MCP authorization) is a plus.
+* Experience working with healthcare data and privacy rules such as HIPAA, or in ad tech, is a plus.
+* Experience hardening GitHub Actions and Terraform estates, or working with SBOMs and artifact signing, is a plus.
+* Experience building SIEM detections (such as Wazuh) or leading incident response is a plus.
+* Having certifications such as OSCP, OSWE or a cloud security certification is a plus.
+* Having bug bounty findings, published CVEs or contributions to open-source security tools is a plus.
+
+We believe great work starts with great support. That's why DeepIntent offers a competitive, holistic benefits package designed to empower you both professionally and personally.
+
+Here's what you can expect when you join our team based in the US: Competitive base salary plus performance based bonus or commission, comprehensive medical, dental, and vision insurance, 401K match program, flexible PTO policy and paid holidays, remote friendly culture with flexible work options, career development and advanced education support, WFH and internet stipends, plus many more perks and benefits!
+
+Here's what you can expect when you join our team based in India: Competitive base salary plus performance based bonus, comprehensive medical insurance, and paid holidays. Hybrid-friendly culture with flexible work options, professional development reimbursement, WiFi reimbursement and health and wellness allowance plus many more perks and benefits!
+
+Here's what you can expect when you join our team based in Europe: Competitive base salary plus performance-based bonus, comprehensive medical insurance, and flexible PTO. Hybrid-friendly culture with flexible work options, professional development reimbursement, WiFi reimbursement, and parental leave plus many more perks and benefits!
+
+DeepIntent is committed to bringing together individuals from different backgrounds and perspectives. We strive to create an inclusive environment where everyone can thrive, feel a sense of belonging, and do great work together. DeepIntent is an Equal Opportunity Employer, providing equal employment and advancement opportunities to all individuals. We recruit, hire and promote into all job levels the most qualified applicants without regard to race, color, creed, national origin, religion, sex (including pregnancy, childbirth and related medical conditions), parental status, age, disability, genetic information, citizenship status, veteran status, gender identity or expression, transgender status, sexual orientation, marital, family or partnership status, political affiliation or activities, military service, immigration status, or any other status protected under applicable federal, state and local laws. If you have a disability or special need that requires accommodation, please let us know in advance. DeepIntent's commitment to providing equal employment opportunities extends to all aspects of employment, including job assignment, compensation, discipline and access to benefits and training.
+
+CCPA Notice: If you are a California resident applying for a role at DeepIntent, we may collect personal information as part of the application process in accordance with the California Consumer Privacy Act (CCPA). To learn more about the categories of information we collect and your rights, please contact PeopleOps@deepintent.com to see our full Applicant Privacy Notice.

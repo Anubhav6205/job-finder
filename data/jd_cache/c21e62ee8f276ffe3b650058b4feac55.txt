@@ -1,0 +1,12 @@
+Required Skills:   
+ Generative AI (GenAI) Concepts  
+ Prompt Engineering  
+ Azure OpenAI / OpenAI Services  
+ Large Language Models (LLMs)  
+ Retrieval-Augmented Generation (RAG)  
+ Agentic AI  
+ AI-Powered Application Development  
+ AI Chatbot Development  
+ Copilot Integration  
+ REST APIs & AI Service Integration  
+ Python

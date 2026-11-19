@@ -1,0 +1,148 @@
+### **General Information**
+
+Req #
+
+WD00108712
+
+Career area:
+
+Hardware Engineering
+
+Country/Region:
+
+India
+
+State:
+
+Karnataka
+
+City:
+
+BANGALORE
+
+Date:
+
+Wednesday, November 18, 2026
+
+Working time:
+
+Full-time
+
+**Additional Locations**:
+
+* India - Karnātaka - Bangalore
+
+* India - Karnātaka - BANGALORE
+
+### **Why Work at Lenovo**
+
+We are Lenovo. We do what we say. We own what we do. We WOW our customers.
+
+  
+  
+
+Lenovo is a US$83 billion revenue global technology powerhouse, ranked #153 in the Fortune Global 500, and serving millions of customers every day in 180 markets. Focused on a bold vision to deliver Smarter Technology for All, Lenovo has built on its success as the world’s largest PC company with a full-stack portfolio of AI-enabled, AI-ready, and AI-optimized devices (PCs, workstations, smartphones, tablets), infrastructure (server, storage, edge, high performance computing and software defined infrastructure), software, solutions, and services. Lenovo’s continued investment in world-changing innovation is building a more equitable, trustworthy, and smarter future for everyone, everywhere. Lenovo is listed on the Hong Kong stock exchange under Lenovo Group Limited (HKSE: 992) (ADR: LNVGY).
+
+  
+
+This transformation together with Lenovo’s world-changing innovation is building a more inclusive, trustworthy, and smarter future for everyone, everywhere. To find out more visit www.lenovo.com, and read about the latest news via our StoryHub.
+
+### **Description and Requirements**
+
+At Lenovo, we are driven by a bold vision to deliver Smarter Technology for All. Our mission is to develop transformative technologies that foster a more inclusive, trustworthy, and sustainable digital society. Through the design and engineering of the world’s most comprehensive portfolio of smart devices and infrastructure, we are also leading innovation in developing and delivering Hybrid AI solutions that reinvent the way users interact with their fleet of devices. Our Hybrid AI Platform allows for development of AI based solutions that are deployed on Cloud, Agentic AI solutions and Edge solutions on millions of devices. It also gathers data that is analyzed and processed to provide intelligent and innovative solutions with cutting-edge technologies. Join us in shaping the future of intelligent device management and defining the next generation of smarter technology.
+
+  
+
+**About this role**
+  
+  
+Lenovo Cloud and Software team is seeking an junior AI and Machine Learning Engineer to actively participate in development of AI/ML Platform leading to Platform as a Service model specifically in on-device client applications. This role is also expected to be proficient in data processing techniques, transformation, develop data pipelines to enable consumption by the programmed models. To be successful in this role, candidates must be hands-on developer with rich knowledge of client technologies, TinyML, edge deployment of machine learning models. Proficiency in data lake usage, machine learning and AI concepts using C++/C#, .Net technologies and its foundational library frameworks. This role requires extensive coordination with multiple teams and stakeholders throughout the lifecycle of development. Close collaboration with Architecture team, Product Lifecycle management team, product assurance team, security and others. Release management through Agile processes is a primary responsibility for this role. A successful candidate in this role would have well rounded knowledge of traditional Machine Learning, Data, Cloud and AI concepts.
+
+**Primary Skills and Responsibilities**
+
+At least 2+ years of relevant experience of full-time working experience in Client (on-device) technologies
+
+Hands on Experience with C++/C#, .Net framework
+
+Strong Data Engineering knowledge with technologies such as Python, TensorFlow (Lite), PySpark
+
+Experience developing small footprint models for on-device usage
+
+Experience with testing technologies for various ML Models
+
+Experience in designing and developing Unsupervised models for clustering, pattern analysis and anomaly detection, forecasting.
+
+Experience in handling Time Series Data, Anomalies detection, Data Correlation techniques
+
+Well versed with model optimization, resources handling, recall and precision tuning, improving performance while maintaining inference quality.
+
+Knowledge of big data processing, transformations, optimized pipeline processing, Lakehouse architecture.
+
+Hands-on development of Solutions in Data Engineering technologies & AI
+
+Participating in daily working sessions, and leading workstreams from planning through execution to closure
+
+Hands on development experience in Python, using related libraries such as Pandas, PyTorch, TensorFlow Lite, Spark
+
+Good understanding of PaaS platforms and associated technologies
+
+Thorough understanding of Agile Development practices, ceremonies
+
+Excellent communication skills
+
+  
+  
+
+**Preferred Skills**
+  
+  
+Certifications in AWS or equivalent Cloud technologies and AI, ML paths
+  
+Microservices architecture knowledge and REST based solutions
+  
+Excellent communication, interpersonal, and presentation skills, including clear descriptions and document generation, such as class diagrams, sequence diagrams, and protocol definitions.
+
+**Technologies**
+  
+  
+Proficiency in programming languages such as Python, .Net, C++, TypeScript based languages
+  
+Expertise in Machine Learning frameworks such as TensorFlow (Lite), PyTorch, LangChain, LangGraph
+  
+Client (on-device) technologies/services, Windows Operating system fundamentals
+  
+Messaging Protocols such as Kafka, MQTT
+  
+SQLLite, DuckDB and NoSQL Databases
+  
+Stream processing, Python
+  
+Knowledge of multiple Operating Systems such as Windows, Macintosh, Linux, Android, iOS
+  
+Algorithmic knowledge of various models and their applicability
+  
+SourceControl systems such as Git, BitBucket
+  
+Atlassian tools familiarity - JIRA, Confluence, BitBucket
+
+**Additional Locations**:
+
+* India - Karnātaka - Bangalore
+
+* India - Karnātaka - BANGALORE
+
+* India
+
+* India - Karnātaka
+
+\* India - Karnātaka - Bangalore , \* India - Karnātaka - BANGALORE
+
+**NOTICE FOR PUBLIC**
+
+  
+
+At Lenovo, we follow strict policies and legal compliance for our recruitment process, which includes role alignment, employment terms discussion, final selection and offer approval, and recording transactions in our internal system. Interviews may be conducted via audio, video, or in-person depending on the role, and you will always meet with an official Lenovo representative.
+
+Please beware of fraudulent recruiters posing as Lenovo representatives. They may request cash deposits or personal information. Always apply through official Lenovo channels and never share sensitive information. Lenovo does not solicit money or sensitive information from applicants and will not request payments for training or equipment.
+
+Kindly verify job offers through the official Lenovo careers page or contact IndiaTA@lenovo.com. Stay informed and cautious to protect yourself from recruitment fraud. Report any suspicious activity to local authorities.

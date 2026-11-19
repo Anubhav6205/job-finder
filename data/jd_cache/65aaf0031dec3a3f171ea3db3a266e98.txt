@@ -1,0 +1,107 @@
+**Why Ryan?**
+
+* Global Award-Winning Culture
+* Flexible Work Environment
+* Generous Paid Time Off
+* World-Class Benefits and Compensation
+* Rapid Growth Opportunities
+* Company Sponsored Two-Way Transportation
+* Exponential Career Growth
+
+As a Senior Engineer, you will play a pivotal role in designing, developing, and delivering robust, scalable, and secure artificial intelligence (AI)-driven software systems. You will own complex components, lead critical feature implementation, and promote engineering best practices within your squad. You will help connect high-level design with detailed implementation through active participation in solution design, system integration, evaluation, and continuous improvement.  
+  
+You will collaborate with cross-functional teams, contribute to architectural discussions, and help ensure AI solutions align with user needs, business goals, safety expectations, and performance constraints. Success in this position requires hands-on engineering expertise, strong ownership, and the ability to work independently and collaboratively.
+
+**Duties and Responsibilities**
+
+**Software Design and Development**
+
+* Translate business needs into agentic workflows and production-ready full-stack components, including application programming interfaces (APIs), services, and user interfaces (UIs).
+* Design and document functional and technical specifications for mid-sized to large components.
+* Implement agent orchestration, tool use, and integrations with a strong focus on correctness, safety, and reliability.
+* Implement and review high-quality code using modern software development practices.
+* Conduct design and code reviews with an emphasis on performance, scalability, and maintainability.
+
+**Applications Integration and Middleware**
+
+* Integrate enterprise applications and services using APIs and middleware solutions.
+* Conduct feasibility assessments and support application interoperability testing.
+* Troubleshoot integration issues and support the optimization of connected systems.
+
+**Cloud, DevOps, and Configuration**
+
+* Develop software and participate in deployments within Microsoft Azure cloud environments.
+* Configure platform-specific deployment scripts and troubleshoot build and release issues.
+* Participate in infrastructure-as-code practices and cloud performance tuning.
+
+**Testing and Automation**
+
+* Define evaluation strategies for agent behavior, including golden datasets, regression suites, scenario coverage, and reliability checks.
+* Instrument and monitor agent behavior, including tool-call traces, latency and cost metrics, and failure modes, and drive iterative improvements.
+* Design and execute complex unit, integration, and automated test cases.
+* Analyze and resolve test failures, propose code fixes, and contribute to automation frameworks.
+* Collaborate with quality assurance and DevOps teams to enhance continuous integration and continuous delivery (CI/CD) pipelines.
+
+**Architecture Support**
+
+* Assist in translating high-level architecture into low-level designs.
+* Develop and maintain design artifacts under the guidance of architects and staff engineers.
+* Understand existing system architecture and communicate trade-offs during design sessions.
+
+**Collaboration and Execution**
+
+* Work closely with product managers, user experience (UX) designers, and business stakeholders.
+* Contribute to project planning and estimation for features and enhancements.
+* Lead technical discussions, mentor junior engineers, and support knowledge sharing.
+
+**Required Competencies**
+
+**Technical Strength**
+
+* Demonstrates a deep understanding of core programming concepts, system design principles, and application performance optimization.
+* Has hands-on experience building agentic systems with large language models (LLMs), including tool use, orchestration, multistep flows, and verification and validation patterns.
+* Is proficient in one or more agentic frameworks, such as LangChain/LangGraph, the OpenAI Agents Software Development Kit (SDK), Microsoft Semantic Kernel, Microsoft AutoGen, or CrewAI.
+* Is proficient in writing clean, efficient, and maintainable code using at least one modern full-stack technology stack. Experience with frameworks in the .NET ecosystem and ReactJS is a plus.
+* Can debug complex issues and propose effective solutions with minimal guidance.
+
+**Solution Ownership**
+
+* Demonstrates end-to-end ownership of features or components from design through deployment.
+* Proactively anticipates risks, raises concerns early, and takes accountability for resolving them.
+* Breaks down complex problems into actionable technical work.
+* Reviews code to confirm functionality, identify potential solutions and unexpected side effects, and ensure conformance with documented standards.
+
+**Collaboration and Influence**
+
+* Communicates technical ideas clearly across teams and stakeholder groups.
+* Builds strong partnerships with quality assurance, DevOps, Product, and other engineering teams.
+* Provides constructive feedback during code and design reviews and effectively mentors junior engineers.
+
+**Execution Excellence**
+
+* Consistently delivers high-quality, tested, and secure code.
+* Prioritizes work effectively and executes in alignment with sprint goals and timelines.
+* Manages competing tasks and changing priorities with discipline.
+
+**Continuous Improvement**
+
+* Actively contributes to improving team processes, standards, and tools.
+* Stays current on new technologies and applies relevant practices when appropriate.
+* Seeks feedback and adapts to strengthen performance and technical expertise.
+
+**What You Bring**
+
+* Six to nine years of software engineering experience, with a strong record of building production-grade systems.
+* Demonstrated experience delivering AI- and LLM-powered features, including agents, agentic frameworks, retrieval-augmented generation (RAG), tool calling, and workflow automation, within real user workflows.
+* Proficiency in at least one modern full-stack technology stack, data stores such as Structured Query Language (SQL) and NoSQL databases, Redis, containerization, Kubernetes, and Azure cloud-native services.
+* Strong knowledge of data structures, design patterns, and system integration techniques.
+* Hands-on experience with CI/CD, containers such as Docker, and cloud services such as Amazon Web Services (AWS) and Microsoft Azure.
+* Demonstrated ability to design, test, and debug complex systems in a collaborative environment.
+* Strong attention to detail and the ability to work with a large codebase.
+* A proactive mindset and the ability to work independently while managing competing priorities.
+* Excellent written and verbal communication skills, including the ability to document and present technical concepts clearly.
+* Recognizes when progress has stalled and asks for help or confirmation when appropriate.
+
+**Why Join Us?**
+
+You will join a company where innovation creates real-world impact. We are building meaningful solutions, and your expertise will help shape the future of our platform. You can expect a collaborative environment, knowledgeable colleagues, and opportunities to influence technical and business decisions that matter.

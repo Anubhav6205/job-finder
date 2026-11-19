@@ -1,0 +1,23 @@
+JOB PURPOSE   
+  
+ We are seeking an experienced Lead / Manager - Ground Systems Software Engineering to lead the architecture, development, integration, deployment, and lifecycle of mission-critical Ground Systems for command and control, telemetry, mission operations, situational awareness, monitoring, and data distribution.   
+  
+ The ideal candidate combines expertise in software engineering, systems integration, cloud-native and real time distributed systems with strong delivery leadership, guiding multidisciplinary teams and cross functional partners to build reliable, secure, high-performance solutions. The role also drives technical strategy, architecture governance, resource and talent planning, risk management, and successful program execution. Software Development & Architecture Lead the architecture, design, development, and maintenance of Ground System software applications and services. Define technology roadmaps and software engineering best practices for Ground Systems. Drive architecture reviews, design governance, and technical decision-making across programs. Ensure software solutions meet performance, reliability, scalability, maintainability, and security requirements. Champion modern software engineering practices including DevSecOps, CI/CD, containerization, and microservices-based architectures. Establish coding standards, development frameworks, and software quality assurance processes  
+  
+. Ground Systems Integration  
+ Oversee integration of software with telemetry systems, communication networks, databases, mission systems, sensors, and external interfaces. Lead system integration, verification, validation, and operational readiness activities. Collaborate closely with hardware, network, infrastructure, and systems engineering teams. Drive root-cause analysis and resolution of complex software and integration issues. Ensure seamless deployment and operational transition of Ground System solutions.  
+  
+ Program Delivery & Project Management Own end-to-end delivery of Ground System software projects from concept to deployment. Develop project plans, resource allocation strategies, and execution roadmaps. Monitor project schedules, technical milestones, budgets, and deliverables. Manage technical risks, dependencies, and mitigation plans. Coordinate cross-functional teams to ensure successful program execution. Public Public   
+  
+ Required Qualifications  
+  
+ Bachelor's or Master's degree in Computer Science, Software Engineering, Electronics Engineering, Aerospace Engineering, Information Technology, or a related field.  
+ 12-18+ years of software engineering experience.  
+ Minimum 3-5 years of technical leadership or engineering management experience. Proven experience leading large-scale software development and integration projects. Strong programming expertise in: o Python o C/C++ o Java (Preferred) o Scripting Languages Experience working within Linux/Unix environments. Strong understanding of Software Development Life Cycle (SDLC).   
+ Experience with Agile methodologies, DevOps/DevSecOps practices, and CI/CD frameworks.   
+ Expertise in Git-based development environments and software configuration management.   
+ Strong knowledge of communication protocols including: o TCP/IP o UDP o Qt o HTTP/HTTPS o WebSocket o RS-232 o RS-422 o RS-485 Experience in software architecture, distributed systems, and system integration.   
+  
+ Preferred Qualifications  
+ Experience with satellite ground systems, missile systems, mission control systems, or aerospace/defense applications. Strong understanding of Telemetry, Tracking & Command (TT&C) systems.   
+ Experience with C4ISR, Command & Control (C2), and Mission Planning Systems. Knowledge of distributed computing and real-time data processing architectures. Exposure to cloud-native platforms and container orchestration technologies. Understanding of cybersecurity frameworks and secure defense software development practices. Experience in customer-facing program execution and technical leadership roles. Knowledge of aerospace and defense standards and mission-critical operational environments

@@ -1,0 +1,51 @@
+**Job Description:**
+--------------------
+
+  
+
+* We are seeking a skilled Generative AI RAG Engineer with 5 8 years of experience in AI ML and software development
+* The ideal candidate should have hands on expertise in building and deploying Generative AI applications Retrieval Augmented Generation RAG solutions LLMs vector databases prompt engineering and cloud based AI platforms
+
+  
+
+**Key Responsibilities:**
+-------------------------
+
+  
+
+* Design develop and optimize Generative AI and RAG based applications
+* Build intelligent chatbots copilots and enterprise AI assistants using LLMs
+* Develop and maintain RAG pipelines for enterprise knowledge retrieval
+* Work with vector databases for semantic search and document retrieval
+* Implement prompt engineering prompt tuning and model optimization techniques
+* Integrate AI services with enterprise applications and APIs
+* Fine tune and evaluate Large Language Models LLMs for business use cases
+* Collaborate with data engineers product teams and business stakeholders
+* Ensure scalability reliability security and governance of AI solutions
+
+  
+
+**Technical Requirements:**
+---------------------------
+
+  
+
+* Bachelor s Master s degree in Computer Science Information Technology AI ML or related field
+* Strong problem solving and analytical skills
+* Experience working in Agile development environments
+
+  
+
+**Additional Responsibilities:**
+--------------------------------
+
+  
+
+* GenAI Generative AI RAG Retrieval Augmented Generation LLM GPT OpenAI Azure OpenAI LangChain LlamaIndex Vector Database Pinecone Weaviate ChromaDB FAISS Prompt Engineering Semantic Search AI Agent CrewAI LangGraph AutoGen Python NLP Hugging Face Azure AI Search
+
+  
+
+**Preferred Skills:**
+---------------------
+
+Technology->AI-Generative AI->Generative AI - Basic->retrieval augmented generation (rag),Technology->AI-Generative AI->Generative AI for Data Analytics

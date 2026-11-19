@@ -1,0 +1,53 @@
+**About The Role**
+Our client is looking for an
+**AI Automation Engineer**
+to design, build, and operate AI-powered automations that reduce manual effort across business and engineering workflows.
+  
+  
+This is a hands-on engineering role focused on converting ambiguous, human-in-the-loop processes into reliable, monitored, production-grade automations using
+**LLMs, agentic frameworks, APIs, and workflow orchestration tools**
+.
+  
+  
+**Minimum Qualifications**
+
+* 3–5 years of professional experience in Software Engineering, Data Engineering, or Automation Engineering, including at least 1 year of hands-on LLM/AI experience.
+* Strong Python development skills, including API integration, asynchronous programming, testing, packaging, and maintainable code.
+* Practical experience using LLM APIs such as OpenAI, Anthropic Claude, Gemini, or Amazon Bedrock in production applications.
+* Hands-on experience with at least one agentic AI/orchestration framework, such as LangChain, LangGraph, LlamaIndex, CrewAI, Semantic Kernel, or AutoGen.
+* Demonstrated experience building RAG systems using vector stores such as pgvector, Pinecone, Weaviate, Qdrant, Milvus, or OpenSearch.
+* Strong understanding of prompt engineering, context design, structured outputs, JSON schemas, tool/function calling, and validation.
+* Familiarity with Model Context Protocol (MCP) and building MCP servers to expose internal systems as agent tools.
+* Strong experience with REST/GraphQL APIs, OAuth, token-based authentication, webhooks, pagination, and rate-limit handling.
+* Working knowledge of SQL and data modeling.
+* Experience with Git, code reviews, and CI/CD.
+* Cloud experience with AWS, Azure, or GCP, including compute, serverless functions, queues, secrets management, and managed AI services.
+* Basic Docker/containerization knowledge.
+* Strong stakeholder-management skills, including requirements gathering, prototyping, demonstrations, and expectation management.
+
+**Key Responsibilities**
+
+* Build and deploy end-to-end AI automations and agentic workflows integrating LLMs with internal systems, APIs, and data sources.
+* Design and implement RAG pipelines, including chunking, embeddings, vector search, re-ranking, and grounded response generation.
+* Develop tool/function-calling integrations that allow AI agents to interact with ticketing systems, ERP platforms, document stores, and internal APIs.
+* Build MCP servers to expose internal systems as tools for AI agents.
+* Partner with stakeholders to identify high-value automation opportunities and prioritize an automation roadmap based on ROI and feasibility.
+* Develop production-grade Python services and jobs, including API clients, data transformations, schedulers, and event-driven handlers.
+* Build LLM evaluation frameworks using golden datasets, regression testing, accuracy checks, hallucination detection, and quality gates.
+* Implement observability and tracing to monitor failures, costs, latency, and quality degradation.
+* Design human-in-the-loop checkpoints, approval workflows, and safe fallbacks where full autonomy is not appropriate.
+* Optimize AI applications for cost and latency through model selection, caching, batching, prompt optimization, and model routing.
+* Document architecture, runbooks, and operational procedures and support automations after production deployment.
+* Ensure AI solutions comply with security, privacy, responsible AI, access-control, and PII requirements.
+
+**Preferred Qualifications**
+
+* Experience with workflow automation platforms such as n8n, Zapier, Power Automate, Airflow, Temporal, Prefect, or Dagster.
+* RPA experience with UiPath, Automation Anywhere, or Blue Prism.
+* Experience with LLM observability and evaluation tools such as LangSmith, LangFuse, Arize, Braintrust, Ragas, or DeepEval.
+* Experience designing multi-agent systems, including planner/executor and supervisor architectures.
+* Experience with document intelligence, OCR, PDF parsing, table extraction, and multimodal/vision models.
+* Frontend experience with React.js, Next.js, or TypeScript.
+* Exposure to Terraform, CloudFormation, or Kubernetes.
+* Experience with enterprise AI governance, including audit trails, data residency, AI risk reviews, and access-scoped retrieval.
+* Bachelor’s degree in Computer Science, Engineering, or a related field, or equivalent practical experience.

@@ -1,0 +1,31 @@
+OPENTEXT - THE INFORMATION COMPANY
+  
+OpenText is a global leader in information management, where innovation, creativity, and collaboration are the key components of our corporate culture. As a member of our team, you will have the opportunity to partner with the most highly regarded companies in the world, tackle complex issues, and contribute to projects that shape the future of digital transformation.
+  
+  
+AI-First. Future-Driven. Human-Centered.
+  
+At OpenText, AI is at the heart of everything we do—powering innovation, transforming work, and empowering digital knowledge workers. We're hiring talent that AI can't replace to help us shape the future of information management. Join us.
+  
+  
+**Your Impact:**  
+We are looking for a passionate Senior Software Engineer with strong Java/Python, full-stack, and Generative AI development experience to join the Data Platform team. You will build and enhance a PaaS-based enterprise application suite by integrating LLM-powered features, AI agents, retrieval-augmented generation, prompt workflows, and secure API-based AI services.This role requires end-to-end ownership of technically complex software and AI capabilities, from requirements and solution design through implementation, evaluation, testing, release, and production support. You will work closely with product, architecture, quality engineering, and other stakeholders to deliver scalable, secure, observable, maintainable, and customer-focused solutions, with appropriate AI grounding, guardrails, and responsible-use practices.
+  
+  
+**What the Role Offers:**  
+End-to-end ownership of features, from initial idea and technical design through implementation, testing, delivery, and support.Opportunity to design technical solutions and contribute to system architecture and engineering decisions.Hands-on work on scalable, high-performance enterprise applications in a distributed development environment.Involvement in troubleshooting complex functional, performance, database, and production issues.Ability to improve engineering practices through reusable components, code reviews, automated testing, CI/CD, and technical mentoring.Exposure to cloud-native development and emerging Generative AI capabilities.
+  
+  
+**What you need to succeed:**  
+Bachelor's degree in Computer Science, Information Technology, Engineering, or an equivalent combination of education and relevant experience.5 to 8 years of relevant software development experience, including strong hands-on experience building web-based enterprise applications.Strong proficiency in Java/Python, J2EE, Spring, Spring Boot, microservices, RESTful APIs, and object-oriented design.Must have: Hands-on experience building Generative AI solutions using LLMs, prompt engineering, retrieval-augmented generation, embeddings, vector search, and model APIs.Must have: Experience developing AI agents and orchestrated workflows using MCP servers and frameworks such as LangChain or LangGraph, with appropriate evaluation, guardrails, and observability.Experience with SQL, PL/SQL, relational databases such as Oracle, database design, and query optimization.Experience with caching mechanisms and the design of performant, scalable application components.Hands-on experience with modern frontend technologies such as HTML, CSS, JavaScript, TypeScript, and React or Angular.Working knowledge of Docker, Kubernetes, Linux, cloud technologies, and distributed application environments.Must have: Experience integrating and deploying AI services through Python, REST APIs, FastAPI or Flask, Docker, and Kubernetes, with exposure to a cloud AI platform such as GCP Vertex AI, Azure AI, or AWS Bedrock.Experience with CI/CD, source control, build automation, unit testing, and automated quality practices.Ability to analyze complex problems, adapt to changing requirements, and deliver independently with sound technical judgment.Excellent written and verbal communication skills, with the ability to collaborate across engineering and business teams.
+  
+  
+**One last thing:**  
+OpenText is a leading Cloud and AI company that provides organizations around the world with a comprehensive suite of Business AI, Business Clouds, and Business Technology. We help organizations grow, innovate, become more efficient and effective, and do so in a trusted and secure way—through Information Management.
+  
+**OpenText (NASDAQ/TSX:** OTEX), founded in 1991 in Waterloo, has a rich history of helping customers manage their most important asset—information. Originating from a collaboration to digitize the Oxford English Dictionary, OpenText has grown into a global leader in information management. With over 120,000 enterprise customers across 180 countries, OpenText supports 98 of the top 100 global companies. A wide breadth of offerings uniquely positions OpenText to help customers unlock the value of that information using Al, cloud, and security innovations.
+  
+  
+OpenText's efforts to build an inclusive work environment go beyond simply complying with applicable laws. Our Employment Equity and Diversity Policy provides direction on maintaining a working environment that is inclusive of everyone, regardless of culture, national origin, race, color, gender, gender identification, sexual orientation, family status, age, veteran status, disability, religion, or other basis protected by applicable laws.
+  
+If you need assistance and/or a reasonable accommodation due to a disability during the application or recruiting process, please contact us athr@opentext.com. Our proactive approach fosters collaboration, innovation, and personal growth, enriching OpenText's vibrant workplace.
