@@ -1,0 +1,51 @@
+Mandatory Skills
+
+* Strong proficiency in Python programming.
+* Hands-on experience with Generative AI and Large Language Models (LLMs).
+* Strong understanding and implementation experience in Retrieval-Augmented Generation (RAG).
+* Experience with Azure OpenAI and Azure AI Search.
+* Hands-on experience with LangChain and/or LangGraph.
+* Experience with Azure Functions and Azure API Management (APIM).
+* Knowledge of Azure Cosmos DB and Azure Storage.
+* Strong understanding of prompt engineering and model evaluation.
+* Experience developing and deploying AI agents and LLM-based applications.
+
+Key Responsibilities
+
+* Design, develop and deploy enterprise-grade Generative AI solutions using Microsoft Azure technologies.
+* Build and maintain RAG pipelines using Azure AI Search and Azure OpenAI.
+* Develop agentic workflows and AI agents using LangChain and LangGraph.
+* Develop scalable APIs and services to integrate LLMs into enterprise applications.
+* Implement prompt engineering techniques to improve response quality and accuracy.
+* Perform model evaluation, optimization and performance tuning.
+* Integrate Azure Functions, APIM, Cosmos DB and Azure Storage into GenAI applications.
+* Ensure production readiness, scalability, reliability and observability of GenAI solutions.
+* Collaborate with cross-functional teams to understand business requirements and translate them into technical solutions.
+* Document technical designs, workflows, implementation approaches and best practices.
+
+Good to Have Skills
+
+* Working knowledge of React and JavaScript for developing AI-powered user interfaces.
+* Experience with structured output validation.
+* Exposure to LLM fine-tuning techniques.
+* Familiarity with CI/CD pipelines.
+* Knowledge of LLMOps practices and production monitoring.
+* Relevant Microsoft Azure AI certification.
+
+Preferred Certification
+
+* Microsoft Certified: Azure AI Engineer Associate (AI-102).
+
+Experience Requirements
+
+* 7–10 years of overall experience in IT and software development.
+* Minimum 3 years of hands-on experience with Azure Cloud and AI technologies.
+* Minimum 2 years of experience working with GenAI, RAG, LLMs, Azure OpenAI and frameworks such as LangChain or LangGraph.
+
+Pay: ₹900,000.00 - ₹1,200,000.00 per year
+
+Application Question(s):
+
+* By applying, you agree that your resume and personal details may be stored securely for up to 2 years for recruitment purposes.
+
+Work Location: Hybrid remote in Bangalore City, Bengaluru, Karnataka

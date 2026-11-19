@@ -1,0 +1,39 @@
+Bachelors degree or higher in computer science or related field.
+
+- Must have 5-8 years of industry experience in related technologies
+
+- Strong Computer Science foundation (Strong object-oriented concept in Java script).
+
+-Strong proficiency in Java programming including Java 11 and above.
+
+- Strong development expertise in Angular14+ or React
+
+- Strong expertise in TypeScript and JavaScript
+
+- Basic concept of APIs is a must
+
+- Strong Proficiency in Spring Framework
+
+- Design and build scalable cloud-native solutions leveraging platforms such as Azure, AWS, or Google Cloud Platform (GCP)
+
+- Practice of modern software engineering including agile methodologies, coding standards, code reviews, source control management, build processes, test automation, and CI/CD pipelines.
+
+- Knowledge of moving code from Dev/ Test to Staging and Production. Troubleshoot issues along the CI/CD pipeline.
+
+-Solid understanding of software testing methodologies (unit, integration, system, regression testing).
+
+- Experience with monitoring and logging tools such as Splunk and Datadog.
+
+-Expertise in database management with RDBMS and MongoDB.
+
+-Working knowledge of Python is a plus.
+
+- Must have excellent client communication skills
+
+-Familiarity with container orchestration tools like Kubernetes.
+
+-Must have experience in AI-Assisted development
+
+Should have:
+
+- Proficiency in working with Linux or macOS environments.

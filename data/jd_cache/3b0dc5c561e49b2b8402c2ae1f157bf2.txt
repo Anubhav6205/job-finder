@@ -1,0 +1,24 @@
+We are looking for a Full-Stack AI Developer to build web applications with AI features such as chatbots, copilots, and document Q&A. You’ll work across the stack, from building responsive interfaces and backend APIs to integrating large language models (LLMs) and developing retrieval pipelines and AI agents.
+
+Key Responsibilities
+
+* Design, build, and maintain scalable web applications, backend services, REST and GraphQL APIs, and microservices.
+* Build responsive interfaces for chat, copilots, and smart forms, including support for streamed AI responses.
+* Integrate LLM APIs into business applications for summarization, document Q&A, content generation, data extraction, and classification.
+* Build retrieval-augmented generation (RAG) pipelines using embeddings and vector databases.
+* Develop AI agents and workflows that call tools or functions using frameworks such as LangChain or LangGraph.
+* Design and refine prompts using system instructions, few-shot examples, and role prompting. Improve response accuracy through grounding, guardrails, and output validation.
+* Manage conversation memory, token limits, rate limits, retries, and fallbacks.
+* Write clean, testable code and apply sound design patterns when working with relational and NoSQL databases.
+
+Required Skills & Experience
+
+* Hands-on full-stack development experience across responsive web interfaces, backend services, and APIs.
+* Experience with REST, GraphQL, microservices, and relational and NoSQL databases.
+* Practical experience integrating LLM APIs and handling streamed responses.
+* Experience building RAG pipelines with embeddings and vector databases, and implementing agent workflows with tool or function calling.
+* Familiarity with prompt design, grounding, and validation techniques for improving the reliability of AI responses.
+
+Good to Have
+
+* Exposure to Kubernetes, serverless deployment, and event-driven architecture using Kafka or message queues.

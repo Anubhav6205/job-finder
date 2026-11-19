@@ -1,0 +1,46 @@
+**Opportunity Description Embedded AI Engineer**
+
+  
+
+Our end client is a **Global Capability Centre (GCC)** of a technology-driven organization focused on intelligent transportation solutions, AI-powered video analytics, and automated safety enforcement. The organization leverages advanced technologies to improve road safety, protect students, and enhance public transportation systems. It is driving innovation in Edge AI by transitioning from cloud-dependent AI solutions to intelligent, real-time computing on edge devices.
+
+  
+
+They are looking for an experienced **Embedded AI Engineer** to lead the development, optimization, and deployment of deep learning models across IoT and edge computing platforms. The role involves converting and optimizing computer vision models such as CNNs, YOLO, RNNs, and OCR for high-efficiency hardware accelerators, including Hailo, NVIDIA Jetson, Intel Movidius, and ARM-based NPUs.
+
+  
+
+This is a high-impact opportunity to contribute to next-generation Edge AI platforms, enabling real-time safety decisions and intelligent video analytics for school bus fleets, student safety, and public transportation environments.
+
+**Key Responsibilities**
+
+* Develop and optimize embedded software and AI model inference pipelines for real-time object detection, tracking, and classification at the edge.
+* Deploy and maintain vision-based deep learning models (YOLO, CNN, RNN, OCR) on resource-constrained devices using AI accelerators (e.g., Hailo, Jetson, Coral, ARM).
+* Lead cloud-to-edge transformation of AI models, including quantization, pruning, conversion, and hardware-aware optimization.
+* Collaborate with AI/ML researchers to integrate trained models into embedded applications and validate edge inference accuracy.
+* Optimize for performance, latency, and power efficiency in real-world mobile or vehicle-mounted environments.
+* Work with hardware abstraction layers, toolchains, and SDKs for AI acceleration (e.g., HailoRT, TensorRT, OpenVINO, ONNX, TFLite).
+* Design and implement robust, fault-tolerant inference pipelines using tools like GStreamer, OpenCV, or FFmpeg.
+* Contribute to system architecture discussions focused on scalable AI at the edge, real-time event capture, and safety-critical decision support.
+
+  
+
+**Preferred Qualifications**
+
+* Proficient in C/C++ and Python for embedded development and AI integration.
+* Experience with quantization, pruning, and model conversion for edge inference (ONNX, TFLite, TensorRT, Dataflow Compiler etc.).
+* Hands-on experience with at least one AI hardware platform (e.g., Hailo, NVIDIA Jetson, Intel Movidius, ARM Ethos-U, Google Coral).
+* Solid understanding of deep learning architectures and model behavior (CNN, YOLOv5/v8, OCR, ReID, RNNs).
+* Strong knowledge of video/image processing pipelines using GStreamer, OpenCV, or similar.
+* Experience working with Linux-based embedded systems, build systems (Yocto, CMake), and cross-compilation toolchains.
+* Understanding of IoT/vehicle edge environments, including system resource constraints, fault tolerance, and field deployment challenges.
+* Bachelors or Masters degree in Electrical Engineering, Computer Engineering, AI, or a related technical field.
+
+  
+
+**Nice to Have**
+
+* Familiarity with multi-camera systems, object re-identification, or behavior/event detection at the edge.
+* Knowledge of real-time messaging and telemetry systems (MQTT, ZeroMQ, or gRPC).
+* Experience in public safety, ADAS, surveillance, or other vision-based safety-critical applications.
+* Familiarity with data privacy, security, and compliance concerns for edge AI systems.

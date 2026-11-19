@@ -1,0 +1,49 @@
+Hi,
+
+  
+
+I hope you are doing well.We are currently hiring for an exciting opportunity with Coforge for professionals experienced in Python, Generative AI, Agentic AI, LLMs, and Machine Learning.
+
+  
+
+Key Skills Required:
+
+  
+
+• Python Development
+
+• Generative AI (GenAI)• Agentic AI / AI Agents
+
+• Large Language Models (LLMs)• Machine Learning & NLP
+
+• LangChain, LangGraph, CrewAI, AutoGen
+
+• RAG (Retrieval-Augmented Generation)
+
+• Vector Databases (Pinecone, ChromaDB, FAISS, Weaviate)
+
+• OpenAI, Azure OpenAI, Llama, Claude, Gemini
+
+• AWS / Azure / GCP What You'll Do:
+
+• Design and build AI Agent and Agentic AI solutions
+
+• Develop LLM-based applications and GenAI platforms
+
+• Implement RAG pipelines and AI orchestration frameworks
+
+• Work on enterprise-scale AI transformation initiatives
+
+• Collaborate with global stakeholders and engineering teamsIf interested, please share the
+
+* Updated Resume
+* Current CTC
+* Expected CTC
+* Notice Period
+* Current Location
+
+Looking forward to connecting with you.
+
+  
+
+Regards,Shashank TyagiAssistant Manager - Talent AcquisitionCoforge Ltd.

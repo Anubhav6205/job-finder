@@ -1,0 +1,26 @@
+Opportunity to work on a **GenAI-powered conversational research assistant for retail investors**, focused on Indian capital markets.
+
+  
+
+**Key areas of work:**
+
+* Build multi-agentic AI pipelines with tool calling, memory & multi-turn conversations
+* Architect RAG pipelines, retrieval, reranking & citation-grounded responses
+* Integrate real-time market data, news & company filings through APIs/tools
+* Build guardrails, evaluation frameworks, hallucination mitigation & confidence scoring
+* Fine-tune/adapt LLMs where required and build ML models for personalization & financial insights
+
+  
+
+**What were looking for:**
+
+* Strong Python & Data Science expertise with PyTorch/TensorFlow/scikit-learn
+* Hands-on experience with LLMs, RAG, embeddings and/or agentic AI
+* Exposure to AWS Bedrock / GCP Vertex AI
+* Strong ML, statistics, data analysis & model deployment experience
+* Experience in capital markets / fintech or an AI-first startup would be a strong plus
+
+  
+  
+
+If this aligns with your experience and interests, please share your **updated CV - amreesh@silverpeople.in**

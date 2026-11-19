@@ -1,0 +1,38 @@
+**Job Summary**
+
+We are looking for a skilled Full Stack Developer with hands-on experience in Python, Django, Django REST Framework, and frontend technologies, along with practical knowledge of AI/LLM integration and Retrieval-Augmented Generation (RAG).
+
+The candidate will be responsible for developing, maintaining, and deploying scalable web applications and integrating AI-powered features using Large Language Models (LLMs), APIs, and RAG-based solutions.
+
+**Key Responsibilities**
+
+* Develop and maintain web applications using Python, Django, DRF, HTML, CSS, JavaScript, and Bootstrap.
+* Design, integrate, and test REST APIs and third-party services.
+* Integrate AI/LLM APIs such as OpenAI, Gemini, or similar models into web applications.
+* Develop and integrate LLM-powered features such as AI chatbots, intelligent assistants, and automated workflows.
+* Work with Retrieval-Augmented Generation (RAG) pipelines, including document processing, text chunking, embeddings, vector search, and context retrieval.
+* Work with vector databases or vector search solutions to store and retrieve relevant information.
+* Manage databases, optimise queries, and perform database migrations.
+* Deploy and maintain applications on AWS, including EC2, S3, and RDS.
+* Configure Linux servers, Nginx, and Gunicorn; troubleshoot production issues.
+* Implement secure authentication, permissions, and access controls.
+* Use Git/GitHub for version control and Notion, Jira, or Trello for task tracking and documentation.
+* Write tests, debug issues, participate in code reviews, and maintain code quality
+* Collaborate with the team to estimate tasks, provide progress updates, and deliver projects on time.
+
+**Required Skills**
+
+* Strong knowledge of Python, Django, and Django REST Framework (DRF).
+* Proficiency in HTML5, CSS3, JavaScript, and Bootstrap.
+* Experience with PostgreSQL or MySQL, ORM, and query optimisation.
+* Knowledge of REST APIs, JWT authentication, permissions, and secure coding practices.
+* Practical understanding of LLMs and experience integrating AI APIs into applications.
+* Understanding of RAG architecture, embeddings, document retrieval, and vector search.
+* Familiarity with vector databases or vector stores such as FAISS, ChromaDB, Pinecone, or similar.
+* Practical experience with AWS services, Linux, and application deployment.
+* Proficiency in Git and GitHub.
+* Strong problem-solving, communication, and teamwork skills.
+
+**Good to Have**
+
+Experience with React.js, Django, Python, AI/LLM, REST Framework, AWS, HTML5, CSS3, Java

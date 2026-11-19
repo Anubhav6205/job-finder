@@ -1,0 +1,57 @@
+**Project Role :**
+Custom Software Engineer
+  
+  
+**Project Role Description :**
+Develop custom software solutions to design, code, and enhance components across systems or applications. Use modern frameworks and agile practices to deliver scalable, high-performing solutions tailored to specific business needs.
+  
+  
+**Must have skills :**
+Generative AI
+  
+  
+**Good to have skills :**
+NA
+  
+  
+**Minimum 5 Year(s) Of Experience Is Required**
+**Educational Qualification :**
+15 years full time education
+  
+  
+Summary:
+  
+  
+As a Custom Software Engineer, a typical day involves creating tailored software solutions by designing, coding, and improving various components within systems or applications. The role requires working closely with different teams to ensure the delivery of scalable and efficient software products. The engineer applies modern development frameworks and follows agile methodologies to meet specific business requirements, continuously refining and optimizing software to enhance overall system performance and user experience.
+  
+  
+Roles & Responsibilities:
+  
+  
+
+* Expected to be an SME, collaborate and manage the team to perform.
+* Responsible for team decisions.
+* Engage with multiple teams and contribute on key decisions.
+* Provide solutions to problems for their immediate team and across multiple teams.
+* Lead efforts to identify and implement best practices in software development to improve team productivity and product quality.
+* Mentor junior team members to support their professional growth and skill development.
+* Coordinate cross-functional collaboration to align software solutions with organizational goals.
+
+Professional & Technical Skills:
+  
+  
+
+* Must To Have Skills: Proficiency in Generative AI.
+* Experience in designing and implementing AI-driven software components that integrate seamlessly with existing systems.
+* Strong knowledge of modern software development frameworks and agile methodologies.
+* Ability to optimize algorithms and models for performance and scalability in production environments.
+* Familiarity with cloud platforms and deployment strategies for AI-based applications.
+* Competence in debugging, testing, and maintaining complex software systems.
+
+Additional Information:
+  
+  
+
+* The candidate should have minimum 5 years of experience in Generative AI.
+* This position is based at our Hyderabad office.
+* A 15 years full time education is required.

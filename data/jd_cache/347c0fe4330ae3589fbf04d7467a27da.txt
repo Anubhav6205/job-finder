@@ -1,0 +1,25 @@
+**Hi**
+
+**We are hiring for  Senior Embedded Software Engineer (Modern C++)   
+Experience: 12-15 Years**
+
+**Location: Hyderabad**
+
+**Mandatory: **Modern C++ (14,15,16, 17- Pref) + AI, Bare-Metal / RTOS & Peripherals****
+
+**Education:**
+
+*** Bachelor’s/Master’s degree in Computer Science, Computer Engineering, Electrical Engineering, or a related field.**
+**Roles and Responsibilities :**
+
+* Design, develop, test, and maintain complex embedded software applications using C++ on Linux platforms.
+* Collaborate with cross-functional teams to identify requirements and implement solutions for transportation industry-related projects.
+* Develop high-quality code that meets performance, reliability, and scalability standards for real-time operating systems (RTOS) such as FreeRTOS or Zephyr.
+* Troubleshoot issues related to embedded systems development and provide technical guidance to junior engineers.
+
+**Job Requirements :**
+
+* 12-15 years of experience in embedded C++ programming with expertise in RTOS development.
+* Strong understanding of the transportation industry's specific needs and requirements.
+* Proficiency in developing software applications using Freertos or Zephyr RTOSes.
+* Experience working on large-scale projects involving multiple stakeholders.

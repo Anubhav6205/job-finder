@@ -1,0 +1,95 @@
+**Additional Information**
+
+Our Engineering Culture:
+
+In our Agile/Lean DevOps environment, we've nurtured a culture of innovation and experimentation across our development teams. As a customer-focused organization, we collaborate closely with our end users and product owners to understand and rapidly respond to emerging business needs. Collaboration is ingrained into every aspect of our work – from the products we develop to the world-class service we offer. We are motivated by the belief that diversity of thought, background, and perspective is crucial to crafting the finest products and experiences for our customers. Come join us and become a part of a highly ambitious team dedicated to delivering impeccable solutions!
+
+**Responsibilities**
+
+**What You'll do**
+
+As a Consultant Data Engineer at Principal Financial Group, you will lead enterprise-scale data engineering delivery for our Data & Analytics Technology Program. This role will define technical direction, guide architecture decisions, mentor engineers, improve engineering culture, and drive predictable, high-quality delivery. The ideal candidate brings deep hands-on expertise in Snowflake, AWS, Python, SQL, and modern orchestration, with the ability to translate business and product priorities into resilient, governed, and scalable data products.
+
+**You'll have opportunity to:**
+
+* Own technical direction for complex, enterprise-scale data engineering initiatives across Snowflake, AWS, and orchestration platforms.
+* Lead architecture, design, and operational readiness for resilient, secure, scalable, and governed data products.
+* Partner with Product Managers, Architects, SRE, and Engineering Leads to translate business priorities into feasible technical roadmaps.
+* Guide discovery and solution-shaping by assessing feasibility, platform capability, architecture fit, data dependencies, and delivery risks.
+* Drive engineering excellence through quality practices, delivery metrics, DevOps adoption, secure coding, automated testing, and continuous improvement.
+* Mentor engineers, raise technical standards, and build reusable patterns, frameworks, and knowledge assets for the team.
+* Communicate progress, risks, trade-offs, and decisions clearly to senior stakeholders.
+
+**Qualifications**
+
+**Who You are:**
+
+Experience: **8 to 11 years (With Tech Lead experience)**
+
+**Education:**
+
+Bachelor’s(Engineering)/Master’s in computer science or a related field.
+
+* 8+ years of data engineering experience, including significant hands-on delivery and 5+ years in technical leadership, architecture, or lead engineer responsibilities.
+* Deep expertise in **Snowflake, AWS, Python, SQL, Airflow, GitHub, and relational data platforms**.
+* Strong capability in data architecture, dimensional modeling, pipeline optimization, data quality, and governance engineering.
+* Proven experience designing reusable frameworks, automation patterns, CI/CD practices, and production-ready data products.
+* **Leadership in architecture reviews, technical strategy, discovery, dependency management, and delivery-risk mitigation.**
+* Proven outcome driven usage of AI-powered engineering tools, including GitHub Copilot, Snowflake Cortex, and other approved GenAI solutions, to improve developer productivity, code quality, documentation, test case generation, and troubleshooting, while ensuring compliance with organizational security, privacy, and responsible AI guidelines.
+* Strong communication, mentoring, stakeholder influence, and cross-team collaboration skills.
+
+Must-Have SkillsData Engineering — Snowflake
+
+* Snowflake dimensional modeling, performance tuning, workload optimization, and data quality controls.
+* Hands-on experience with Snowpark for building scalable data transformation frameworks.
+* Change data capture, secure data sharing, masking, backfill, and reprocessing patterns.
+* Snowflake error handling, pipeline resilience, and integration with AWS services such as S3, Glue, and Lambda.
+* Advanced SQL tuning, query profiling, clustering, partitioning, and workload management for large analytical workloads.
+
+Cloud & Platform Engineering — AWS
+
+* AWS data engineering using S3, Glue, Lambda, IAM, CloudWatch, Secrets Manager, Step Functions, and EventBridge.
+* Secure, scalable, cost-aware cloud data processing using batch, event-driven, and serverless patterns.
+* Cloud security, encryption, access policies, observability, and operational resilience.
+
+Programming & Automation — Python / SQL
+
+* Python and Snowpark for data processing, automation, APIs, reusable frameworks, testing utilities, and operational scripts.
+* Advanced SQL for complex transformations, reconciliation, performance tuning, and analytical validation.
+* Reusable libraries, templates, and automation patterns that improve engineering productivity.
+
+Orchestration, DevOps & Observability
+
+* Airflow or equivalent orchestration for dependency management, scheduling, monitoring, retries, and recovery.
+* CI/CD, automated deployments, environment promotion, release governance, and rollback planning.
+* Logging, monitoring, alerting, service-level indicators, and production readiness for critical data products.
+
+Data Architecture & Governance Engineering
+
+* Data modeling, canonical structures, metadata-driven design, lineage, data contracts, and governed data products.
+* Data quality rules, reconciliation frameworks, audit controls, privacy classifications, and secure access patterns.
+* Architecture trade-off analysis across performance, scalability, maintainability, cost, security, and business value.
+
+QA / Testing — Data 
+
+* Data reconciliation, SQL/Python automated testing, regression testing, and validation strategy.
+* UAT coordination, defect triage, and quality-risk escalation.
+* GitHub branching, pull request standards, CI checks, and quality gates.
+
+Good-to-Have SkillsData Engineering
+
+* Oracle Database — PL/SQL development, performance tuning, data extraction
+* Informatica PowerCenter — ETL workflows, mappings, reverse-engineering legacy jobs
+* Enterprise Schedulers — TWS, Control-M, Autosys for dependency mapping
+
+Claims Domain — Insurance
+
+* Claims lifecycle mapping, TAT/SLA metric definitions, and NIGO process understanding.
+* Payments and recoveries analytics, including Worksite versus Group Disability nuances.
+
+Data Governance & Controls
+
+* PII classification, access controls, least privilege, auditability, and lineage.
+* Business glossary, definitions, controls documentation, and evidence.
+
+Cloud certifications in AWS or Snowflake, such as SnowPro Core or Advanced, are preferred. Contributions to communities of practice, domain academies, engineering forums, product mindset conversations, or reusable knowledge repositories are valued.

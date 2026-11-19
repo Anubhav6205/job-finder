@@ -1,0 +1,75 @@
+HMH is a learning technology company committed to delivering connected solutions that engage learners, empower educators and improve student outcomes. As a leading provider of K–12 core curriculum, supplemental and intervention solutions, and professional learning services, HMH partners with educators and school districts to uncover solutions that unlock students’ potential and extend teachers’ capabilities.
+
+HMH serves more than 50 million students and 4 million educators in 150 countries. For more information, visit www.hmhco.com
+
+We are looking for a passionate and highly skilled **Software Engineer with 2–5 years of experience**, having strong hands-on expertise in React, TypeScript, and modern frontend technologies.
+
+The ideal candidate should have excellent programming fundamentals, strong UI development skills, and practical experience building responsive, accessible, and maintainable web applications.
+
+The role involves developing new features, enhancing existing applications, resolving technical and accessibility issues, and collaborating with globally distributed engineering teams.
+
+We value **depth of technical expertise, problem-solving ability, and hands-on coding skills** over exposure to a large number of technologies.
+
+  
+
+### **Key Responsibilities**
+
+  
+
+* Develop, enhance, and maintain modern web applications using **React, TypeScript, JavaScript, HTML5, and CSS3**.
+* Build reusable, responsive, performant, and accessible UI components following frontend engineering best practices.
+* Implement new application features, improve existing functionality, and resolve complex UI-related defects.
+* **Identify and fix accessibility issues through code-level changes**, ensuring applications follow WCAG guidelines and accessible design principles.
+* Work with Node.js to develop and integrate RESTful APIs and backend services.
+* Write clean, maintainable, reusable, and well-tested code.
+* Debug and troubleshoot frontend and backend issues, including browser compatibility, UI behavior, and application performance.
+* Use AI-assisted development tools such as **Devin, Claude Code, GitHub Copilot, or similar tools** to improve coding, debugging, testing, and development productivity.
+* Review and validate AI-generated code before integrating it into applications.
+* Work with GitHub, pull requests, and GitHub Actions-based development workflows.
+* Collaborate with international engineering, product, and QA teams to deliver high-quality solutions.
+* Take ownership of assigned development tasks, communicate progress proactively, and meet agreed commitments.
+* Participate in code reviews, technical discussions, and continuous improvement activities.
+
+### **Required Skills & Experience**
+
+  
+
+* **2–5 years of hands-on software development experience**, with a strong focus on frontend and UI development.
+* **Excellent proficiency in React.js and TypeScript**, including functional components, hooks, state management, component lifecycle, and API integration.
+* **Strong command of JavaScript , HTML5, and CSS3**, including responsive layouts, Flexbox, CSS Grid, DOM manipulation, and browser behavior.
+* **Strong hands-on experience developing accessible web interfaces**, including semantic HTML, ARIA, keyboard navigation, focus management, and implementing accessibility fixes.
+* Good understanding of **WCAG 2.1/2.2 guidelines** and practical experience addressing accessibility issues in application code.
+* Good working knowledge of **Node.js**, including REST API development, asynchronous programming, and backend integrations.
+* Working knowledge of SQL and relational databases such as **PostgreSQL**.
+* Good understanding of Git, GitHub, pull requests, and basic **GitHub Actions/CI/CD workflows**.
+* Familiarity with **AI coding agents and AI-assisted development tools**, with an interest in applying reusable AI skills and coding workflows.
+* Experience writing unit tests using Jest, React Testing Library, or similar frameworks.
+* Strong debugging, analytical thinking, and problem-solving skills.
+* Ability to work independently on assigned tasks with minimal supervision.
+* Good verbal and written communication skills, with the ability to collaborate with international teams.
+* Strong ownership, accountability, willingness to learn, and commitment to quality and delivery.
+
+### **Good to Have**
+
+  
+
+* Hands-on experience with AWS services.
+* Familiarity with Docker and containerized applications.
+* Experience with frontend performance optimization and reusable component libraries.
+* Familiarity with accessibility validation tools such as axe-core, Lighthouse, NVDA, JAWS, or VoiceOver.
+* Experience using AI coding agents such as Devin and creating reusable AI development skills or workflows.
+* Experience with Playwright or other end-to-end testing frameworks.
+
+### **What We Value**
+
+  
+
+We are looking for a **strong hands-on developer with excellent frontend engineering fundamentals**, rather than someone with superficial knowledge of many technologies.
+
+The successful candidate should be confident in React, TypeScript, JavaScript, HTML, CSS, and accessibility implementation, capable of independently solving development challenges, and willing to learn additional technologies as required.
+
+We value technical depth, curiosity, ownership, effective communication, and a commitment to building high-quality software.
+
+The Information Technology organization is transforming to realize our mission: Become a leader in HMH’s digital transformation, and as a strategic partner, innovate and deliver highest value, competitive advantage solutions across all corporate and business functions. Our ambition is to be a digital leader through innovation and develop and deliver leading edge technology such as robotic process automation and artificial intelligence to solve some of HMH’s greatest operational business challenges. Our professionals will have business relevant skills to connect our HMH partners to technologies that propel the businesses to deliver the greatest value for HMH and our customers.
+
+We are building a team of IT professionals with an insatiable appetite to learn, a relentless focus on customer service, a technological curiosity toward future possibilities, and a creativity in solving business challenges with leading technologies. Our team will find ways to work together, create a sense of community where it’s safe to take risks and learn together, develop our careers, and all have an opportunity to work on new technologies. We will work together, learn together and have fun together. As a team, we will lead HMH’s digital transformation.

@@ -1,0 +1,44 @@
+**Role & responsibilities**
+
+  
+
+**Senior ServiceNow Developer AI & Integrations | 6+ Years**
+
+We are looking for an experienced ServiceNow Developer with **6+ years of hands-on development experience** and strong expertise in **ITSM, Service Catalog, Flow Designer, IntegrationHub, REST/SOAP APIs, JavaScript, GlideRecord, Business Rules, Client Scripts and Script Includes**.
+
+**Key Skills:**
+
+  
+
+* ServiceNow Development & ITSM
+* **Now Assist / Generative AI**
+* **AI Agents / AI Agent Studio / Agentic Workflows**
+* IntegrationHub & REST/SOAP APIs
+* Flow Designer & Service Catalog
+* JavaScript & Glide APIs
+* LLM/RAG/AI Search exposure preferred
+* **ServiceNow CSA certification mandatory**
+* CAD / ServiceNow AI certifications preferred
+
+  
+
+**Preferred candidate profile**
+
+  
+
+* 6+ years of hands-on **ServiceNow development** experience.
+* Strong experience in **ITSM, Service Catalog, Flow Designer, IntegrationHub and REST/SOAP integrations**.
+* Hands-on exposure to **Now Assist, Generative AI, AI Agents/AI Agent Studio or Agentic Workflows**.
+* Strong **JavaScript, Business Rules, Client Scripts, Script Includes and Glide API** skills.
+* Exposure to **LLM integrations, RAG, AI Search or GenAI Controller** will be preferred.
+* **ServiceNow CSA certification is mandatory**; CAD and ServiceNow AI certifications are preferred.
+* Looking for candidates with strong development and integration expertise who can work on **AI-driven ServiceNow solutions**.
+
+  
+  
+
+**Perks and benefits**
+
+  
+
+Competitive compensation | Learning & Certification Opportunities | Career Growth | Exposure to ServiceNow AI & GenAI Technologies | Employee Benefits as per Company Policy

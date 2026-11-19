@@ -1,0 +1,12 @@
+**Roles and Responsibilities :**
+
+* Design, develop, test, and implement automation solutions using PLCs, SCADA systems, HMIs, and DCS/Drive systems.
+* Collaborate with cross-functional teams to identify process improvements and implement changes to increase efficiency and productivity.
+* Troubleshoot issues with existing automated processes and provide recommendations for optimization.
+* Develop documentation of automated systems including user manuals, technical specifications, and maintenance procedures.
+
+**Job Requirements :**
+
+* 4-5 years of experience in Automation Engineering or related field.
+* Proficiency in programming languages such as Ladder Logic (Rockwell) or Function Block Diagrams (SCADA).
+* Strong understanding of communication protocols like Profibus, DeviceNet, Modbus RTU/TCP etc.

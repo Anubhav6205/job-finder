@@ -1,0 +1,63 @@
+**Overview**
+
+Microsoft is a company where passionate innovators come to collaborate, envision what can be and take their careers further. This is a world of more possibilities, more innovation, more openness, and the sky is the limit thinking in a cloud-enabled world.
+
+Microsoft’s Azure Data engineering team is leading the transformation of analytics in the world of data with products like databases, data integration, big data analytics, messaging & real-time analytics, and business intelligence. The products our portfolio include Microsoft Fabric, Azure SQL DB, Azure Cosmos DB, Azure PostgreSQL, Azure Data Factory, Azure Synapse Analytics, Azure Service Bus, Azure Event Grid, and Power BI. Our mission is to build the data platform for the age of AI, powering a new class of data-first applications and driving a data culture.
+
+Within Microsoft Fabric, the Platform team builds and operates the unified foundation that brings together all Fabric workloads into a single, cohesive experience. The platform provides shared infrastructure, governance, security, and a unified data model that enables customers to manage their entire data estate in one place. This team is central to delivering Fabric as a complete, end-to-end intelligence platform.
+
+Within the Microsoft Fabric Platform team, we are hiring a Senior Software Engineer to build Fabric's next-generation software development lifecycle (SDLC) platform: the infrastructure that takes every change from a developer's local environment through validation and deployment to production. Agentic software development is changing the scale of software engineering: GitHub reports that developers and agents made more than five times as many commits in September 2026 as they did a year earlier, and we are planning for a 50 to 100 times increase in the number of features our teams ship. Today's SDLC infrastructure was never designed for that scale, so we are rebuilding it to match that vision. We build our SDLC platform as a product: agent-driven, cloud-native backend services on Azure that provide elastic development and validation environments, high-throughput processing of every code change, and safe, progressive deployment to production across Fabric's global, multi-region footprint, with AI agents increasingly taking on work across the lifecycle, from feature development to live-site recovery to compliance and security. Every team building features for Microsoft Fabric runs on this platform, so each improvement compounds across a very large engineering organization. We approach the SDLC as a large-scale distributed systems problem, which makes this a backend product development role: we are looking for engineers who love building distributed systems and cloud infrastructure at scale, and who want to apply that to reinventing how software is built and shipped in the agentic era. As a Senior Software Engineer, you will lead the design of major components of the platform, from architecture through production.
+
+We do not just value differences or different perspectives. We seek them out and invite them in so we can tap into the collective power of everyone in the company. As a result, our customers are better served.
+
+ **Responsibilities**
+
+Lead the design and development of cloud-native backend services for Fabric's next-generation software development lifecycle (SDLC) platform, spanning local development, validation, and deployment to production.  
+Architect elastic, on-demand compute and environments on Azure that let engineers and AI agents develop and validate changes in isolated, production-like environments at very high concurrency.  
+Build distributed, high-throughput services that scale gracefully with an order-of-magnitude growth in change volume driven by agentic development.  
+Design deployment services that roll out changes safely and progressively across Fabric's global, multi-region footprint, with automated health analysis and rollback.  
+Build AI agents into the platform itself, for example agents that recover live-site issues and keep changes compliant and secure, so the SDLC runs with minimal human toil and offers similar levels of SLA and reliability guarantees that customers of Fabric get, offered to the developers building on this platform.  
+Partner with engineering teams across Fabric to understand their needs, identify dependencies, modernize existing infrastructure for scale, resilience, and cost efficiency, and drive adoption of the platform.  
+Write extensible, well-tested, secure, and performant code, primarily in C#/.NET, and review designs and code to raise the engineering quality of the team.
+
+Embody our culture and values
+
+ **Qualifications**
+
+**Required/Minimum Qualifications**
+
+Bachelor's Degree in Computer Science or related technical field AND 6+ years technical engineering experience with coding in languages including, but not limited to, C, C++, C#, Java, JavaScript, or Python OR equivalent experience.
+
+Job Requirements: Other & Additional
+
+Ability to meet Microsoft, customer and/or government security screening requirements are required for this role. These requirements include, but are not limited to the following specialized security screenings: Microsoft Cloud Background Check:
+
+This position will be required to pass the Microsoft Cloud background check upon hire/transfer and every two years thereafter.
+
+**Preferred/Additional Qualifications**
+
+Master's Degree in Computer Science or related technical field AND 6+ years technical engineering experience with coding in languages including, but not limited to, C, C++, C#, Java, JavaScript, or Python OR Bachelor's Degree in Computer Science or related technical field AND 8+ years technical engineering experience with coding in languages including, but not limited to, C, C++, C#, Java, JavaScript, or Python OR equivalent experience.  
+Preferred experience designing and building large-scale, cloud-based backend services and infrastructure as a product developer.  
+Preferred hands-on experience building on cloud platform services (Azure or another major cloud), such as compute and containers, storage, messaging, and databases like Cosmos DB, Azure SQL, or Redis.  
+Preferred experience designing multi-tenant, high-throughput distributed systems, including scalability, performance, and resilience.  
+Preferred experience leading the architecture of a major component and taking it from design through production.  
+Preferred experience building AI agents or LLM-powered systems.  
+Interest in reinventing the software development lifecycle (SDLC) for AI and agentic software development.
+
+**Equal Opportunity Employer (EOP)**
+
+Microsoft is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to age, ancestry, color, family or medical care leave, gender identity or expression, genetic information, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran status, race, religion, sex (including pregnancy), sexual orientation, or any other characteristic protected by applicable laws, regulations, and ordinances. If you need assistance and/or reasonable accommodation due to a disability during the application or the recruiting process, please send a request via the Accommodation request form (Accessibility | Microsoft Careers).
+
+Benefits/perks listed below may vary depending on the nature of your employment with Microsoft and the country where you work.
+
+#azdat
+
+#azuredata
+
+#softwareengineer #seniorsoftwareengineer #backend #distributedsystems #cloudinfrastructure #kubernetes #microservices #scalability #Azure #CSharp #dotnet #agenticAI #AI #Fabric #sdlc
+
+  
+
+This position will be open for a minimum of 5 days, with applications accepted on an ongoing basis until the position is filled.
+
+Microsoft is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to age, ancestry, citizenship, color, family or medical care leave, gender identity or expression, genetic information, immigration status, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran or military status, race, ethnicity, religion, sex (including pregnancy), sexual orientation, or any other characteristic protected by applicable local laws, regulations and ordinances. If you need assistance with religious accommodations and/or a reasonable accommodation due to a disability during the application process**.**

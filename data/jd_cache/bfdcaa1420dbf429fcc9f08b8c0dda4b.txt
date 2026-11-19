@@ -1,0 +1,65 @@
+Job Overview
+
+We are looking for a skilled and enthusiastic
+**Agentic AI Engineer**
+with 2–3 years of hands-on experience in developing AI-powered applications, LLM-based solutions, and autonomous AI agents.
+
+The ideal candidate should have practical experience working with Large Language Models (LLMs), AI agent frameworks, prompt engineering, API integrations, and Python-based development.
+
+You will be responsible for designing, developing, testing, and deploying intelligent AI agents capable of understanding user requirements, making contextual decisions, executing tasks, and interacting with external systems and business applications.
+
+Key Responsibilities
+
+* Design and develop autonomous AI agents using modern Agentic AI frameworks and technologies.
+* Build LLM-powered applications using OpenAI, Azure OpenAI, Anthropic, or other foundation models.
+* Develop multi-agent workflows and AI-driven automation solutions for enterprise use cases.
+* Work with frameworks such as LangChain, LangGraph, CrewAI, or AutoGen.
+* Implement Retrieval-Augmented Generation (RAG) pipelines using vector databases and embedding models.
+* Integrate AI agents with REST APIs, databases, third-party applications, and enterprise systems.
+* Develop intelligent chatbots, AI assistants, and task-oriented conversational applications.
+* Implement prompt engineering, context management, memory, tool calling, and function calling.
+* Work with vector databases such as Pinecone, ChromaDB, FAISS, or Weaviate.
+* Develop backend services and AI application APIs using Python and FastAPI or Flask.
+* Evaluate AI model performance, troubleshoot issues, and optimise accuracy, latency, and response quality.
+* Implement appropriate security, validation, monitoring, and human-in-the-loop mechanisms.
+* Collaborate with software developers, technical architects, and project teams to deliver production-ready AI solutions.
+
+Required Technical Skills
+
+* Strong programming knowledge in Python.
+* Hands-on experience with LLMs and Generative AI applications.
+* Practical exposure to Agentic AI development and AI agent frameworks.
+* Knowledge of LangChain, LangGraph, CrewAI, or AutoGen.
+* Experience with OpenAI APIs, Azure OpenAI, or similar LLM platforms.
+* Understanding of RAG architecture, embeddings, and semantic search.
+* Familiarity with vector databases such as Pinecone, FAISS, ChromaDB, or Weaviate.
+* Experience in REST API development and third-party API integrations.
+* Working knowledge of SQL and/or NoSQL databases.
+* Familiarity with Git, Docker, and basic cloud deployment practices.
+
+Good to Have
+
+* Experience developing multi-agent AI systems.
+* Exposure to AWS Bedrock, Google Vertex AI, or Microsoft Azure AI services.
+* Knowledge of AI workflow automation and orchestration.
+* Experience with FastAPI, Flask, React, or Node.js.
+* Understanding of LLM evaluation, guardrails, and AI observability.
+* Experience building and deploying enterprise AI applications.
+
+Education
+
+Bachelor's or Master's degree in Computer Science, Information Technology, Artificial Intelligence, or a related technical discipline.
+
+What We Offer
+
+* Opportunity to work on real-world Agentic AI and Generative AI projects.
+* Exposure to international clients and enterprise technology implementations.
+* Opportunity to work with modern AI frameworks and emerging technologies.
+* Collaborative engineering environment with opportunities for professional growth.
+* Opportunity to contribute to innovative AI-powered digital transformation solutions.
+
+Interested?
+
+If you are passionate about building intelligent AI agents and developing next-generation AI applications, we would love to hear from you.
+
+**Apply now and be part of the AI innovation journey at Jubiliants Software Solution**

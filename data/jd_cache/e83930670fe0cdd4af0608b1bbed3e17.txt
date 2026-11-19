@@ -1,0 +1,35 @@
+**Job Summary**
+
+We are seeking a mid-level **.NET Developer** (**Angular, REST API, .NET Core, ASP.NET, C#, SQL Server**) who builds critical healthcare business applications using an **AI-assisted, agentic development workflow**. You will use **GitHub Copilot** (Chat, agent mode, and the Copilot coding agent) as a daily partner to design, code, test, and document features, while owning the quality and correctness of everything the AI helps produce.
+
+**Key Responsibilities**
+
+* Design, develop, and implement business applications using **.NET Core, C#, ASP.NET, Angular 15+, REST APIs** and **Microsoft SQL Server**.
+* Use **GitHub Copilot agent mode** and the **AI** **coding agents** to scaffold features, generate unit tests, refactor legacy code, and fix defects from well-written GitHub issues.
+* Write clear prompts, task specifications, and repository **custom instructions** so Copilot produces code that follows team standards.
+* Critically review, test, and validate all AI-generated code for correctness, security, performance, and PHI/HIPAA safety before merging.
+* Create design documents when required; perform coding, debugging, and testing across the .NET software lifecycle.
+* Develop web applications using Service-Oriented Architecture and n-tier design.
+* Understand, maintain, and modernize existing applications and code bases.
+* Deliver projects on time with high quality and performance; participate in Agile/Scrum ceremonies and Azure DevOps work-item management.
+
+**Required Skills & Qualification**
+
+* 6+ years of experience with the **Microsoft .NET platform** C#, ASP.NET, .NET Core, .NET Framework 4.0, ADO.NET, REST APIs.
+* **Angular 15+** and **SQL / Microsoft SQL Server** are mandatory.
+* Hands-on, day-to-day experience using **GitHub Copilot** (Chat, inline completions, agent mode) in a professional codebase, including prompting, iterating on, and correcting AI output.
+* Strong object-oriented programming skills with working knowledge of application architecture and design patterns.
+* Experience designing, building, and supporting n-tier applications; exposure to all phases of the SDLC.
+* Experience with **Git / GitHub** (branching, pull requests, code review).
+* Ability to take ownership of deliverables, attention to detail, and good written and verbal English communication.
+
+**Preferred Skills**
+
+* Experience with the **GitHub Copilot coding agent** (assigning issues to Copilot, coding, reviewing agent PRs) and other **Agentic AI Tools**.
+* Familiarity with **MCP servers** or other agent tooling that connects Copilot to databases, APIs, or Azure DevOps.
+* Exposure to the **Healthcare domain** and **HL7 / FHIR** integrations.
+* Experience with Agile, Azure DevOps, and CI/CD pipelines (GitHub Actions or Azure Pipelines).
+* Experience with VB.NET, Crystal Reports, or Entity Framework.
+* Basic understanding of Azure services (App Services, Functions, SQL Database).
+* Microsoft or GitHub certifications (e.g., GitHub Copilot certification, Azure Developer Associate).
+* Experience with EMR/PMs is a plus

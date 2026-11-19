@@ -1,0 +1,24 @@
+Marlabs, a global AI and Digital Solutions Consulting firm, delivers intelligent solutions across AI, data, analytics, and product engineering. Since 2000, we have partnered with some of the largest healthcare, life sciences, financial services, and government organizations worldwide. As we continue to expand our global footprint, we have an exciting opportunity for a highly skilled Senior Data Engineer – GenAI & Data Platforms to join our innovative and dynamic team.
+
+**Senior Data Engineer – GenAI & Data Platforms | About You**
+
+As a Senior Data Engineer – GenAI & Data Platforms, you will provide technical leadership across the data engineering foundation supporting enterprise reporting and Generative AI capabilities. You will design reusable ingestion and transformation frameworks, optimize data performance and scalability, and own key GenAI configuration and reporting components. This role requires a senior hands-on engineer capable of connecting data engineering practices with GenAI agent design and business reporting requirements.
+
+**Senior Data Engineer – GenAI & Data Platforms | Day-to-Day**
+
+* Design and implement reusable data ingestion and transformation frameworks that support scalable reporting, analytics, and GenAI solutions.
+* Establish technical patterns and engineering standards for standardized pipelines, transformations, data quality, performance, and scalability.
+* Analyze and optimize data processing workloads to improve performance, reliability, scalability, and maintainability.
+* Design and configure the Genie space, including General Instructions, catalog metrics, and reporting logic required for business-facing GenAI capabilities.
+* Own agent and prompt design, including context documents, business instructions, recommendations, and related AI configuration topics.
+* Partner with Data Engineers, Test Engineers, and business stakeholders to translate reporting and AI requirements into production-ready technical solutions.
+* Provide technical guidance to engineering teams and ensure solutions follow established architecture, documentation, and handoff standards.
+
+**Senior Data Engineer – GenAI & Data Platforms | Skills & Experience**
+
+* 7+ years of Data Engineering experience, including technical ownership of enterprise data pipelines, data transformations, and scalable data solutions.
+* Strong experience designing reusable ingestion and transformation frameworks, with expertise in data modeling, pipeline architecture, performance tuning, and scalability.
+* Strong understanding of data quality, metadata, metrics, reporting logic, and governed enterprise data architectures.
+* Experience supporting GenAI, natural-language analytics, AI agents, or similar data-driven AI applications, including prompt/context configuration.
+* Experience developing reporting and analytics solutions that translate governed enterprise data into trusted business metrics and insights.
+* Strong technical leadership, problem-solving, stakeholder collaboration, and documentation skills, with the ability to guide Data Engineers through implementation

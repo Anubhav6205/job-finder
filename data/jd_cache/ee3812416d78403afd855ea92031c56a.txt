@@ -1,0 +1,53 @@
+We are looking for a **Data Scientist** to join our team, focusing on moving AI beyond the experimental phase and into **production-scale manufacturing environments.**
+
+  
+
+If you enjoy the challenge of building end-to-end ML solutions and seeing your models drive real-world industrial impact.
+
+  
+
+You will support the development of AI/ML solutions tailored for **Solar Manufacturing**, working across a diverse technical landscape:
+
+  
+
+* **Computer Vision:** Implementing robust models for real-time industrial inspection and quality control.
+
+  
+
+* **Time-Series Analysis:** Developing forecasting and anomaly detection models for manufacturing telemetry.
+
+  
+
+* **Generative AI:** Building practical, LLM-powered tools and **Retrieval-Augmented Generation (RAG)** pipelines to enhance operational efficiency.
+
+  
+
+**What** **Were** **Looking For:**
+
+  
+
+* **A "Deployment-First" Mentality:** Experience or a strong interest in **MLOps** and the practicalities of deploying and monitoring models in a production setting.
+
+  
+
+* **Technical Foundations:** Strong proficiency in Python and hands-on experience with modern libraries:
+
+  
+
+* **CV & Time-Series:** PyTorch, TensorFlow, OpenCV, or Scikit-learn.
+
+  
+
+* **Generative AI:** Exposure to **RAG frameworks** (e.g., LangChain, LlamaIndex) and libraries for LLM orchestration and vector databases.
+
+  
+
+* **Deployment & Infrastructure:** Experience with **Docker**, containerization, and basic CI/CD pipelines to ensure models are production-ready.
+
+  
+
+* **Execution Focus:** Your primary goal will be developing stable, scalable solutions that function reliably on the shop floor.
+
+  
+
+* **Qualifications:** Bachelor’s or Master’s degree in Engineering, Computer Science, or a related quantitative discipline with relevant industry experience.

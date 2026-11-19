@@ -1,0 +1,78 @@
+**Role**: AI/ML Engineer  
+**Experience**: 7+ Years  
+**Location**: Pune  
+**Timing**: 11:00 AM – 9:00 PM
+
+**Job Overview :**
+
+We are looking for an experienced AI/ML Engineer with strong expertise in developing, deploying, monitoring, and managing production-grade Machine Learning and AI solutions. The ideal candidate should have hands-on experience in ML model lifecycle management, MLflow, Feature Stores, RAG-based applications, and Azure Databricks.
+
+The candidate should be proficient in building scalable data pipelines, implementing model evaluation frameworks, and managing end-to-end ML workflows with a strong focus on model performance, governance, explainability, and operational efficiency.
+
+Key Responsibilities
+
+Design, develop, and deploy scalable Machine Learning and AI/LLM-based solutions.
+
+Implement MLflow tracking, model registry, and end-to-end model lifecycle management.
+
+Build and manage Feature Stores for feature engineering, reuse, and consistency.
+
+Implement model promotion workflows with Champion/Challenger evaluation and approval gates.
+
+Develop and optimize RAG-based AI/LLM applications.
+
+Work extensively with Azure Databricks, Azure Data Factory (ADF), and Python.
+
+Build and maintain scalable ETL/ELT data pipelines.
+
+Containerize ML applications and deployment workflows using Docker.
+
+Design and implement model evaluation metrics and performance monitoring frameworks.
+
+Maintain model cards, explainability reports, and model governance documentation.
+
+Ensure model quality, reliability, scalability, and production readiness.
+
+**Mandatory Technical Skills:**
+
+MLflow: Tracking, Model Registry, and Model Lifecycle Management.
+
+Feature Store: Feature engineering, management, and reuse.
+
+ML Model Governance: Champion/Challenger workflows and model promotion gates.
+
+AI/LLM: Hands-on experience with AI/ML models, LLMs, and RAG.
+
+Azure Databricks: Strong hands-on experience.
+
+Azure Data Factory (ADF): Data pipeline development and orchestration.
+
+Python: Strong programming and ML development skills.
+
+Docker: Containerization and deployment.
+
+Data Engineering: ETL/ELT pipeline development.
+
+Model Evaluation: Evaluation metric design, model cards, and explainability.
+
+**Candidate Expectations:**
+
+Minimum 7+ years of relevant experience in AI/ML engineering.
+
+Strong hands-on experience in production-grade ML solutions.
+
+Practical experience managing the complete ML model lifecycle.
+
+Ability to build and optimize scalable AI/ML pipelines.
+
+Strong understanding of model governance, evaluation, and monitoring.
+
+Candidates should have demonstrable project experience in the mandatory skill set.
+
+Pay: ₹80,000.00 - ₹100,000.00 per month
+
+Experience:
+
+* Gen AI: 8 years (Required)
+
+Work Location: In person

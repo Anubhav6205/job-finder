@@ -1,0 +1,28 @@
+**Role & responsibilities**
+
+Python, Advanced GenAI & Agentic Framework Concepts, Cloud Application Integration & Deployment, FastAPI Framework, Azure OpenAI Service, Retrieval-Augmented Generation (RAG), AI Agents & Tool Calling, LangGraph, LangChain, Prompt Engineering
+
+  
+
+**Key Responsibilities**
+
+  
+
+* Design and develop enterprise Generative AI solutions using Amazon Bedrock, Azure OpenAI Service, Azure AI Foundry, Grog, or AI Search Index platforms.
+* Define AI solution architectures and implementation approaches aligned with business and technical objectives.
+* Design and implement Retrieval-Augmented Generation (RAG), Graph RAG, and Agentic AI architectures for enterprise use cases.
+* Lead development of intelligent AI agents, tool-calling workflows, and autonomous task execution frameworks.
+* Design and implement multi-agent orchestration solutions using frameworks such as LangGraph and evaluate emerging frameworks such as AutoGen or CrewAI where appropriate.
+* Design and optimize prompt strategies, retrieval mechanisms, context orchestration, and response generation frameworks.
+* Design prompt engineering pipelines, vector database integration, semantic search solutions, and Retrieval-Augmented Generation architectures supporting enterprise AI applications.
+* Design and implement workflows using LangChain or LangGraph to support scalable AI application development.
+* Design scalable AI engineering architectures incorporating authentication, authorization, asynchronous processing, scheduling, multithreading, API governance, and enterprise deployment best practices.
+* Lead fine-tuning and model customization initiatives to improve domain-specific AI performance.
+* Define AI integration patterns and deployment approaches for enterprise application ecosystems.
+* Design cloud-native AI integration patterns supporting enterprise APIs, databases, messaging platforms, and event-driven architectures.
+* Establish evaluation frameworks for AI response quality, reliability, relevance, and consistency.
+* Design Human-in-the-Loop (HITL) workflows and evaluation mechanisms to improve AI quality, governance, and business reliability.
+* Review AI solution designs to ensure adherence to engineering standards, scalability, maintainability, and responsible AI practices.
+* Troubleshoot complex AI workflow, retrieval, orchestration, and model behavior challenges through detailed root cause analysis.
+* Mentor team members on GenAI frameworks, RAG architectures, agentic systems, and AI engineering best practices.
+* Drive continuous improvement initiatives focused on AI solution quality, innovation, and operational effectiveness.

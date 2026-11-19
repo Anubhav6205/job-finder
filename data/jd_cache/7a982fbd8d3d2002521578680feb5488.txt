@@ -1,0 +1,33 @@
+**AI Engineer JD:**
+
+**Minimum 5 years IT experience Out of which minimum of two years experience in Data Science and Azure Should have worked in at least one GenAI customer project or PoC with a recent LLM model Flexible to work in the shifts.**
+
+**Primary skills**
+
+**Looking for experience on Azure App Service Azure Bot Framework Azure Functions Azure SQL Azure Cognitive Search Azure Blob Storage**
+
+**Python Analyze and investigate possible solutions in order to meet the customers business and technical requirements**
+
+**Handson in Prompt Engineering Azure Open AI or other recent LLM Form Recognizer Cognitive Search Vector Databases**
+
+**Good to Have JavaScript frameworks Net**
+
+**Develop Copilot and AI applications using Microsoft Copilot Studio and Power Platform.**
+
+**Secondary Skills**
+
+**Familiarity with complete IT lifecycle Analysis Architecture Design Build Test Production**
+
+**Experience of working in a matrix organization**
+
+**The candidate should be able to communicate with the customer**
+
+**Certifications Good to Have**
+
+**AI102 Microsoft Certified Azure AI Engineer Associate**
+
+**DP100 Microsoft Certified Azure Data Scientist Associate**
+
+**Databricks Professional Certificate in Large Language Models**
+
+**Gen AI +Data Science+Azure+Python-Mandatory skills**

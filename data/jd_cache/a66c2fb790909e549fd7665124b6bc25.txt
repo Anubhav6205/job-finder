@@ -1,0 +1,63 @@
+**COMPANY DESCRIPTION:**
+
+Gurucul is a global cyber security company that is changing the way organizations protect their assets. We equip and empower those who work to secure the promise of a digital world. To support security professionals, we created REVEAL—the dynamic security analytics platform. The REVEAL platform combines essential capabilities and enhances them with native AI to deliver ultimate clarity in detecting, identifying, and responding to threats.Using REVEAL, security teams can perform at their peak and maximize the human potential in the SOC.Gurucul technology is used by Global 1000 companies and government agencies. Our mission is to help organizations protect their intellectual property, regulated information, and brand reputation from insider threats and sophisticated external intrusions. Gurucul is recognized as a Leader in Gartner’s 2025 SIEM Magic Quadrant, and recognized as an Overall Leader in KuppingerCole’s Intelligent SIEM Leadership Compass. Pioneered UEBA by unifying big data, machine learning, and predictive analytics. The company was Founded in 2010 and is headquartered in Los Angeles and engineering center in Pune India.
+
+**Location:**
+Pune
+
+**Employment Type:**
+Full-Time
+
+**Job Title:**
+Senior AI Engineer
+
+**Job Summary:**
+
+We are seeking an experienced AI Engineer to be part of our talented team of developers. The ideal candidate will have a strong background in software development using AI tech stack.
+
+**Required Skills:**
+
+* BE/ME/B.Tech/M.Tech degree in Computer Science, Engineering or related discipline
+* Strong communication and interpersonal skills
+* Good team player
+* Self and quick learner
+* Excellent problem-solving and decision-making skills
+* Minimum of 3+ years of experience in AI related application development and overall experience of 8 to 10 in enterprise application development
+* Ability to come up with solutions to business problems
+* Ability to drive architecture decisions by strong technical evidences
+* In-depth understanding and hands on experience on with core programming- Strong Python skills or else Java is big plus , SQL and API development, FastAPI or Flask for backend services, some exposure to TypeScript/Node.js is a plus
+* Hands-on experience with frameworks such as LangChain, LangGraph, LlamaIndex, CrewAI, AutoGen, Temporal, Ray
+* Experience working with models/platforms like OpenAI Platform, Anthropic Claude, Google Gemini,Open-source models like Llama or Mistral
+* Good exposure to Prompt engineering, Context management, Model evaluation, Cost/latency optimization, Fine-tuning
+* Mandatory skillset on RAG & Vector Databases typical tools include -Pinecone, Weaviate, Qdrant, Elasticsearch/OpenSearch
+* Experience on Chunking strategies, Embeddings, Hybrid search, Reranking, Knowledge retrieval pipelines
+* Good hands on with Agentic AI / Workflow Orchestration and working experience on Multi-agent systems, Autonomous workflows, Planner-executor architectures, Human-in-the-loop workflows, Long-running AI processes
+* Experience with NLP libraries such as spaCy or NLTK
+* NLP familiarity with text preprocessing and feature extraction
+* Understanding of transformer-based models
+* Nice to have exposure on Deployment & Infrastructure with Docker, Kubernetes, CI/CD pipelines, Cloud platforms like-AWS, Google Cloud, Microsoft Azure
+* Nice to have awareness on LLMOps / Observability tools -LangSmith, MLflow, Weights & Biases
+
+**Key Responsibilities:**
+
+* Being part of the SCRUM team to work on AI development stories to add on new AI features to the product
+* Work closely with product, data, and backend engineering teams
+* Translate business requirements into AI system designs
+* Build Retrieval-Augmented Generation pipelines using LlamaIndex, LangChain, etc.
+* Design chunking, embedding, and retrieval strategies for knowledge bases
+* Integrate vector databases (Pinecone, Weaviate, Chroma, pgvector)
+* Build and ship production-grade LLM-powered features (chatbots, copilots, agents)
+* Design prompt engineering strategies and manage prompt versioning
+* Develop multi-agent systems and autonomous workflows
+* Integrate AI capabilities via REST/GraphQL APIs
+* Work with LLM provider APIs (OpenAI, Anthropic, Groq, Cohere, etc.)
+* Build scalable inference endpoints and manage latency/throughput tradeoffs
+* Write, test, and optimize system prompts and few-shot examples
+* Manage context window efficiently for long-context tasks
+* Build guardrails and safety layers around model outputs
+* Stay current with AI/ML research and evaluate new models/tools
+* Rapidly prototype proof-of-concepts and assess feasibility
+* Contribute to internal knowledge sharing and documentation
+* Implement prompt injection defenses and input/output sanitization
+* Ensure compliance with data privacy regulations (GDPR, HIPAA where applicable)
+* Apply responsible AI principles — bias detection, fairness, transparency

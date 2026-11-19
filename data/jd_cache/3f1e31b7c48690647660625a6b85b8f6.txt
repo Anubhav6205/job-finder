@@ -1,0 +1,4 @@
+Design and build custom GenAI services using Azure OpenAI , AWS Bedrock etc.  
+Implement Retrieval-Augmented Generation (RAG) using enterprise data sources  
+Define AI evaluation metrics and testing strategies  
+RAG architectures

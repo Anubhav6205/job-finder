@@ -1,0 +1,49 @@
+Prior experience with a focus on deploying and managing machine learning models, data engineering, working knowledge of DevOps and Software Engineering is preferred
+
+Proven ability in Python programming and exposure to Python's ML ecosystem.
+
+Experience with AWS cloud based machine-learning deployments & tools (e.g. SageMaker, Event Bridge, ECS, ALB).
+
+Experience with DBT
+
+Experience deploying infrastructure as code.
+
+Extensive experience with cloud and distributed systems, data-intensive applications, and large-scale system design.
+
+Experience with AI solutions (e.g. Agents use and deployment)
+
+Experience with data warehouse (BigQuery, SnowFlake)
+
+Familiarity with Large Language Models
+
+Understanding containerization technologies (e.g. Docker).
+
+Knowledge of software development practices, version control, and collaboration tools (e.g., Git, GitHub & actions)
+
+Understanding standard ETL patterns, modern data warehousing and data quality practices regarding test driven design and data observability.
+
+Exceptional stakeholder management and communication skills to effectively communicate across global teams
+
+Experience implementing real time data systems [an advantage]
+
+Experience with Streamlit [an advantage]
+
+  
+
+WHATS IN IT FOR YOU?
+
+The opportunity to work with a fantastic team with a great culture
+
+• The opportunity to be part of an innovative and exciting company that is completely changing an outdated industry
+
+• The opportunity to grow professionally in a dynamic and fun environment • A competitive compensation plan
+
+• Hybrid work from home and office model
+
+• A flexible time off policy which includes unlimited wellness days, personal days and vacation time
+
+• Two volunteer days
+
+• A day off on your Birthday
+
+The company paid top-tier health benefits plan and a telemedicine service

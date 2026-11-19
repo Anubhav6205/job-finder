@@ -1,0 +1,26 @@
+**Experience:** 6+ Years  
+**Working Hours:** 9 AM 6 PM IST (Flexible to accommodate US hours)
+
+Work from Office (Kochi, Keralam)
+
+  
+
+**Job Description:**
+
+We are looking for a Senior AI/ML Platform & Systems Engineer with strong hands-on experience in enterprise AI/ML platforms, MLOps, and platform engineering.
+
+  
+
+**Key Skills & Requirements:**
+
+* Strong expertise in **Databricks and/or Snowflake** ecosystems.
+* Hands-on experience in **Enterprise MLOps, MLflow, PySpark, and model deployment**.
+* Strong background in **Python, Machine Learning, and Deep Learning**.
+* Experience building scalable ML platforms, CI/CD pipelines, model monitoring, and governance frameworks.
+* Knowledge of **GenAI, LLM fine-tuning, RAG, and vector databases**.
+* Experience with Azure, AWS, or GCP cloud platforms.
+* Strong system design, architecture, and technical leadership capabilities.
+
+  
+
+**Preferred:** Experience in enterprise-scale AI/ML platform development, retail, supply chain, or financial services.

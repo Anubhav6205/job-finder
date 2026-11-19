@@ -1,0 +1,93 @@
+**About Role**
+
+We are looking for a results-driven SEO Executive with expertise in Search Engine Optimization (SEO), Generative Engine Optimization (GEO), Answer Engine Optimization (AEO), Google Tag Manager (GTM), Google Merchant Center (GMC), Google Business Profile (Google My Business/GMB), and SEO Content Writing. The ideal candidate will be responsible for improving organic visibility, enhancing search rankings, optimizing brand presence across search and AI platforms and driving qualified traffic and conversions.
+
+**Key Responsibilities**
+
+**SEO (Search Engine Optimization)**
+
+* Conduct keyword research and competitor analysis.
+* Perform on-page, off-page, and technical SEO optimization.
+* Monitor website performance using Google Search Console, GA4, and SEO tools.
+* Identify and fix crawl errors, indexing issues, and Core Web Vitals improvements.
+* Optimize category, product and landing pages for higher organic rankings.
+
+**Technical SEO**
+
+* Conduct technical SEO audits and fix crawl, indexing, and site performance issues.
+* Optimize Core Web Vitals, XML sitemaps, robots.txt, canonicals, and redirects.
+* Implement and validate schema markup and structured data.
+* Monitor Google Search Console and resolve technical SEO errors.
+* Collaborate with developer to ensure SEO best practices across the website.
+
+**GEO (Generative Engine Optimization)**
+
+* Optimize content for AI-powered search engines and generative search platforms.
+* Develop structured content that improves visibility in AI-generated answers.
+* Implement schema markup and semantic SEO strategies.
+* Monitor brand visibility across AI search experiences.
+
+**AEO (Answer Engine Optimization)**
+
+* Create and optimize FAQ, How-To, and featured snippet content.
+* Improve content structure for voice search and zero-click searches.
+* Build content that increases chances of appearing in featured snippets and answer boxes.
+
+**Google Tag Manager (GTM)**
+
+* Implement and manage tracking tags via Google Tag Manager.
+* Set up event tracking, conversion tracking, and custom dimensions.
+* Ensure accurate implementation of marketing and analytics tags.
+* Troubleshoot tracking issues across websites and landing pages.
+
+**Google Merchant Center (GMC)**
+
+* Manage product feeds and optimize product listings.
+* Resolve Merchant Center disapprovals and feed errors.
+* Implement structured data for product-rich results.
+* Coordinate with paid marketing teams for Shopping Ads optimization.
+
+**Google Business Profile (GMB)**
+
+* Manage and optimize Google Business Profiles.
+* Monitor reviews, Q&A, local citations, and local SEO performance.
+* Improve local search rankings and visibility.
+* Upload and optimize business updates, images, and service information.
+
+**SEO Content Writing**
+
+* Write SEO-friendly blogs, landing pages, category pages, and product descriptions.
+* Create keyword-rich content aligned with search intent.
+* Optimize existing content for better organic performance.
+* Collaborate with design and marketing teams for content campaigns.
+
+**Required Skills**
+
+* Strong knowledge of SEO, GEO and AEO strategies.
+* Knowledge of Technical SEO.
+* Hands-on experience with Google Analytics 4 (GA4), Google Search Console and Google Tag Manager.
+* Experience managing Google Merchant Center and Google Business Profile.
+* Understanding of Schema Markup and Rich Results.
+* Proficiency in keyword research tools such as SEMrush, Ahrefs, Ubersuggest, or similar.
+* Strong SEO content writing and editing skills.
+* Knowledge of HTML, CSS, and website CMS platforms (Shopify, WordPress, etc.).
+* Analytical mindset with strong problem-solving skills.
+
+**Preferred Qualifications**
+
+* Bachelor's degree in Marketing, Business, IT, or related field.
+* Google Analytics and Google Ads certifications are a plus.
+* Experience in E-commerce SEO and Local SEO preferred.
+
+**KPIs/Success Metrics**
+
+* Growth in Organic Traffic
+* Keyword Ranking Improvements
+* Featured Snippets & AEO Visibility
+* AI Search Visibility (GEO Performance)
+* Local SEO Rankings (GBP/GMB)
+* Merchant Center Health Score
+* Conversion Rate from Organic Traffic
+* Indexed Pages & Technical SEO Score
+* Leads/Sales Generated via Organic Search
+* Solve Technical Issues in Website

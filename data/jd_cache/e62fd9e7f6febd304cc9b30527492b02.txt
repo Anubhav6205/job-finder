@@ -1,0 +1,83 @@
+We are seeking a highly skilled Java Engineer to join our team in Bangalore. In this role, you will be responsible for designing, developing, and maintaining high-performance, scalable backend systems. You will work closely with cross-functional teams to deliver robust software solutions that meet complex technical requirements.
+
+  
+
+* **Role:Java Developer**
+* **Location:Bangalore**
+* **Experience:3 - 6 Years**
+* **Job type: Full time**
+* **Work type: Hybrid**
+
+**Impact you will realize: Job Responsibilities:**
+
+* Software Development: Design and implement high-quality, scalable, and resilient backend services using Java.
+* Concurrency & Performance: Build multi-threaded applications, ensuring thread safety and efficient resource utilization.
+* System Design: Apply design patterns and OOP principles to solve complex architectural challenges.
+* Communication Protocols: Develop and maintain RESTful APIs and gRPC services for inter-service communication.
+* Data Handling: Implement custom object serialization and optimize data storage/retrieval mechanisms.
+* Troubleshooting & Optimization: Perform deep-dive troubleshooting, including memory management, CPU profiling, and heap dump analysis to resolve performance bottlenecks.
+* Collaboration: Work effectively in a collaborative environment, participating in code reviews and technical discussions.
+
+  
+
+**Key skills you will require:**
+
+* Experience: 3-6 years of professional software development experience.
+* Core Java: Strong expertise in Java 8+ (and above), with a deep understanding of Exception Handling and Multithreading.
+* Concurrency: Proven experience with Java Multithreading, Concurrency models, and Thread-safe Java Collections.
+* I/O & Serialization: Hands-on experience with Asynchronous I/O (AsyncIO) and Custom Object Serialization.
+* Architecture: Solid grasp of OOPS concepts and practical application of Design Patterns.
+* APIs: Experience in building and consuming REST and gRPC communications.
+* Performance Tuning: Strong troubleshooting skills with the ability to analyze Heap Dumps, CPU usage, and Memory Management.
+
+  
+
+**Qualification you must require:**
+
+* Bachelors or Master's with Computer Science, Electronics, or a related field.
+
+  
+
+**Why should you join Xoriant?**
+
+Xoriant is a trusted provider of digital engineering services, renowned for building and operating complex platforms and products at scale. With three decades of software engineering excellence, we combine modern technology expertise in Data & AI (GenAI), cloud & security, domain and process consulting to solve complex technology challenges. We serve over 100 Fortune 500 companies and tech startups on their journey to becoming unicorns and beyond.
+
+As a "right-sized" company, we bring agility through our 5000+ passionate XFactors (our employees) from over 20 countries, fostering a culture focused on purpose and employee happiness.
+
+  
+
+**Want to experience life at Xoriant?**
+
+In our inclusive workspace, we turn imagination into reality everyday!
+
+* **Business for Purpose:** Be part of a passionate team and create a better future through tech & innovation.
+* **Giving Back to Community:** Build a stronger business and community by volunteering and make a positive impact in the community.
+* **Rise to Sustain:** Support your career growth in a way that helps ensure long-term success.
+* **Continuous Learning:** Stay curious and keep learning with us to drive innovation.
+* **Wellness First:** Prioritize well-being with multiple health benefits & experience work-life balance.
+* **Rewards & Recognition:** Value your work with meaningful rewards and recognitions.
+* **One Xoriant Family:** Celebrate the joy of diversity, inclusivity and togetherness through festivals.
+* **Candid Connects:** Connect directly with leaders and voice your opinion.
+* **Culture of Ideation:** Be a trailblazer, bring new ideas to the fore and realize them through engineering.
+
+  
+
+**If theres an XFactor in you, we have a chair dedicated to your name.**
+
+**Apply now :-**
+
+To know more about Xoriant, please visit : www.xoriant.com
+
+  
+
+**Important Notice:**
+
+We have been alerted that some job candidates, who posted their resumes on specific websites and portals, have been approached by imposters posing as Xoriant and making deceptive offers using Xoriant branding. Xoriant communications from website, official email addresses, and verified social media accounts only should be considered legitimate. Xoriant will never ask for payment during the recruitment process, nor have we authorized any external agencies to collect a fee on our behalf. Avoid sharing your personal details until you verify the offer's legitimacy. Cross-check the credentials of anyone claiming to represent Xoriant with our official HR department.
+
+If you receive any suspicious job offers or fraudulent communication bearing Xoriant branding, contact us at careers@xoriant.com immediately.
+
+  
+
+**Equal Employment Opportunity Statement:**
+
+We are committed to providing equal employment opportunities to all individuals, regardless of race, color, religion, gender, national origin, age, disability, or veteran status. Our inclusive workplace values diversity and ensures that all employees are treated fairly and with respect, promoting a culture of belonging. We strive to create a supportive environment where everyone has the opportunity to succeed and contribute to our collective success.

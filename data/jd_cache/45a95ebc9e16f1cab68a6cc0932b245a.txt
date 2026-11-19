@@ -1,0 +1,92 @@
+**Summary:**
+
+Soliton is a high-technology software company working with global customers across Semiconductor, Medical, Automotive, Industry 4.0, and High-Tech domains. We are seeking an Applied AI Engineer to design, build, and deploy intelligent applications leveraging Generative AI, Large Language Models (LLMs), and modern AI engineering practices.
+
+  
+
+**Position Overview:**
+
+The Applied AI Engineer is responsible for building AI-driven applications by integrating Generative AI models, data pipelines, and inference systems into production-ready solutions. This role involves hands-on development with Python and AI frameworks, designing RAG-based systems, optimizing model performance, and ensuring responsible AI deployment through guardrails and observability.
+
+  
+
+**Key Responsibilities:**
+
+* Design, implement, and optimize Generative AI applications using Python and frameworks such as FastAPI.
+* Build AI solutions using LLM frameworks like LlamaIndex and LangChain.
+* Implement containerized deployments using Docker.
+* Develop and optimize Retrieval-Augmented Generation (RAG) pipelines for improved information retrieval.
+* Work with self-hosted and cloud-based vector databases for efficient search and retrieval.
+* Design and manage knowledge graphs and graph-based RAG systems.
+* Implement re-ranking models and retrieval optimization techniques.
+* Apply prompt engineering and context engineering to enhance model performance.
+* Establish guardrails to ensure safe, ethical, and compliant AI deployments.
+* Build data preprocessing and transformation pipelines for structured and unstructured data.
+* Perform inference using offline LLMs via platforms like Ollama or Hugging Face (Llama, Mistral).
+* Integrate online LLM providers such as OpenAI, Anthropic, or GCP for real-time inference.
+* Monitor AI workflows using observability tools like MLflow or Arize Phoenix.
+* Evaluate model performance using frameworks such as TruLens or custom-built evaluation systems.
+* Continuously improve AI systems based on evaluation insights, metrics, and user feedback.
+
+  
+
+**Skills for a Generative AI Engineer:**
+
+* Experience building Generative AI applications using Python and FastAPI.
+* Hands-on knowledge of LLM frameworks such as LangChain or LlamaIndex.
+* Ability to work with unstructured data (PDFs, documents, chunking, search) and structured data.
+* Experience designing RAG-based systems, including prompt engineering and retrieval optimization.
+* Familiarity with vector databases (Qdrant, Pinecone, Weaviate) and search solutions.
+* Exposure to AI agents, workflows, and basic orchestration concepts.
+* Experience using cloud platforms like Azure or AWS.
+* Working knowledge of online and offline LLMs (OpenAI, Llama, Mistral).
+* Understanding of AI evaluation, monitoring, and observability concepts.
+* Experience with Docker and CI/CD pipelines for deploying AI applications.
+
+  
+
+**Good to Have:**
+
+* Experience with MCP clients and servers.
+* Knowledge of multimodal LLMs for image and voice processing.
+* Knowledge of deploying applications in cloud or on-prem infrastructure.
+* Knowledge of fine-tuning techniques and data preparation for fine-tuning.
+
+  
+
+**Qualifications:**
+
+* Bachelors or Masters degree in Computer Science, Engineering, or a related field.
+* Proven experience in AI/ML engineering and related technologies.
+* 3+ years of experience building applications using Python and asynchronous programming.
+* Experience working with SQL and NoSQL databases.
+* Strong problem-solving skills and ability to work in a fast-paced environment.
+* Excellent communication and teamwork skills.
+
+  
+
+**Benefits :**
+
+* We want every Soliton member to grow to their highest potential. Our work environment helps individuals explore their interests and potential and reach out to the resources and people available at Soliton to realize them. Read more about what its like to work at Soliton. Careers | Soliton Technologies
+* Solitons choose their work hours as long as they take into account the requirements of the job. We take special care to support mothers to excel at work while they handle their responsibilities at home.
+* At Soliton, we believe that every team member contributes to our success and revenue, directly or indirectly. To recognize this, we share a portion of our profits with all Solitons. Starting from your second year with us, youll be eligible to receive a share of the companys profits.
+* Health insurance for employees and families, gym and cycle allowance – your health is a priority!
+
+  
+
+**About Soliton :**
+
+Soliton Technologies Pvt. Ltd., a high-technology software company headquartered in Bangalore, India.
+
+Soliton works with global companies, from start-ups to Fortune 500, across industries including Semiconductors, Medical Devices, Automotive, Industry 4.0, and Robotics to help them increase their competitiveness and release great products through Software Engineering Services. Since 1997, we have been growing over 25% annually because we especially focus on raising our standards constantly, to deliver an excellent experience to both our customers and our employees.
+
+Soliton Technologies is a certified Great Place to Work® in the Mid-Sized Organizations Category, recognized and issued by the Great Place to Work® Institute. This certification is a testament to our focus on our values of Respect, Integrity, Excellence and Innovation.
+
+With a team of over 400 employees across the world, we forge ahead as engineers working to our heart’s content, moving humanity forward.
+
+  
+
+**Additional Details :**
+
+* Work Location (Bangalore/Coimbatore) : This role will require working from the office (WFO) for the first 12 months. Based on individual performance and business requirements, a remote or hybrid work option may be considered after one year.
+* For more information, visit https://www.solitontech.com/and do read the Impact Report to get a glimpse of the first 25 years of our truly meaningful journey.

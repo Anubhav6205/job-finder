@@ -1,0 +1,33 @@
+We’re hiring engineers to make everyday work faster and more reliable through AI and automation. You’ll work directly with business and operations teams, decide what’s worth automating, and take your solution from prototype to deployment. You’ll see how people use it and measure what improved.
+
+**What you’ll build**
+
+* Internal AI assistants that answer questions from approved documents, cite their sources and respect user permissions.
+
+* Tools that compare documents, extract key changes and route exceptions for human review.
+
+* Integrations that bring data together from multiple systems, flag discrepancies and eliminate repetitive manual work.
+
+You’ll choose the simplest approach that solves the problem, whether that’s a Python script, an API integration or an AI application. We’ll measure success through time saved, fewer errors and whether people keep using what you build.
+
+**What we’re looking for**
+
+* Strong Python, SQL and Git skills, with the ability to build, test and debug an API or backend service.
+
+* Hands-on experience with LLM APIs, document retrieval, structured data extraction or workflow automation. Experience with FastAPI, PostgreSQL, Docker or cloud deployment is welcome.
+
+* At least one working application or tool you’ve built end to end. This could come from an internship, freelance assignment, open-source contribution or personal project.
+
+* The ability to turn an unclear request into a useful first release, get feedback from users and improve it. You should be able to explain how you tested the system and what happens when it fails.
+
+Pay: ₹300,000.00 - ₹500,000.00 per year
+
+Application Question(s):
+
+* How many years of experience do you have ?
+* Do you have build at-least one working application or tool ?
+* Are you comfortable for Viman Nagar, Pune location?
+* What is your current salary?
+* How soon can you join?
+
+Work Location: In person

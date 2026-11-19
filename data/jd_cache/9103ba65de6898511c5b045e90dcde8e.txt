@@ -1,0 +1,11 @@
+**Required Skills and Qualifications**
+
+* Bachelors or master’s degree in computer science, Information Technology, Artificial Intelligence, Data Science, or a related field, or equivalent practical experience.
+* Strong programming and software development skills in at least one of the following: Python, C++, or Java.
+* Hands-on knowledge of Generative AI concepts, Large Language Models (LLMs), and prompt engineering.
+* Good understanding of Agentic AI, AI agents, tool/function calling, autonomous workflows, and multi-agent architectures.
+* Experience building AI-powered applications and integrating AI models through APIs.
+* Familiarity with AI frameworks and libraries such as LangChain, LangGraph, Llama Index, or similar technologies.
+* Knowledge of REST APIs, JSON, databases, data structures, and software development best practices.
+* Understanding workflow automation, process optimization, and system integration.
+* Strong analytical, problem-solving, communication, and collaboration skills.

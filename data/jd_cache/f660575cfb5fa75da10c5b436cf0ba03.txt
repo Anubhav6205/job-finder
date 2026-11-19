@@ -1,0 +1,8 @@
+Execute model deployments, retraining through the pipeline under approved plans— packaging, validation runs, staged promotion, Run drift monitoring (data / feature / concept), Validate models, Run optimization algorithms, Maintain the lineage records  
+  
+
+**Required Candidate profile**
+
+Mandatory Skills: MLOps, Customer Churn, Model Deployment, Drift Detection, Model Retraining, Python  
+4–7 years in MLOps/ DevOps/ data or ML engineering  
+Hands-on experience with churn predictive models

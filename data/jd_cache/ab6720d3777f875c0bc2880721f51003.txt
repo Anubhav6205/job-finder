@@ -1,0 +1,185 @@
+**Role Overview**
+
+We are looking for a **Senior AI Engineer / Data Scientist** with strong expertise across **Machine Learning, Deep Learning, and Statistical Modeling**, along with hands-on experience in **Generative AI, RAG architectures, Knowledge Graphs, and Agentic AI systems**.
+
+This is a high-impact role requiring both **research depth and production-level engineering capability**. You will design end-to-end AI systems powering optimization, forecasting, and intelligent automation.
+
+**Key Responsibilities**
+
+  
+
+**Advanced Machine Learning & Deep Learning**
+
+* Design, develop, and deploy advanced ML/DL models for:
+
++ Prediction, recommendation systems, and optimization problems
++ Time-series forecasting and demand estimation
++ Clustering, segmentation, and anomaly detection
+
+  
+
+* Build and fine-tune deep learning models (CNNs, RNNs, Transformers where applicable)
+* Apply statistical modeling, causal inference, and experimentation frameworks
+* Work with large-scale structured and unstructured datasets (including geospatial data)
+
+  
+  
+
+**Generative AI & LLM Systems**
+
+* Architect and productionize **RAG (Retrieval-Augmented Generation) pipelines**
+* Fine-tune and optimize LLMs for domain-specific reasoning and analytics
+* Design robust prompt strategies, evaluation pipelines, and guardrails
+* Integrate LLMs with enterprise data systems (data lakes, APIs, real-time streams)
+
+  
+  
+  
+  
+
+**Knowledge Graphs & Semantic Intelligence**
+
+* Design and implement **knowledge graphs** for contextual reasoning and entity relationships
+* Build graph-based retrieval and hybrid search systems (vector + symbolic)
+* Work with graph databases (e.g., Neo4j) and semantic query frameworks
+
+  
+  
+
+**Agentic AI & Autonomous Systems**
+
+* Build **autonomous and multi-agent systems** for decision-making workflows
+* Design agents capable of:
+
++ Tool usage (APIs, databases, analytics engines)
++ Memory handling and iterative reasoning
+
+  
+
+* Implement orchestration frameworks (LangChain, LangGraph, AutoGen, etc.)
+* Develop AI agents for:
+
++ Insight generation
++ Campaign optimization
++ Anomaly detection and reporting
+
+  
+
+**System Design & Engineering**
+
+* Design scalable AI architectures for batch and real-time processing
+* Build production-grade pipelines (training, inference, monitoring)
+* Develop APIs and microservices to expose AI capabilities
+* Optimize systems for performance, latency, and cost
+
+  
+  
+
+**Leadership & Collaboration**
+
+* Mentor junior data scientists and AI engineers
+* Drive technical design decisions and best practices
+* Collaborate with product, data engineering, and business teams
+* Translate business problems into scalable AI solutions
+
+  
+  
+
+**Required Skills & Qualifications**
+
+  
+
+**Core AI / ML / Deep Learning**
+
+* 5+ years of experience in Data Science / AI Engineering
+* Strong expertise in:
+
++ Machine Learning algorithms (supervised, unsupervised, reinforcement learning basics)
++ Deep Learning architectures (CNNs, RNNs, Transformers)
++ Statistical modeling and probability theory
+
+  
+
+* Strong experience with model evaluation, validation, and optimization
+
+  
+  
+
+**Programming & Data Stack**
+
+* Advanced proficiency in Python (NumPy, Pandas, Scikit-learn, PyTorch / TensorFlow)
+* Experience with PySpark / Spark (preferred: Databricks environment)
+* Strong SQL and data modeling skills
+* Experience handling large-scale distributed datasets
+
+  
+  
+
+**Generative AI & LLMs**
+
+* Hands-on experience with LLM ecosystems (OpenAI, open-source LLMs, etc.)
+* Strong understanding of:
+
++ RAG pipelines
++ Embeddings and vector search
++ LLM evaluation and optimization
+
+  
+
+* Experience with vector databases (FAISS, Pinecone, Weaviate, etc.)
+
+  
+  
+
+**Advanced AI Systems**
+
+* Experience building or working with **Knowledge Graphs**
+* Experience with **Agentic AI frameworks** (LangChain, LangGraph, AutoGen)
+* Understanding of multi-step reasoning, planning, and tool integration
+
+  
+  
+
+**Cloud & MLOps / LLMOps**
+
+* Experience with cloud platforms (AWS preferred S3, Lambda, Bedrock, etc.)
+* Strong understanding of:
+
++ MLOps pipelines (CI/CD for ML)
++ Model monitoring and lifecycle management
++ Experiment tracking and reproducibility
+
+  
+  
+  
+
+**Preferred Qualifications**
+
+* Experience in **AdTech, Mobility Data, or Geospatial Analytics**
+* Knowledge of H3 indexing, GIS systems, and spatial joins
+* Experience building optimization engines or recommendation systems
+* Exposure to streaming systems (Kafka, Kinesis, etc.)
+* Prior experience leading AI projects end-to-end
+
+  
+  
+
+**What Youll Work On**
+
+* AI-driven **OOH media optimization and planning systems**
+* Large-scale **impression modeling and audience intelligence pipelines**
+* **Agentic AI systems** for automated insights and reporting
+
+  
+  
+
+**What we offer:**
+
+* High-impact role in AI-driven OOH analytics
+* Opportunity to work with cutting-edge foot traffic and location datasets
+* Exposure to advanced AI and LLM systems
+* Solve challenging problems at the intersection of location analytics and advertising
+* Collaborative and innovation-focused environment
+* Opportunity to build industry-leading measurement solutions from the ground up
+
+If you have a strong analytical mindset, deep experience with foot traffic or location data, and the ability to transform complex datasets into business value, we'd love to hear from you!

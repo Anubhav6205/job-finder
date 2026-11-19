@@ -1,0 +1,117 @@
+**Powering Performance Marketplaces in Digital Media**
+
+QuinStreet is a pioneer in powering decentralized online **marketplaces that match searchers and "research and compare" consumers with brands**. We run these virtual- and private-label marketplaces in one of the nation's largest media networks.
+
+Our industry leading segmentation and AI-driven **matching technologies help consumers find better solutions and brands faster.** They allow brands to target and reach in-market customer prospects with pinpoint segment-by-segment accuracy, and to pay only for performance results.
+
+Our campaign-results-driven matching decision engines and optimization algorithms are built from over 20 years and billions of dollars of online media experience.
+
+We believe in:
+
+* The direct measurability of digital media.
+* Performance marketing. (We pioneered it.)
+* The advantages of technology.
+
+We bring all this together to deliver truly great results for consumers and brands in the world's biggest channel.
+
+**Job Description – Senior QA Engineer**
+
+**Position:** Senior QA Engineer  
+**Experience:** 5+ yrs  
+**Employment Type:** Full-Time  
+**Role:** Manual Testing, AI-Based Automation, REST API Testing & Database Testing
+
+**Job Summary**
+
+We are looking for an experienced and technically strong Senior QA Engineer with X years of hands-on experience in software quality assurance. The candidate must have strong expertise in Manual Testing, AI-Based Test Automation, REST API Testing, and Database Testing.
+
+The ideal candidate should be capable of independently handling end-to-end testing activities, analysing complex business requirements, designing comprehensive test strategies, identifying potential risks, and implementing AI-driven automation approaches to improve testing efficiency and product quality.
+
+The candidate should also be comfortable taking ownership of QA activities, mentoring junior QA engineers, and collaborating with cross-functional teams to ensure high-quality software releases.
+
+**Key Responsibilities & Mandatory Skills**
+
+* **Manual Testing**
+
+* Strong understanding of SDLC, STLC, and different software testing methodologies.
+* Hands-on experience in Functional, Regression, Integration, System, Smoke, Sanity, and End-to-End Testing.
+* Analyse business and functional requirements and prepare test strategies, test plans, test scenarios, and test cases.
+* Perform complex workflow testing and identify functional gaps, edge cases, and potential business risks.
+* Independently manage test execution, defect identification, tracking, and reporting.
+* Perform exploratory testing and ensure comprehensive test coverage.
+* Participate in requirement reviews and provide QA inputs at an early stage of development.
+* Take ownership of testing activities from requirement analysis to release sign-off.
+
+* **AI-Based Test Automation**
+
+* Strong hands-on experience in AI-assisted test automation using tools such as ChatGPT, GitHub Copilot, Cursor, KIRO or similar AI-powered platforms.
+* Ability to leverage Generative AI to generate test scenarios, test cases, automation scripts, and test data.
+* Experience in designing, developing, and maintaining AI-assisted automation scripts.
+* Understanding of AI-driven testing approaches to improve test coverage and reduce repetitive manual efforts.
+* Ability to integrate AI tools into existing QA workflows and automation frameworks.
+* Experience in identifying suitable test cases for automation using AI-driven approaches.
+* Good understanding of automation frameworks and scripting languages such as Python, Java, or JavaScript.
+* Ability to review, validate, debug, and optimize AI-generated automation scripts rather than relying blindly on generated code.
+
+* **REST API Testing**
+
+* Strong hands-on experience in REST API testing using Postman or similar tools.
+* Good understanding of HTTP methods, status codes, headers, authentication, and authorization.
+* Experience validating JSON request and response payloads.
+* Ability to perform positive, negative, boundary, and integration testing of APIs.
+* Validate API business logic, response time, error handling, and data consistency.
+* Experience in API automation using Postman/Newman or similar frameworks.
+* Ability to troubleshoot API failures and identify root causes.
+* Understanding of API-to-database validation and backend integration.
+
+* **Database Testing**
+
+* Strong SQL knowledge with practical experience in database testing.
+* Ability to write complex SQL queries using JOINs, subqueries, GROUP BY, HAVING, aggregate functions, and CTEs.
+* Experience validating data accuracy, integrity, consistency, and completeness.
+* Perform backend data validation and end-to-end data reconciliation.
+* Ability to identify data mismatches between UI, API, and database layers.
+* Understanding of relational database concepts, indexing, constraints, and normalization.
+* Experience working with databases such as MySQL, PostgreSQL, SQL Server, or similar.
+
+**Additional Technical Skills**
+
+* Experience with Jira or similar defect management tools.
+* Knowledge of Selenium, Playwright, Cypress, or other automation frameworks.
+* Experience working in Agile/Scrum environments.
+
+**Required Qualifications**
+
+* 5 years of professional experience in Software Quality Assurance.
+* Strong hands-on expertise in Manual Testing, AI-Based Test Automation, REST API Testing, and Database Testing.
+* Ability to independently handle complex testing assignments.
+* Strong analytical, debugging, and problem-solving skills.
+* Excellent communication and documentation skills.
+* Ability to manage priorities and deliver quality releases within defined timelines.
+
+**Key Expectations from the Candidate**
+
+* Independently own end-to-end QA activities for assigned projects.
+* Develop comprehensive test strategies covering UI, API, and database layers.
+* Demonstrate practical application of AI tools to improve test automation and QA productivity.
+* Identify critical defects and potential risks before production deployment.
+* Improve existing testing processes, automation coverage, and testing efficiency.
+* Collaborate with developers, product owners, and business analysts to ensure product quality.
+
+**Mandatory Skill Set**
+
+The following skills are non-negotiable for this position:
+
+* Manual Testing – Strong hands-on experience.
+
+* AI-Based Test Automation – Practical experience using AI tools for test generation and automation.
+
+* REST API Testing – Strong hands-on experience with Postman or equivalent tools.
+
+* Database Testing – Strong SQL knowledge and backend data validation experience.
+
+**Important:** Candidates must have practical experience in all four mandatory skill areas. Theoretical knowledge or familiarity with tools alone will not be sufficient.
+
+QuinStreet is an equal opportunity employer. We do not discriminate on the basis of race, color, religion, national origin, pregnancy status, sex, age, marital status, disability, sexual orientation, gender identity or any other characteristics protected by law.
+
+Please see QuinStreet's Employee Privacy Notice here and EU/UK Candidate Privacy Notice here.

@@ -1,0 +1,15 @@
+**Company Description**
+
+**Bosch Global Software Technologies Private Limited** is a 100% owned subsidiary of Robert Bosch GmbH, one of the world's leading global supplier of technology and services, offering end-to-end Engineering, IT and Business Solutions. With over 27,000+ associates, it’s the largest software development center of Bosch, outside Germany, indicating that it is the Technology Powerhouse of Bosch in India with a global footprint and presence in the US, Europe and the Asia Pacific region.
+
+ **Job Description**
+
+Design scalable, technology-agnostic data models for enterprise software developmentDevelop MongoDB schemas, graph data structures, Python backend services, REST APIs, and data-processing solutions.Translate business, domain, and compliance requirements into logical and physical data models and application designs.Collaborate with architects, Product Owners, and development teams on design, optimization, troubleshooting, and AI-assisted model validation.Tech Skills: Data Modelling, Database Design, Python, MongoDB, Graph Databases, Knowledge Graph/Ontology Concepts, RDF/JSON-LD/TTL, REST APIs, Microservices, Azure, DockerGood to Have: SBOM/SPDX/CycloneDX and AI/LLM-assisted model validation.
+
+ **Qualifications**
+
+B.E.
+
+ **Additional Information**
+
+8-10 yrs

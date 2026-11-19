@@ -1,0 +1,53 @@
+Hello Folks,
+
+  
+  
+
+We are currently hiring for " Gen AI Engineer " with one of our client based in Pune /Gurugram
+
+  
+  
+
+**Notice Period : Only Immediate Joiners**
+
+  
+
+**Excellent Communication Skills .**
+
+  
+
+**Exp : 4 to 6 yrs**
+
+  
+
+**Location : Pune /Gurugram**
+
+  
+
+**Work Mode : Hybrid**
+
+  
+
+**Role Type : C2h**
+
+  
+
+**Required :**  
+**Only B.Tech Graduate Will work and No Data Scienstist overall expereince will work .Mainly looking out for ML Engineer with Gen AI , Gen AI , Developer not DS.**
+
+  
+
+* ***NOTE : We are not looking whose designation is Data Scientist .***
+
+  
+  
+
+**Relevant Exp in Gen Ai -**   
+**Primary - Python, ML, LLMs, RAG, Lanngraph**
+
+* Candidate must have hands-on experience in Software & Data Engineering and GenAI using LangGraph, LangChain, and Agentic design, development, and production deployment.
+* Hands-on experience in Python, PySpark, Databricks, Delta Lake, NoSQL, and Azure Cloud, API development (preferably FastAPI in Python).
+* Ability to independently debug and triage problems is essential.
+* Need a creative approach for ability to solve problems with the agentic world.
+
+Interested Candidate **Share Resume at dipti.bhaisare@in.experis.com**

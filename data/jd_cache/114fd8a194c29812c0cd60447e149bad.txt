@@ -1,0 +1,7 @@
+Bachelor's/Master's degree in Computer Science, Information Technology, AI/ML, or related field. Strong problem-solving and analytical skills. Experience working in Agile development environments.
+  
+  
+Design, develop, and optimize Generative AI and RAG-based applications. Build intelligent chatbots, copilots, and enterprise AI assistants using LLMs. Develop and maintain RAG pipelines for enterprise knowledge retrieval. Work with vector databases for semantic search and document retrieval. Implement prompt engineering, prompt tuning, and model optimization techniques. Integrate AI services with enterprise applications and APIs. Fine-tune and evaluate Large Language Models (LLMs) for business use cases. Collaborate with data engineers, product teams, and business stakeholders. Ensure scalability, reliability, security, and governance of AI solutions.
+  
+  
+GenAI, Generative AI, RAG, Retrieval Augmented Generation, LLM, GPT, OpenAI, Azure OpenAI, LangChain, LlamaIndex, Vector Database, Pinecone, Weaviate, ChromaDB, FAISS, Prompt Engineering, Semantic Search, AI Agent, CrewAI, LangGraph, AutoGen, Python, NLP, Hugging Face, Azure AI Search.

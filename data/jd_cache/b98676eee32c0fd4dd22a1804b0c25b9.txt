@@ -1,0 +1,67 @@
+**Company Description**
+
+It all started when engineer Fred Luddy wrote code that automated a tedious task for his coworker, Phyllis. She cried tears of joy. That moment inspired Fred to build a company that could do that for everyone—freeing people from busywork so they could focus on meaningful work. Today, ServiceNow is the AI control tower for business reinvention. Our ServiceNow AI platform brings together any AI, any data, and any workflow— helping 85% of the Fortune 500® work smarter, faster, and better. We're building an AI-native culture where technology and talent are unstoppable together. And we're just getting started.
+
+Join us to put AI to work for people.
+
+ **Job Description**
+
+ServiceNow CRM helps companies sell, fulfil, and service customers on one AI-powered platform, spanning Customer Service Management, Field Service Management, and Sales CRM.
+
+As a Senior Software Engineer on the CRM Omnichannel team, you will design and build features across email, voice, chat, and other Omnichannel channels areas.Undo change
+
+You will own complex components end-to-end, working closely with product, design, and adjacent platform teams to ship workflows that agents and customers rely on every day. You will bring strong engineering fundamentals, a bias for quality at scale, and a drive to make customer-facing processes faster and more intelligent with AI.
+
+What you will do:
+
+* Build high-quality, scalable, clean, and reusable applications and integration solutions using the ServiceNow platform and related technologies.
+* Partner with product owners to understand detailed requirements and own your code from design and implementation through test automation to the delivery of high-quality products to our users.
+* Design and develop scalable, maintainable, and reusable software components with a strong emphasis on performance and reliability.
+* Own critical technical initiatives from planning to deployment, continuously refining and improving existing applications and services.
+* Explore the latest ServiceNow features and evaluate them for adoption
+* Develop proof-of-concept and prototype solutions to validate architectural and design decisions and demonstrate feasibility.
+* Establish and promote best practices around platform development, integrations, and performance optimization.
+* Foster a culture of continuous learning and improvement by sharing best practices in engineering and quality
+* Mentor and guide engineers, fostering technical excellence and professional growth within the team.
+
+  
+**Qualifications**
+
+**To be successful in this role, you have:**
+
+* 5+ years of software engineering, with a record of technical direction adopted beyond your immediate team.
+* Effective, accountable use of AI coding assistants and agents.
+* Direct, hands-on experience authoring agentic instructions and prompts, designing autonomous workflows, and building the evaluation that verifies them.
+* Production experience with LLM APIs, retrieval-grounded features, agent orchestration, tool and function calling, and structured output enforcement — including at least one model or orchestration migration carried through production.
+* Experience in system design, APIs, data modelling, and testing across front-end, server-side, and relational data work with a high-quality mindset.
+* Experience in the software stack including Java, JavaScript/TypeScript, React and demonstrated ability to quickly learn new tools and frameworks.
+* Familiarity with automated testing frameworks (e.g., JUnit, Selenium, TestNG, Playwright) and integrating tests into CI/CD pipelines.
+* On-call and incident-command experience on customer-facing systems, including ownership of the systemic fixes that followed.
+* Ability to troubleshoot complex systems and optimize performance across the stack.
+* Bachelor's degree in CS, software engineering, or a related technical field, or equivalent practical experience.
+
+Good to have:
+
+* Experience using AI Coding tools such as Claude or Codex.
+* CRM domain knowledge and working experience
+
+  
+**Additional Information**
+
+**Work Personas**
+
+We approach our distributed world of work with flexibility and trust. Work personas (flexible, remote, or required in office) are categories that are assigned to ServiceNow employees depending on the nature of their work and their assigned work location. Learn more here. To determine eligibility for a work persona, ServiceNow may confirm the distance between your primary residence and the closest ServiceNow office using a third-party service.
+
+**Equal Opportunity Employer**
+
+ServiceNow is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, national origin, age, disability, gender identity, veteran status, or any other category protected by law. In addition, all qualified applicants with arrest or conviction records will be considered for employment in accordance with legal requirements.
+
+**Accommodations**
+
+We strive to create an accessible and inclusive experience for all candidates. If you require a reasonable accommodation to complete any part of the application process, or are unable to use this online application and need an alternative method to apply, please contact globaltalentss@servicenow.com for assistance.
+
+**Export Control Regulations**
+
+For positions requiring access to controlled technology subject to export control regulations, including the U.S. Export Administration Regulations (EAR), ServiceNow may be required to obtain export control approval from government authorities for certain individuals. All employment is contingent upon ServiceNow obtaining any export license or other approval that may be required by relevant export control authorities.
+
+From Fortune. ©2026 Fortune Media IP Limited. All rights reserved. Used under license.

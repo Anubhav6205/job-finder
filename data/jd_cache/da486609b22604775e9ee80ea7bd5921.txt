@@ -1,0 +1,17 @@
+**Roles and Responsibilities :**
+
+* Design, develop, and deploy AI-powered solutions using machine learning algorithms to improve healthcare outcomes.
+* Collaborate with clinicians to integrate AI models into existing workflows and systems.
+* Develop and maintain large language models for natural language processing applications in the healthcare domain.
+* Analyze data from various sources (e.g., electronic medical records) to identify trends and patterns that inform business decisions.
+
+**Job Requirements :**
+
+* 6-10 years of experience in AIMl engineering or a related field.
+* Strong background in machine learning, particularly in generative AI and retrieval augmented generation.
+* Experience working with large datasets and developing predictive models for complex problems.
+* Knowledge of healthcare industry trends, regulations, and best practices.
+
+**Notice period : Immediate -30 Days**
+
+**Key Skills: AIML, GenAI, NLP, LLM, RAG**

@@ -1,0 +1,8 @@
+Build enterprise AI solutions, including multilingual RAG pipelines, LangGraph multi-agent workflows, secure human-in-the-loop agents, FastAPI backends, automated evaluations, CI/CD, and production observability, with scalable, secure, high-perfor
+
+  
+  
+
+**Perks and benefits**
+
+Provident fund, Health insurance

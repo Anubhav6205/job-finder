@@ -1,0 +1,37 @@
+Agilsium is looking for Ontology SME resource.
+
+  
+
+Required Exp - 8+years
+
+Location - Chennai, Pune, Hyderabad
+
+Notice - Immediate to 30 days
+
+  
+
+* Experience in Ontology, Semantic Modeling, Knowledge Representation, Taxonomy, or related data disciplines.
+* Strong understanding of ontology development, taxonomy, controlled vocabularies, metadata, and semantic modeling.
+* Experience with RDF, OWL, SPARQL, and knowledge representation concepts.
+* Strong understanding of entities, relationships, concepts, properties, classes, hierarchies, and semantic relationships.
+* Experience developing or managing enterprise/domain ontologies and semantic models.
+* Experience with data modeling, data integration, and interoperability concepts.
+* Strong understanding of knowledge graphs and semantic data architectures.
+* Ability to work with business SMEs to capture and formalize domain knowledge.
+* Strong analytical and problem-solving skills.
+* Excellent communication and stakeholder management capabilities.
+* AI / GenAI Skills
+* Understanding of how ontologies and knowledge graphs support AI and GenAI solutions.
+* Experience supporting RAG, semantic search, knowledge retrieval, and AI-agent architectures.
+* Understanding of ontology-driven contextualization of LLMs.
+* Experience integrating structured semantic knowledge with unstructured enterprise content.
+* Knowledge of AI knowledge representation, entity resolution, semantic similarity, and contextual retrieval.
+* Understanding of AI governance, data quality, provenance, and explainability is desirable.
+* Good-to-Have Skills
+* Experience with ontology / knowledge graph tools such as Protg, TopBraid, Stardog, Neo4j, GraphDB, or similar platforms.
+* Experience with SHACL and ontology validation.
+* Experience with enterprise metadata and data catalog platforms.
+* Experience in Life Sciences / Healthcare ontology standards such as SNOMED CT, UMLS, MeSH, RxNorm, ICD, LOINC, or FHIR terminology.
+* Experience developing ontologies for pharma, healthcare, clinical, medical, regulatory, or commercial domains.
+* Knowledge of FAIR data principles and semantic interoperability.
+* Experience working on large-scale data modernization, knowledge management, or AI transformation programs.

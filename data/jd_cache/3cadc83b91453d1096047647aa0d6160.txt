@@ -1,0 +1,53 @@
+At ABB, we help industries run leaner and cleaner—and every person here makes that happen. You’ll be empowered to lead, supported to grow, and proud of the impact we create together. Join us and help run what runs the world.
+
+This Position reports to:
+
+Senior Engineering Manager  
+
+**Your role and responsibilities:**  
+  
+In this role, you will have the opportunity to be a design authority for an engineering discipline. Each day, you will complete assignments on multiple projects of moderate size or portions of major projects in a cost-effective manner. You will also showcase your expertise by ensuring assignments are completed in accordance with contract specifications, quality standards, safety requirements, and cybersecurity policies and standards.  
+  
+The work model for the role is: **#LI Hybrid**  
+  
+This role is contributing to the **Process Automation in Energy Industry in Bangalore .**
+
+**You will be mainly accountable for:**
+
+  
+
+* Lead endtoend DCS engineering activities according to customer specifications and project requirements.
+* Serve as design authority, reviewing and authorizing engineering deliverables across all relevant disciplines.
+* Develop engineering proposals, system solutions, schedules, and ensure effective planning and control.
+* Drive change management including scope, cost, schedule, and risk assessments.
+
+  
+
+**Qualifications for the role:**
+
+  
+
+* BE/B.Tech in Instrumentation, Electronics & Communication, or related engineering domain.
+* 9–14 years’ experience in Process Automation within Oil & Gas, Refineries, Petrochemicals, Power, and Water industries.
+* Strong proficiency in DCS system engineering, upgrades, modernization, retrofits, servicing, and commissioning.
+* Hands-on experience with servers, workstations, RAID configurations, and system installations.
+* Skilled in VMware ESXi / HyperV, virtual environments, and Windows system administration.
+* Expertise in network configurations (switches, routers, firewalls) and Active Directory/domain setup.
+* Experience designing and implementing cybersecurity solutions, including system/network hardening, McAfee ePO, and WSUS.
+* Competency with industrial protocols such as OPC, Modbus, Profibus, Foundation Fieldbus, and IEC
+
+**More about US:**
+
+The Energy Industries Division serves a wide range of industrial sectors, including hydrocarbons, chemicals, pharmaceuticals, power generation and water. With its integrated solutions that automate, digitalize and electrify operations, the Division is committed to supporting traditional industries in their efforts to decarbonize. The Division also supports the development, integration and scaling up of new and renewable energy models. The Division’s goal is to help customers adapt and succeed in the rapidly changing global energy transition. Harnessing data, machine learning and artificial intelligence (AI), the Division brings over 50 years of domain expertise delivering solutions designed to improve energy, process and production efficiency, as well as reduce risk, operational cost and capital cost, while minimizing waste for customers, from project start-up and throughout the entire plant lifecycle.
+
+Building a cleaner, smarter future takes all kinds of minds: the curious, the courageous, and the creative. We welcome people from all backgrounds and experiences.
+
+Ready to make an impact? Apply today or visit www.abb.com to learn more about the impact of our solutions across the globe.
+
+Recruitment Fraud Warning
+
+ABB never asks for payment from job applicants. All genuine job offers follow a formal application and interview process.
+
+View current job openings and apply at: https://careers.abb/global/en/home
+
+For more information, read our full fraud warning notice at: https://global.abb/group/en/careers/how-to-apply/fraud-warning

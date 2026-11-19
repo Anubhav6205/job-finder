@@ -1,0 +1,81 @@
+AI Engineer / Lead Agentic Systems   
+ Location: Bangalore, India • Experience: 610 years (2+ in applied AI / LLM systems)   
+ • Type: Full-time, hands-on   
+ About Simpliigence   
+ Simpliigence is a design-first, AI-native Salesforce and CRM consulting firm with 250+   
+ professionals across the US, India, Canada and Europe. We build AI agents that run inside   
+ our clients' enterprise systems Salesforce, Microsoft and the data and integration layers   
+ around them and we run our own company on agents we built.   
+ The role   
+ This is a builder role, not an architect-on-paper role. You will design, build, ship and run AI   
+ agents end to end from the first prototype through DevOps, testing, governance and   
+ production support. You will write code when the job calls for it and lead a small team of   
+ engineers as the practice grows.   
+ What you will do   
+   
+   
+   
+ ¢  
+ ¢  
+ ¢  
+ ¢  
+ Build and configure AI agents and multi-agent workflows for enterprise clients, from   
+ use case to production   
+ Design agent architecture: tools, memory, retrieval (RAG), orchestration, prompts   
+ and guardrails   
+ Integrate agents with enterprise systems Salesforce, Microsoft 365 and   
+ Dynamics, ERPs, APIs and data platforms   
+ Own the delivery pipeline: CI/CD, environments, versioning, deployment and   
+ monitoring for agents   
+ Build evaluation and testing frameworks: test sets, regression evals, hallucination   
+ and quality checks   
+ Put governance in place: access control, data privacy, audit trails, cost and usage   
+ controls, human-in-the-loop   
+ Work daily with AI coding agents (Claude Code, Cursor, GitHub Copilot) to build   
+ faster   
+ ¢  
+ ¢  
+ Prototype quickly in client discovery sessions and demos   
+ Guide and review the work of engineers on the team; set build standards and   
+ reusable components   
+ What you bring   
+ ¢  
+ 610 years in software engineering, with 2+ years building production LLM or agentic   
+ applications
+
+¢  
+ ¢  
+ ¢  
+ Strong coding in Python and/or TypeScript; comfortable with APIs, cloud functions   
+ and databases   
+ Hands-on with LLM platforms (Anthropic Claude, OpenAI, Azure OpenAI) and agent   
+ frameworks (MCP, LangGraph, Claude Agent SDK, Semantic Kernel or similar)   
+ Experience with at least one enterprise agent platform: Salesforce Agentforce,   
+ Microsoft Copilot Studio / Azure AI Foundry, or similar   
+ ¢  
+ ¢  
+ ¢  
+ ¢  
+ Practical DevOps: Git, CI/CD, containers, cloud (Azure, AWS or GCP), observability   
+ Working knowledge of RAG, vector stores, embeddings and prompt engineering   
+ A clear view on testing and governing non-deterministic systems   
+ Able to explain technical trade-offs to client stakeholders   
+ Nice to have   
+ ¢  
+ Salesforce platform experience (Apex, Flows, Data Cloud) or Microsoft Power   
+ Platform   
+ ¢  
+ ¢  
+ Integration tools: MuleSoft, Informatica, Power Automate   
+ A portfolio, GitHub or live demos of agents you have built   
+ What success looks like in year one   
+ ¢  
+ ¢  
+ Multiple agents live in production at client sites, with evals and monitoring in place   
+ A reusable agent toolkit: templates, test harness, deployment pipeline and   
+ governance checklist   
+ ¢  
+ A small team of engineers who build to your standard   
+ How we will assess   
+ Expect a hands-on technical round: you will build or walk through a working agent, not just   
+ discuss one.

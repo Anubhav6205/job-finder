@@ -1,0 +1,29 @@
+**Key Responsibilities**
+
+* Strong foundation in Core Java, including object-oriented programming concepts, data structures, and exception handling.
+* Develop, implement, and maintain high-quality, reusable, and efficient code.
+* Strong knowledge of SQL, including writing complex queries, joins, and data manipulation.
+* Understand Agile methodology and software development processes.
+* Manage the defect lifecycle, including defect identification, tracking, resolution, and validation.
+* Demonstrate strong logical reasoning, analytical thinking, and problem-solving skills.
+* Work independently and collaborate effectively within cross-functional teams.
+* Understand, analyze, and translate customer requirements into technical solutions.
+* Communicate effectively with stakeholders through strong verbal and written communication skills.
+* Apply Python programming and scripting skills, which will be an added advantage.
+* Understand Electronic Data Interchange (EDI), including EDI transactions, data formats, and integration workflows, which will be an added advantage.
+* Familiarity with AI technologies, AI-assisted development tools, and automation concepts will be an added advantage.
+* Learn new technologies, contribute to process improvements, and support automation initiatives.
+
+  
+
+**Preferred Skills**
+
+* Proficiency in Core Java and SQL.
+* Understanding of application development, debugging, and troubleshooting.
+* Exposure to EDI and enterprise data integration.
+* Familiarity with Python, AI-assisted development, and workflow automation.
+* Strong analytical skills and a continuous improvement mindset.
+
+  
+
+**Note:** Freshers and candidates with internship experience only are not eligible to apply. Applicants must have relevant full-time work experience.

@@ -1,0 +1,38 @@
+**Apex Group Ltd is a global financial services provider headquartered in Bermuda (founded in 2003), offering fund administration, corporate services, ESG solutions, and digital banking. It operates in over 52 countries with more than 13,000 employees.**
+
+**Job Location - Pune / Bangalore**
+
+**Cab Facility- Yes**
+
+**Role- MERN Developer**
+
+**Exp- 4 to 8 yr**
+
+**JD Below-**
+
+* **Strong experience with MongoDB, Express.js, React.js, and Node.js.**  
+  **• Proficiency in JavaScript (ES6+), TypeScript, HTML5, CSS3, and React frameworks.**  
+  **• Experience integrating AI services such as OpenAI, Azure OpenAI, Anthropic, Gemini, or similar platforms.**  
+  **• Knowledge of AI concepts including LLMs, Prompt Engineering, RAG, AI Agents, and Vector Databases.**  
+  **• Experience building REST APIs and WebSocket-based applications.**  
+  **• Familiarity with cloud platforms such as Azure, AWS, or GCP.**  
+  **• Understanding of authentication mechanisms, security best practices, and database design.**  
+  **• Experience with Git, CI/CD pipelines, and Agile development methodologies.**
+
+**Please mail your details to below email id- shivangi.singh@apexgroup.com**
+
+**EXP-**
+
+**CCTC-**
+
+**ECTC-**
+
+**NP-**
+
+**Available ON 21ST WEEKEND VIRTUAL DRIVE - YES/NO**
+
+**Comfortable with 4 days office- Yes/No ( Cab Facility Available)**
+
+**Regards,**
+
+**Shivangi Singh**

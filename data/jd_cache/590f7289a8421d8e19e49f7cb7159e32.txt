@@ -1,0 +1,75 @@
+**Role: Gen AI Engineer**
+
+**Location: Bengaluru / Hyderabad / Chennai / Pune / Mumbai / Gurugram / Noida / Kolkata / Indore – Onsite Hybrid**
+
+**Duration: Fulltime**
+
+**Experience: 4 to 7 years**
+
+**Working hours: UK time shift**
+
+**Notice Period: Immediate Joiners only**
+
+**Job Description:**
+
+**What You'll Do**
+
+• We're looking for a GenAI Engineer to build the agents themselves the prompts, tools, memory, retrieval and guardrails and tune them to real accuracy thresholds in production.
+
+• Build platform agents: Supervisor/Router, Retrieval, Policy Guard, Evidence & Audit, Notification, Human-Escalation.
+
+• Build domain agents for the target process: Role Identifier, Approver Finder, Conflict/SoD Checker, Eligibility-Gate, Orchestrator, Deactivation/Leaver-Mover.
+
+• Model Veeva Vault's access-control concepts security profiles, roles, groups, and Dynamic Access Control (DAC) into the knowledge graph so agents reason correctly about who should get access to what.
+
+• Translate Veeva Vault integration and entitlement data (users, security profiles, DAC rules, product/domain access) into agent-ready context via retrieval and tool calls.
+
+• Design and build the RAG pipeline: ingestion, chunking, embeddings, re-rank, citation and grounding.
+
+• Build the knowledge graph (e.g. on neo4j) covering role/entity relationships and the vector-store schema.
+
+• Own prompt architecture, the system-prompt library and its versioning; configure Bedrock guardrails.
+
+• Seed golden datasets with subject-matter experts and run tuning cycles against evaluation findings.
+
+• Optimise latency and cost model routing, caching, prompt compression.
+
+• Build explainability for reviewers rationale, citations, confidence and drift instrumentation.
+
+**What You'll Own**
+
+• 12+ working agents
+
+• Prompt library
+
+• RAG pipeline
+
+• Knowledge graph model
+
+• Guardrail configuration
+
+• Model cards & knowledge-base lineage
+
+• Agent runbook and tuning playbook
+
+**What You'll Bring**
+
+• 4-7+ years building LLM/GenAI applications, including 1-2+ years building multi-agent systems in production.
+
+• Hands-on experience with AWS Bedrock (or equivalent) and an agent-orchestration framework (AgentCore, LangGraph, or similar).
+
+• Strong RAG engineering skills: chunking strategy, embeddings, re-ranking, grounding and citation.
+
+• Experience modelling and querying knowledge graphs (neo4j preferred) and vector stores.
+
+• Strong Python skills; prompt engineering and prompt-library/version-management discipline.
+
+• Working knowledge of Veeva Vault's security/entitlement model security profiles, roles, groups, and Dynamic Access Control (DAC) setup and how to ground agent decisions in it.
+
+• Veeva integration exposure (Vault REST API / VQL) for pulling user, role and access data into RAG/knowledge-graph pipelines is a strong plus.
+
+• Experience running structured tuning cycles against evaluation feedback in partnership with subject-matter experts.
+
+• Working knowledge of LLM guardrails, cost/latency optimisation (model routing, caching, prompt compression).
+
+• Comfort explaining model behaviour (rationale, citations, confidence) to non-technical business reviewers.

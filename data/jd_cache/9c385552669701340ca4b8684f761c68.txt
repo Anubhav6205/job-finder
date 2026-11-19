@@ -1,0 +1,75 @@
+**Company Description**
+
+It all started when engineer Fred Luddy wrote code that automated a tedious task for his coworker, Phyllis. She cried tears of joy. That moment inspired Fred to build a company that could do that for everyone—freeing people from busywork so they could focus on meaningful work. Today, ServiceNow is the AI control tower for business reinvention. Our ServiceNow AI platform brings together any AI, any data, and any workflow— helping 85% of the Fortune 500® work smarter, faster, and better. We're building an AI-native culture where technology and talent are unstoppable together. And we're just getting started.
+
+Join us to put AI to work for people.
+
+ **Job Description**
+
+About the team
+
+We are the Workplace engineering pillar in ServiceNow’s CRM & Industry Workflows organisation, building Workplace Service Delivery and its integrations with CSM and FSM. AI is the new baseline for how we build: it changes how engineers work and what “done” means.
+
+The role
+
+You will build features across the stack, working AI-native: breaking tasks into small pieces, giving AI agents the context they need, and verifying everything you ship. You own the stories you take on from implementation to production, including their correctness. There is no separate QE team to hand off to.
+
+You will work with moderate guidance from senior engineers, with more detailed direction on new areas.
+
+What you get to do
+
+**Build and own your work**
+
+* Turn well-defined requirements into working, tested features, and ask good questions when they are not well-defined.
+* Build features across the stack (UI, APIs, data model, integrations) and the AI layer (agents, prompts, tools, and the context they run on), with guidance from senior engineers. Learn the parts that are new to you as you go.
+* Explain your work clearly: write PR descriptions and short design notes that a reviewer can follow, and demo what you built in sprint reviews.
+
+**Use AI tools effectively**
+
+* Use agentic coding tools as your default way of working: give them clear context, review output critically, and never ship code you can’t explain.
+* Use and improve the instruction files and documentation that help agents work well in our codebase.
+* Keep up with AI tools and techniques, and share what you learn with your team.
+
+**Own correctness, with no handoff**
+
+* Write your own unit, integration, and end-to-end tests, including edge cases and failure modes.
+* Follow your work through release and fix what breaks.
+
+  
+**Qualifications**
+
+Qualifications
+
+* Bachelor’s degree and 2+ years of experience building and shipping software, or an advanced degree, or equivalent work experience.
+* Strong in at least one programming language, with solid grounding in data structures, algorithms, and object-oriented design.
+* Curiosity and willingness to learn new layers of the stack: front end, back end, data, integrations, and AI (agents, prompts, evaluation). You don’t need to know our technologies on day one, but you should pick up unfamiliar ones quickly, with AI tools as part of how you learn.
+* Hands-on experience using AI coding tools in real work, and the discipline to verify their output through tests and review.
+* An understanding of how LLMs behave (context, hallucination) and their risks.
+* Initiative, good judgment within established practices, and clear written and verbal communication.
+
+Even better if you have
+
+* A project where you built something with LLMs, agents, or RAG.
+* Exposure to the ServiceNow platform.
+* Experience with enterprise or multi-tenant SaaS products.
+
+  
+**Additional Information**
+
+**Work Personas**
+
+We approach our distributed world of work with flexibility and trust. Work personas (flexible, remote, or required in office) are categories that are assigned to ServiceNow employees depending on the nature of their work and their assigned work location. Learn more here. To determine eligibility for a work persona, ServiceNow may confirm the distance between your primary residence and the closest ServiceNow office using a third-party service.
+
+**Equal Opportunity Employer**
+
+ServiceNow is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, national origin, age, disability, gender identity, veteran status, or any other category protected by law. In addition, all qualified applicants with arrest or conviction records will be considered for employment in accordance with legal requirements.
+
+**Accommodations**
+
+We strive to create an accessible and inclusive experience for all candidates. If you require a reasonable accommodation to complete any part of the application process, or are unable to use this online application and need an alternative method to apply, please contact globaltalentss@servicenow.com for assistance.
+
+**Export Control Regulations**
+
+For positions requiring access to controlled technology subject to export control regulations, including the U.S. Export Administration Regulations (EAR), ServiceNow may be required to obtain export control approval from government authorities for certain individuals. All employment is contingent upon ServiceNow obtaining any export license or other approval that may be required by relevant export control authorities.
+
+From Fortune. ©2026 Fortune Media IP Limited. All rights reserved. Used under license.

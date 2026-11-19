@@ -1,0 +1,55 @@
+Short Description for Internal Candidates
+
+Vertiv is seeking a skilled and self-directed React developer to own the design, development, and ongoing maintenance of Site Scope, an internal web application built on a modern React within the Digital organization. Site Scope serves as a centralized operational tool that surfaces data, workflows, and intelligence for internal Vertiv stakeholders, and this role is the primary engineer responsible for the platform. The Full Stack Developer will build and maintain both the React frontend and supporting backend services and APIs using Node.js, deploying and operating the application in AWS cloud environments. This position plays a direct role in advancing Vertiv's Operational Excellence strategic priority by ensuring Site Scope remains a performant, maintainable, and high-quality platform that digital teams and business users can rely on.
+
+Description for Internal Candidates
+
+1. JOB SUMMARY
+
+Vertiv is seeking a skilled and self-directed **React** Developerto own the design, development, and ongoing maintenance of **Site Scope** , an internal web application built on a modern **React** within the Digital organization. Site Scope serves as a centralized operational tool that surfaces data, workflows, and intelligence for internal Vertiv stakeholders, and this role is the primary engineer responsible for the platform. The Full Stack Developer will build and maintain both the **React** frontend and supporting backend services and APIs using **Node.js** , deploying and operating the application in **AWS** cloud environments. This position plays a direct role in advancing Vertiv's Operational Excellence strategic priority by ensuring Site Scope remains a performant, maintainable, and high-quality platform that digital teams and business users can rely on.
+
+As an individual contributor, this role extends across the full application lifecycle — from feature development and UX refinement to **CI/CD pipeline** ownership, test automation, and production monitoring. This role will also drive the integration of **AI and GenAI capabilities** into Site Scope, including connecting LLM APIs and embedding intelligent features that increase the application's value to its users. The Full Stack Developer partners closely with technology and business stakeholders to translate requirements into high-quality, scalable engineering solutions, and actively contributes to Vertiv's Customer Focus & Innovation priorities by delivering a tool that is intuitive, fast, and continuously improving.
+
+2. KEY RESPONSIBILITIES
+
+* **SiteScope Application Development & Maintenance:** Own end-to-end development and maintenance of the Site Scope web application, including the frontend, component library, and backend APIs and services; ensure the application is performant, accessible, and production-ready at all times.
+* **CI/CD Pipeline Ownership:** Design, implement, and maintain CI/CD pipelines for Site Scope using GitLab; automate build, test, and deployment workflows to support rapid, reliable delivery cycles with consistent quality gates.
+* **Test Automation:** Support a comprehensive test automation suite for Site Scope covering unit, integration, and end-to-end test layers; embed automated testing into the CI/CD pipeline and own test coverage standards for the application.
+* **UX Improvements & Design Iteration:** Continuously evaluate and improve the Site Scope user experience through user-centered design principles, accessibility best practices, and iterative UI/UX enhancements; partner with stakeholders to gather feedback and translate it into intuitive, high-quality interface improvements.
+* **AI Feature Integration:** Lead the integration of AI and GenAI capabilities into Site Scope, including connecting approved LLM APIs, implementing prompt-driven features, and embedding intelligent workflows that increase application value; collaborate with the AI/ML Platform Engineer and Digital team to align on AI governance and standards.
+* **Code Quality & Engineering Standards:** Uphold high engineering standards across the Site Scope codebase through rigorous code reviews, refactoring, documentation, and adherence to Vertiv's software development and security best practices; champion clean, maintainable, and well-tested code.
+* **Cross-Functional Collaboration:** Serve as the primary technical point of contact; translate business requirements into technical solutions, and communicate application status, roadmap, and risks clearly to non-technical audiences.
+* **Monitoring, Observability & Production Support:** Implement and maintain monitoring, logging, and observability tooling; proactively respond to alerts, diagnose production issues, and drive resolution to ensure high availability and reliability of the application for its user base.
+
+3. REQUIREMENTS
+
+Education
+
+* Bachelor’s degree in Computer Science, Software Engineering, or a related field; equivalent practical experience considered.
+
+Experience
+
+* 4+ years of professional full stack software development experience.
+* 3+ years of hands-on experience building and maintaining React applications in a production environment.
+* Demonstrated experience owning or contributing to CI/CD pipelines and test automation frameworks.
+* Experience developing internal tooling, enterprise web applications, or operational dashboards preferred.
+
+Technical Skills
+
+* **Frontend:** React, TypeScript, JavaScript, CSS/component libraries (e.g., Material UI, Ant Design, or equivalent).
+* **Backend & APIs:** Node.js or equivalent backend runtime; REST API design and integration.
+* **CI/CD & DevOps:** GitLab, Jenkins, GitHub Actions, Azure DevOps, or equivalent; experience with automated build, test, and deployment pipelines.
+* **Test Automation:** Jest, Playwright, Cypress, or equivalent frameworks; unit, integration, and end-to-end testing experience.
+* **Cloud:** AWS or equivalent cloud platform; experience with deployment, containerization (Docker), and basic infrastructure concepts.
+* **AI Integration:** Basic experience integrating LLM APIs (OpenAI, Azure OpenAI, or equivalent) into web application features.
+
+Preferred Qualifications
+
+* Experience integrating GenAI or LLM-based features into production web applications.
+* Strong UX and accessibility design sensibility; familiarity with WCAG standards.
+* Familiarity with Snowflake or enterprise data sources as backends for internal tooling.
+* Experience with observability and monitoring tools (e.g., Datadog, CloudWatch, Grafana, or equivalent).
+
+Working Conditions
+
+* Primary Work Location: Pune, India

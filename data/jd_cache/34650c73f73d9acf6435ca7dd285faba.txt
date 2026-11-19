@@ -1,0 +1,34 @@
+**Role Overview**  
+ We are looking for a hands-on **Forward Deployed Engineer (FDE)** who can work directly with clients/business teams to identify AI opportunities and rapidly build, prototype and deploy **production-ready GenAI and Agentic AI solutions**.
+
+  
+
+**Key Responsibilities**
+
+* Work closely with clients to understand business problems and translate them into **AI/ML solutions**.
+* Build **AI Agents, RAG applications and multi-agent workflows**.
+* Develop LLM-powered applications using **Python and modern AI frameworks**.
+* Design RAG pipelines covering **document processing, embeddings, vector search, retrieval and generation**.
+* Build **LLM evaluation (Evals)** frameworks to measure accuracy, relevance, hallucination, latency and cost.
+* Develop **tool calling, API integrations and agent workflows**.
+* Rapidly prototype PoCs and convert successful solutions into **production-grade applications**.
+* Implement **prompt/context engineering, guardrails, observability and responsible AI**.
+* Deploy solutions on **Azure/AWS/GCP** and work with enterprise security and engineering teams.
+* Troubleshoot and continuously improve AI solutions based on real-world production feedback.
+
+  
+
+**Required Skills**
+
+* Strong hands-on **Python and AI/ML** experience.
+* Practical experience with **LLMs, RAG, AI Agents and Vector Databases**.
+* Experience with **LangGraph, LangChain, LlamaIndex, Semantic Kernel** or similar frameworks.
+* Understanding of **LLM Evals, prompt engineering and AI observability**.
+* Experience with REST APIs, FastAPI, Git and cloud platforms.
+* Strong problem-solving and client-facing communication skills.
+* Ability to work in an **ambiguous, fast-paced environment and deliver working solutions quickly**.
+* Experience with **MCP, A2A and multi-agent architectures**.
+* Experience with Azure OpenAI, AWS Bedrock or Google Vertex AI.
+* Experience with enterprise GenAI implementations.
+* Knowledge of **Docker, Kubernetes and CI/CD**.
+* Experience in Life Sciences, Healthcare or other regulated industries.

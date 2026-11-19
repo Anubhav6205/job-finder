@@ -1,0 +1,45 @@
+**AI-QA Engineer**
+  
+  
+Unlock your potential with Dassault Systèmes, a global leader in Scientific Software Engineering as an AI Quality Engineer in Bangalore.
+  
+As an AI QA Engineer, you will be participating in Qualification of Web and/or Client-Server AI Applications. These Applications are used by our customers to design, develop, produce and market their Products and/or Services to end consumers. You will work directly with Product Define, Development, Testing, Project Management teams to ensure we are delivering high-quality, innovative products with an emphasis on innovation, speed to market and sustainability. You will lead in execution and team adoption of testing, automation tools & best practices.
+
+**Role description & responsibilities**
+
+* Design, develop, and execute functional, integration, regression, and automation test cases for AI-based applications.
+* Perform AI/LLM application testing, including hallucination checks, bias detection, prompt validation, and responsible AI assessments.
+* Evaluate RAG-based applications, retrieval quality, embeddings, semantic similarity, and LLM response accuracy.
+* Test AI agents, MCP integrations, tool interactions, and non-deterministic agent responses.
+* Develop and maintain automation scripts for Web Services/APIs using frameworks such as Selenium and Playwright.
+* Investigate failed test cases and automation scripts, report defects, and provide defect and product quality metrics to the QA Manager.
+* Integrate AI model, prompt, and agent workflow evaluations into CI/CD pipelines.
+* Work closely with cross-functional and remote teams in an Agile/POD environment to ensure compliance with SQA standards and deliverable quality.
+
+**Qualifications**
+
+* BE/B.Tech/M.E/M.Tech professional who has 2-4 years of experience in Manual and Automation Testing of AI based Software Applications involved in development and execution of functional, integration & regression tests of both Web and Client-Server Applications using best in class AI concepts and strategies.
+* Working Knowledge and hands-on experience in Core AI & LLM systems as user and tester
+* Experienced in define and implementation of various testing strategies for AI virtual assistants, RAG based applications.
+* Experience with using AI-assisted coding tools and methods
+* Automation Testing of Web Services/APIs’ & good understanding of its Automation Framework (like Selenium, Playwright).
+* Should have the motivation and ability to learn new Tools (including in-house ones), and Processes in order to deliver global objectives.
+* Experience in any of the scripting language like Java/Python is must.
+* Good Knowledge of SDLC/STLC Processes and Tools.
+* Investigate failed test cases/ automated scripts and report issues in defect tracking system, and provide Defect and Product metrics to QA Manager as appropriate.
+* Work closely with cross-functional teams to ensure project compliance with SQA standards and overall deliverable quality.
+* Work with remote teams in an agile/agile POD environment.
+* Knowledge/Experience of working in a DevOps/CI-CD Environment would be an added advantage.
+* Ability to communicate well, work as part of a team and interact effectively with others.
+* Displays initiative, self-motivation, and effective time-management skills.
+
+**What’s in it for you**
+
+* Be at the forefront of building software products that are being deployed in mission-critical projects world wide
+* Be offered avenues to develop yourself for career progression
+* Not a low-level development opportunity, as you would get to work in the real business world and with a wide range of customers & coworkers
+
+**Inclusion statement**
+-----------------------
+
+As a game-changer in sustainable technology and innovation, Dassault Systèmes is striving to build more inclusive and diverse teams across the globe. We believe that our people are our number one asset and we want all employees to feel empowered to bring their whole selves to work every day. It is our goal that our people feel a sense of pride and a passion for belonging. As a company leading change, it’s our responsibility to foster opportunities for all people to participate in a harmonized Workforce of the Future.

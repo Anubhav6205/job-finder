@@ -1,0 +1,135 @@
+We are inviting passionate, enthusiastic, and talented 2026 Engineering Graduates to participate in our Common Walk-in Drive at Zycus for exciting internship opportunities across emerging technology domains.
+
+You will get an opportunity to apply GenAI in real-world enterprise scenarios across Devops, SRE, product, and internal platforms.
+
+  
+
+**Internship Details**
+
+  
+
+* Duration: 6 Months
+* Stipend: INR 40,000 per month
+* Full-Time Opportunity: High performers will be considered for full-time roles in relevant teams
+
+  
+
+**Function Allocation (Based on Skills & Fit)**
+
+  
+
+Selected interns will be deployed across one of the following teams:
+
+  
+
+* **SRE / DevOps AI-driven reliability, monitoring, and automation**
+* **Security AI in threat detection, risk analysis, and compliance**
+* **ITIS (Internal IT Systems) – AI for internal automation and productivity**
+* **AI Team– Building AI-integrated enterprise applications**
+
+**Final team allocation will be based on candidate’s skills, project exposure, and interview performance.**
+
+  
+
+**Roles & Responsibilities (Across Functions)**
+
+  
+
+* Work on GenAI-powered use cases relevant to your assigned function
+* Assist in building, testing, or optimizing LLM-based applications and workflows
+* Use AI tools to automate tasks, improve efficiency, and solve business problems
+* Support teams in data analysis, insights generation, and decision support
+* Collaborate cross-functionally to drive AI adoption across the organization
+* Contribute to process improvement, innovation, and AI experimentation
+
+  
+
+**Eligibility & Skills**
+
+  
+
+**Experience:**
+
+  
+
+* B.E./B.Tech. 2026 Graduates Only
+
+Must-Have Skills
+
+* Basic programming knowledge (Python and/or Java)
+* Strong understanding of Generative AI concepts and LLMs
+* Familiarity with tools like ChatGPT, Copilot, or similar AI platforms
+* Good problem-solving and analytical skills
+* Basic understanding of at least one:
+
++ Cloud (AWS/GCP/Azure)
++ APIs / system integration
++ Linux/Unix
+
+**Good-to-Have Skills**
+
+  
+
+* Prompt engineering or AI use-case building
+* Exposure to SaaS, enterprise systems, or automation workflows
+* Knowledge of Docker/Kubernetes, CI/CD, or microservices
+* Understanding of customer lifecycle, support workflows, or training systems
+* Version control (Git)
+
+  
+
+**What You’ll Gain**
+
+  
+
+* Exposure to GenAI applications across business + tech functions
+* Hands-on experience in enterprise SaaS environment
+* Opportunity to work on real-world AI use cases impacting customers and internal teams
+* Mentorship from leaders across AI, Product, Engineering, and Business functions
+* Pathway to a full-time role at Zycus
+
+  
+
+**Apply Here: https://zycus.talismatic.com/jobs/JWKJPGLZA**
+
+  
+
+**Walk-in Drive Details**
+
+  
+
+* Drive Date: Saturday, November 28, 2026
+* Walk-in Timing: 10:00 AM to 3:00 PM
+
+  
+
+**Walk-in Drive Venue**
+
+  
+
+Zycus Infotech Pvt. Ltd.
+
+Plot No. GJ–07, SEEPZ++,  
+SEEPZ SEZ, Andheri (East),  
+Mumbai, Maharashtra – 400096.
+
+Nearest SEEPZ Entry Gate: Gate No. 03
+
+Important: Gate Pass Instructions
+
+Candidates visiting the SEEPZ premises must arrange their gate pass in advance.
+
+  
+
+Please email your details to the following email addresses for gate pass coordination:
+
+  
+
+* seepz.consultant@zycus.com
+* Facilities@zycus.com
+
+  
+
+Candidates are advised to complete the gate pass formalities before arriving at the venue.
+
+We look forward to meeting enthusiastic 2026 engineering graduates who are passionate about technology, innovation, and continuous learning!

@@ -1,0 +1,48 @@
+**Full-Stack AI Engineer (Remote)**
+
+**Novizco Infotech Pvt. Ltd.**
+
+**Experience:** 4 years  
+ **Location:** Remote, anywhere in India  
+ **Shift:** 2:00 PM 11:00 PM IST  
+ **Engagement:** 2-month initial contract, with extension based on performance and project needs  
+ **Start:** Immediate joiners preferred
+
+**About the role**  
+ We’re looking for a hands-on Full-Stack AI Engineer to build and ship AI-powered features from start to finish. You’ll handle everything from backend APIs and LLM pipelines to the frontend. You’ll work closely with a distributed team and overlap with international client hours.
+
+**Key responsibilities**
+
+* Design, build and deploy full-stack applications that use LLMs, RAG pipelines and AI agents
+* Build and maintain backend services and REST APIs in Python (FastAPI or Django/Flask)
+* Build responsive frontends with React or Next.js
+* Integrate LLM APIs such as OpenAI, Anthropic, Azure OpenAI or Gemini, and handle prompt design, tool calling and structured outputs
+* Implement retrieval pipelines: chunking, embeddings and vector databases such as pgvector, Pinecone, Qdrant or Weaviate
+* Build agentic workflows with frameworks like LangChain, LangGraph or LlamaIndex, or with custom orchestration
+* Evaluate and improve AI output quality for accuracy, latency and cost
+* Deploy and monitor applications on a major cloud (Azure, AWS or GCP) using Docker and CI/CD
+* Write clean, tested and well-documented code, and take part in code reviews
+
+**Must-have skills**
+
+* 4 years of professional software development experience, including full-stack work
+* Strong Python, plus experience with FastAPI or similar frameworks
+* Solid React or Next.js experience, along with JavaScript and TypeScript
+* Hands-on experience building at least one production or near-production LLM application (RAG, chatbot, agent or copilot)
+* Working knowledge of vector databases and embeddings
+* Experience with SQL and NoSQL databases (PostgreSQL, MongoDB, etc.)
+* Familiarity with Git, Docker, REST APIs and cloud deployment
+* Good written and spoken English for working directly with clients
+
+**Good to have**
+
+* Experience with LLM evaluation, guardrails or observability tools (LangSmith, Langfuse, etc.)
+* Exposure to MCP, multi-agent systems or voice/multimodal AI
+* Azure experience (App Service, Functions, Azure OpenAI)
+* Experience working with US, UK or Middle East clients
+
+**What we offer**
+
+* Fully remote work
+* Real-world AI projects for international clients
+* Possible contract extension, with long-term engagement for strong performers

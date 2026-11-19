@@ -1,0 +1,67 @@
+Hiring: GenAI Developer / Agentic AI Developer
+
+**Location:** Bangalore | Hyderabad | Chennai | Pune  
+**Experience:** 7+ Years  
+ **Interview Process:** 1 Mandatory Face-to-Face Interview on 21st November  
+**Certification Requirement:** AI Certification is Mandatory
+
+  
+
+About the Role
+
+We are looking for highly skilled **Generative AI Developers and Agentic AI Developers** with strong expertise in designing, developing, and deploying enterprise-grade AI applications. The ideal candidate should have hands-on experience in LLMs, RAG architectures, AI agents, prompt engineering, and production-ready AI solutions.
+
+  
+
+**Key Responsibilities:**
+
+Design, develop, and deploy Generative AI and Agentic AI solutions.  
+Build and optimize Retrieval-Augmented Generation (RAG) architectures.  
+Fine-tune and customize Large Language Models (LLMs).  
+Develop AI-powered applications using LangChain, LangGraph, and LlamaIndex.  
+Implement Responsible AI, Security, Governance, and Domain Guardrails.  
+Integrate AI solutions with enterprise applications and APIs.  
+Design scalable retrieval systems using embeddings and vector databases.  
+Deploy AI models and pipelines into production environments.  
+Collaborate with cross-functional teams to deliver end-to-end AI solutions.  
+Drive AI best practices, monitoring, and optimization initiatives.
+
+  
+
+**Mandatory Skills & Qualifications**
+
+Strong Python development experience.  
+ Hands-on experience with Generative AI and Large Language Models (LLMs).  
+ Experience in LLM fine-tuning and model customization.  
+ Experience designing and delivering end-to-end AI implementations.  
+ Strong understanding of Domain Guardrails, Responsible AI, Security, and AI Governance.  
+ Expertise in building and optimizing RAG architectures.  
+ Hands-on experience with LangChain, LangGraph, and LlamaIndex.  
+ Strong understanding of Embeddings, Tokenization, and Retrieval Systems.  
+ Experience deploying AI models and pipelines into production.  
+ Experience with Vector Databases such as FAISS and ChromaDB.  
+ API integration experience.  
+Basic MLOps knowledge.  
+ Cloud fundamentals on Azure, AWS, or GCP.  
+ Experience in Prompt Engineering and Retrieval Logic Customization.  
+ Hands-on Docker experience.
+
+  
+
+**Preferred Skills**
+
+Experience building AI Agents and Multi-Agent Systems.  
+ Exposure to Azure OpenAI, OpenAI, Gemini, Claude, or Llama ecosystem.  
+ Knowledge of Kubernetes and CI/CD pipelines.  
+ Experience with AI observability and monitoring tools.
+
+Education
+
+Bachelor's or Master's Degree in Computer Science, Information Technology, AI, Data Science, or a related field.
+
+  
+
+**Mandatory Requirement**
+
+AI/Generative AI Certification is mandatory.  
+ Candidates without relevant AI certification will not be considered for the interview process

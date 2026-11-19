@@ -1,0 +1,110 @@
+**Role & responsibilities**
+
+**1. Agentic AI Framework Architecture**
+
+* Design and evolve Yukthi's reusable agentic AI framework.
+* Define standard patterns for agent creation, orchestration, execution, and lifecycle management.
+* Build reusable components for tool calling agent state, context management, memory, and workflow coordination.
+* Design agent-to-agent communication and coordination where required.
+* Establish common interfaces for agent tools, enterprise APIs, and external services.
+* Implement robust error handling, retries, timeouts, idempotency, and recovery.
+* Evaluate existing agent frameworks and extend them where appropriate, rather than rebuilding unnecessarily.
+* Support agent versioning, configuration management, and controlled deployment.
+
+**2. Applied AI & LLM Engineering**
+
+* Design and implement production-grade AI agents using LLMs and enterprise tools.
+* Integrate models such as Claude, Gemini, OpenAI, and other suitable LLMs.
+* Develop context-engineering strategies for complex procurement workflows.
+* Implement RAG, embeddings, semantic search, and enterprise knowledge retrieval.
+* Design structured outputs, tool-execution workflows, and deterministic business-rule validation.
+* Build document intelligence for procurement policies, supplier documents, contracts, and transactional data.
+* Optimize LLM performance, latency, token consumption, and operating cost.
+* Evaluate emerging agentic AI technologies and recommend practical adoption strategies.
+
+**3. Enterprise Agent Integration**
+
+* Integrate agents with EffiGO's Java Spring Boot microservices, PostgreSQL databases, and enterprise APIs.
+* Build secure, reusable interfaces between Yukthi and procurement workflows.
+* Support integrations with ERP systems and external enterprise services.
+* Ensure agents operate within tenant-specific data boundaries and user permissions.
+* Implement human-in-the-loop approvals for high-impact business actions.
+* Ensure AI recommendations and actions are explainable, traceable, and auditable.
+* Work with the platform architect to stay consistent with EffiGO's overall architecture.
+
+**4. Agent Evaluation, Reliability & Observability**
+
+* Establish evaluation frameworks to measure agent correctness, task completion, reliability, and policy compliance.
+* Build automated evaluation datasets and regression tests.
+* Implement tracing and monitoring of reasoning steps, tool calls, outcomes, latency, and cost.
+* Detect hallucinations, incorrect tool usage, and inconsistent outputs.
+* Implement safeguards against prompt injection, unauthorized actions, and sensitive data exposure.
+* Define production-readiness criteria for AI agents.
+* Continuously improve agent performance using production feedback and evaluation results.
+
+**5. AI Engineering Standards & Technical Leadership**
+
+* Create reusable agent templates, libraries, and engineering standards.
+* Conduct architecture and code reviews for AI components.
+* Mentor developers in agentic AI engineering and LLM integration.
+* Collaborate with product managers, domain experts, QA, DevOps, and backend engineers.
+* Drive technical design decisions for Yukthi's AI capabilities.
+* Maintain technical documentation and architecture decision records.
+* Balance rapid experimentation with maintainable, production-quality engineering.
+
+  
+
+**Preferred candidate profile**
+
+**Software Engineering**
+
+* Strong fundamentals with experience building production enterprise applications.
+* Advanced proficiency in Python and/or Java, able to work across both ecosystems.
+* Experience developing REST APIs, backend services, and microservices.
+* Strong understanding of software architecture, design patterns, asynchronous processing, and distributed systems.
+* Experience with relational databases, Git, automated testing, and CI/CD.
+
+**Agentic AI & LLM Engineering**
+
+* Hands-on experience developing and deploying LLM-powered applications or agents in production.
+* Strong understanding of agent orchestration, tool calling, structured outputs, workflow state, and multi-step execution.
+* Experience with Spring AI, LangGraph, LangChain, or equivalent frameworks.
+* Experience designing reusable AI components or agent infrastructure.
+* Strong understanding of RAG, embeddings, retrieval techniques, and context management.
+* Experience integrating LLM APIs and handling model failures, rate limits, latency, and cost.
+* Practical experience evaluating LLM applications and debugging agent execution.
+
+**Enterprise Architecture & Security**
+
+* Experience integrating AI capabilities with existing enterprise software.
+* Understanding of authentication, authorization, data security, and secure API access.
+* Knowledge of production monitoring, observability, and troubleshooting.
+* Ability to design reliable systems with appropriate human oversight and auditability.
+
+**Preferred Skills**
+
+* Hands-on experience with Spring AI and Java Spring Boot.
+* Strong Python experience with agentic AI frameworks.
+* Experience with Model Context Protocol (MCP) and reusable tool interfaces.
+* Experience with PostgreSQL, pgvector, or other vector databases.
+* Experience with AWS and/or GCP.
+* Experience with multi-tenant SaaS applications.
+* Experience with agent evaluation and observability frameworks.
+* Familiarity with event-driven architectures and message queues.
+* Experience with document understanding and knowledge extraction.
+* Exposure to procurement, supply chain, ERP, or enterprise workflow applications.
+* Experience guiding engineers or leading technical architecture initiatives.
+
+**Who We're Looking For**
+
+An engineer who:
+
+* Has built and operated real AI applications, not just prototypes or chatbot demos.
+* Designs reusable agent infrastructure rather than isolated agents.
+* Knows when to use LLM reasoning and when to use deterministic software logic.
+* Is comfortable working within an existing enterprise architecture.
+* Writes production-quality code and solves complex technical problems independently.
+* Understands security, reliability, observability, and operating costs.
+* Evaluates technologies objectively, without dependence on any one framework.
+* Communicates architectural decisions clearly and mentors other engineers.
+* Owns technical outcomes from design through production deployment.

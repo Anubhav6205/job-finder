@@ -1,0 +1,14 @@
+**Key Responsibilities**
+
+* Design, develop, enhance, and maintain software components using C++.
+* Work on storage-related product functionality across controller and management layers.
+* Develop and integrate new features within the existing product architecture.
+* Debug, troubleshoot, and resolve complex software issues.
+* Analyze functional requirements and translate them into software implementations.
+* Work with existing software frameworks, interfaces, and system components.
+* Perform unit testing, code reviews, and integration testing.
+* Collaborate with cross-functional engineering teams to resolve technical issues.
+* Participate in Agile ceremonies, sprint planning, and technical discussions.
+* Ensure software quality, reliability, and maintainability.
+* C++ , Storage domain , debugging , troubleshooting
+* Work from office

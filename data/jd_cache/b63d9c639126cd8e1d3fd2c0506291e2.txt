@@ -1,0 +1,18 @@
+* Artificial Intelligence, Machine Learning & Generative AI
+  
+* Artificial Intelligence (AI) & Machine Learning (ML).
+  
+* Generative AI, LLM, GPT, Hugging Face.
+  
+* RAG, LangChain, LlamaIndex, Vector Databases.
+  
+* AI Agents, Agentic AI, LangGraph, CrewAI, MCP.
+  
+* NLP, Computer Vision, Deep Learning.
+  
+* MLOps, Model Deployment and AI Automation.
+  
+
+  
+
+**Location -** Mumbai, Delhi / NCR, Bengaluru , Kolkata, Chennai, Hyderabad, Ahmedabad, Pune,REMOTE

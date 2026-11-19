@@ -1,0 +1,123 @@
+# Senior Generative AI Engineer
+  
+  
+
+* Experience:\*\* 3–10 Years
+* Location:\*\* Pune
+* Employment Type:\*\* Full-Time(915)
+
+## Role Overview
+  
+  
+We are looking for a \*\*Senior Generative AI Engineer\*\* to build and deploy enterprise-grade AI solutions using modern Generative AI technologies. The role will involve working across \*\*LLMs, RAG, AI agents, Azure AI services and Python\*\*, with a strong focus on developing reliable solutions that can be integrated into real-world business processes.
+  
+  
+You will work closely with technical teams and business stakeholders to understand requirements, design suitable AI solutions, take ownership of implementation, and support solutions through production.
+  
+  
+## Key Responsibilities
+  
+  
+### AI Solution Development
+  
+  
+
+* Design and develop Generative AI solutions using \*\*LLMs, RAG and AI agent technologies\*\*.
+* Build production-ready AI applications using \*\*Azure OpenAI, Azure AI Search and Azure AI Foundry\*\*.
+* Develop backend components and AI workflows using \*\*Python\*\*.
+* Implement solutions involving prompt engineering, retrieval, vector databases and LLM evaluation.
+* Develop AI agents that can interact with business applications, data and enterprise systems.
+
+### Solution Integration
+  
+  
+
+* Connect AI applications with \*\*REST APIs, SAP, Microsoft 365, SharePoint and other enterprise platforms\*\*.
+* Work with Microsoft technologies such as \*\*Power Platform, Power Automate and Copilot-related solutions\*\* where required.
+* Translate business requirements into practical and scalable AI solutions.
+* Ensure smooth integration between AI capabilities and existing business processes.
+
+### Cloud, Deployment & Operations
+  
+  
+
+* Deploy and manage AI applications on \*\*Microsoft Azure\*\*.
+* Work with \*\*Azure Functions, Azure DevOps and CI/CD pipelines\*\*.
+* Perform testing, deployment, monitoring and continuous improvement of AI solutions.
+* Troubleshoot production issues and improve application reliability, scalability and performance.
+* Follow secure and maintainable coding practices throughout the development lifecycle.
+
+### Architecture & Governance
+  
+  
+
+* Contribute to AI solution architecture, technical standards and reusable frameworks.
+* Consider \*\*security, data protection, Responsible AI and governance\*\* while designing AI solutions.
+* Evaluate technical options based on scalability, performance, security and cost.
+* Document architecture decisions and technical approaches clearly.
+
+### Collaboration & Ownership
+  
+  
+
+* Work with cross-functional and globally distributed teams.
+* Communicate effectively with both technical and non-technical stakeholders.
+* Take ownership of projects from requirement gathering through production implementation.
+* Provide technical guidance and mentoring to other engineers.
+* Stay updated with emerging developments in Generative AI and evaluate their practical use in enterprise applications.
+
+## Required Skills
+  
+  
+
+* Strong hands-on experience with \*\*Generative AI and Large Language Models (LLMs)\*\*.
+* Practical knowledge of \*\*RAG architecture, vector databases and retrieval mechanisms\*\*.
+* Experience developing \*\*AI agents\*\* and agent-based workflows.
+* Strong \*\*Python\*\* development skills.
+* Good understanding of \*\*REST APIs and enterprise system integration\*\*.
+* Hands-on experience with \*\*Azure OpenAI, Azure AI Search and Azure AI Foundry\*\*.
+* Experience with \*\*Azure cloud services, Azure Functions and Azure DevOps\*\*.
+* Understanding of \*\*CI/CD, deployment and production lifecycle management\*\*.
+* Knowledge of AI security, data protection, Responsible AI and governance.
+* Experience building and supporting AI solutions in \*\*production environments\*\*.
+* Ability to integrate AI solutions into existing business processes and enterprise applications.
+* Strong communication and stakeholder-management skills.
+* Good analytical and problem-solving abilities.
+* Comfortable working with international and distributed teams.
+* Strong written and verbal English communication.
+
+## Good to Have
+  
+  
+
+* Experience with \*\*AI agent frameworks and Model Context Protocol (MCP)\*\*.
+* Exposure to \*\*Microsoft Copilot, Copilot Studio or Power Platform\*\*.
+* Experience integrating AI solutions with \*\*SAP, SharePoint or Microsoft 365\*\*.
+* Knowledge of LLM \*\*fine-tuning\*\* and domain-specific model adaptation.
+* Experience with workflow automation.
+* Experience mentoring junior or mid-level engineers.
+
+## Education & Experience
+  
+  
+
+* Bachelor’s or Master’s degree in \*\*Computer Science, Artificial Intelligence, Information Technology or a related discipline\*\*.
+* \*\*3–10 years\*\* of overall software development experience.
+* At least \*\*2 years of hands-on experience in Generative AI\*\*.
+* Demonstrated experience taking AI solutions from development to \*\*production deployment and ongoing support\*\*.
+* Experience applying AI to \*\*enterprise/business use cases\*\*, rather than only experimental or academic projects.
+* Exposure to working with \*\*cross-functional, international or distributed teams\*\*.
+
+## Candidate Profile
+  
+  
+The ideal candidate should be someone who can independently take an AI requirement, understand the business problem, design an appropriate solution and drive it through implementation and production.
+  
+  
+Strong technical expertise is important, but candidates should also demonstrate \*\*ownership, clear communication, stakeholder management, collaboration and the ability to explain technical concepts to non-technical stakeholders\*\*.
+  
+  
+
+* Joining Preference:\*\* Candidates with a notice period of \*\*up to 30 days\*\* will be preferred.
+
+Skills: software development,cross-functional,vector databases,azure openai,production deployment,mcp,generative ai,rest apis,python,retrieval mechanisms,rag architecture

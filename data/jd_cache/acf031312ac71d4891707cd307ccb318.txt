@@ -1,0 +1,28 @@
+**Job Description:**
+
+We are looking for an experienced Python Azure GenAI Developer with strong expertise in Generative AI, Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), and Agentic AI.
+
+The candidate will be responsible for developing enterprise-grade AI applications, multi-agent systems, intelligent automation workflows, and scalable AI-powered solutions.
+
+**Key Responsibilities:**
+
+* Develop AI-powered applications using Python.
+* Build and integrate Generative AI solutions using Azure OpenAI and Azure AI Foundry.
+* Design and implement RAG pipelines using enterprise knowledge bases and vector databases.
+* Develop Agentic AI workflows and multi-agent systems using LangChain, LangGraph, and CrewAI.
+* Integrate LLMs such as OpenAI GPT models into enterprise applications.
+* Develop backend services and REST APIs using FastAPI.
+* Implement MCP servers and integrate external tools, APIs, and enterprise data sources.
+* Work with Azure AI Search for semantic search and enterprise document retrieval.
+* Implement prompt engineering, tool calling, and workflow orchestration.
+
+**Mandatory Skills:**
+
+* Python
+* Azure OpenAI / Azure AI Foundry
+* Generative AI and LLMs
+* RAG Architecture
+* Agentic AI / Multi-Agent Systems
+* LangChain / LangGraph
+* FastAPI / REST APIs
+* Prompt Engineering and Tool Calling

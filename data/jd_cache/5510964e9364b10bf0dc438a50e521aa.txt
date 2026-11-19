@@ -1,0 +1,34 @@
+Atos is Hiring | SAP Business AI & BTP Technical Consultant
+
+  
+
+Experience: 8-12 Years  
+Relevant Experience: Minimum 4+ years in SAP BTP
+
+  
+
+We are looking for an experienced SAP Business AI & BTP Technical Consultant with strong expertise in SAP BTP development, Generative AI, SAP AI Core, CAP/RAP, and HANA Cloud.
+
+  
+
+Key Responsibilities:
+
+  
+
+* Implement Generative AI solutions using SAP AI Core & AI Launchpad
+* Develop BTP extensions using SAP CAP / RAP
+* Configure Joule skills, intents and conversational workflows
+* Build RAG and semantic search solutions using SAP HANA Cloud & HANA Vector Engine
+* Work with SAP Datasphere for data modelling and semantic storage
+* Develop integrations using SAP Integration Suite & Event Mesh
+* Integrate applications using OData / REST APIs
+* Debug and optimize AI-driven pipelines and BTP applications
+
+  
+
+Key Skills:  
+SAP BTP | SAP Business AI | Generative AI | SAP AI Core | AI Launchpad | CAP | RAP | Node.js | Python | ABAP | RAG | HANA Cloud | HANA Vector Engine | Joule | SAP Datasphere | Integration Suite | Event Mesh | LangChain | OData | REST API
+
+  
+
+Share your updated resume at zebaparveen.khan@atos.ai

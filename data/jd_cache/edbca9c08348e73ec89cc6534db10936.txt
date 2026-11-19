@@ -1,0 +1,64 @@
+SUMMARY   
+ 
+
+To perform this job successfully, an individual must be able to perform each essential duty satisfactorily. The requirements below represent the minimum knowledge, skills and abilities required. Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions.
+
+       Proficiency in the secure and responsible use of generative AI tools such as ChatGPT, Claude, Microsoft Copilot and Gemini, including never exposing financial, plan, forecast, vendor or bank data or configuration secrets to unapproved tools.
+
+       Experience applying generative AI responsibly to documentation, test scripts, business rule and SQL development and release note analysis, with human validation before anything touches production or the financial record.
+
+       Strong knowledge of Oracle Cloud ERP Financials architecture, module interaction and the accounting flow from subledger through Subledger Accounting to General Ledger.
+
+       Strong knowledge of Oracle Cloud EPM architecture, including cube structure, dimensionality, calculation behavior and the performance implications of metadata design.
+
+       Working knowledge of consolidation, close management, account reconciliation and planning and forecasting processes, and how configuration affects reported results.
+
+       Knowledge of Oracle Cloud security models for ERP and EPM and of segregation of duties principles and compensating controls.
+
+       Working SQL skills for analysis, reconciliation and troubleshooting.
+
+       Experience with ITIL-aligned incident, request and change management and with IT service-management platforms; ServiceNow is preferred.
+
+       Excellent written and verbal business-English communication skills, with the ability to translate between accounting language and application configuration across cultures and time zones.
+
+       Strong project- and time-management skills, with a systematic, organized approach and high attention to detail and accuracy.
+
+       Ability to treat the integrity of the books as the highest priority and work calmly and accurately under close deadlines.
+
+       Ability to say no to an unreviewed production change and explain the reasoning in terms Finance leadership will accept.
+
+       Ability to learn new concepts and software quickly and take a proactive approach to platform enhancements.
+
+       Ability to think logically and work effectively both independently and as part of a team.
+
+**EDUCATION & EXPERIENCE**
+
+       At least five years of experience administering or supporting enterprise financial systems, including at least three years with Oracle Cloud ERP Financials.
+
+       At least two years of hands-on experience administering Oracle Cloud EPM, including Planning and Budgeting, Financial Consolidation and Close or Account Reconciliation.
+
+       Hands-on experience with EPM metadata maintenance, Calculation Manager, Data Integration, Lifecycle Management and EPM Automate, and with Functional Setup Manager and configuration packages.
+
+       Demonstrated experience managing Oracle ERP quarterly and EPM monthly update cycles, including regression testing and user acceptance testing coordination.
+
+       Experience supporting audit and internal control requirements is required; SOX experience and real estate, property management or student housing industry experience are preferred.
+
+       Bachelor's degree in accounting, finance, information systems or a related field; equivalent work experience; or an equivalent combination of education and experience.
+
+**CERTIFICATES & LICENSES**
+
+       Oracle Cloud Financials Implementation Professional (General Ledger, Payables or Receivables).
+
+       Oracle Cloud Planning Implementation Professional.
+
+       Oracle Cloud Financial Consolidation and Close Implementation Professional.
+
+       Oracle Cloud Account Reconciliation Implementation Professional is a plus.
+
+       Oracle Cloud Applications Security or Enterprise Structures certification.
+
+       Microsoft Certified: Security, Compliance, and Identity Fundamentals.
+
+       CompTIA SecAI+ (Security AI+).
+
+       ITIL Foundation is a plus.

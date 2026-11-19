@@ -1,0 +1,36 @@
+**Role & responsibilities**
+
+Job Summary  
+We are seeking a skilled Python / Shell Scripting Engineer to design, develop, maintain, and automate business processes, system administration tasks, and application support activities. The ideal candidate should have strong expertise in Python development, Unix/Linux environments, Shell scripting, and automation tools to improve operational efficiency and reliability.
+
+Key Responsibilities  
+Python Development & Automation
+
+. Design, develop, test, and maintain Python based applications and automation solutions.  
+. Create reusable scripts and tools for operational and business process automation.  
+. Develop APIs, ETL processes, and data integration solutions using Python.  
+. Analyze business requirements and translate them into technical solutions.  
+. Optimize existing Python code for performance, scalability, and maintainability.  
+. Troubleshoot and resolve application and automation related issues.
+
+Shell Scripting & Unix/Linux Administration
+
+. Develop and maintain Shell scripts (Bash, Korn Shell, or Unix Shell) for automation and system administration.  
+. Automate routine operational tasks, monitoring activities, and maintenance jobs.  
+. Manage files, cron jobs, batch processing, and job scheduling activities.  
+. Troubleshoot Unix/Linux system issues and perform root cause analysis.  
+. Monitor server health, system resources, and application performance.
+
+Production Support & Operations
+
+. Provide L2/L3 support for production environments.  
+. Investigate incidents, resolve application issues, and ensure minimal business impact.  
+. Coordinate with infrastructure, database, and application teams for issue resolution.  
+. Support deployment, release, and change management activities.  
+. Maintain operational documentation, runbooks, and SOPs.
+
+  
+
+**Preferred candidate profile**
+
+Immediate Joiner

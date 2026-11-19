@@ -1,0 +1,111 @@
+**Senior AI/ML Engineer (Document**
+
+**Intelligence & LLMs)**
+
+**Role Overview**
+
+We are seeking a highly skilled
+**Senior AI/ML Engineer**
+with extensive experience
+
+in document classification, natural language processing (NLP), and Large Language
+
+Models (LLMs). The ideal candidate will lead the development of our Document AI
+
+framework, specifically focusing on interpreting complex property and financial
+
+documents. You will be responsible for the end-to-end lifecycle of machine learning
+
+models, from fine-tuning LLMs for specialized extraction tasks to deploying scalable
+
+APIs in a production environment.
+
+**Key Responsibilities**
+
+●
+**Model Development G Fine-tuning:**
+Lead the selection, architecture,
+
+and fine-tuning of LLMs for high-accuracy document classification and data
+
+extraction from unstructured sources.
+
+●
+**End-to-End Extraction Pipelines:**
+Design and optimize workflows to extract
+
+structured data from diverse documents such as GST certificates, Udyam
+
+registrations, FSSAI licenses, and property-related legal documents.
+
+●
+**Performance Evaluation:**
+Conduct rigorous end-to-end analysis and
+
+result metric evaluation (e.g., Precision, Recall, F1-score) to ensure model
+
+reliability across production batches.
+
+●
+**OCR Integration:**
+Collaborate with engineering teams to integrate central
+
+OCR services and refine extraction keys for specific business release cycles.
+
+●
+**Production Deployment:**
+Build and maintain high-performance REST APIs
+
+and microservices using Python (FastAPI/Flask) within AWS environments.
+
+●
+**Advanced AI Tasks:**
+Implement techniques for resolving name variations,
+
+identifying corporate hierarchies, and normalizing unstructured text from SMS
+
+and bureau records.
+
+**Required Skills & Qualifications**
+
+●
+**Experience:**
+2-4 years of hands-on experience in AI/ML engineering, with a
+
+proven track record in document intelligence or specialized NLP.
+
+●
+**LLM Expertise:**
+Demonstrated experience fine-tuning LLMs (e.g., Llama,
+
+Mistral, BERT-based architectures) for classification and information
+
+extraction tasks.
+
+●
+**Technical Stack:**
+Strong proficiency in Python, including data handling
+
+libraries like Pandas and NumPy, and ML frameworks such as PyTorch or
+
+TensorFlow.
+
+●
+**Production Knowledge:**
+Familiarity with CI/CD pipelines, MLOps, Docker,
+
+Kubernetes, and cloud platforms like AWS (specifically Lambda or
+
+EC2-based API deployments).
+
+●
+**Database Proficiency:**
+Solid understanding of SQL (MySQL) and
+
+NoSQL databases for handling large-scale document metadata.
+
+●
+**Education:**
+Bachelorʼs or Masterʼs degree in Computer Science, AI,
+
+Mathematics, or a related field.

@@ -1,0 +1,89 @@
+**Req ID:** 397653
+  
+  
+NTT DATA strives to hire exceptional, innovative and passionate individuals who want to grow with us. If you want to be part of an inclusive, adaptable, and forward-thinking organization, apply now.
+  
+  
+We are currently seeking a Systems Integration Advisor to join our team in Hyderabad, Telangana (IN-TG), India (IN).
+  
+  
+**Job Description:**  
+Middleware Platform Engineer — Cloud(AWS/AZURE) and On-Premises.
+  
+  
+**Summary:**  
+The Middleware Platform Engineer design, build, deploy, automate, and support middleware platforms in cloud and on-premises. This role is responsible for platform provisioning, operations, security, maintenance, and lifecycle management for cloud and on-premises.
+  
+  
+**Skills:**  
+Ansible, Cloud, Jenkins, GIT, WebLogic, JBOSS, Wildfly, Tomcat, Apache, IIS, NGINIX, WebSphere, Python, Shell...
+  
+  
+**Key Responsibilities:**  
+1. Working in data center migration(DCM), support, middleware patching and new build ecosystems.
+  
+  
+2. Experience in scripting and automation.
+  
+  
+3. Experience in vulnerability remediation , certificate renewal , load balancer , SSO, JDK, troubleshooting issues related to JDK/memory/filesystem etc...
+  
+  
+4. Troubleshoot middleware issues on Cloud and On-premises.
+  
+  
+5. Well versed with support process like SOP, Handover/Takeover, following SLA
+  
+  
+6. Modernize middleware platforms and migrate workloads to newer versions.
+  
+  
+7. Strong analytical and problem-solving skills.
+  
+  
+8. Experience in Middleware installations/upgrade .
+  
+  
+10. Develop infrastructure-as-code and Ansible automation for middleware provisioning and configuration.
+  
+  
+11. Deploy middleware on infrastructure-as-a-service and cloud-native platforms.
+  
+  
+12. Design and implement auto-scaling, load balancing, and reusable middleware reference patterns.
+  
+  
+13. Integrate middleware deployments into cloud server builds and automated provisioning workflows.
+  
+  
+14. Configure cloud networking and security groups required for middleware services.
+  
+  
+15. Maintain compatibility across hybrid-cloud environments.
+  
+  
+16. Monitor cloud-hosted middleware and maintain observability integrations.
+  
+  
+17. Integrate middleware provisioning and deployment into CI/CD pipelines.
+  
+  
+18. Good knowledge of ITIL processes
+  
+  
+19. Follow change management processes and support audits and evidence requests.
+  
+  
+20. 24X7 support project(work in shifts)
+  
+  
+About NTT DATA
+  
+  
+NTT DATA is a $30 billion business and technology services leader, serving 75% of the Fortune Global 100. We are committed to accelerating client success and positively impacting society through responsible innovation. We are one of the world's leading AI and digital infrastructure providers, with unmatched capabilities in enterprise-scale AI, cloud, security, connectivity, data centers and application services. our consulting and Industry solutions help organizations and society move confidently and sustainably into the digital future. As a Global Top Employer, we have experts in more than 50 countries. We also offer clients access to a robust ecosystem of innovation centers as well as established and start-up partners. NTT DATA is a part of NTT Group, which invests over $3 billion each year in RD.
+  
+  
+Whenever possible, we hire locally to NTT DATA offices or client sites. This ensures we can provide timely and effective support tailored to each client’s needs. While many positions offer remote or hybrid work options, these arrangements are subject to change based on client requirements. For employees near an NTT DATA office or client site, in-office attendance may be required for meetings or events, depending on business needs. At NTT DATA, we are committed to staying flexible and meeting the evolving needs of both our clients and employees. NTT DATA recruiters will never ask for payment or banking information and will only use @nttdata.com, @nttdatafed.com and @talent.nttdataservices.com email addresses. If you are requested to provide payment or disclose banking information, please submit a contact us form, https://us.nttdata.com/en/contact-us.
+  
+  
+NTT DATA endeavors to make https://us.nttdata.com accessible to any and all users. If you would like to contact us regarding the accessibility of our website or need assistance completing the application process, please contact us at https://us.nttdata.com/en/contact-us. This contact information is for accommodation requests only and cannot be used to inquire about the status of applications. NTT DATA is an equal opportunity employer. Qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability or protected veteran status. For our EEO Policy Statement, please click here. If you'd like more information on your EEO rights under the law, please click here. For Pay Transparency information, please click here.

@@ -1,0 +1,48 @@
+About the Role
+
+AIOTY Labs is looking for an enthusiastic AI Engineer specializing in computer vision and deep learning to develop AI-powered inspection, defect detection, object recognition, and industrial automation solutions.
+
+The candidate will work on real-world AI vision applications deployed in manufacturing and industrial environments.
+
+Key Responsibilities
+
+* Develop, train, and optimize computer vision and deep learning models.
+* Work on object detection, classification, segmentation, OCR, and anomaly detection.
+* Build AI-powered visual inspection systems for industrial applications.
+* Develop solutions using Python, OpenCV, PyTorch, and TensorFlow.
+* Train and fine-tune models using industrial image datasets.
+* Work with YOLO architectures and other computer vision frameworks.
+* Integrate industrial cameras, USB cameras, IP cameras, and Raspberry Pi cameras.
+* Optimize AI models for NVIDIA GPUs and edge computing devices.
+* Develop real-time image and video processing pipelines.
+* Deploy AI models in production environments and improve inference performance.
+* Perform dataset collection, annotation, preprocessing, and model evaluation.
+
+Required Skills
+
+* Strong fundamentals in Python programming.
+* Knowledge of machine learning and deep learning concepts.
+* Understanding of CNNs and computer vision algorithms.
+* Experience or academic exposure to OpenCV.
+* Familiarity with PyTorch or TensorFlow.
+* Knowledge of object detection models such as YOLO.
+* Basic understanding of Linux environments.
+
+Preferred Skills
+
+* Experience with Anomalib, ONNX, or TensorRT.
+* Knowledge of NVIDIA CUDA and GPU acceleration.
+* Familiarity with image segmentation and industrial defect detection.
+* Experience with Flask, FastAPI, or REST APIs.
+* Knowledge of Git and Docker.
+* Exposure to edge AI devices and industrial cameras.
+
+Qualifications
+
+B.E./B.Tech/M.E./M.Tech in Computer Science, Artificial Intelligence, Data Science, ECE, or related fields.
+
+**Freshers with practical AI/ML projects, GitHub portfolios, or internships in computer vision are encouraged to apply.**
+
+Pay: ₹250,000.00 - ₹300,000.00 per year
+
+Work Location: In person

@@ -1,0 +1,88 @@
+We are looking for a GenAI / Agentic Engineer with 4
+**–6 years of overall experience**
+, a solid software engineering foundation and
+**at least 2 year of hands-on work with LLMs or agentic systems**
+. You will build, test and ship components of enterprise-grade AI agents that power high-impact decision workflows, working closely with senior agentic engineers who own the overall architecture.
+
+You will work on tool-using agents, planning–execution–verification loops, retrieval and embeddings, context management, evaluation and observability, integrated with large datasets, enterprise data and applications.
+
+**Key Responsibilities**
+
+* Build and maintain
+  **agentic workflows**
+  (single-agent, and contributing to multi-agent setups) for business decisions and task automation, under the guidance of senior engineers
+* Implement agent components that
+  **plan, reason, act, verify and recover**
+  using tools, memory and context
+* Integrate
+  **LLMs (e.g., GPT-4 / GPT-4o or equivalent)**
+  with enterprise systems via APIs and event-driven services
+* Develop orchestration using frameworks such as
+  **LangChain, LangGraph, Semantic Kernel**
+  or in-house agent runtimes
+* Write production-quality backend code: APIs, data pipelines, unit and integration tests, and deployments
+* Implement
+  **guardrails**
+  : error handling, retries, fallback logic and validation around LLM outputs
+* Build and run
+  **evaluations**
+  (task success, accuracy, latency, safety) and add logging and tracing for agent behaviour
+* Work on prompt engineering, retrieval (RAG), embeddings and context management to improve quality and latency
+* Collaborate with product, domain SMEs and data teams to turn business logic into agent behaviour
+* Follow security, access control and auditability standards for agent actions and data
+
+**Requirements**
+
+* **4–6 years of overall experience**
+  in software engineering, with
+  **at least 2 year hands-on in GenAI / LLM applications**
+  (production, internship or substantial personal/open-source projects)
+* Hands-on experience building
+  **LLM-based or agentic applications**
+  (tool calling, RAG, memory, routing or planning)
+* Strong
+  **Python**
+  skills (C++ is a plus), with good backend practices: REST APIs, async code, testing, Git, code reviews
+* Working knowledge of
+  **prompt engineering, embeddings, vector databases and context management**
+* Exposure to at least one orchestration or evaluation framework (e.g.,
+  **LangChain, LangGraph, LangSmith, TruLens, RAGAS**
+  )
+* Comfort working with
+  **APIs and data transformation**
+  (SQL, pandas or similar) across large datasets
+* Basic production awareness: logging, monitoring, error handling, containers (Docker) and CI/CD
+* Strong problem-solving, eagerness to learn, and clear communication
+
+**Good to Have**
+
+* Exposure to
+  **multi-agent patterns**
+  (agent-to-agent communication, supervisors, control planes)
+* Familiarity with
+  **Azure AI stack**
+  (Azure OpenAI, AI Search) or other cloud-native deployments
+* Interest or experience in CPG, retail, pricing, RGM, finance or other data-heavy domains
+* Exposure to
+  **fine-tuning**
+  (LoRA, QLoRA) or eval-driven iteration
+* GitHub portfolio, hackathons, publications or open-source contributions in GenAI
+
+**Education**
+
+* Bachelor's degree in Computer Science, Information Technology or a related field is a must.
+
+**What Success Looks Like**
+
+* Agent features you build
+  **work reliably in production**
+  , not just in demos
+* Clean, tested, well-documented code that seniors can build on
+* Measurable gains in eval scores, latency and task success on the components you own
+* Growing ownership: from well-scoped tasks to owning a full agent workflow within 12–18 months
+
+**Why work with us?**
+
+* A fast-paced, growing and stable start-up with a culture of care, where you are enabled to be your best personally and professionally
+* Be part of the AI revolution and build solutions that make a real difference
+* Work and learn alongside some of the brightest and nicest colleagues; we work hard and have fun together

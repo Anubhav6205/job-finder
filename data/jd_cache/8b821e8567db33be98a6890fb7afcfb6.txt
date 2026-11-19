@@ -1,0 +1,45 @@
+**Job Title: GenAI Engineer (511 Years) – Immediate Joiners Preferred**
+
+**Experience:** 5 – 11 Years
+
+**Employment Type:** Full-Time
+
+**Job Summary**
+
+We are seeking an experienced **GenAI Engineer** with strong expertise in **Generative AI, Agent Frameworks, Agentic AI, RAG (Retrieval-Augmented Generation), and MCP (Model Context Protocol)**. The ideal candidate will design and implement intelligent, scalable AI systems leveraging LLMs, multi-agent workflows, and contextual reasoning.
+
+Candidates who can **join immediately or within short notice periods** are highly preferred.
+
+**Key Responsibilities**
+
+* Design and develop **GenAI-powered applications** using modern LLM ecosystems
+* Build and optimize **RAG pipelines** for context-aware AI solutions
+* Develop **Agentic AI systems** using frameworks like LangChain, AutoGen, CrewAI, or similar
+* Implement and manage **multi-agent orchestration and workflows**
+* Utilize **Model Context Protocol (MCP)** for advanced prompt and context management
+* Integrate LLMs with enterprise systems, APIs, and databases
+* Fine-tune prompts and evaluate model performance (accuracy, latency, cost)
+* Ensure security, scalability, and reliability of AI solutions
+* Collaborate with cross-functional teams including data engineering, product, and DevOps
+* Stay updated on emerging GenAI tools, frameworks, and best practices
+
+**Required Skills & Qualifications**
+
+* Strong experience in **Generative AI / LLM-based application development**
+* Hands-on experience with **RAG architectures** (vector DBs like FAISS, Pinecone, Weaviate, etc.)
+* Expertise in **Agent Frameworks** (LangChain, AutoGen, CrewAI, etc.)
+* Experience building **Agentic AI systems / multi-agent orchestration**
+* Knowledge of **MCP (Model Context Protocol)** or equivalent context-management approaches
+* Strong programming skills in **Python**
+* Experience working with **OpenAI, Azure OpenAI, or similar LLM APIs**
+* Familiarity with **prompt engineering and evaluation techniques**
+* Experience with **REST APIs, microservices architecture**
+
+**Preferred Qualifications**
+
+* Experience with **fine-tuning / embedding models**
+* Familiarity with **vector databases and semantic search**
+* Exposure to **cloud platforms (AWS / Azure / GCP)**
+* Knowledge of **ML Ops / LLM Ops tools**
+* Experience with **streaming pipelines and real-time AI systems**
+* Understanding of **data privacy and AI governance**
