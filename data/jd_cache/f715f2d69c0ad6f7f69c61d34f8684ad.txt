@@ -1,0 +1,91 @@
+At EY, you’ll have the chance to build a career as unique as you are, with the global scale, support, inclusive culture and technology to become the best version of you. And we’re counting on your unique voice and perspective to help EY become even better, too. Join us and build an exceptional experience for yourself, and a better working world for all.
+  
+  
+**Technical AI Product Engineer**
+4–7 Years | Full-time
+  
+  
+If you want to move beyond experiments and build AI systems that truly power products and decisions—this role is for you.
+  
+  
+**About The Role**
+We are building next-generation AI-powered products and platforms that transform how businesses operate, make decisions, and engage with customers.
+  
+  
+As a Technical AI Product Engineer, you will design and deliver production-grade GenAI and Agentic AI solutions—owning the full lifecycle from problem framing to deployment and continuous optimization.
+  
+  
+This role is ideal for engineers who combine deep AI/ML expertise with strong engineering rigor and product thinking, and want to build scalable, measurable, and responsible AI systems in a real-world enterprise setting.
+  
+  
+**What You’ll Do**
+**Build AI Products, Not Just Models**
+
+* Design and develop GenAI-powered applications using LLMs, RAG, and agentic workflows
+* Translate business problems into measurable AI-driven outcomes
+* Define evaluation metrics and product success criteria
+
+**Engineer Intelligent Systems at Scale**
+
+* Build and optimize retrieval-augmented generation (RAG) pipelines
+* Develop agent-based AI systems with tool usage and orchestration
+* Deploy solutions on cloud-native architectures (Azure preferred)
+
+**Own the AI Lifecycle (GenAI Ops)**
+
+* Implement prompt engineering strategies, embeddings, and fine-tuning approaches
+* Build evaluation frameworks and guardrails for reliability and safety
+* Enable continuous monitoring of quality, latency, and cost
+
+**Drive Responsible & Secure AI**
+
+* Embed responsible AI practices (bias detection, explainability, moderation)
+* Ensure data privacy, governance, and compliance standards
+* Build systems aligned with enterprise security and trust principles
+
+**Collaborate & influence**
+
+* Partner with product, data, and engineering teams to prioritize AI features
+* Influence enterprise AI architecture and best practices
+* Enable teams through reusable AI components and APIs
+
+**What You Bring**
+**Must-Have Skills**
+
+* Strong programming in Python and SQL
+* Hands-on experience with GenAI patterns: Prompt engineering, Retrieval-Augmented Generation (RAG), Embeddings & semantic search, Agentic workflows
+* Experience with AI/ML frameworks: PyTorch / TensorFlow, Hugging Face, LangChain / Semantic Kernel
+* Experience deploying AI solutions on cloud platforms (Azure preferred): Azure OpenAI, Azure ML , Azure AI Search
+
+**Engineering & Platform Skills**
+
+* Strong foundation in data processing (Pandas, NumPy, Spark/Databricks)
+* Experience with MLOps / GenAI Ops: MLflow, pipelines, CI/CD, Docker, Azure DevOps
+* Experience building APIs and integrating AI into applications
+* Understanding of monitoring, observability, and system reliability
+
+**Good-to-Have**
+
+* Experience building agent-based or autonomous AI systems
+* Cost optimization for LLM workloads
+* Multi-modal AI (text, image, voice)
+* Frontend integration for AI-driven experiences
+
+**Qualifications**
+
+* Bachelor’s or Master’s in Computer Science, AI/ Data Engineering, or related field
+* 2+ years of experience in AI engineering or development
+
+**Additional**
+
+* Certifications in AI, genAI or Ganetic AI
+* Experience with data governance, security, and compliance standards
+
+**EY | Building a better working world**
+EY exists to build a better working world, helping to create long-term value for clients, people and society and build trust in the capital markets.
+  
+  
+Enabled by data and technology, diverse EY teams in over 150 countries provide trust through assurance and help clients grow, transform and operate.
+  
+  
+Working across assurance, consulting, law, strategy, tax and transactions, EY teams ask better questions to find new answers for the complex issues facing our world today.

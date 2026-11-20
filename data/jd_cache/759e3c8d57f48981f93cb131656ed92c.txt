@@ -1,0 +1,71 @@
+***Archer**
+is collaborating with
+**Accenture**
+to connect them with exceptional professionals for this role.*
+**Project Role**
+AI / ML Engineer
+  
+  
+**Project Role Description**
+Develops applications and systems that utilize AI tools, Cloud AI services, with proper cloud or on-prem application pipeline with production ready quality. Be able to apply GenAI models as part of the solution. Could also include but not limited to deep learning, neural networks, chatbots, image processing.
+  
+  
+**Must Have Skills**
+Large Language Models (LLMs), Prompt Engineering, Computer Vision, Python (Programming Language), Agentic libraries(Lang chain/L, Document Processing
+  
+  
+**Good To Have Skills**
+NA
+  
+  
+Minimum
+  
+  
+**7.5**
+**Year(s) Of Experience Is Required**
+**Educational Qualification :**
+15 years full time education
+  
+  
+**Summary**
+As an AI / ML Engineer, a typical day involves designing and building advanced applications and systems that leverage artificial intelligence technologies and cloud-based AI services. The role requires integrating generative AI models into scalable solutions, ensuring that the deployment pipelines are robust and production-ready. Daily activities may include collaborating with cross-functional teams to enhance system capabilities, optimizing performance, and exploring innovative approaches such as deep learning, neural networks, chatbots, and image processing to meet project goals effectively.
+  
+  
+**Roles & Responsibilities**
+
+* Expected to be an SME, collaborate and manage the team to perform.
+* Responsible for team decisions.
+* Engage with multiple teams and contribute on key decisions.
+* Provide solutions to problems for their immediate team and across multiple teams.
+* Lead the design and implementation of AI-driven solutions ensuring alignment with organizational objectives.
+* Mentor junior team members to foster skill development and knowledge sharing.
+* Coordinate with stakeholders to gather requirements and translate them into technical specifications.
+
+**Professional & Technical Skills**
+
+* Must To Have Skills: Proficiency in Large Language Models (LLMs), Python (Programming Language), Computer Vision, Prompt Engineering.
+* Must have experience in Python, LLM, Prompt engineering, Vector databases, RAG architecture, Agentic libraries(Lang chain/Lang graph/Autogen), Computer Vision, Document Processing
+* Strong experience in developing and deploying AI models in cloud or on-premises environments.
+* In-depth understanding of generative AI techniques and their practical applications.
+* Familiarity with deep learning frameworks and neural network architectures.
+* Ability to optimize AI pipelines for production readiness and scalability.
+* Experience with chatbot development and image processing methodologies.
+
+**Additional Information**
+
+* The candidate should have minimum 7.5 years of experience in Large Language Models (LLMs).
+* This position is based at our Pune office.
+* A 15 years full time education is required.
+
+15 years full time education
+  
+  
+**About Accenture**
+Accenture is a leading global professional services company that helps the world’s leading businesses, governments and other organizations build their digital core, optimize their operations, accelerate revenue growth and enhance citizen services—creating tangible value at speed and scale. We are a talent- and innovation-led company with approximately 791,000 people serving clients in more than 120 countries. Technology is at the core of change today, and we are one of the world’s leaders in helping drive that change, with strong ecosystem relationships. We combine our strength in technology and leadership in cloud, data and AI with unmatched industry experience, functional expertise and global delivery capability. Our broad range of services, solutions and assets across Strategy & Consulting, Technology, Operations, Industry X and Song, together with our culture of shared success and commitment to creating 360° value, enable us to help our clients reinvent and build trusted, lasting relationships. We measure our success by the 360° value we create for our clients, each other, our shareholders, partners and communities.
+  
+  
+Visit us at www.accenture.com
+  
+  
+**Equal Employment Opportunity Statement**
+We believe that no one should be discriminated against because of their differences. All employment decisions shall be made without regard to age, race, creed, color, religion, sex, national origin, ancestry, disability status, military veteran status, sexual orientation, gender identity or expression, genetic information, marital status, citizenship status or any other basis as protected by applicable law. Our rich diversity makes us more innovative, more competitive, and more creative, which helps us better serve our clients and our communities.

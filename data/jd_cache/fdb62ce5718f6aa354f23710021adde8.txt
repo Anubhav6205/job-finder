@@ -1,0 +1,89 @@
+**About Evernorth**
+Evernorth Health Services, a division of The Cigna Group (NYSE: CI), creates pharmacy, care, and benefits solutions to improve health and increase vitality. We relentlessly innovate to make the prediction, prevention, and treatment of illness and disease more accessible to millions of people.
+  
+  
+Job Title: Machine Learning Advisor
+  
+  
+You will be joining a team transforming healthcare and improving the lives and vitality of the millions of members we serve. We leverage cutting edge Artificial Intelligence (AI) and Machine Learning (ML) algorithms to develop AI powered solutions healthcare applications. We are looking for Forward Deployed Engineer with strong experience on LLM’s and frameworks to develop GenAI / Agentic solutions. Good understanding on Deep learning and strong Python full stack engineering skills are required as part of this role. Candidate should have full stack development expertise to leverage Large Language Models (LLMs) and use them in the enterprise in a compliant and secure manner. The work you do will impact millions of customers, members, and employers that rely on Cigna every day. Extreme focus on speed to market and getting Products and Services in the hands of customer and passion to transform healthcare is key to the success of this role.
+  
+  
+**Responsibilities**
+
+* Embed with Business and Product Development to ship production AI systems.
+* Architect scalable, resilient generative and agentic AI solutions for the business.
+* Build with large language models, open-source models, machine learning, and numerical frameworks.
+* Maintain pipelines for preprocessing, feature extraction, model training, and evaluation.
+* Build agentic workflows with tool limits, human oversight, and safe fallbacks.
+* Optimize generative models for quality, scalability, latency, and efficiency.
+* Apply responsible AI through use limits, evaluation, traceability, and human approval.
+* Translate model, infrastructure, and business AI trends into architecture decisions.
+* Practice AI-driven development: agents plan and build; humans approve critical decisions.
+* Run AI DLC inception, Run AI DLC construction, AI proposes architecture, code, and tests; humans approve.
+* Keep one traceable context from business intent through code, tests, and operations.
+* Lead real-time team review of AI plans, designs, and generated code.
+* Measure field outcomes and return supportable systems to Product Development.
+* 11+ years of total experience.
+* 6+ years of experience in Fullstack development (Frontend, Backend Services, DB and Cloud)
+* 5+ Programming experience in Python, computer vision, self-supervised learning, transfer learning, and reinforcement learning.
+* 2+ year in developing Agentic AI solutions and its integration with other systems.
+* 4+ years of experience in deep learning architectures, and Transformers, with a strong understanding of deep learning techniques such as GPT, VAE, and GANs.
+
+**Qualifications**
+
+* This position requires a highly technical, hands-on, motivated and collaborative individual with exceptional communication skills, proven experience working with diverse teams of technical architects, business users and IT areas on all phases of the software development life-cycle
+* Experience working with recommendation engines, data pipelines, or distributed machine learning.
+* Degree in Computer Science, Artificial Intelligence, Machine Learning, and related field.
+* Experience with machine learning libraries and frameworks such as TensorFlow, PyTorch, or Keras.
+* Experience with natural language processing (NLP) techniques and tools, such as SpaCy, NLTK, or Hugging Face.
+* Strong knowledge of data structures, algorithms, and software engineering principles.
+* Strong knowledge with AWS cloud-based platforms and services.
+* Excellent problem-solving skills, with the ability to think critically and creatively to develop innovative AI solutions.
+* Strong communication skills, with the ability to effectively convey complex technical concepts to a diverse audience.
+* Possess a proactive mindset, with the ability to work independently and collaboratively in a fast-paced, dynamic environment.
+
+**Detailed List Of Skillset Required –**
+
+* ### Front-End Development Skills
+* 1. HTML/CSS/JavaScript: Proficiency in the core technologies for building web interfaces.
+* 2. Front-End Frameworks: Knowledge of frameworks like React for creating interactive and responsive user interfaces.
+* 3. UI/UX Design: Basic understanding of user experience and user interface design principles.
+* ### Back-End Development Skills
+* 1. Server-Side Languages: Proficiency in server-side languages with Python.
+* 2. APIs: Experience in building and consuming RESTful, Flask / Fast API / and GraphQL APIs.
+* 3. Database Management: Knowledge of SQL and NoSQL databases, including MySQL, PostgreSQL, MongoDB, etc.
+* ### DevOps and Cloud Skills
+* 1. Containerization and Orchestration: Experience with Docker and Kubernetes / OpenShift for containerization and orchestration of applications.
+* 2. CI/CD Pipelines: Knowledge of continuous integration and continuous deployment tools and practices using GitHub Actions
+* 3. Security Best Practices: understanding of security principles and best practices for protecting data and systems, including IAM, encryption and network Security.
+* 4. Cloud Services: Good hands-on with AWS cloud platforms for deploying and managing applications and AI models.
+* ### AI and Machine Learning Skills
+* 1. Machine Learning and Deep Learning: Understanding algorithms, neural networks, supervised and unsupervised learning, and deep learning frameworks like TensorFlow, PyTorch, and Keras.
+* 2. Generative Models: Knowledge of generative models such as GANs (Generative Adversarial Networks), VAEs (Variational Autoencoders), and Transformers.
+* 3. Natural Language Processing (NLP): Knowledge in NLP techniques and libraries (e.g., spaCy, NLTK, Hugging Face Transformers) for text generation tasks.
+* 4. Model Deployment: Experience with deploying models using services like TensorFlow Serving, TorchServe, or cloud-based solutions (e.g., AWS SageMaker, Google AI Platform).
+* 5. Hands-on knowledge of implementing Prompt Engineering, Finetuning and RAG.
+* 6. Hands-on knowledge of building Agents and Agentic workflows.
+* ### Additional Skills
+* 1. Version Control: Proficiency with Github and version control workflows.
+* 2. Software Development Practices: Understanding of agile methodologies, testing, and code review practices.
+
+**Education And Training Required**
+Degree in Computer Science, Artificial Intelligence, or a related field.
+  
+  
+Location & Hours of Work:
+  
+  
+Full-time position, working 45 hours per week. Expected overlap with US hours as appropriate.
+  
+  
+Primarily based in the Hyderabad Office, India, with flexibility to work remotely as required
+  
+  
+**Equal Opportunity Statement**
+Evernorth is an Equal Opportunity Employer actively encouraging and supporting organization-wide involvement of staff in diversity, equity, and inclusion efforts to educate, inform and advance both internal practices and external work with diverse client populations.
+  
+  
+**About Evernorth Health Services**
+Evernorth Health Services, a division of The Cigna Group, creates pharmacy, care and benefit solutions to improve health and increase vitality. We relentlessly innovate to make the prediction, prevention and treatment of illness and disease more accessible to millions of people. Join us in driving growth and improving lives.

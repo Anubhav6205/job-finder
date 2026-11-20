@@ -1,0 +1,63 @@
+**About Refold AI**
+
+Refold AI is the AI integration platform built for agents, made for modern SaaS companies that need to ship enterprise integrations at scale. We're reimagining integrations with AI agents that work like business consultants and integration engineers, building them 10x faster, in hours instead of days. The payoff: integrations stop being a bottleneck that costs you deals and burns margin, and become a growth engine. You win the enterprise deals that hinge on them, onboard faster, and scale without an army of consultants.
+
+We've grown rapidly, reaching seven-figure ARR and 30+ paying customers, powering the product and professional services teams at modern SaaS companies, from Incorta, Kantata, and Coupa to Highradius, Naehas, and OvationCXM.
+
+Refold AI has raised $6.5M from world-class investors including Eniac Ventures (early investors in Airbnb & Uber), Tidal Ventures, and Better Capital.
+
+**About this role:**
+
+As a Customer Success Engineer, you'll own technical product support for Refold's customers. When an integration fails, a workflow behaves unexpectedly, or a customer is blocked, you're the one who finds out why and gets them running again.
+
+This is a hands-on support role. Most of your time goes into triaging tickets, debugging integrations across customer systems, and working with Engineering on root-cause fixes. You'll also turn what you learn into docs, tooling and product feedback, so the same issue doesn't come back.
+
+**What you'll do:**
+
+**Own the support queue**
+
+* Be the first technical responder for customer issues raised through [ticketing tool], email and shared Slack channels.
+* Triage by severity and business impact, and meet response and resolution SLAs.
+* Keep customers updated with clear, honest status until every issue is closed.
+
+**Debug integrations end to end**
+
+* Investigate failed workflow runs, auth errors, rate limits, field-mapping and schema mismatches, webhook failures, and data-sync gaps between systems like SAP, Oracle, Workday, NetSuite and Salesforce.
+* Read logs, API traces, and run history to isolate root causes, and reproduce issues in test environments.
+* Fix configuration and workflow issues yourself; escalate product bugs to Engineering with clear repro steps, impact and evidence.
+
+**Handle incidents**
+
+* Act as first responder on high-severity incidents and coordinate between Engineering and the customer.
+* Write post-incident summaries and root-cause analyses that customers can trust.
+* Join an on-call rotation [with partial overlap with US business hours].
+
+**Make support scale**
+
+* Write and maintain troubleshooting guides, runbooks, FAQs and help-centre articles.
+* Spot repeat issues and push for product fixes, clearer error messages or self-serve tooling.
+* Use AI agents and automation, including Refold itself, to speed up triage, diagnosis and routine support work.
+
+**Be the voice of the customer**
+
+* Tag and trend tickets, and share top issues and feature requests with Product every sprint/month.
+* Help customer teams adopt good support practices and self-serve resources after go-live.
+
+**What we're looking for:**
+
+* 2–5 years in technical support, product support, support engineering or integration engineering at a B2B SaaS company.
+* A strong grasp of REST APIs, webhooks, JSON and HTTP, plus authentication methods like OAuth 2.0 and API keys.
+* Comfort debugging with Postman, cURL and browser dev tools, and reading application logs.
+* Working knowledge of SQL and a scripting language such as Python or JavaScript; you can read code to follow what a workflow is doing.
+* An understanding of data mapping and transformation between systems with different data models.
+* Experience with a support or ticketing tool such as Zendesk, Intercom, Freshdesk or Jira Service Management.
+* Clear, calm written communication, especially when a customer's production workflow is down.
+* A bias for ownership: you follow an issue through to resolution instead of handing it off.
+
+**Nice to have:**
+
+* Hands-on experience with enterprise systems such as SAP, Oracle, Workday, NetSuite, Salesforce or HubSpot.
+* Experience with iPaaS or embedded integration platforms such as Workato, MuleSoft, Boomi, Paragon or Merge.
+* Familiarity with LLM-based or agentic workflows and how to debug them.
+* Exposure to cloud and observability tools: AWS, Docker, Kubernetes, Datadog, Grafana or Sentry.
+* Experience at an early-stage startup where you helped build support processes from scratch.

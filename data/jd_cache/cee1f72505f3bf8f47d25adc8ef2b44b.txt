@@ -1,0 +1,67 @@
+**Experience:**
+6-10 years overall, with strong hands-on Python engineering and demonstrable recent AI/ML/Generative AI experience
+
+**Role Type:**
+Individual Contributor
+
+**Domain:**
+Global Markets / Risk Technology
+
+**Program:**
+Strategic Full Reval Capabilities (SFRC)
+
+Role Overview
+
+We are looking for a strong
+**Python and AI Engineer**
+to build scalable, production-grade capabilities supporting large-scale distributed and risk-computing platforms.
+
+The successful candidate will use
+**Python, AI/ML, Generative AI, LLMs, AI agents, and AI-assisted development tools**
+to modernize legacy processes, automate operational workflows, improve platform stability, and deliver reusable engineering solutions. The role supports Global Markets risk use cases including
+**FRTB, CCR, CCAR, and VaR**
+.
+
+Key Responsibilities
+
+* Develop robust Python applications, APIs, data solutions, and engineering tools for complex production platforms.
+* Build and integrate AI capabilities using
+  **LLMs, RAG, vector search, AI agents, tool calling, prompts, and workflow automation**
+  .
+* Modernize manual or fragmented processes across batch monitoring, release management, data-quality controls, reporting, and production support.
+* Diagnose root causes of operational issues and implement automated, observable controls that prevent recurrence.
+* Build measurable operational-health indicators, dashboards, and intraday reporting.
+* Evaluate AI approaches and generated outputs for accuracy, reliability, performance, and production readiness.
+* Improve platform scalability, developer productivity, operational efficiency, and system stability.
+
+Required Skills
+
+* Strong hands-on
+  **Python development**
+  within complex production codebases.
+* Practical experience implementing
+  **AI/ML and Generative AI solutions**
+  .
+* Demonstrated experience integrating LLMs or AI agents into applications and operational workflows.
+* Experience with distributed systems, concurrency, scheduling, resource management, or large-scale computing.
+* Strong problem-solving, debugging, performance-engineering, and root-cause-analysis capabilities.
+* Experience across production support, infrastructure, release management, or platform engineering.
+* Sound judgment when reviewing, validating, and deploying AI-generated solutions.
+* Strong communication and the ability to work effectively across engineering, business, and senior-management stakeholders.
+
+Preferred Skills
+
+* RAG, embeddings, and vector-search technologies
+* AI agents, tool calling, and workflow orchestration
+* FastAPI and PostgreSQL
+* GitHub Copilot or equivalent AI-assisted development tools
+* Observability, operational metrics, and SLA-based reporting
+* Release engineering and change-control governance
+* Global Markets, financial services, or regulated-technology experience
+* Knowledge of FRTB, CCR, CCAR, or VaR
+
+Ideal Candidate
+
+A pragmatic, outcome-oriented engineer who combines strong
+**Python and platform-engineering expertise**
+with practical AI capabilities. The ideal candidate builds durable solutions rather than one-off fixes and can demonstrate at least one meaningful AI-enabled application, automation, or engineering workflow personally delivered into a production or production-like environment.

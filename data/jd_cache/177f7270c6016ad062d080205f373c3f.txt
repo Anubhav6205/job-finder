@@ -1,0 +1,24 @@
+**Job Summary**
+AI Engineer
+  
+  
+**Responsibilities**
+Generative AI and Large Language Models LLMs
+  
+  
+Retrieval-Augmented Generation RAG prompt engineering and model evaluation
+  
+  
+Machine learning and deep learning including NLP
+  
+  
+Strong Python programming and API development/integration
+  
+  
+Hands-on experience with AI/ML frameworks such as PyTorch or TensorFlow
+  
+  
+Ability to develop integrate test and deploy AI ML solutions
+  
+  
+Good to have automotive domain skills

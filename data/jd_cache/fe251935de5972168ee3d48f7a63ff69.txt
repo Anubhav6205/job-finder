@@ -1,0 +1,35 @@
+Optum is a global organization that delivers care, aided by technology to help millions of people live healthier lives. The work you do with our team will directly improve health outcomes by connecting people with the care, pharmacy benefits, data and resources they need to feel their best. Here, you will find a culture guided by inclusion, talented peers, comprehensive benefits and career development opportunities. Come make an impact on the communities we serve as you help us advance health optimization on a global scale. Join us to start
+**Caring. Connecting. Growing together.**
+We are seeking an experienced Lead AI/ML Engineer to drive the design, development, and deployment of innovative Artificial Intelligence and Machine Learning solutions that accelerate business outcomes and modernize enterprise technology platforms. This role will lead the development of scalable AI/ML applications, generative AI solutions, predictive models, intelligent automation capabilities, and MLOps processes while mentoring engineering teams and influencing technology strategy.
+  
+  
+The ideal candidate possesses deep expertise in machine learning, data engineering, software engineering, cloud-native development, and AI solution architecture. The individual will collaborate with business stakeholders, architects, data scientists, and engineering teams to transform complex business challenges into production-ready AI solutions. This role aligns with the AI/ML Engineering function, which focuses on developing and deploying ML models and algorithms into production environments.
+  
+  
+**Primary Responsibilities**
+
+* Lead the architecture, design, development, and deployment of AI/ML solutions and intelligent automation platforms
+* Develop and operationalize machine learning models, generative AI applications, agents, and predictive analytics capabilities
+* Design scalable MLOps frameworks including model training, deployment, monitoring, governance, and lifecycle management
+* Partner with business and technology teams to identify AI opportunities that improve efficiency, customer experience, cost optimization, and operational effectiveness
+* Establish AI engineering best practices, coding standards, model evaluation frameworks, and responsible AI controls
+* Build and optimize data pipelines supporting model training and inference workloads
+* Evaluate emerging AI technologies, foundation models, and open-source frameworks for enterprise adoption
+* Mentor engineers and technical teams in AI/ML development practices and modern engineering methodologies
+* Ensure AI solutions comply with security, privacy, regulatory, and responsible AI requirements
+* Drive technical leadership across multiple initiatives and influence enterprise AI strategy
+* Comply with the terms and conditions of the employment contract, company policies and procedures, and any and all directives (such as, but not limited to, transfer and/or re-assignment to different work locations, change in teams and/or work shifts, policies in regards to flexibility of work benefits and/or work environment, alternative work arrangements, and other decisions that may arise due to the changing business environment). The Company may adopt, vary or rescind these policies and directives in its absolute discretion and without any limitation (implied or otherwise) on its ability to do so
+
+**Required Qualifications**
+
+* Bachelor's degree in Computer Science, Engineering, Data Science, Mathematics, or related field
+* 8+ years of software engineering, machine learning engineering, or related experience
+* 3+ years designing and deploying machine learning solutions in production environments
+* Experience with Generative AI, LLMs, Retrieval Augmented Generation (RAG), prompt engineering, and AI agents
+* Experience with cloud platforms such as Azure, AWS, or Google Cloud
+* Knowledge of MLOps, CI/CD pipelines, model monitoring, and automated deployment processes
+* Solid understanding of statistics, machine learning algorithms, and data engineering concepts
+* Solid programming skills in Python and experience with enterprise software development practices
+* Proven excellent communication, leadership, and stakeholder management skills
+
+*At UnitedHealth Group, our mission is to help people live healthier lives and make the health system work better for everyone. We believe everyone-of every race, gender, sexuality, age, location and income-deserves the opportunity to live their healthiest life. Today, however, there are still far too many barriers to good health which are disproportionately experienced by people of color, historically marginalized groups and those with lower incomes. We are committed to mitigating our impact on the environment and enabling and delivering equitable care that addresses health disparities and improves health outcomes - an enterprise priority reflected in our mission.*

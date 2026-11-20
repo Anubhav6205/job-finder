@@ -1,0 +1,60 @@
+**DESCRIPTION**
+---------------
+
+AWS Applied AI Solutions (AAIS) is building toward a future where every business innovates with Amazon AI teammates. To get there, we build AI solutions that improve human capabilities and transform entire business functions. We create end-to-end products that surprise and delight out-of-the-box, making complex things easy and hard things possible, with no cloud experience required. We start with customers who embrace the future and build bridges to meet the rest where they are. We pursue ambitious opportunities with conviction, and we are looking for builders who share that mindset.  
+  
+AWS IoT is building the infrastructure to deliver AI from the cloud to the physical world. Our Physical AI team is developing services that provision, deploy, monitor, and secure AI software across every processor inside autonomous machines including robots, vehicles, drones, agricultural equipment, and industrial workcells operating in environments with limited or no cloud connectivity.  
+  
+We are looking for a Software Development Engineer II to own and drive the design and delivery of core subsystems in our edge-first fleet management platform for Physical AI. You will design and build systems that operate reliably without cloud connectivity handling offline provisioning state reconciliation on reconnect staged fleet-wide rollouts atomic rollback across multi-processor machines and secure over-the-air (OTA) delivery of AI models and software to heterogeneous processor topologies. Your systems must be correct when disconnected consistent when reconnected and resilient when partially connected. You will also develop cloud-side services that orchestrate, monitor, and coordinate with fleets of edge devices ensuring seamless interaction between cloud control planes and disconnected or intermittently connected hardware. You will write high-performance code working across the hardware-software boundary to debug issues that span operating systems, runtimes, networks, and physical devices. You will independently own substantial subsystems end to end from writing the design document through implementation testing and production operation.  
+  
+You will also mentor junior engineers raise the bar on design quality and help shape the technical direction of the platform. This is an opportunity to build foundational infrastructure for a new category of AWS services delivering intelligence to the physical world at scale.  
+  
+Key job responsibilities  
+
+* Design, build, and operate core subsystems of an edge-first fleet management platform spanning offline provisioning state reconciliation on reconnect staged fleet-wide rollouts and atomic rollback across multi-processor machines
+* Develop cloud-side services that orchestrate, monitor, and coordinate with fleets of edge devices ensuring reliable interaction between cloud control planes and disconnected or intermittently connected hardware
+* Build secure over-the-air (OTA) delivery pipelines for AI models and software across heterogeneous processor topologies
+* Write and review high-performance production-quality code and debug issues that span operating systems, runtimes, networks, and physical devices
+* Author design documents for new subsystems and drive them independently from proposal through implementation testing and production operation
+* Define and uphold correctness guarantees for disconnected reconnecting and partially connected system states
+* Participate in on-call rotation troubleshoot production issues and drive root-cause fixes for the platform
+* Mentor junior engineers and raise the engineering bar through code review, design review, and technical guidance
+* Collaborate with product hardware and adjacent platform teams to define requirements and integration points for new fleet management capabilities
+* Contribute to the technical roadmap and architectural direction of the platform as it scales to new device types and processor topologies
+
+  
+A day in the life  
+Your day starts by checking dashboards - on-call weeks bring pages like an OTA rollback spike; sprint weeks lead into standup with a feature update. Mid-morning often means design review debating edge cases like reconciling conflicting state after a multi-day disconnect. Sprint weeks give focused coding blocks - building rollback logic across processors pairing on race conditions. On-call weeks fill that time with live debugging across hardware and software plus maintenance like patching dependencies. Afternoons bring CR reviews and mentoring a junior engineer through root-causing a bug. You close by updating Taskei and reviewing a peer's design doc.  
+  
+About the team  
+Amazon values diverse experiences. Even if you do not meet all of the preferred qualifications and skills listed in the job description, we encourage candidates to apply. If your career is just starting, hasn't followed a traditional path, or includes alternative experiences, don't let it stop you from applying.  
+  
+Amazon Web Services (AWS) is the world's most comprehensive and broadly adopted cloud platform. We pioneered cloud computing and never stopped innovating — that's why customers from the most successful startups to Global 500 companies trust our robust suite of products and services to power their businesses.  
+  
+We value work-life harmony. Achieving success at work should never come at the expense of sacrifices at home, which is why flexible work hours and arrangements are part of our culture. When we feel supported in the workplace and at home, there's nothing we can't achieve in the cloud.  
+  
+Here at AWS, it's in our nature to learn and be curious. Our employee-led affinity groups foster a culture of inclusion that empower us to be proud of our differences. Ongoing events and learning experiences, including our Conversations on Race and Ethnicity and AmazeCon conferences, inspire us to never stop embracing our uniqueness.  
+  
+We're continuously raising our performance bar as we strive to become Earth's Best Employer. That's why you'll find endless knowledge-sharing, mentorship and other career-advancing resources here to help you develop into a better-rounded professional.
+
+**BASIC QUALIFICATIONS**
+------------------------
+
+* 2+ years of non-internship design or architecture (design patterns, reliability and scaling) of new and existing systems experience
+* 3+ years of non-internship professional software development experience
+* Bachelor's degree or equivalent
+* Experience working with Core Cloud Technology Services, including, but not limited to Compute, Edge, Hybrid, Security, and/or Networking
+
+**PREFERRED QUALIFICATIONS**
+----------------------------
+
+* Experience in Kubernetes, Docker or containers ecosystem
+* Hands-on experience with heterogeneous compute platforms (x86, ARM, GPU, NPU) and accelerator or model versioning
+* Exposure to robotics frameworks such as ROS 2, DDS middleware, NVIDIA Jetson, or Isaac
+* Experience with secure OTA frameworks (TUF, Uptane) and hardware security primitives (TPM, HSM, secure boot)
+* Background in reliability-critical domains such as automotive, autonomous vehicles, industrial IoT, avionics, or telecom edge
+* Experience with large artifact or model distribution including caching strategies and bandwidth optimization
+* Familiarity with AWS IoT, AWS IoT Greengrass, or cloud-based device management services
+
+  
+Our inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how-we-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner.

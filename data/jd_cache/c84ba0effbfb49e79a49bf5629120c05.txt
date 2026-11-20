@@ -1,0 +1,37 @@
+**Overview:-**
+
+We are looking for a hands-on Technical Lead with strong experience in building and delivering scalable data engineering and Agentic AI solutions on Azure cloud. .This role requires excellent command of cloud-native engineering practices, strong problem-solving skills, and the ability to work collaboratively with cross-geo stakeholders following agile delivery methodologies.
+
+  
+
+**Roles and Responsibilities:-**
+
+  
+
+* Work in a **multidisciplinary Data & AI team** to deliver AIdriven solutions for multiple business brands and domains.
+* Design, build, and deploy **endtoend AI solutions**, with a strong focus on **Generative AI, Agentic AI, and scalable AI pipelines**.
+* Develop AI applications using **modern frameworks and technologies** such as Azure AI Foundry, Azure OpenAI, LangChain, vector databases, and finetuned LLMs.
+* Translating **business needs into concrete AI solutions** in close collaboration with internal business partners and IT teams.
+* Act as a **bridge between technical AI capabilities and practical business requirements**, ensuring measurable business value.
+* Identify and propose **new AI opportunities**, including intelligent assistants, automated workflows, RAG solutions, and AI agents.
+* Come up with architectural framework for a wide range of AI use cases, including **search, recommendation systems, document and language processing**, and autonomous agents at scale.
+* Stay up to date with **emerging AI trends and technologies** and actively share knowledge to strengthen the organizations AI maturity.
+
+  
+
+**Requirements:-**
+
+  
+
+* Strong professional Python & PySpark experience (production grade code, tests, CI/CD, packaging)
+* Azure stack - storage, compute, transformation, processing, data engineering and generative AI services
+* Solid software architecture skills, be able to design maintainable and modular systems
+* Comfortable to work with APIs, async code, integrate 3rd party services and tools and collaborate with various external teams
+* Practical experience building multi-step or multi-agent systems with a framework such as LangChain, LangGraph, Semantic Kernel, AutoGen/AG2, CrewAI, or an equivalent custom orchestration layer
+* Solid understanding of tool/function calling, structured output, and how to design reliable agent-to-tool interfaces
+* Experience with prompt engineering: versioning prompts, testing them systematically, understanding failure modes (hallucination, tool misuse, context loss) and mitigating them
+* Working knowledge of context management techniques (chunking, RAG, memory strategies) and their trade-offs not necessarily building embeddings/vector infra from scratch, but knowing when and how to use it
+* Experience setting up or using LLM observability tooling (e.g. LangSmith, Langfuse, OpenTelemetry-based tracing, Arize, or in-house equivalents) to debug agent runs in production
+* Experience designing or running evaluation frameworks for LLM/agent output quality (e.g. LLM-as-judge, golden datasets, regression suites, automated scoring)
+* Awareness of cost/latency trade-offs between models and how to design systems that use the right model for the right step
+* Comfortable reading model provider docs/API changes (OpenAI, Azure OpenAI, Anthropic, etc.) and adapting the system accordingly

@@ -1,0 +1,46 @@
+**JOB DESCRIPTION**  
+  
+  
+
+Build the engineering foundations that thousands of developers rely on every day. Shape a modern platform with strong automation, resilience, and measurable reliability, leveraging your expertise in infrastructure and distributed systems.
+
+As a Lead Software Engineer at JPMorganChase within the Chief Technology Office team, you will design, build, and operate enterprise Source Code Management services, such as GitLab. You will create secure, scalable platform capabilities that reduce manual effort through automation and self-service. You will own service health end-to-end, from architecture and implementation to safe change, resilience, and continuous improvement. You will partner across engineering, cloud, security, and infrastructure teams to deliver dependable developer experiences, with a focus on building for resiliency and operating at scale.
+
+**Job responsibilities**
+
+* Lead architecture and implementation of Source Code Management platform capabilities, translating developer and service needs into durable software and infrastructure solutions
+* Build and maintain automation, APIs, deployment tooling, and self-service workflows for provisioning, configuration, upgrades, patching, recovery, and decommissioning
+* Write and review production-quality code in Python, Java, or Go, applying secure coding, testing, and maintainability practices
+* Design Amazon Web Services architectures across compute, networking, identity, databases, storage, and encryption using services and patterns appropriate to each environment
+* Implement Infrastructure as Code with Terraform and establish repeatable, reviewable, and compliant platform changes
+* Define and use service-level indicators and objectives for availability, latency, errors, capacity, and recovery, and build actionable observability with metrics, logs, traces, and alerts
+* Plan capacity and performance using workload evidence, scaling characteristics, dependency limits, and headroom, and run load and resilience tests in non-production environments
+* Design and validate high-availability and disaster-recovery capabilities, including backup and restore, regional recovery, failover and failback, and documented recovery objectives
+* Lead incident response for supported services, drive technical diagnosis and mitigation, and deliver blameless reviews with tracked engineering actions that reduce recurrence
+* Engineer for resiliency and scale, architecting solutions that operate reliably under high load and complex conditions
+* Drives team adoption of enterprise-authorized AI-assisted engineering practices within the work environment to improve code quality, delivery speed, and operational outcomes (e.g., AI-assisted code review/refactoring, test strategy acceleration, incident/root-cause analysis support), while establishing consistent validation standards (secure coding, peer review, automated testing) and promoting reuse of effective patterns across the team.
+* Applies knowledge of tools within the Software Development Life Cycle toolchain, including enterprise-authorized AI-assisted development and automation capabilities, to improve the value realized by automation.
+
+**Required qualifications, capabilities and skills**
+
+* Formal training or certification on software engineering concepts and 5+ years applied experience
+* Hands on experience in designing, building, and operating production services or developer platforms
+* Proficiency in at least one of Python, Java, or Go with experience building automation and service code supported in production
+* Experience designing distributed systems and cloud platforms for availability, resilience, performance, and controlled failure
+* Hands-on experience with Amazon Web Services services across compute, networking, identity and access management, databases, object storage, and key management
+* Experience with relational databases, including PostgreSQL, covering performance, replication, schema migrations, backup and restore, and capacity planning
+* Experience with container platforms, including Kubernetes and Amazon Elastic Kubernetes Service or Amazon Elastic Container Service with AWS Fargate
+* Demonstrated experience leading effective use of approved AI-assisted software development tools (e.g., for coding, code review, test acceleration, troubleshooting) with the ability to set team expectations for validating AI outputs for correctness, performance, and security.
+* Strong understanding of responsible AI use in engineering workflows, including data sensitivity considerations, secure handling of inputs/outputs, and adherence to resiliency and security expectations; experience coaching engineers on safe, compliant adoption within delivery practices
+* Practical experience with Terraform, including reusable modules, state management, review practices, and deployment pipelines
+* Experience defining or operating monitoring, alerting, capacity signals, and recovery measures using service-level indicators and service-level objectives
+* Specialization in infrastructure areas such as distributed storage, databases, or operating at scale, with exposure to technologies from startups or large enterprises
+
+**Preferred qualifications, capabilities and skills**
+
+* Experience with enterprise Git platforms and workflows, including GitLab, GitHub, or Bitbucket
+* Experience operating stateful platforms using PostgreSQL or Amazon Aurora, Redis, object storage, replication, and data recovery
+* Experience designing or operating multi-Availability Zone or multi-region architectures, including regional failover and recovery exercises
+* Familiarity with observability platforms and practices such as Prometheus, Grafana, OpenTelemetry, Dynatrace, or Splunk
+
+**ABOUT US**

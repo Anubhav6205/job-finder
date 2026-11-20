@@ -1,0 +1,76 @@
+**About Persistent**
+We are an AI-led, platform-driven Digital Engineering and Enterprise Modernization partner, combining deep technical expertise and industry experience to help our clients anticipate what’s next. Our offerings and proven solutions create a unique competitive advantage for our clients by giving them the power to see beyond and rise above. We work with many industry-leading organizations across the world, including 18 of the Fortune 50 companies, 7 of the 10 top US banks, 9 of the 10 technology companies, and numerous innovators across the healthcare ecosystem.
+  
+  
+Our disruptor’s mindset, commitment to client success, and agility to thrive in the dynamic environment have enabled us to sustain our growth momentum. Persistent has been recognized across top industry platforms for innovation, leadership, and inclusion. We have delivered 26 sequential quarters of growth with $487.6M in Q2 FY27 revenue, up 7.8% Q-o-Q and 20.0% Y-o-Y. Our 29,500+ global team members, located in 21 countries, have been instrumental in helping the market leaders transform their industries. We received five awards at the ISG (Information Services Group) Provider Lens™ Awards 2026 and, for the second year in a row, were awarded the Growth Honor of the Year at the Everest Group Elevate 2026.
+  
+  
+**About Position**
+We are seeking a highly skilled Senior AI Application Developer with 5 to 8 years of experience in building enterprise-grade Generative AI and Agentic AI solutions. The ideal candidate will possess strong expertise in Google ADK, AI agent frameworks, Large Language Models (LLMs), Knowledge Graphs, Snowflake integration, and Google Cloud Platform (GCP). You will be responsible for designing, developing, and deploying AI-powered applications and enterprise agents that drive automation, intelligent decision-making, and business innovation at scale.
+  
+  
+
+* Role: Senior AI Application Developer - Agentic AI & Generative AI
+* Location: All Persistent Locations
+* Experience: 8 to 12 Years
+* Job Type: Full-Time Employment
+
+**What You'll Do**
+
+* Design, develop, and deploy enterprise AI agents using Google ADK and Agent Harness frameworks.
+* Extend and customize agent orchestration frameworks to support evolving business requirements.
+* Architect intelligent Agentic AI solutions with robust context management, grounding, memory, and multi-agent collaboration capabilities.
+* Define and implement strategies for tool invocation, workflow orchestration, state management, and error handling.
+* Build scalable Generative AI applications supporting enterprise use cases such as automation, knowledge management, decision support, and intelligent assistants.
+* Develop and optimize Retrieval-Augmented Generation (RAG) and knowledge retrieval solutions.
+* Work with Knowledge Graph architectures, including entities, relationships, metadata management, and semantic search capabilities.
+* Integrate AI agents with Snowflake-based enterprise data platforms to enable secure and efficient access to business information.
+* Deploy, monitor, and manage AI applications on Google Cloud Platform environments.
+* Design high-performance backend components supporting AI agent communication and orchestration workflows.
+* Implement enterprise-grade security, reliability, scalability, and governance controls within AI applications.
+* Build and maintain CI/CD pipelines using GitHub Actions and Git-based development workflows.
+* Troubleshoot complex AI system issues and optimize agent performance, responsiveness, and reliability.
+* Participate in architecture reviews, design discussions, proof-of-concept development, and technical innovation initiatives.
+* Create technical documentation, developer guides, and operational runbooks for AI applications.
+
+**Expertise You'll Bring**
+
+* 8 to 12 years of software engineering or AI application development experience.
+* Proven hands-on experience building Generative AI and Agentic AI applications.
+* Strong expertise with Google Agent Development Kit (Google ADK).
+* Experience working with enterprise agent orchestration frameworks and agent lifecycle management.
+* Deep understanding of context management, grounding techniques, memory architecture, tool calling, and multi-agent interactions.
+* Strong knowledge of Large Language Models (LLMs) and prompt engineering techniques.
+* Experience implementing Retrieval-Augmented Generation (RAG) architectures and semantic search solutions.
+* Familiarity with vector search, embeddings, document retrieval, and enterprise knowledge systems.
+* Strong understanding of Knowledge Graph concepts, including entities, relationships, metadata, and semantic modeling.
+* Experience integrating Snowflake and enterprise data platforms with AI applications.
+* Hands-on expertise with Google Cloud Platform (GCP) deployment and cloud-native application architecture.
+* Strong proficiency in Git, GitHub, and CI/CD automation using GitHub Actions.
+* Experience implementing scalable, secure, and production-ready AI solutions.
+* Strong debugging, troubleshooting, and problem-solving skills.
+* Understanding of application architecture, distributed systems, API integration, and software engineering best practices.
+* Excellent communication, collaboration, and stakeholder management capabilities.
+
+**Benefits**
+
+* Competitive salary and benefits package
+* Culture focused on talent development with quarterly growth opportunities and company-sponsored higher education and certifications
+* Opportunity to work with cutting-edge technologies
+* Employee engagement initiatives such as project parties, flexible work hours, and Long Service awards
+* Annual health check-ups
+* Insurance coverage: group term life, personal accident, and Mediclaim hospitalization for self, spouse, two children, and parents
+
+**Values-Driven, People-Centric & Inclusive Work Environment**
+Persistent is dedicated to fostering diversity and inclusion in the workplace. We invite applications from all qualified individuals, including those with disabilities, and regardless of gender or gender preference. We welcome diverse candidates from all backgrounds.
+  
+  
+
+* We support hybrid work and flexible hours to fit diverse lifestyles.
+* Our office is accessibility-friendly, with ergonomic setups and assistive technologies to support employees with physical disabilities.
+* If you are a person with disabilities and have specific requirements, please inform us during the application process or at any time during your employment
+
+**Let's unleash your full potential at Persistent -**
+**persistent.com/careers**
+***“Persistent is an Equal Opportunity Employer and prohibits discrimination and harassment of any kind.”***
+GenAI Tools,Agentic AI

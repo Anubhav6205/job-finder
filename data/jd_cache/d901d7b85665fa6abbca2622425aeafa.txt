@@ -1,0 +1,13 @@
+**Roles and Responsibilities**
+
+* Design, develop, and deploy AI models using various machine learning algorithms such as supervised and unsupervised methods.
+* Collaborate with cross-functional teams to integrate AI solutions into existing systems and applications.
+* Develop high-quality code in Python using popular libraries like NumPy, Pandas, scikit-learn, PyTorch, TensorFlow.
+* Troubleshoot issues related to model performance, data quality, and system integration.
+* Stay up-to-date with industry trends and advancements in artificial intelligence research.
+
+**Desired Candidate Profile**
+
+* 2-7 years of experience in developing AI models or working on AI projects involving MLM (Machine Learning Modeling).
+* Strong proficiency in programming languages like Python; knowledge of LLM (Language Modeling) techniques an added advantage.
+* Experience with popular deep learning frameworks like PyTorch or TensorFlow; familiarity with prompt engineering tools like Databricks or ADLS Gen 2 a plus.

@@ -1,0 +1,56 @@
+**Role & Responsibilities**
+
+  
+
+**1. Deliver Training Sessions**
+
+* Conduct live and recorded sessions on **Excel, SQL, Python, Tableau, and Power BI**.
+* Teach data analytics concepts like data cleaning, EDA, visualization, and reporting.
+* Use real-world business examples and practical projects to make learning interactive.
+
+  
+
+**2. Curriculum Development**
+
+* Create and update Data Analytics course content as per industry requirements.
+* Develop modules, assignments, case studies, and hands-on projects using real datasets.
+
+  
+
+**3. Student Mentorship**
+
+* Guide learners in building analytics projects and portfolios.
+* Support students with data interpretation, dashboard creation, and problem-solving.
+
+  
+
+**4. Industry Integration**
+
+* Teach industry-relevant analytics practices and business use cases.
+* Prepare students for analytics interviews and real-world challenges.
+
+  
+
+**5. Continuous Learning**
+
+* Stay updated with the latest trends, tools, and technologies in Data Analytics.
+* Implement new practices to improve learning outcomes.
+
+  
+
+**6. Performance Evaluation**
+
+* Assess student progress through assignments, quizzes, and projects.
+* Collaborate with teams to improve course quality and learner experience.
+
+**Topics the Faculty Must Be Comfortable Teaching**
+
+* Excel for Data Analysis
+* SQL for Data Analysis
+* Python for Data Analysis
+* Exploratory Data Analysis (EDA)
+* Data Visualization
+* Tableau / Power BI Dashboards
+* Business Analytics Case Studies
+* Data Storytelling and Reporting
+* Generative AI Applications

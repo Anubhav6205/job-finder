@@ -1,0 +1,43 @@
+**AI Agent Developer- Senior Associate**
+
+  
+
+As an AI Agent Developer you will design and develop AI-enabled solutions within our Data and Analytics Engineering practice, turning raw data into insights that support client decision-making and business growth. As a Senior Associate you will analyze complex problems, manage assigned workstreams, build meaningful client connections, and guide junior team members while navigating ambiguity and maintaining professional and technical standards. In this role at PwC, you will use advanced analytics, statistical modeling, and data visualization methods to support AI-driven automation, explore new ideas, and deliver work that aligns with broader project objectives.
+
+Responsibilities
+
+- Develop and optimize AI agents using Python, integrating with OpenAI API, Claude, and Azure AI Foundry for advanced natural language processing capabilities.
+
+- Design and implement Retrieval-Augmented Generation (RAG) workflows and Prompt Engineering techniques to improve agent accuracy and contextual understanding.
+
+- Build scalable multi-agent systems using Multi-Agent Frameworks, LangGraph, LangChain, and AutoGen for orchestrating complex AI workflows and interactions.
+
+- Develop and maintain REST APIs to expose agent functionalities, ensuring seamless integration with cloud platforms and external systems.
+
+- Implement observability and monitoring solutions to track agent performance, system health, and facilitate debugging across cloud environments.
+
+-Manage data storage and querying with SQL databases, harnessing Agent Core and Github for version control and collaboration in building AI Code Assistants.
+
+What You Must Have
+
+- At least a Bachelor's & Master's Degree  
+- At least 4 years of experience  
+- Oral and written proficiency in English required
+
+What Sets You Apart
+
+Expert in developing and optimizing AI agents using Python, seamlessly integrating with cutting-edge APIs like OpenAI, Claude, and Azure AI Foundry to deliver advanced NLP solutions.
+
+- Proven ability to design and implement Retrieval-Augmented Generation (RAG) workflows and apply sophisticated Prompt Engineering techniques that significantly enhance agent accuracy and contextual relevance.
+
+- Skilled in building scalable, collaborative AI ecosystems using Multi-Agent Frameworks, LangGraph, LangChain, and AutoGen to orchestrate complex, multi-agent workflows efficiently.
+
+- Experienced in developing and maintaining robust REST APIs that enable smooth integration of AI agents with diverse cloud platforms and third-party systems.
+
+- Strong background in implementing comprehensive observability and monitoring frameworks to ensure high performance, reliability, and maintainability of AI systems in cloud environments.
+
+- Proficient in managing data with SQL databases and leveraging tools like Agent Core and GitHub for version control, collaboration, and accelerating the development of AI Code Assistants.
+
+**Travel Requirements**
+
+Not Specified

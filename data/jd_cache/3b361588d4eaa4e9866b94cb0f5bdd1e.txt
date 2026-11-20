@@ -1,0 +1,55 @@
+Specializes in building and supporting Agile environments, including development and maintenance of the toolchain supporting the Continuous Delivery Pipeline, integration of assets from Agile teams, end-to-end Solution testing, deployments and Release on Demand. Implements basic technical design, technology infrastructure, with support and guidance of senior level engineers. Utilizes basic understanding of business objectives and products to effectively support goals with underlying technologies.
+
+ **Requirements**
+
+Utilizes technical and functional expertise in one or more DevOps domains to implement solutions with guidance from a more senior engineer.
+
+Implements solution deployment and communicates requirements for interactions with solution context. Demonstrates discipline to provide technical feasibility using a range of methods to ensure infrastructure stability.
+
+Implements the DevOps Architectural Runway to support new business features and capabilities.
+
+Supports and regularly review roadmap of DevOps strategy to address technical debt and automation needs.
+
+Operates mainly in the context of the ART, working with Agile Teams and provide technical enablement concerning subsystems and capability areas for an ART with support from other senior DevOps engineers.
+
+Coordinates with a more senior level team members to ensure solutions are aligned with the enterprise larger vision regarding tooling and platforms.
+
+Collaboratively implements code deployment pipelines automation following established best practices and guidelines within the team or ART.
+
+Uses existing methods & platforms to provide high quality testing data to agile teams implementing infrastructure growth as reflected by the enterprise strategy.
+
+Partners with agile leaders to size items and evaluate and define the business case/justification operating in collaboration with infrastructure teams and other senior DevOps engineers.
+
+With assistance, creates and sets proof of concepts to validate solutions and MVPs. Participates in code reviews of other's work and participates in technical communities of practice.
+
+Participates in Program Increment (PI) planning and Pre- and Post-PI Planning, System and Solution Demos, and Inspect and Adapt events with the focus on the scope of work of an ART.
+
+Partners with stakeholders and architects to define the architectural approach, capability roadmap, and high-level objectives. Involved in demos, demonstrating the capabilities ART has contributed and reviewing the contributions of the other ARTs.
+
+Participates in SyncUP sessions with architects & agile teams to ensure consistency in how emerging DevOps technologies and tradeoffs are managed across the Train.
+
+Acts as a lean-agile practitioner who focuses on providing the support needed by the teams and ART to be self-organizing and self-managing. Supports teams in problem identification and decision-making.
+
+Focuses on coaching Dev team members specifically on DevOps items. Maintains a focus and commitment to innovating and relentless improvement.
+
+ **Benefits**
+
+Competitive compensation and benefits package:
+
+* Competitive salary and performance-based bonuses
+* Comprehensive benefits package
+* Career development and training opportunities
+* Flexible work arrangements (remote and/or office-based)
+* Dynamic and inclusive work culture within a globally renowned group
+* Private Health Insurance
+* Pension Plan
+* Paid Time Off
+* Training & Development
+
+Note: Benefits differ based on employee level.
+
+**About Capgemini**
+
+Capgemini is a global leader in partnering with companies to transform and manage their business by harnessing the power of technology. The Group is guided everyday by its purpose of unleashing human energy through technology for an inclusive and sustainable future. It is a responsible and diverse organization of over 340,000 team members in more than 50 countries. With its strong 55-year heritage and deep industry expertise, Capgemini is trusted by its clients to address the entire breadth of their business needs, from strategy and design to operations, fueled by the fast evolving and innovative world of cloud, data, AI, connectivity, software, digital engineering and platforms. The Group €22.5 billion in revenues in 2023.
+
+https://www.capgemini.com/us-en/about-us/who-we-are/

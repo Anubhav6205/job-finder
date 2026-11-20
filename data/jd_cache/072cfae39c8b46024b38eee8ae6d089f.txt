@@ -1,0 +1,43 @@
+**JOB DESCRIPTION**  
+  
+  
+
+Join a team driving innovation in developer platforms and source code management. Grow your expertise in cloud architecture and engineering excellence.
+
+As a Lead Software Engineer at JPMorgan Chase within the Chief technology Office team, you will lead the modernization of Source Code Management services and related tooling. You will combine deep Java engineering expertise with public cloud architecture to enhance developer experience, operational stability, and platform resilience. You will work in a globally distributed engineering environment, collaborating with internal teams and external vendors to deliver impactful solutions.
+
+**Job responsibilities**
+
+* Lead the architecture, design, and implementation of SDLC platform capabilities with emphasis on SCM systems and workflows
+* Build and review high-quality production code, primarily in Java and Python, ensuring engineering excellence and secure coding practices
+* Drives adoption and governance of approved AI-assisted engineering practices across teams to improve code quality, delivery speed, and operational outcomes (e.g., AI-assisted code review/refactoring, test acceleration, release readiness, incident/root-cause analysis), while establishing measurable validation standards (secure coding, peer review, automated testing) and promoting reuse of proven patterns and automation within the SDLC/TLM toolchain.
+* Applies knowledge of tools within the Software Development Life Cycle toolchain, including approved AI-assisted development and automation capabilities, to improve the value realized by automation at scale.
+* Define and evolve AWS-based cloud architecture using cloud-native patterns and services
+* Implement Infrastructure as Code solutions using Terraform for consistent and compliant platform deployments
+* Integrate and operationalize vendor products within enterprise development environments
+* Drive automation across SCM workflows to improve reliability and developer productivity
+* Own incident response and escalation management for SCM platform services
+* Partner with internal teams and external vendors to evaluate tools and deliver roadmap outcomes
+* Champion modern SCM practices and contribute to a culture of collaboration and continuous improvement
+
+**Required qualifications, capabilities and skills**
+
+* Formal training or certification on software engineering concepts and 5+ years applied experience
+* Strong hands-on expertise in Java/Python and public cloud
+* Proven experience designing and operating developer platforms or SCM services in a global enterprise environment
+* Demonstrated experience leading effective use of enterprise-authorized AI-assisted software development tools within the work environment (e.g., for coding, code review, test acceleration, troubleshooting) with the ability to set team expectations for validating AI outputs for correctness, performance, and security
+* Strong understanding of responsible AI use in engineering workflows, including data sensitivity considerations, secure handling of inputs/outputs, and adherence to resiliency and security expectations; experience coaching senior engineers/leads on compliant usage patterns and controls.
+* Demonstrated cloud architecture experience across resilient distributed systems
+* Strong knowledge of containerization (ECS Fargate) and practical experience with Terraform and Infrastructure as Code practices
+* Solid understanding of CI/CD, SDLC best practices, application resiliency, and security controls
+* Strong experience with automation, operational stability, and production support in a high-availability environment
+* Working knowledge of agile delivery and engineering governance
+
+**Preferred qualifications, capabilities and skills**
+
+* Experience with enterprise Git platforms and Git-based workflows (GitHub, GitLab, Bitbucket)
+* Experience with artifact repositories and build ecosystem integrations
+* Familiarity with code quality and static analysis tooling integrations
+* Exposure to modern continuous delivery tooling
+
+**ABOUT US**

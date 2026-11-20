@@ -1,0 +1,47 @@
+**Job Summary:**
+
+As a Data Engineering Consultant specializing in GCP Architecture, you will be responsible for **designing, building, and optimizing cloud-native data solutions on Google Cloud Platform**. Your typical day will involve **architecting scalable data pipelines using BigQuery, Dataflow, and Pub/Sub, integrating generative AI capabilities via the Gemini API**, and deploying ML workflows through Vertex AI Pipelines. You will work closely with data architects and engineering teams to translate business requirements into production-grade GCP data architectures and deliver robust GCP solutions.
+
+**Roles & Responsibilities:**
+
+- Design and implement end-to-end data architectures on GCP leveraging BigQuery, Dataflow, Pub/Sub, Vertex AI Pipelines, and Gemini API.
+
+- Build scalable, serverless streaming and batch data pipelines using Apache Beam and Cloud Dataflow.
+
+- Integrate Gemini API for generative AI use cases within data products and analytical workflows.
+
+- Orchestrate ML training and inference pipelines on Vertex AI, ensuring reliability and performance at scale.
+
+- Configure real-time event-driven architectures using Pub/Sub for data ingestion and messaging.
+
+- Collaborate with data scientists, analysts, and client stakeholders to define data platform requirements.
+
+- Conduct performance tuning, cost optimization, and governance reviews for GCP environments.
+
+- Stay current with GCP product releases and AI/ML advancements, recommending adoption where impactful.
+
+  
+  
+**Qualification**  
+
+**Professional & Technical Skills:**
+
+- Must Have Skills: Proficiency in **GCP services - BigQuery, Dataflow, Pub/Sub, Vertex AI Pipelines, and Gemini API Integration,** hands-on experience in **Pyspark, SQL, Python** for pipeline development.
+
+- Hands-on experience designing and deploying streaming and batch data pipelines on GCP.
+
+- Strong SQL and Python skills for data transformation and pipeline development.
+
+- Experience with Vertex AI Pipelines for orchestrating end-to-end ML workflows.
+
+- Knowledge of IAM, VPC, and GCP security best practices for data platforms.
+
+- Familiarity with CI/CD tooling and infrastructure-as-code (Terraform or Deployment Manager).
+
+- Exposure to dbt or similar transformation frameworks is an advantage.
+
+**Additional Information:**
+
+- The ideal candidate will have a strong background in cloud data engineering with demonstrable experience delivering GCP-based solutions in consulting or enterprise environments.
+
+- This position is based at PAN India offices.

@@ -1,0 +1,58 @@
+**DESCRIPTION**
+---------------
+
+AWS Applied AI Solutions (AAIS) is building toward a future where every business innovates with Amazon AI teammates. To get there, we build AI solutions that improve human capabilities and transform entire business functions. We create end-to-end products that surprise and delight out-of-the-box, making complex things easy and hard things possible, with no cloud experience required. We start with customers who embrace the future and build bridges to meet the rest where they are. We pursue ambitious opportunities with conviction, and we are looking for builders who share that mindset.
+  
+  
+AWS Security Incident Response is looking for technical Security Engineers that are passionate about learning new concepts and work well within a team environment to keep customers secure. We value engineers that can work through ambiguity to identify suspicious activity, lead security response, and can explain technical security concepts to non-technical audiences.  
+  
+Key job responsibilities  
+
+* Respond to threat findings that indicate unauthorized activity has occurred
+* Identify, evaluate, and communicate security threats risks and vulnerabilities and propose recommended remediation for security issues.
+* Contribute to the development of security automation and security posture improvements.
+* Track and report on the effectiveness of AWS detective controls such as Amazon GuardDuty and partner products such as CrowdStrike Falcon or Wiz Defend
+* Develop processes and policies to increase security response effectiveness.
+* On-call support: This role requires periodic on-call responsibilities including weekends.
+
+  
+A day in the life  
+As a Security Engineer in AWS Security Incident Response your responsibilities include monitoring networks and systems for potential threats performing triage for security alerts documenting suspicious activity and reporting issues so they can be adequately handled. You will work alongside our security engineers and partner teams to perform daily threat detection and incident response using the full capability of AWS technologies and services to detect and mitigate cyber threats at a massive scale and help protect AWS Customers. You should also enjoy learning about the most up-to-date new technologies and procedures to protect information systems and data.  
+  
+About the team  
+Amazon values diverse experiences. Even if you do not meet all of the preferred qualifications and skills listed in the job description, we encourage candidates to apply. If your career is just starting, hasn't followed a traditional path, or includes alternative experiences, don't let it stop you from applying.
+  
+  
+Amazon Web Services (AWS) is the world's most comprehensive and broadly adopted cloud platform. We pioneered cloud computing and never stopped innovating — that's why customers from the most successful startups to Global 500 companies trust our robust suite of products and services to power their businesses.
+  
+  
+We value work-life harmony. Achieving success at work should never come at the expense of sacrifices at home, which is why flexible work hours and arrangements are part of our culture. When we feel supported in the workplace and at home, there's nothing we can't achieve in the cloud.
+  
+  
+Here at AWS, it's in our nature to learn and be curious. Our employee-led affinity groups foster a culture of inclusion that empower us to be proud of our differences. Ongoing events and learning experiences, including our Conversations on Race and Ethnicity and AmazeCon conferences, inspire us to never stop embracing our uniqueness.
+  
+  
+We're continuously raising our performance bar as we strive to become Earth's Best Employer. That's why you'll find endless knowledge-sharing, mentorship and other career-advancing resources here to help you develop into a better-rounded professional.
+
+**BASIC QUALIFICATIONS**
+------------------------
+
+* Bachelor's degree in Computer Science, Computer Engineering, Cybersecurity, or other related discipline
+* Experience (non-internship) in industry-based security vulnerabilities identification, attack patterns, and remediation techniques
+* Experience with coding/scripting in one or more languages (e.g., Python, C, C++, Java, Ruby, or PowerShell)
+* Knowledge of systems engineering fundamentals (networking, storage, operating systems)
+
+- Knowledge of one or more of the following domains: access-control system and methodology, network security, application- and system-development security, security architecture and models, cryptography, and operations security  
+
+* Experience in Kafka, or experience with automation and any version control tools and experience that includes strong analytical skills, attention to detail, and effective communication abilities
+
+**PREFERRED QUALIFICATIONS**
+----------------------------
+
+* Experience with AWS products and services
+* Experience triaging security alerts, front-line analysis, and escalation
+* Master's degree or equivalent in computer science, machine learning, engineering, or related fields, or experience working with or evaluating AI systems
+* Experience with security equipment such as intrusion detection devices, access control systems, etc.
+
+  
+Our inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how-we-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner.

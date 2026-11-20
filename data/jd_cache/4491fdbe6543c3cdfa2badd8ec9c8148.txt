@@ -1,0 +1,18 @@
+**Responsibilities:**
+
+* Lead product architecture and build scalable solutions.
+* Understand customer needs and turn them into technical solutions.
+* Work with engineers to develop and improve software.
+* Build backend services and cloud-based applications.
+* Integrate GenAI into products and development workflows.
+* Build prototypes, test ideas, and improve products based on feedback.
+
+**Requirements**:
+
+* Strong experience with Node.js, JavaScript, React, HTML, and CSS.
+* Experience building secure, scalable applications.
+* Knowledge of SQL, NoSQL databases, and system architecture.
+* Experience with CI/CD, monitoring, and observability tools.
+* Strong prototyping, problem-solving, and adaptability skills.
+* Experience mentoring engineers and leading technical teams.
+* Good communication and collaboration skills.

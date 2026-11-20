@@ -1,0 +1,96 @@
+**Date Posted:**
+
+2026-11-19
+
+**Country:**
+
+India
+
+**Location:**
+
+IN-KA-BENGALURU-NORTHGATE ~ Sy No 2/2 Venkatala Village ~ SY NO 2/2 VENKATALA VILLAGE, Yelahanka Hobli
+
+**Position Role Type:**
+
+Hybrid
+
+At RTX, the world's largest aerospace and defense company, 185,000 great minds are united by purpose and inspired to make a difference solving the world’s most complex problems. With our three market leading businesses, world-class operations and investments in research and development, we offer capabilities and opportunity no one else can. Together, we push the boundaries of known science and find new ways to connect and protect our world.
+
+Collins Aerospace is a leader in technologically advanced, intelligent solutions that help redefine the aerospace and defense industry. With a comprehensive portfolio and deep technical expertise, we help customers meet the demands of the global market. Join us and help shape the future of aerospace and defense.
+
+  
+
+**Overview:**
+
+* We are looking for an Engineer, Applied AI who is excited to work at the intersection of emerging AI technologies and real-world business impact across Collins Aerospace. In this role, you will contribute to transforming innovations in AI—such as Generative AI and agentic workflows—into practical applications that deliver measurable value.
+* You will work across the development cycle—from experimenting with AI techniques to supporting deployment and participating in stakeholder demos. This is a hands-on role where you will design and build components of AI systems, working closely with senior engineers and stakeholders to deliver robust and scalable solutions.
+
+**Key Responsibilities:**
+
+* Applied AI Development:Design and develop components of applications leveraging AI across modalities such as text, vision, and structured data, using modern frameworks and tools.
+* Prototyping & Iteration:Build and iterate on prototypes to validate AI concepts, support demos, and incorporate feedback to improve solutions.
+* Contribution to End-to-End Delivery:Contribute to different stages of the AI development lifecycle—from experimentation to deployment—under guidance, ensuring quality and reliability.
+* System Integration:Assist in developing and integrating backend services and APIs, ensuring compatibility with enterprise systems and compliance requirements.
+* Automation & MLOps Support:Support implementation of experiment tracking, model versioning, and CI/CD workflows to help transition solutions from development to production.
+* Collaboration:Work closely with product teams, architects, and domain experts to understand use cases, refine solutions, and contribute to delivering business value.
+
+**Required Qualifications:**
+
+* **Experience:** 3-4 years of experience in software engineering or ML engineering, with at least 2 years of exposure to applied AI or data-driven application development.
+* **Programming:**Proficiency in at least one object-oriented programming language, along with strong Python skills for developing AI applications, data pipelines, and backend services using frameworks such as PyTorch, FastAPI, LangChain, etc.
+* **Generative AI (LLMs):**Exposure to working with LLMs (e.g., GPT, Claude, Gemini, Llama, or Mistral) for building simple workflows, experimentation, or prototypes.
+* **Infrastructure (Basic Exposure):**Familiarity with tools such as Docker, Git-based workflows, and CI/CD pipelines.
+* **Data Handling:**Basic understanding of relational databases (e.g., PostgreSQL), data preprocessing, and working with structured/unstructured data.
+* **Problem-Solving Mindset:**Ability to work in ambiguous environments, learn quickly, and contribute to solving real-world problems using AI.
+
+**Preferred Qualifications:**
+
+* Exposure to building or experimenting with AI applications such as chatbots, copilots, or RAG-based solutions
+* Familiarity with emerging frameworks like LangGraph or Semantic Kernel
+* Basic understanding of LLM evaluation or prompt optimization
+* Exposure to Computer Vision or NLP fundamentals
+* Internship/project experience in applied AI use cases
+* Domain exposure to Aerospace, Engineering, or Analytics (nice to have)
+
+**What We Offer:**
+
+* Opportunity to work on real-world AI applications with measurable impact
+* Hands-on experience across the AI development lifecycle
+* Mentorship from experienced engineers and architects
+* Continuous learning opportunities in a fast-evolving AI landscape
+* Collaborative and technically driven team culture
+* Flexible hybrid work model
+
+At RTX, the world largest aerospace and defense company, 185,000 great minds are united by purpose and inspired to make a difference solving the world’s most complex problems. With our three market leading businesses, world-class operations and investments in research and development, we offer capabilities and opportunity no one else can. Together, we push the boundaries of known science and find new ways to connect and protect our world.
+
+Collins Aerospace is a leader in technologically advanced, intelligent solutions that help redefine the aerospace and defense industry. With a comprehensive portfolio and deep technical expertise, we help customers meet the demands of the global market. Join us and help shape the future of aerospace and defense.
+
+**WE ARE REDEFINING AEROSPACE**
+
+  
+
+* Some of our competitive benefits package includes:
+* Transportation facility.
+* Meal coupons
+* Group Term Life Insurance.
+* Group Health Insurance.
+* Group Personal Accident Insurance.
+* Entitled for 18 days of vacation and 12 days of sick leave annually.
+* Employee scholar program
+* Work life balance
+* Car lease program
+* National Pension Scheme
+* LTA
+* Fuel & Maintenance /Driver wages
+* Meal vouchers
+* And more!
+
+Nothing matters more to Collins Aerospace than our strong ethical and safety commitments. As such, all India positions require a background check, which may include a drug screen.
+
+At Collins, the paths we pave together lead to limitless possibilities. And the bonds we form – with our customers and with each other - propel us all higher, again and again.
+
+Apply now and be part of the team that’s redefining aerospace, every day
+
+*RTX adheres to the principles of equal employment. All qualified applications will be given careful consideration without regard to ethnicity, color, religion, gender, sexual orientation or identity, national origin, age, disability, protected veteran status or any other characteristic protected by law.*
+
+**Privacy Policy and Terms:**

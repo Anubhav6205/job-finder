@@ -1,0 +1,54 @@
+**About Us**
+
+Zycus is a global leader in Source-to-Pay (S2P) procurement software, helping large enterprises drive efficiency, compliance, and measurable value across their procurement and finance operations. Trusted by leading Fortune 1000 organizations worldwide, Zycus enables procurement teams to move from cost control to strategic value creation.
+
+At the core of Zycus’ platform is **Merlin AI**, an advanced AI-powered engine that brings intelligence, automation, and predictive insights across the entire procurement lifecycle—from sourcing and contract management to procurement, invoicing, and supplier management. Merlin AI empowers Chief Procurement Officers and finance leaders to make faster, smarter decisions with real-time visibility and actionable insights.
+
+Zycus is consistently recognized by top industry analysts such as **Gartner, Forrester, and IDC** for its innovation, depth of functionality, and strong customer outcomes. Known for its enterprise-grade solutions, global delivery model, and customer-first mindset, Zycus partners closely with organizations to modernize procurement and unlock long-term business value.
+
+With a strong global presence across North America, EMEA, and APAC, Zycus continues to invest aggressively in product innovation, AI-led capabilities, and brand leadership—shaping the future of intelligent procurement.
+
+  
+  
+
+**We Are An Equal Opportunity Employer:**
+
+Zycus is committed to providing equal opportunities in employment and creating an inclusive work environment. We do not discriminate against applicants on the basis of race, color, religion, gender, sexual orientation, national origin, age, disability, or any other legally protected characteristic. All hiring decisions will be based solely on qualifications, skills, and experience relevant to the job requirements.
+
+**Job Description**
+
+At Zycus, we believe AI should change how work gets done, not just what software can do. We’re looking for a builder who wants to sit where engineering meets go-to-market. As part of our GTM engineering team, you’ll design and ship AI-powered automations, agents, and internal tools that help our marketing, demand generation, business development, and sales teams work smarter and faster. This is a hands-on role for a recent graduate who loves building things people actually use, learns quickly, and wants to see their code turn directly into pipeline and revenue impact.
+
+**Key Responsibilities**
+
+* Build AI-powered automations, agents, and internal tools to help the marketing and demand generation teams operate at scale.
+* Support business development and sales motions by developing systems that improve GTM execution and productivity.
+* Create practical solutions using a mix of Python, front-end and back-end technologies, and low-code/no-code automation tools.
+* Work closely with marketing, BD, and sales stakeholders to understand workflows and translate them into usable internal products.
+* Design and ship lean, effective GTM systems with a strong focus on usability, speed, and business impact.
+* Continuously improve campaign, content, and pipeline operations through automation and AI-first thinking.
+
+**Required Qualifications**
+
+* BE/B.Tech in Computer Science or AI Engineering.
+* Graduating in the 2026 or 2027 batch.
+* Strong proficiency in Python.
+* Working knowledge of both front-end and back-end development stacks.
+* Comfortable using low-code, no-code, and automation tools based on business needs.
+* Strong curiosity about how marketing, demand generation, and sales functions operate.
+* Bias for action, shipping quickly, and building usable products.
+
+**Preferred Skills**
+
+* Interest in AI-led GTM systems and internal tooling.
+* Ability to work cross-functionally with revenue and marketing teams.
+* Practical problem-solving mindset with focus on outcomes over complexity.
+* High ownership and adaptability in a fast-paced enterprise SaaS environment.
+
+**Why Zycus?**
+
+* **Build with AI from day one:** Zycus is a global leader in AI-driven Source-to-Pay software, and AI sits at the core of how we build products and run the business. You’ll work hands-on with agentic AI, not just read about it.
+* **Real impact, early:** Your tools won’t sit in a backlog. They’ll be used by marketing and sales teams every day, and you’ll see the results in campaigns, pipeline, and productivity.
+* **Learn across functions:** Few engineering roles offer this kind of exposure to how enterprise SaaS is marketed and sold. You’ll build a rare mix of technical and business skills early in your career.
+* **Global exposure:** Work with teams and stakeholders across regions, supporting a product used by large enterprises around the world.
+* **Room to grow:** We value ownership and initiative. Strong performers here take on bigger problems quickly, regardless of tenure.

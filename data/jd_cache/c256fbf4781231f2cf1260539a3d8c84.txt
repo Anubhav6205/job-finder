@@ -1,0 +1,11 @@
+**Role & responsibilities**
+
+Strong technical expertise in designing, developing, and delivering end-to-end GenAI solutions, including RAG and agentic AI applications, with a focus on quality and timely delivery. Good communication and collaboration skills to understand business requirements, explain technical solutions, and work effectively with stakeholders and cross-functional teams.
+
+  
+
+**Preferred candidate profile**
+
+  
+
+GenAI , python, langraph, RAG

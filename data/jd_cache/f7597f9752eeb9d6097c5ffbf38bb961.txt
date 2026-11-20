@@ -1,0 +1,75 @@
+**TEMPLATE.NET AI**
+
+**QA Automation Engineer / Software Development Engineer in Test (SDET)**   
+**Location:** Hyderabad  
+**Employment Type:** Full-time (Onsite)  
+**Experience:** 2+ Years
+
+**About Template.net AI**
+
+AI is an AI-native content creation platform used by more than 4 million people worldwide every month.
+
+Users simply describe what they need and AI turns their ideas into finished, editable designs, videos and documents—all in one place, from prompt to ready-to-use content in minutes.
+
+We are a global product and technology company building scalable, high-performance AI products for users worldwide.
+
+**Role Overview**
+
+We are looking for a detail-oriented QA Automation Engineer / Software Development Engineer in Test (SDET) with experience in software testing to ensure the quality, functionality and reliability of our web and mobile applications. The candidate will be responsible for testing product features, validating end-to-end user workflows, identifying defects and ensuring a seamless user experience.
+
+The role involves testing AI-powered features, subscription workflows, user journeys and overall product functionality while collaborating closely with product, design and engineering teams.
+
+**Key Responsibilities**
+
+* Test Template.net features and user workflows across web and mobile platforms.
+* Create, maintain, and execute test cases, test scenarios, and test plans.
+* Perform functional, regression, smoke, integration, and exploratory testing.
+* Validate AI-powered content generation workflows, including text, image, video, editing, and downloads.
+* Test end-to-end user journeys, including guest access, signup, login, onboarding, and account management.
+* Validate pricing plans, subscriptions, payment flows, usage limits, credits, and upgrade journeys.
+* Test UI/UX, responsiveness, navigation, forms, loading states, and error handling.
+* Identify, document, prioritize, track, and retest defects.
+* Test across browsers, devices, operating systems, and screen sizes.
+* Validate edge cases, invalid inputs, failed requests, timeouts, and recovery scenarios.
+* Perform release validation and ensure existing functionality is not impacted by new changes.
+* Collaborate with product, design, and engineering teams to understand requirements and improve product quality.
+
+**Mandatory Skills**
+
+* 2–5 years of experience in software quality assurance and testing.
+* Strong understanding of software testing principles and testing methodologies.
+* Hands-on experience as an SDET or QA Automation Engineer testing modern, interactive web/mobile applications.
+* Hands-on experience building and maintaining production frameworks with automation tools such as Playwright, Selenium, or Appium
+* Experience in functional, regression, smoke, integration, and exploratory testing.
+* Ability to write clear test cases, test scenarios, and test reports.
+* Strong bug identification, documentation, tracking, and troubleshooting skills.
+* Experience testing web applications and responsive user interfaces.
+* Understanding of mobile application testing across devices and screen sizes.
+* Strong analytical thinking, attention to detail, and problem-solving skills.
+* Good communication and collaboration skills.
+* Ability to work independently, prioritize tasks, and meet release timelines.
+
+**Preferred Skills**
+
+* Experience testing AI-powered applications, including text, image, and video generation.
+* Familiarity with AI tools, prompt-based workflows, and AI-generated output validation.
+* Experience running API/workflow load and stress tests using especially around concurrent generation or export endpoints.
+* Familiarity with browser developer tools and network debugging.
+* Basic knowledge of SQL and database validation.
+* Experience testing payment gateways, subscriptions, credit systems, and usage-based limits.
+* Familiarity with mobile testing on Android and iOS.
+* Knowledge of performance, accessibility, usability, and security testing fundamentals.
+* Experience validating analytics events, conversion funnels, and user engagement flows.
+
+**Why Join Template.net AI?**
+
+* Work on an AI-powered platform used by a global audience.
+* Get hands-on exposure to testing innovative AI features and real-world user workflows.
+* Collaborate with product and engineering teams to improve product quality.
+* Be part of a growing team building the future of AI-powered content creation.
+
+Benefits:
+
+* Food provided
+
+Work Location: In person

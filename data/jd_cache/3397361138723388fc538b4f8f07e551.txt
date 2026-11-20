@@ -1,0 +1,39 @@
+**Hiring: MLOps Engineer**  
+**Experience:** 46 Years  
+**Location:** Bengaluru  
+**Shift Timing:** 1:30 PM – 10:30 PM
+
+**Job Description:**
+
+We are looking for an experienced MLOps Engineer with hands-on experience in managing, monitoring and supporting production Machine Learning systems.
+
+**Key Responsibilities:**
+
+* Monitor production ML models for prediction quality, feature drift, model performance and data freshness.
+* Develop and maintain monitoring dashboards, alerts and runbooks using Grafana, Prometheus and Datadog.
+* Handle production ML incidents, troubleshooting and Root Cause Analysis (RCA).
+* Support ML training and inference pipelines using Databricks and Apache Spark.
+* Work on data quality monitoring frameworks and model drift detection.
+* Support platform migrations, Unity Catalog and runtime upgrades.
+* Improve CI/CD pipelines and automation for ML workflows.
+* Collaborate with ML Engineers, SRE and Tech Ops teams across the US and Europe.
+
+**Mandatory Skills:**
+
+* Machine Learning / MLOps
+* Python
+* AWS
+* Data Warehousing
+* Data Analytics
+* Grafana
+
+**Good to Have:**
+
+* Databricks and Apache Spark
+* Prometheus and Datadog
+* ML Model Monitoring and Drift Detection
+* CI/CD and Production Support
+
+**Experience Requirement:** Overall 4–6 years, with at least 2–3 years of experience in MLOps, ML/Data Engineering or SRE for data and ML systems.
+
+**Interested candidates can share their updated resume along with current CTC, expected CTC, notice period and availability to join.**

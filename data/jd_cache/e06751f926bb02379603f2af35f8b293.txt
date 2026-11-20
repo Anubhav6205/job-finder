@@ -1,0 +1,55 @@
+**About the role**
+------------------
+
+You will own the data that trains and evaluates every model our AI team builds. Your work feeds pretraining, supervised fine-tuning (SFT) and reinforcement learning (RL) runs for speech-to-text (STT), large language models (LLM), text-to-speech (TTS), Speech-to-speech (S2S), language identification (LID) and intent prediction etc, all built for Indian languages and code-mixed speech & language.
+
+ **Requirements**  
+
+**What you'll do**
+------------------
+
+* Build training data for every stage of the model lifecycle. Prepare corpora for continued pretraining, instruction and conversation data for SFT, and preference pairs, reward signals and rollout data for RL (DPO, GRPO and similar).
+* Own the data harvesting pipeline end to end. Collect from public web and speech sources, licensed datasets and consented production logs. Clean, deduplicate, filter, redact PII and track provenance and licensing for every sample.
+* Generate synthetic data at scale. Use LLMs to create code-mixed dialogues, intent-labelled utterances and domain conversations; use TTS and audio augmentation (noise, telephony codecs, speed, reverb) to grow speech coverage.
+* Make data model-ready. Output the exact format each training stack expects: chat-templated JSONL, ASR/TTS manifests with aligned transcripts and durations, sharded and packed datasets, with versioning and lineage so every run is reproducible.
+* Build the evaluation pipeline for each model. Curate held-out and production-like test sets per language and domain, and automate metrics:
+
+* STT: WER/CER per language, code-mixed and entity error rates
+* TTS: intelligibility via ASR round-trip, pronunciation checks, MOS collection
+* LID: accuracy and confusion across languages and scripts
+* Intent: precision, recall, F1 per class
+* LLM: task accuracy, LLM-as-judge rubrics, regression suites
+
+* Close the loop with production. Learn how the voice agent behaves in real calls, mine failure cases from logs, and turn them into new training and test data.
+* Handle Indic text properly. Unicode normalization (nukta, ZWJ/ZWNJ, matras), numerals and dates, inverse text normalization, transliteration between native script and romanized text, and consistent treatment of code-switched Hindi–English and other language pairs.
+* Ship fast and document. Small, tested, reusable pipeline components; clear dataset cards stating what went in, why, and in what proportion.
+
+**What we're looking for**
+--------------------------
+
+* 1–2 years building data pipelines, ML pipelines or backend systems; strong internships or open-source work count.
+* Strong Python, plus comfort with Linux, Bash, Git and processing large text and audio files efficiently.
+* Working knowledge of how STT, TTS, LLM and classifier models are trained, and what good training data looks like for each (alignment, duration limits, speaker balance, label quality, chat templates).
+* Hands-on use of Hugging Face Datasets, pandas or Polars, and audio tooling such as librosa, torchaudio, sox or ffmpeg.
+* Experience running parallel or distributed jobs (multiprocessing, Ray, Spark or Dask) and working with cloud object storage.
+* Familiarity with Indian languages and scripts: you can spot a broken Unicode sequence, a wrong transliteration or a mislabelled language.
+* Read or speak at least one Indian language besides English.
+* An engineering mindset: you test your pipelines, measure data quality with numbers, and ship a working first version within days, not weeks.
+
+**Good to have**
+----------------
+
+* Experience with Indic NLP tooling such as IndicNLP library, IndicTrans2, Aksharamukha or indic-transliteration, and with datasets like IndicVoices, Kathbath or Sangraha.
+* Forced alignment and segmentation (CTC alignment, Montreal Forced Aligner, VAD-based chunking) for long-form audio.
+* Ensemble or model-in-the-loop labelling: combining several ASR or LLM outputs to auto-label data and filter low-confidence samples.
+* Quality filtering techniques: MinHash deduplication, model-based quality classifiers, test-set contamination checks.
+* Exposure to training frameworks the data feeds into: NeMo, ESPnet, Hugging Face TRL, Unsloth or Axolotl.
+* Annotation tooling (Label Studio or similar) and running small human-labelling projects.
+
+  
+**Benefits**  
+
+* You are the person who decides what our models learn from. Data quality is the biggest lever on model quality, and you own it.
+* Work across the full voice stack (STT, LLM, TTS, S2S, LID, intent) instead of one narrow model.
+* Small, early AI team: high ownership from day one
+* Your datasets and evals ship straight into a production voice agent serving Indian-language users.

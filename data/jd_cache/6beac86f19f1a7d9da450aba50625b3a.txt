@@ -1,0 +1,4 @@
+Python, SQL Generative AI, LLMs LangChain, LlamaIndex RAG (Retrieval Augmented Generation) Prompt Engineering OpenAI, Azure OpenAI, Gemini, Claude Vector Databases (FAISS, Pinecone, ChromaDB) REST APIs Docker, Git AWS/Azure/GCP
+  
+  
+Design, develop, and deploy Generative AI solutions using LLMs. Build AI-powered chatbots, virtual assistants, and RAG-based applications. Develop and optimize prompts, workflows, and AI pipelines. Integrate LLMs with enterprise applications and APIs. Collaborate with business and engineering teams to deliver AI solutions.

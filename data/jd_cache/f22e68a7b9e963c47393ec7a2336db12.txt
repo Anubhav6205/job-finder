@@ -1,0 +1,132 @@
+**Job Description: -**
+**Apply Here : Candidate Job Application – Fill out form**
+Role : AI Engineer
+  
+  
+Job Location – Hyderabad
+  
+  
+Reference -
+  
+  
+Imagine
+  
+  
+You working as AI engineer making a big difference by playing an important role in delivering business value to our customers
+  
+  
+You can make a difference by
+  
+  
+We are looking for a passionate AI Engineer to design, develop, and deploy next-generation AI applications powered by Large Language Models (LLMs), Agentic AI frameworks, and modern Python technologies.
+  
+  
+The ideal candidate should have hands-on experience in building scalable AI applications, integrating LLMs with enterprise systems, developing REST APIs using FastAPI, containerizing applications using Docker, and working with vector databases and Retrieval-Augmented Generation (RAG) architectures.
+  
+  
+This role offers an opportunity to work on cutting-edge AI solutions for enterprise digital transformation.
+  
+  
+Key Responsibilities
+  
+  
+
+* Design and develop enterprise AI applications using Python.
+* Build and deploy Generative AI solutions using Large Language Models (LLMs).
+* Develop Agentic AI workflows capable of autonomous reasoning and task execution.
+* Design and implement Retrieval-Augmented Generation (RAG) solutions.
+* Build secure and scalable REST APIs using FastAPI.
+* Containerize and deploy applications using Docker.
+* Integrate AI applications with enterprise systems, APIs, databases, and cloud platforms.
+* Work with vector databases for semantic search and knowledge retrieval.
+* Develop prompt engineering strategies for enterprise use cases.
+* Optimize LLM responses for accuracy, latency, and cost.
+* Collaborate with architects, product owners, and business stakeholders.
+* Follow secure coding, DevOps, and MLOps best practices.
+* Participate in code reviews, testing, troubleshooting, and production support.
+
+**Required Technical Skills**
+Basic Programming Knowledge
+  
+  
+
+* Python (Advanced)
+* Object-Oriented Programming
+* Async Programming
+* Multithreading/Multiprocessing
+* REST API Development
+* Large Language Models (OpenAI, Azure OpenAI, Anthropic Claude, Gemini, Llama, Mistral)
+* Prompt Engineering
+* Retrieval-Augmented Generation (RAG)
+* Embedding Models
+* Vector Search
+* AI Evaluation Techniques
+* AI Safety and Responsible AI concepts
+* Experience with one or more Agentic AI frameworks:
+* LangGraph
+* LangChain
+* CrewAI
+* AutoGen
+* Semantic Kernel
+* OpenAI Agents SDK
+* Multi-Agent Architectures
+* AI Planning & Orchestration
+* Backend Development
+* FastAPI
+* Pydantic
+* Uvicorn
+* API Security
+* JWT Authentication
+* OAuth
+* WebSockets (Preferred)
+* Databases
+* PostgreSQL
+* MySQL
+* MongoDB
+* Containerization & DevOps
+* Docker
+* Docker Compose
+* Kubernetes (Preferred)
+* Git
+* GitHub / GitLab
+* CI/CD Pipelines
+* Cloud Platforms
+* Microsoft Azure
+* AWS
+* Google Cloud Platform
+* Database Knowledge
+* SQL fundamentals
+* Basic understanding of relational databases
+
+Nice to Have
+  
+  
+
+* SAP BTP awareness
+* SAP ERP knowledge
+
+Soft Skills
+  
+  
+
+* Strong analytical and problem-solving abilities
+* Good verbal and written communication
+* Quick learner with curiosity to explore new technologies
+* Team player with positive attitude
+* Customer-focused mindset
+* Ability to work in a collaborative Agile environment
+
+Business Travel: Project specific travelling is mandatory for all the consultants. Are you ready to experience and explore new things?
+  
+  
+**Get empowered by NTT DATA Business Solutions!**
+**We transform. SAP® solutions into Value**
+**Recruiter Name:**
+Srinija Adapa
+  
+  
+**Recruiter Email ID:**
+Srinija.Adapa@bs.nttdata.com
+  
+  
+**NTT DATA Business Solutions is a fast-growing international IT company and one of the world’s leading SAP partners. We are a full service provider delivering everything from business consulting to implementation of SAP solutions, including hosting services and support.**

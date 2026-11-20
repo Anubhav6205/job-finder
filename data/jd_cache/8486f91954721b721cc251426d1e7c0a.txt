@@ -1,0 +1,61 @@
+**Overview**
+
+MCAPS-Core accelerates customer outcomes and business growth. By uniting product, engineering, marketing, sales, customer success, and partners around a common customer mission, we help customers realize value faster and turn innovation into measurable business impact. Through deep technical expertise and differentiated go-to-market execution, we win competitively, capture market share, and scale repeatable growth motions. We differentiate through value creation - delivering world-class, AI-powered customer experiences that accelerate adoption, strengthen loyalty, and create sustainable competitive advantage, driving growth that outpaces the market.
+
+Within MCAPS - Core, the Customer Service & Support (CSS) organization builds trust and confidence for every person and organization through delivering a seamless support experience. In CSS, we are powered by Microsoft’s AI technology to help consumers, businesses, partners, and more, resolve their issues quickly and securely, helping prevent future problems from occurring and achieving more from their Microsoft investment.
+
+In the Customer Service & Support (CSS) team we are looking for people with a passion for delivering customer success. As a Senior Technical Support Engineer, you will own, troubleshoot, and solve complex customer technical issues. This opportunity will allow you to accelerate your career growth, hone your problem-solving, collaboration and research skills, and deepen your technical proficiency.
+
+Microsoft’s mission is to empower every person and every organization on the planet to achieve more. As employees we come together with a growth mindset, innovate to empower others and collaborate to realize our shared goals. Each day we build on our values of respect, integrity, and accountability to create a culture of inclusion where everyone can thrive at work and beyond.
+
+ **Responsibilities**
+
+Support Engineers (SE) serve as frontline technical resources for Microsoft customers and partners via phone, email or web. They deliver unique value by collaboratively and reactively solving customer problems, providing proactive support advice, contributing to product quality and enhancements and creating self-help assets to broadly reach more customers. You will be part of a team responsible for providing an outstanding technical support experience to our business customers. From problem identification to full resolution, you will own and manage the customer experience over the phone and Web. When needed, you will collaborate with others to engage subject matter experts, Engineering (Product Groups) or Management. Your day-to-day job will be about providing both technical expertise (either on your own or by involving your colleagues) and about being an excellent communicator and a service-oriented professional. You will be given the opportunity to become a subject matter expert in one or more areas and receive guidance and mentorship from your colleagues.
+
+**Responsibilities**
+
+* Responsible for the customer support experience with Microsoft
+* Own, troubleshooting and solve customer technical issues, using collaboration, troubleshooting best practices and transparency within and across teams (e.g. swarming)
+* Identify cases that require escalation (either technically or strategically)
+* Create and maintain incident management requests to product group or engineering group
+* Contribute to case deflection initiatives, automation and other digital self-help assets to improve customer and engineer experience
+* Provide ramp activities, knowledge sharing, technical coaching and mentoring
+* Drive technical collaboration and engagement outside of CSS (Product Engineering teams, Services, Support, Regions)
+* Lead or participate in building communities with peer delivery roles; may be workload or specialty specific
+* Improve existing and develop new troubleshooting workflows and troubleshooting guides (TSG)
+* Technical interviews for new hires
+* Interface with Accounts team to maintain good customer relations
+* Readiness content - identify need for and/or create content
+* **Required Skillset:**
+
+  + Foundational experience in **customer support or software development** in at least three of the following: **Azure App Services, Azure Functions, Web Apps on Windows or Linux, Docker-based deployments, or IIS-based hosting**.
+  + Hands-on **troubleshooting experience on Windows or Linux web applications**, including deployment, startup, and availability issues.
+  + Proficiency in **application development and debugging** with at least one of the following: **.NET Core, ASP.NET, Java, Node.js, Python, PHP, or Ruby**. Familiarity with CMS platforms like **WordPress, Joomla, or Drupal** is a plus.
+  + Basic understanding of **web standards and front-end technologies**, including **HTML, CSS, JavaScript**.
+  + Solid grasp of core **programming concepts** like call stacks, threading, exceptions, memory usage, and performance bottlenecks.
+  + Proven ability to **analyze logs, telemetry, and diagnostic tools** to identify root causes of issues and resolve them effectively.
+  + Familiar with **networking fundamentals**, HTTP/S protocols, DNS resolution, and basic firewall concepts.
+  + Exposure to tools like **Fiddler**, **Wireshark**, or **Network Monitor** for HTTP and network traffic inspection.
+  + Demonstrated eagerness to learn, adapt, and grow technical depth in the cloud ecosystem.
+  + It is desirable to have **AZ 900/AI 900** certification.
+
+  
+**Qualifications**
+
+**Required Qualifications:**
+
+* Three years of prior product/technical support customer facing experience.
+* Two years of proven experience working with Azure App Services customers.
+* Good technical proficiency and skills in troubleshooting Azure App Services issues.
+
+**Preferred Qualifications:**
+
+* Experience supporting large and complex geographically distributed enterprise environments with 1000+ users
+* The ideal candidate will have demonstrated experience in leading technical initiatives, collaborating with peers, contributing to team-level impact and led by example.
+
+  
+  
+
+This position will be open for a minimum of 5 days, with applications accepted on an ongoing basis until the position is filled.
+
+Microsoft is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to age, ancestry, citizenship, color, family or medical care leave, gender identity or expression, genetic information, immigration status, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran or military status, race, ethnicity, religion, sex (including pregnancy), sexual orientation, or any other characteristic protected by applicable local laws, regulations and ordinances. If you need assistance with religious accommodations and/or a reasonable accommodation due to a disability during the application process**.**

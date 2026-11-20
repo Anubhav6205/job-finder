@@ -1,0 +1,35 @@
+**JOB DESCRIPTION**  
+  
+  
+
+Assume a vital position as a key member of a high-performing team that delivers infrastructure and performance excellence. Your role will be instrumental in shaping the future at one of the world's largest and most influential companies.  
+  
+As a Lead Infrastructure Engineer at JPMorgan Chase within the Optical Network, you apply deep knowledge of software, applications, and technical processes within the infrastructure engineering discipline. Continue to evolve your technical and cross-functional knowledge outside of your aligned domain of expertise.
+
+**Job Responsibilities**
+
+* Uses enterprise-authorized AI capabilities within the work environment to accelerate infrastructure analysis and design documentation, validating outputs and handling operational data according to sensitivity and security requirements.
+* Applies reuse-first, AI-assisted practices within delivery and automation routines to identify recurring issues and validate remediation options, ensuring changes are traceable/auditable and aligned to resiliency and security expectations.
+* Drives a workstream or project consisting of one or more infrastructure engineering technologies and works with other platforms to architect and implement changes required to resolve issues and modernize the organization and technology processes
+* Strongly considers upstream and downstream data and systems or technical implications and advises on mitigation actions
+* Applies technical expertise and problem-solving methodologies to projects of moderate scope and executes creative solutions for design, development, and technical troubleshooting for problems of moderate complexity
+
+**Required qualifications, capabilities, and skills**
+
+* Formal training or certification on infrastructure engineering concepts and 5+ years applied experience
+* Demonstrated experience using enterprise-authorized AI capabilities within the work environment to support infrastructure engineering workflows with strong validation habits and awareness of data sensitivity.
+* Ability to review and validate AI-assisted recommendations before implementation, escalating when uncertain and ensuring outcomes align to resiliency, security, and auditability expectations.
+* Deep knowledge of one or more areas of infrastructure engineering such as: hardware, networking terminology, databases, storage engineering, deployment practices, integration, automation, scaling, resilience or performance assessments
+* Deep knowledge of one specific infrastructure technology and scripting languages
+* Deep knowledge of cloud infrastructure and multiple cloud technologies with the ability to operate in and migrate across public and private clouds
+* Working knowledge of fiber-optic transmission principles and optical transport fundamentals.
+* Strong hands-on troubleshooting across optical Layer 1 and IP Layer 3 (as applicable).
+* Deep understanding of fiber characteristics, optics/modules, DWDM/OTN, wavelength planning/assignment, and optical amplification.
+* Proficient with standard optical test/turn-up methods and tools (e.g., OTDR, BERT).
+* CCNA (or equivalent) with good knowledge of routing/switching fundamentals.
+
+**Preferred qualifications, capabilities, and skills**
+
+* Familiarity with network security fundamentals relevant to operating production networks
+
+**ABOUT US**

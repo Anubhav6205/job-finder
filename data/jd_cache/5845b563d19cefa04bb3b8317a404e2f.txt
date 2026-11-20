@@ -1,0 +1,52 @@
+**GenAI Engineer |**
+Pune | 5-8 Years
+
+NP: Immediate Joiners Preferred
+
+Experience: 5-8 Years
+
+Relevant GenAI Experience: 2-3 Years
+
+**About the Role**
+
+We are looking for a highly skilled GenAI Engineer with hands-on experience in designing, developing, and deploying enterprise-grade Generative AI applications. The ideal candidate should have strong expertise in Python, RAG architectures, LangGraph, Kubernetes, Docker, and end-to-end implementation of AI solutions.
+
+**Mandatory Skills**
+
+* Python Programming
+* Retrieval-Augmented Generation (RAG)
+* LangGraph
+* Kubernetes (K8s)
+* Docker
+* End-to-End GenAI Solution Development & Deployment
+
+**Key Responsibilities**
+
+* Design and develop scalable Generative AI applications using LLMs and modern AI frameworks.
+* Build and optimize RAG-based solutions integrating enterprise data sources.
+* Develop intelligent agent workflows using LangGraph.
+* Containerize applications using Docker and deploy them on Kubernetes environments.
+* Implement end-to-end AI pipelines from data ingestion to production deployment.
+* Collaborate with cross-functional teams to define AI use cases and deliver business solutions.
+* Monitor, evaluate, and improve model performance, scalability, and reliability.
+* Ensure best practices for security, governance, and production readiness.
+
+**Required Qualifications**
+
+* 5-8 years of overall software development experience.
+* 2-3 years of hands-on experience in Generative AI/LLM projects.
+* Strong proficiency in Python and AI frameworks.
+* Experience working with vector databases, embeddings, and RAG architectures.
+* Hands-on experience with LangGraph, orchestration frameworks, and AI agents.
+* Strong understanding of containerization and cloud-native deployments.
+* Experience with Kubernetes and Docker in production environments.
+* Excellent problem-solving and communication skills.
+
+**Preferred Skills**
+
+* Experience with OpenAI, Azure OpenAI, Anthropic, or other LLM platforms.
+* Knowledge of Prompt Engineering, Fine-tuning, and Model Evaluation.
+* Familiarity with AWS, Azure, or GCP cloud services.
+* Experience with CI/CD pipelines and MLOps practices.
+
+Share your resume with: naveen.n@peopleconnexions.com

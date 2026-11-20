@@ -1,0 +1,52 @@
+Optum is a global organization that delivers care, aided by technology to help millions of people live healthier lives. The work you do with our team will directly improve health outcomes by connecting people with the care, pharmacy benefits, data and resources they need to feel their best. Here, you will find a culture guided by inclusion, talented peers, comprehensive benefits and career development opportunities. Come make an impact on the communities we serve as you help us advance health optimization on a global scale. Join us to start
+**Caring. Connecting. Growing together.**
+AI/ML Engineers code and develop software that deploys ML models and algorithms in production. They communicate and present complex analytics results and concepts to leadership and internal stakeholders.
+  
+  
+Employees in this role work with AI and/or ML technologies that may include:
+  
+  
+
+* Natural Language Processing (NLP)
+* Natural Language Understanding (NLU)
+* Semantic Understanding
+* Intent Classification
+* Computer Vision
+* Deep Learning
+* Automatic Speech Recognition (ASR)
+
+They apply deep learning technologies to give computers the capability to visualize, learn, and respond to complex situations. They may adapt machine learning to areas such as artificial intelligence, robotics, and other products that allow users to have an interactive experience.
+  
+  
+They work with large-scale computing frameworks and data analysis systems. Employees in this role are expected to apply knowledge of:
+  
+  
+
+* Experimental methodologies
+* Statistics
+* Optimization
+* Probability theory
+* Machine learning
+* Coding for tool building and statistical analysis
+* General-purpose software and statistical languages
+
+**Primary Responsibility**
+
+* Comply with all applicable Company policies, procedures, and business directives, changes including those relating to work location, team assignments, work schedules, and flexible work arrangements
+
+**Required Qualifications**
+
+* Undergraduate degree or equivalent experience
+* 12+ years of relevant professional experience
+* Proven ability to anticipate customer needs and proactively develops solutions to meet them
+* Proven ability to serve as a key resource on complex and/or critical issues
+* Proven ability to solve complex problems and develop innovative solutions
+* Proven ability to perform complex conceptual analyses
+* Proven ability to review work performed by others and provides recommendations for improvement
+* Proven ability to forecast and plans resource requirements
+* Proven ability to authorize deviations from standards
+* Proven ability to lead functional or segment teams or projects
+* Proven ability to provide explanations and information to others on the most complex issues
+* Proven ability to motivate and inspire other team members
+
+*At UnitedHealth Group, our mission is to help people live healthier lives and make the health system work better for everyone. We believe everyone-of every race, gender, sexuality, age, location and income-deserves the opportunity to live their healthiest life. Today, however, there are still far too many barriers to good health which are disproportionately experienced by people of color, historically marginalized groups and those with lower incomes. We are committed to mitigating our impact on the environment and enabling and delivering equitable care that addresses health disparities and improves health outcomes - an enterprise priority reflected in our mission.*

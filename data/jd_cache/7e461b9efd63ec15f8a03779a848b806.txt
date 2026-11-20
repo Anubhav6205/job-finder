@@ -1,0 +1,69 @@
+**A.** **About the Role:**
+
+We are seeking a Demand Forecasting Analyst responsible for developing, maintaining, and enhancing a suite of Python-based forecasting models within an Energy Portfolio Management System. The role focuses on demand, price, renewable, and weather-driven forecasting across multiple time horizons to support trading, planning, and operational decision-making.
+
+* Develop, implement, and maintain forecasting models using **Python** for energy portfolio management applications.
+* Design and enhance predictive models across multiple forecasting horizons:
+
++ Day-Ahead Forecast
++ Intraday Forecast
++ Short-Term Load Forecast
++ Medium-Term Forecast
++ Long-Term Load Forecast
++ Annual Forecast
++ Weekly Forecast
++ Monthly Load Forecast
++ Seasonal Load Duration Forecast
+
+* Build and optimize specialized forecasting models including:
+
++ Renewable Energy Forecast (solar, wind generation)
++ Weather Forecast integration models
++ Price Forecast models for energy markets
++ Frequency Forecast models for grid stability
++ Forecast Comparison and model benchmarking tools
++ Other advanced and experimental forecasting models
+
+* Work with large-scale time series datasets from energy markets, grid systems, and weather sources.
+* Develop automated pipelines for data ingestion, feature engineering, model training, validation, and deployment.
+* Monitor model performance, drift, and accuracy; implement continuous improvements.
+* Collaborate with energy traders, portfolio managers, and data engineering teams to translate business requirements into analytical solutions.
+* Ensure scalability, reliability, and efficiency of Python-based forecasting code deployed in production systems.
+* Document methodologies, assumptions, and model performance metrics clearly.
+
+**B.** **Expectations from the role:**
+
+* Strong proficiency in **Python programming** (must be able to design and write production-grade code).
+* Experience with time series forecasting techniques (ARIMA, SARIMA, LSTM, XGBoost, or similar).
+* Hands-on experience with **data analysis libraries**: Pandas, NumPy, SciPy.
+* Experience with machine learning frameworks such as scikit-learn, TensorFlow, or PyTorch (preferred).
+* understanding of energy markets, load forecasting, or portfolio optimization (preferred but not mandatory).
+* Experience handling multi-source datasets (weather, grid, pricing, renewable generation).
+* Follow software engineering best practices (version control, unit testing, logging, documentation).
+* Build and maintain automated data pipelines for forecasting workflows.
+* Ensure data quality, consistency, and timeliness.
+
+**C.** **Required skill set**
+
+* Strong analytical and problem-solving mindset.
+* Ability to work with complex, noisy, and high-frequency time series data.
+* Attention to detail and focus on model accuracy and reliability.
+* Ability to communicate technical insights to non-technical stakeholders.
+* Self-driven with the ability to work in fast-paced trading/energy environments.
+* Strong report-writing and Excel skills (mandatory). The candidate should possess excellent drafting skills and be capable of conceptualizing and preparing effective PowerPoint presentations as well as reports.
+* Strong proficiency in Microsoft Suite (including advanced Excel skills), The candidate should be able to provide analytical solutions on Energy transactions using Advance Excel and python. Also have knowledge in different library in python for data structuring and data analysis.
+* The candidate should also possess strong collaboration and client relationship management skills.
+* The candidate should be flexible to work in shift duties, as this is an essential part of the project to fulfill the facility management service.
+* The candidate should be adaptable and capable of working collaboratively with the team to ensure seamless operational functioning.
+
+**D.** **Education and Experience**
+
+* M.Tech. /BE /B.Tech (Electrical, Computer Science, IT, Electronics and their associated branches) or M.Sc./ B.Sc. (Computer Science, IT, Mathematics) or MCA.
+* 13 years of experience in forecasting, data science, or quantitative analytics roles.
+* Prior experience in energy, utilities, power trading or forecasting is highly desirable.
+* **Location**
+* Base location shall be Mumbai, Maharashtra.
+
+**E.** **Remuneration Structure**
+
+* We offer a motivation based and competitive reward package.

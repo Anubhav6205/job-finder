@@ -1,0 +1,25 @@
+Required Qualifications and Technical Skills
+  
+
+* 1–5 years of hands-on software engineering experience, with strong proficiency in Python, Java, or JavaScript/TypeScript.
+* Practical experience developing Generative AI applications, LLM-powered solutions, or intelligent AI agents.
+* Hands-on experience with AI agent frameworks, agentic workflows, tool calling, prompt engineering, and orchestration.
+* Experience integrating LLMs with enterprise applications, APIs, databases, and external tools.
+* Ability to design, build, deploy, and host Model Context Protocol (MCP) servers, agent gateways, and related infrastructure to enable secure tool access, agent connectivity, and enterprise integrations.
+* Familiarity with agent orchestration frameworks such as LangGraph, LangChain, CrewAI, OpenAI Agents SDK, or similar technologies.
+* Experience with AI evaluation frameworks, including agent testing, response quality evaluation, tracing, and debugging.
+* Strong understanding of REST APIs, JSON, a Delivers routine and some non-routine platform work under moderate supervision, including minor enhancements to shared services, SDKs, or integration adapters. Troubleshoots standard issues across components using established playbooks, helping maintain reliability and backward compatibility. Monitors and analyzes platform API/SDK usage for a subsystem; proposes small improvements to observability and resilience. Updates migration notes and reference implementations within defined guidelines.
+
+**Key Responsibilities**
+
+* **Build and deploy AI agents:** Design, develop, and productionize intelligent AI agents and multi-agent workflows using modern LLMs and agent orchestration frameworks.
+* **Forward deployed engineering:** Work closely with business stakeholders and product teams to identify high-value use cases, rapidly prototype solutions, and translate real-world requirements into working AI applications.
+* **Own end-to-end delivery:** Take responsibility for solution design, coding, integration, deployment, monitoring, troubleshooting, and continuous improvement.
+* **Build enterprise integrations:** Develop APIs, connectors, and integration services that allow AI agents to securely access enterprise data, applications, and business workflows.
+* **Implement agent orchestration:** Develop agentic workflows involving reasoning, planning, tool calling, context management, and coordination across multiple agents and services.
+* **Develop MCP servers and agent gateways:** Build, host, configure, and operate MCP servers, agent gateways, and secure tool integration layers that enable AI agents to interact with enterprise systems and external services.
+* **Evaluate and optimize AI solutions:** Build evaluation pipelines, test agent behavior, measure quality and reliability, and optimize latency, performance, and cost.
+* **Deploy production-ready AI services:** Package, deploy, and operate AI applications using cloud infrastructure, containers, CI/CD pipelines, and appropriate monitoring tools.
+* **Implement security and governance:** Ensure AI solutions follow enterprise requirements for authentication, authorization, data privacy, access controls, observability, and operational reliability.
+* **Drive rapid experimentation:** Explore emerging AI technologies, frameworks, and architectural patterns, turning promising ideas into practical, scalable solutions.
+* **Collaborate across teams:** Partner with product managers, architects, engineering teams, and business stakeholders to deliver AI capabilities that solve meaningful business problems.

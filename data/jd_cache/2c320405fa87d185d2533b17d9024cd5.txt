@@ -1,0 +1,30 @@
+We're looking for
+**Generative AI Engineers**
+!
+
+**Responsibilities**
+
+* Design develop and deploy Generative AI solutions using LLMs
+* Build AI powered chatbots virtual assistants and RAG based applications
+* Develop and optimize prompts workflows and AI pipelines
+* Integrate LLMs with enterprise applications and APIs
+* Collaborate with business and engineering teams to deliver AI solutions
+
+**Skills and Qualifications**
+
+* Python SQL
+* Generative AI LLMs
+* LangChain LlamaIndex
+* RAG Retrieval Augmented Generation
+* Prompt Engineering
+* OpenAI Azure OpenAI Gemini Claude
+* Vector Databases FAISS Pinecone ChromaDB
+* REST APIs
+* Docker Git
+* AWS Azure GCP
+* The ideal candidate should have hands on experience in Generative AI Prompt Engineering RAG Retrieval Augmented Generation LangChain and OpenAI Azure OpenAI technologies
+* The role involves building intelligent chatbots AI assistants and enterprise GenAI solutions while collaborating with cross functional teams to deliver scalable and innovative AI applications
+
+(
+**Note:**
+Relevant applicants will receive an email requesting additional information as part of the next stage. The application process will be completed directly on the team's designated platform, and all subsequent communication and decisions regarding the opportunity are managed by the respective hiring team.)

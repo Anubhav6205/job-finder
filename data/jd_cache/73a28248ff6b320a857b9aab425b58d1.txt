@@ -1,0 +1,62 @@
+Meet the Team
+  
+Cisco’s CX Engineering organization is a global team of experts dedicated to delivering world-class digital experiences by building advanced applications and capabilities hosted on Cisco IQ. These tools provide high value directly to our customers and empower our internal teams to deliver superior, data-driven service. We pride ourselves on a culture that balances customer-centricity with technical rigor, solve challenges at the intersection of AI/ML and modern backend engineering.
+  
+  
+Your Impact
+  
+As a Software Engineer, you will build and scale high-performance server-side applications while integrating modern AI capabilities, including Large Language Models (LLMs). You will own small-to-medium features, collaborate with senior engineering leadership, and help deliver low-latency, reliable software solutions that bring AI into real-world enterprise workflows.
+  
+  
+
+* Design, build, and maintain scalable, low-latency microservices, data pipelines, and RESTful/gRPC APIs using Python and frameworks such as FastAPI, Django, or Flask.
+* Design clean APIs and robust database interactions across relational and NoSQL data stores, including caching and schema evolution.
+* Implement and optimize Retrieval-Augmented Generation (RAG), prompt orchestration, agentic AI workflows, and vector search capabilities in production systems.
+* Automate deployments and maintain unit, integration, and API test suites; support containerized workloads using Docker and Kubernetes on AWS, Azure, or GCP.
+* Monitor production systems, triage incidents, profile performance and resource utilization, and participate in code reviews, postmortems, and on-call rotations.
+
+Minimum Qualifications
+  
+  
+
+* 2 to 3 years of professional software engineering experience delivering production backend services and AI-enabled capabilities.
+* Proficiency in Python, including object-oriented and asynchronous programming, and experience building RESTful or gRPC APIs with FastAPI, Django, or Flask.
+* Experience with relational databases and data-access tooling, including PostgreSQL or MySQL, Redis, SQLAlchemy or Django ORM, and database schema migrations.
+* Experience integrating LLM APIs or open-source models and implementing AI orchestration, RAG, vector search, or hybrid-query workflows.
+* Experience with Git, automated CI/CD, Docker, Kubernetes concepts, and at least one cloud platform: AWS, Azure, or GCP.
+
+Preferred Qualifications
+  
+  
+
+* Experience with LangChain, LangGraph, DSPy, LlamaIndex, OpenAI or Anthropic APIs, and Hugging Face models.
+* Experience with Pytest, performance profiling, production observability, incident triage, and service reliability practices.
+* Experience working in Agile teams and collaborating across product, platform, and engineering functions.
+* Knowledge of networking fundamentals, including TCP/IP, routing and switching, subnetting, and network protocols.
+* Cisco CCNA, CCNP, Cisco DevNet, or comparable technical certification.
+
+Why Cisco?
+  
+  
+At Cisco, we’re revolutionizing how data and infrastructure connect and protect organizations in the AI era – and beyond. We’ve been innovating fearlessly for 40 years to create solutions that power how humans and technology work together across the physical and digital worlds. These solutions provide customers with unparalleled security, visibility, and insights across the entire digital footprint.
+  
+Fueled by the depth and breadth of our technology, we experiment and create meaningful solutions. Add to that our worldwide network of doers and experts, and you’ll see that the opportunities to grow and build are limitless. We work as a team, collaborating with empathy to make really big things happen on a global scale. Because our solutions are everywhere, our impact is everywhere.
+  
+We are Cisco, and our power starts with you.
+  
+  
+Disclaimer
+  
+To ensure that we hire the best talent in the right way, we follow a strict hiring process and recently, Cisco has been made aware of fraudulent recruiters claiming to be from the company. Please be advised that any communication from Cisco about careers will:
+  
+  
+
+* be in direct response to an application you have submitted through the company career site
+* begin with screening or an interview
+* originate from a Cisco email address, and
+* be conducted across email, phone, or WebEx
+
+Cisco will never make a job offer without conducting an interview process or ask you for money in any way. If you have been requested to apply for a role or have received an offer from a site other thanhttps://careers.cisco.com orcisco.wd5.myworkday.com, do not provide any personal identifying information, including your Aadhaar or other personal identifying number, birth certificate, banking information, driver's license, or passport.
+  
+  
+If you are the target of a recruiting scam, consider filing a report with your local law enforcement authorities. Cisco bears no responsibility, and cannot be held liable, for any claims, damages, expenses, or other inconvenience resulting from or in any way connected to recruiting scams.

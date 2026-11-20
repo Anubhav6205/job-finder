@@ -1,0 +1,113 @@
+Dear All,
+
+  
+
+Greetings from Tecnics!!!
+
+  
+
+We are looking for AI Engineer on a Fulltime basis, Hyderabad location.
+
+Details are as below
+
+  
+
+**Job Title:** AI Engineer(Experience in Open Source Models)  
+ **Experience:** 4 to 6 Years  
+ **Location:** Hyderabad  
+ **Employment Type:** Full-Time  
+ **Work Mode:** Work From Office (WFO) Only
+
+**Mode of Interview: F2F**
+
+  
+
+**Job Summary**
+
+We are looking for an experienced AI Engineer with 4 to 6 years of hands-on experience in designing, developing, implementing, and deploying AI/ML solutions. The ideal candidate should have strong programming skills in Python, experience with Machine Learning, Deep Learning, Generative AI, and Large Language Models (LLMs), and the ability to build scalable AI-driven applications.
+
+**Key Responsibilities**
+
+1. Design, develop, and implement AI/ML models to solve business problems.
+
+2. Experience with Open Source Model-Must
+
+3.Build and deploy Machine Learning and Deep Learning solutions using Python.
+
+4. Develop Generative AI applications using LLMs such as GPT, Llama, and other open-source models.
+
+5. Work on Retrieval-Augmented Generation (RAG), embeddings, vector databases, and semantic search.
+
+6. Develop AI-powered chatbots, virtual assistants, and intelligent automation solutions.
+
+7. Implement prompt engineering techniques and optimize LLM performance.
+
+8. Deploy AI models and applications using cloud platforms and containerization technologies.
+
+  
+
+**Mandatory Technical Skills**
+
+* Strong programming experience in **Python**
+* **Open Source Models**-Must
+* Hands-on experience with **Machine Learning and Deep Learning**.
+* Experience with frameworks such as TensorFlow, PyTorch, or Scikit-learn.
+* Knowledge of Generative AI and Large Language Models (LLMs).
+* Hands-on experience with RAG architecture and Prompt Engineering.
+* Hands on Experience in Open stack technologies
+* Experience with LangChain or LlamaIndex.
+* Knowledge of Vector Databases such as Pinecone, FAISS, ChromaDB, or Weaviate.
+* Experience in NLP and text-processing techniques.
+* Good understanding of REST APIs, FastAPI, or Flask.
+* Knowledge of SQL and database concepts.
+* Experience with Git and software development practices.
+
+**Good-to-Have Skills**
+
+* Experience with OpenAI APIs, Azure OpenAI, or Hugging Face.
+* Knowledge of AWS, Azure, or Google Cloud AI services.
+* Experience with Docker and Kubernetes.
+* Knowledge of MLOps and model deployment pipelines.
+* Experience with AI agents and multi-agent frameworks.
+* Familiarity with CI/CD pipelines.
+* Knowledge of responsible AI, model security, and evaluation techniques.
+
+**Experience Requirements**
+
+* 4 to 6 years of overall experience in AI/ML development.
+* Practical experience developing and deploying AI-powered applications.
+* Strong problem-solving, analytical, and communication skills.
+
+  
+
+**If interested please share resumes to suresh\_kumar(at the rate of)tecnics.com along with the below details**
+
+Full Name:
+
+Total Experience:
+
+Relevant experience as Ai Engineer:
+
+Relevant experience using LLMs:
+
+Open Source Models Exp(Yes/No):
+
+Current CTC:
+
+Expected CTC:
+
+Notice Period:
+
+Work from Office(Yes/No):
+
+Willing to travel onsite (MiddleEast) whenever required (Yes/No)
+
+Current Location:
+
+  
+
+--
+
+Regards
+
+**Suresh**

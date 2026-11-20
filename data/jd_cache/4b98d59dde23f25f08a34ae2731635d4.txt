@@ -1,0 +1,34 @@
+**DESCRIPTION**
+---------------
+
+Are you passionate about building software that makes a meaningful difference for millions of customers? As a Software Development Engineer II at Amazon, you will own and deliver features across the full software development lifecycle—from understanding customer needs through design, implementation, testing, deployment, and operations. You will tackle complex technical problems, bring clarity to ambiguous challenges, and craft solutions that are simple, maintainable, and built to scale. This is a role where your engineering contributions have direct, visible impact on the products and experiences our customers rely on every day. If you are a curious, self-motivated engineer who thrives on collaboration and continuous learning, we would love to hear from you.  
+  
+Key job responsibilities  
+
+* Design and implement software solutions that address customer needs, working across the full development lifecycle including scoping, coding, testing, deployment, and ongoing operations.
+* Write high-quality, well-documented, and maintainable code while actively participating in code reviews to provide meaningful feedback and mentor fellow engineers on your team.
+* Collaborate with cross-functional partners including product managers, stakeholders, and peer engineers to translate business requirements into effective technical solutions.
+* Identify and resolve root causes of operational issues, driving permanent fixes and continuously improving your team's operational processes and software reliability.
+* Evaluate emerging tools and approaches—including generative AI capabilities—to recommend and adopt improvements that enhance productivity and solution quality.
+
+  
+A day in the life  
+Your morning might start with a design discussion where you sketch out the architecture for a new feature, weighing tradeoffs around scalability and maintainability with your teammates. After lunch, you could be deep in code, building and testing a component that will ship incrementally to customers. Between focused coding sessions, you review pull requests from peers, share constructive feedback, and help onboard a new team member by walking them through how your services operate and fit into the broader system.  
+  
+About the team  
+Our team is committed to building reliable, customer-focused software that operates at Amazon scale. We value collaboration, technical rigor, and an inclusive environment where every engineer's perspective is heard. Whether you are refactoring existing systems or launching new capabilities, you will be part of a group that invests in long-term quality and encourages continuous growth. We are excited about the road ahead and looking for engineers who want to help shape what comes next.
+
+**BASIC QUALIFICATIONS**
+------------------------
+
+* Knowledge of professional software engineering & best practices for full software development life cycle, including coding standards, software architectures, code reviews, source control management, continuous deployments, testing, and operational excellence
+* Experience contributing to the architecture and design (architecture, design patterns, reliability and scaling) of new and current systems
+* Bachelor's degree
+
+**PREFERRED QUALIFICATIONS**
+----------------------------
+
+* 8+ years of full software development life cycle, including coding standards, code reviews, source control management, build processes, testing, and operations experience
+
+  
+Our inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how-we-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner.

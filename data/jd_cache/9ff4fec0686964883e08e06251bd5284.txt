@@ -1,0 +1,40 @@
+**JOB DESCRIPTION**  
+  
+  
+
+Assume a vital position as a key member of a high-performing team that delivers infrastructure and performance excellence. Your role will be instrumental in shaping the future at one of the world's largest and most influential companies.
+  
+  
+As a Lead Infrastructure Engineer at JPMorganChase within the Employee Platforms team you apply deep knowledge of software, applications, and technical processes within the infrastructure engineering discipline. Continue to evolve your technical and cross-functional knowledge outside of your aligned domain of expertise.
+  
+  
+**Job responsibilities**
+
+* Applies technical expertise and problem-solving methodologies to projects of moderate scope and executes creative solutions for design, development, and technical troubleshooting for problems of moderate complexity
+* Uses enterprise-authorized AI capabilities within the work environment to accelerate infrastructure analysis and design documentation, validating outputs and handling operational data according to sensitivity and security requirements.
+* Drives a workstream or project consisting of one or more infrastructure engineering technologies and works with other platforms to architect and implement changes required to resolve issues and modernize the organization and technology processes
+* Strongly considers upstream and downstream data and systems or technical implications and advises on mitigation actions
+* Applies reuse-first, AI-assisted practices within delivery and automation routines to identify recurring issues and validate remediation options, ensuring changes are traceable/auditable and aligned to resiliency and security expectations.
+
+**Required qualifications, capabilities, and skills**
+
+* Formal training or certification on infrastructure engineering concepts and 5+ years applied experience
+* Deep knowledge of one or more areas of infrastructure engineering such as: hardware, networking terminology, databases, storage engineering, deployment practices, integration, automation, scaling, resilience or performance assessments
+* Demonstrated experience using enterprise-authorized AI capabilities within the work environment to support infrastructure engineering workflows with strong validation habits and awareness of data sensitivity.
+* Ability to review and validate AI-assisted recommendations before implementation, escalating when uncertain and ensuring outcomes align to resiliency, security, and auditability expectations.
+* Serve as the technical lead and SME for NICE NTR-X deployment, configuration, and support.
+* Define and implement best practices for voice capture, data retention, failover, and resiliency using NICE NTR-X.
+* Collaborate with vendors (including NICE) to troubleshoot issues, influence roadmaps, and optimize platform usage.
+* Proven experience designing and managing infrastructure on AWS and/or Azure, including networking, storage, compute, security, and compliance frameworks.
+* Hands-on expertise with at least one of: NICE NTR-X, Calabrio, ASC, Ring Central, Global Relay, Thetalake, Smarsh, or Verint, including setup, configuration, troubleshooting, and customization.
+* Strong understanding of VoIP protocols (SIP, RTP), API integration, telephony systems, and call capture workflows
+* Deep knowledge of cloud infrastructure and multiple cloud technologies with the ability to operate in and migrate across public and private clouds
+
+**Preferred qualifications, capabilities, and skills**
+
+* Experience integrating NICE NTR-X, Calabrio, ASC, Ring Central or Verint with platforms like MS Teams, Unigy, Cisco, or Zoom.
+* Familiarity with cloud-based recording solutions or hybrid architectures.
+* Background in DevOps practices, containerization (Docker/Kubernetes), and CI/CD pipelines.
+* Prior experience managing vendor relationships or leading platform certifications.
+
+**ABOUT US**

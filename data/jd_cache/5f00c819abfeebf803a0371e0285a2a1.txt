@@ -1,0 +1,83 @@
+TransUnion's Job Applicant Privacy Notice
+
+**Team Overview**
+
+The team is responsible for building, enhancing, and operating scalable data engineering solutions and distributed data processing platforms. The team processes large volumes of data, including terabyte-scale datasets, through recurring batch workloads and production pipelines, with a strong focus on performance, scalability, reliability, and cost efficiency.
+  
+The role will contribute to developing and optimizing data-intensive applications using Apache Spark, Scala, Python, and cloud technologies, with a preference for Google Cloud Platform (GCP). The team works on identity resolution and data-driven solutions, where linking identities and analyzing relationships across devices, digital identifiers, and other data signals are important. Experience in identity resolution, AdTech, MarTech, or digital identity platforms will be a strong advantage.
+  
+The team also explores AI/ML concepts and AI-assisted development approaches to improve engineering productivity and enable innovative solutions.&#xa;&#xa;This is a hybrid position and involves regular performance of job responsibilities virtually as well as in-person at an assigned TU office location for a minimum of two days a week.  
+  
+
+**Role Overview And Core Responsibilities**
+
+* Design, develop, test, and maintain scalable data processing applications using Apache Spark and Scala.
+* Build and operate production-grade distributed data pipelines capable of processing terabytes of data per execution.
+* Develop and maintain recurring batch processing workloads, including weekly and scheduled pipelines, ensuring timely completion, reliability, and data quality.
+* Optimize large-scale Spark jobs for execution time, memory utilization, parallelism, resource consumption, and cloud infrastructure costs.
+* Design robust data processing workflows with appropriate error handling, retries, checkpointing, recovery mechanisms, and idempotency.
+* Monitor production jobs, troubleshoot failures and performance bottlenecks, and perform root-cause analysis to ensure operational stability.
+* Develop cloud-based data engineering solutions, preferably on Google Cloud Platform (GCP), with AWS experience also considered.
+* Work with technologies such as Google Dataproc, BigQuery, cloud object storage, Parquet, and equivalent cloud data services.
+* Write clean, efficient, reusable, and maintainable code using Scala, Python, and shell scripting.
+* Apply strong analytical and problem-solving skills to resolve complex data processing and distributed computing challenges.
+* Contribute to platform enhancements, automation, workflow orchestration, and continuous improvement of data engineering systems.
+* Leverage AI/ML concepts and AI-assisted development tools where appropriate to improve development productivity and engineering quality.
+* Collaborate with engineers, architects, and cross-functional stakeholders to deliver scalable, reliable, and maintainable solutions.
+* Follow software engineering best practices, including code reviews, automated testing, version control, CI/CD, monitoring, and production support.
+
+  
+  
+
+**Required Knowledge And Experiences**
+
+**Core technical requirements**  
+  
+
+* Strong hands-on experience with Apache Spark and Scala for distributed data processing.
+* Demonstrated experience designing, developing, and operating production-grade data pipelines processing terabytes of data per run.
+* Experience managing large-scale recurring batch workloads, preferably weekly or more frequently, with responsibility for successful execution, performance, reliability, and data quality.
+* Strong understanding of Spark performance optimization, including partitioning, shuffles, joins, caching, memory management, parallelism, and resource tuning.
+* Experience troubleshooting failed or slow-running production jobs and implementing robust recovery, retry, and fault-tolerance mechanisms.
+* Working knowledge of cloud platforms, preferably Google Cloud Platform (GCP); AWS experience is also acceptable.
+* Familiarity with GCP Dataproc, BigQuery, cloud object storage, and distributed data formats such as Parquet, or equivalent AWS technologies.
+* Proficiency in Python and shell scripting for automation, data processing, and operational workflows.
+* Strong analytical thinking, problem-solving, debugging, and root-cause analysis skills.
+* Good understanding of distributed computing, data structures, algorithms, and software engineering fundamentals.
+* Familiarity with Git, CI/CD, automated testing, workflow orchestration, and production monitoring.
+
+  
+**Preferred qualifications**  
+  
+
+* Experience operating terabyte-scale Spark workloads in production with defined execution schedules and delivery SLAs.
+* Experience processing billions of records, handling incremental data loads, and optimizing large-scale data transformations.
+* Experience with cloud cost optimization, workload sizing, capacity planning, and resource utilization.
+* Exposure to machine learning pipelines, identity resolution, entity resolution, or graph-based data processing.
+* Basic understanding of AI/ML concepts and familiarity with LLMs, generative AI, or AI-assisted software development tools.
+* Ability to independently own complex engineering problems from design and implementation through production deployment and ongoing operations.
+
+* Experience in identity resolution, identity graphs, entity resolution, or digital identity platforms, including linking and reconciling identifiers across multiple data sources.
+* Experience in MarTech (Marketing Technology) or AdTech (Advertising Technology), particularly with digital identifiers such as mobile advertising IDs, cookies, IP addresses, device signals, or email identifiers.
+* Familiarity with audience segmentation, household or individual identity mapping, cross-device identity, or identity graph construction.
+
+  
+  
+
+**TransUnion Overview:**
+
+At TransUnion, we encourage and are committed to creating a real, positive impact and shared sense of purpose within our **Workforce for Good** , which empowers our people to grow, innovate and contribute to a better future for our communities and customers. We strive to build an environment where our associates are in the driver’s seat of their professional development— while having access to help along the way. We recognize that success comes when our associates thrive both professionally and personally; that’s why we prioritize work/life flexibility and offer resources for our teams across the globe to collaborate and drive excellence.
+
+  
+
+Be a part of our **Workforce for Good** – you’ll work with great people, pioneering products and cutting-edge technology.
+
+  
+  
+
+TransUnion Job Title
+
+  
+  
+  
+Sr Developer, Software Development

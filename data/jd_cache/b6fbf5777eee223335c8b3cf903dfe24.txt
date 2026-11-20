@@ -1,0 +1,59 @@
+**About the Company**
+
+UST is a global digital transformation, AI, and IT consulting services provider. For more than 20 years, UST has worked side by side with the world’s best companies to make a real impact through transformation. Powered by technology, inspired by people and led by purpose, UST partners with their clients from design to operation. The company builds end-to-end tech solutions, specializing in advanced data & analytics, cloud modernization, generative AI agent frameworks, cybersecurity, and advanced engineering/R&D. With deep domain expertise and a future-proof philosophy, UST embeds innovation and agility into their clients’ organizations. With over 30K+ employees in 30+ countries, UST builds a boundless impact—touching billions of lives in the process.
+
+**Website**
+
+*https://www.ust.com/*
+
+**What we are looking in you**
+
+**Agentic AI Engineer**
+
+**Experience: 4-10+ Years**
+
+**Work Location: Bengaluru**
+
+**Work Mode: Work from Office (5 Days a Week)**
+
+**About the Role**
+
+We are looking for a hands-on Mid & Senior Agentic AI Engineer to design, develop, and deploy intelligent AI agents capable of autonomous decision-making, reasoning, planning, and tool orchestration. The ideal candidate should have strong software engineering fundamentals coupled with practical experience building GenAI and Agentic AI solutions using modern LLM ecosystems.
+
+Experience with any modern programming language is acceptable; however, strong hands-on experience in
+**.NET/C# development will be a significant advantage**
+due to project requirements and integration needs.
+
+**Key Responsibilities**
+
+* Design and build AI Agents capable of planning, reasoning, memory management, and multi-step task execution.
+* Develop Agentic workflows using frameworks such as LangGraph, LangChain, Semantic Kernel, CrewAI, AutoGen, or similar platforms.
+* Integrate AI agents with enterprise applications, APIs, databases, and external tools.
+* Implement Retrieval Augmented Generation (RAG) pipelines using vector databases and enterprise knowledge sources.
+* Build and optimize prompts, tool-calling workflows, and agent orchestration patterns.
+* Develop scalable backend services supporting AI applications.
+* Evaluate, test, monitor, and improve agent performance, reliability, and safety.
+* Collaborate with product owners, architects, and business stakeholders to identify AI automation opportunities.
+* Follow secure AI development practices and ensure compliance with responsible AI standards.
+
+**Required Skills:**
+
+* Good Hands-on experience with Agentic AI, LLMs, RAG, Prompt Engineering, and AI Agent frameworks.
+* Experience with
+  **LangGraph, LangChain, Semantic Kernel, CrewAI, AutoGen, MCP**
+  or similar.
+* Strong programming skills in
+  **.NET, C#, Python, Java, TypeScript, etc**
+  .
+* Experience with
+  **Azure OpenAI/AWS Bedrock/Google Vertex AI**
+  .
+* Knowledge of APIs, Microservices, Vector Databases, SQL/NoSQL.
+* Exposure to Docker, CI/CD, and Cloud platforms.
+
+**Preferred:**
+
+* Strong hands-on experience in
+  **.NET / C# development**
+  .
+* Experience building enterprise AI/GenAI solutions.

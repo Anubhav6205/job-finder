@@ -1,0 +1,61 @@
+**Company**
+: SCRY AI
+
+**Location**
+: Multiple Locations
+
+**Experience**
+: AI Engineer
+
+**Employment Type**
+: Full-time
+
+**About Us**
+
+SCRY AI is an innovative AI-driven technology company focused on building intelligent, scalable, and high-performance solutions. We work with modern technologies across Software Engineering, AI/ML, and Data to solve real-world business problems and deliver impactful digital products.
+
+**Role Overview**
+
+We are seeking an AI Engineer with strong hands-on experience in Generative AI, LLM/SLM fine-tuning, Agentic AI, ASR, TTS, and Speech AI. The candidate should have experience taking AI models and solutions from experimentation and fine-tuning through production deployment, with strong expertise in Python, PyTorch, Docker, and cloud/on-premises environments.
+
+**Key Responsibilities**
+
+* Design, develop, fine-tune, and optimize LLMs/SLMs, ASR, and TTS models using techniques such as SFT, LoRA/QLoRA, PEFT, quantization, and knowledge distillation.
+* Build and deploy production-ready GenAI, Agentic AI, Speech AI, ASR, and TTS solutions, taking prototypes from POC to scalable production systems.
+* Design Agentic AI workflows involving reasoning, planning, multi-step task execution, memory, context management, and workflow orchestration.
+* Build reliable tool/function-calling systems enabling LLMs to interact with APIs, databases, enterprise applications, and external services.
+* Develop and integrate MCP-based tools and connectors, including tool schemas, parameter validation, authentication, execution, retries, fallbacks, and error handling.
+* Design multi-agent and tool-use workflows with appropriate guardrails, authorization, human-in-the-loop controls, and validation for sensitive operations.
+* Build and optimize multilingual and real-time speech processing pipelines, focusing on latency, throughput, memory, GPU utilization, and Real-Time Factor (RTF).
+* Apply knowledge of Transformers, Conformers, CTC, RNN-T, diffusion models, neural vocoders, and speech foundation models, reinforcement learning, along with DSP concepts such as STFT/FFT, MFCCs, Mel-spectrograms, VAD, and audio preprocessing.
+* Build RAG and Agentic AI applications using modern LLM frameworks and integrate them with enterprise data and systems.
+* Develop backend services and APIs using Python/FastAPI and containerize solutions using Docker.
+* Implement observability and evaluation for AI and agentic systems, including tool-call traces, task completion, response quality, latency, errors, reliability, and cost.
+* Optimize models and AI workflows for latency, throughput, memory, scalability, GPU utilization, and production reliability.
+* Collaborate with Engineering, Product, and Infrastructure teams and mentor junior team members.
+* Stay current with advancements in Generative AI, Agentic AI, and Speech AI and apply relevant research and techniques to product development.
+
+**Key Qualifications**
+
+* 4+ years of experience in Data Science, Machine Learning, GenAI, or Speech AI.
+* Strong proficiency in Python, PyTorch, Hugging Face Transformers, and modern deep learning frameworks.
+* Hands-on experience with LLM/SLM fine-tuning, model optimization, and production deployment.
+* Experience building Agentic AI applications, tool/function calling, workflow orchestration, or MCP-based integrations.
+* Experience developing, fine-tuning, and deploying ASR and/or TTS models.
+* Strong understanding of speech processing, DSP, audio pipelines, and speech-to-text/text-to-speech systems.
+* Experience evaluating and optimizing models using metrics such as WER, CER, latency, throughput, and RTF.
+* Experience with frameworks such as Hugging Face, NVIDIA NeMo, ESPnet, Kaldi, Coqui TTS, or equivalent.
+* Experience with RAG, Agentic AI, LangChain/LlamaIndex, or similar frameworks.
+* Strong experience with Docker, FastAPI/Python APIs, Git, and cloud or on-premise deployment.
+* Working knowledge of SQL/PostgreSQL and software engineering best practices.
+* Strong communication, problem-solving, ownership, and mentoring skills.
+
+**Good to Have**
+
+* Experience with Whisper, Conformers, diffusion models, VITS, HiFi-GAN, BigVGAN, or similar architectures.
+* Experience building multilingual, low-latency, real-time Speech AI applications.
+* Experience with GPU optimization, quantization, distributed inference/training, or model serving.
+* Experience implementing AI evaluation frameworks, agent observability, guardrails, or automated testing.
+* Exposure to research from Interspeech, ICASSP, NeurIPS, ICML, or ICLR.
+
+If this role interests you, follow our page to stay updated on more job opportunities and insights into how AI companies develop, deploy, and maintain intelligent systems and advanced AI solutions for complex enterprise applications.

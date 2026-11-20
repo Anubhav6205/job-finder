@@ -1,0 +1,73 @@
+**Project Role :** Custom Software Engineer  
+ **Project Role Description :** Develop custom software solutions to design, code, and enhance components across systems or applications. Use modern frameworks and agile practices to deliver scalable, high-performing solutions tailored to specific business needs.   
+  
+**Must have skills :**Spring Boot, Kubernetes  
+  
+**Good to have skills:**NA  
+Minimum **3** year(s) of experience is required  
+  
+**Educational Qualification:**15 years full time education  
+  
+Summary:   
+As a Custom Software Engineer, your day involves creating tailored software solutions by designing, coding, and improving various components within systems or applications. You engage in collaborative environments that emphasize agile methodologies, ensuring the delivery of scalable and efficient software that meets unique business requirements. Your role is dynamic, requiring adaptability to evolving project needs and continuous enhancement of software performance and functionality.  
+  
+**Roles & Responsibilities:**  
+  
+  
+Key Responsibilities Backend & Microservices (Spring Boot)  
+o Develop and deploy RESTful microservices using Spring Boot and Java.  
+o Develop and maintain ETL pipelines using Informatica PowerCenter  
+o API Management using Kubernetes /Docker  
+o Integrate Oracle MDM with external systems through APIs, middleware, or messaging queues (Kafka).  
+o Ensure scalability, reliability, and performance tuning of microservices.  
+o Implement security (OAuth2/JWT), caching, and monitoring for services.  
+ Collaboration & Delivery  
+o Work closely with data architects, frontend developers, and business analysts to gather requirements.  
+o Support CI/CD pipelines and automated deployment in cloud/on-prem environments.  
+o Participate in code reviews, unit testing, and performance optimization.  
+  
+Required Skills  
+ Hands-on expertise in Kubernetes and Docker  
+ Proficiency in Java, Spring Boot, and microservices architecture.  
+ Experience with REST APIs, JSON/XML, and API integrations.  
+ Knowledge of SQL, PL/SQL, and database performance tuning.  
+ Familiarity with CI/CD (Jenkins, GitLab CI etc.).  
+ Understanding of cloud platforms (AWS, Azure, or GCP) is a plus.  
+ Experience with messaging systems (Kafka, RabbitMQ) preferred.  
+  
+  
+Nice To Have :  
+ Hands-on expertise in Automic (Job Scheduling)  
+ Experience with Grafana , OpenSearch and Ansible  
+ Understanding of data governance and data quality frameworks.  
+ Experience with Oracle Database programming with PL/SQL Certificate  
+ Experience in Informatica Power Center ( ETL Process)  
+  
+  
+- Expected to perform independently and become an SME.  
+- Required active participation/contribution in team discussions.  
+- Contribute in providing solutions to work related problems.  
+- Collaborate with cross-functional teams to understand project requirements and deliver effective software solutions.  
+- Maintain and improve existing software components to enhance system reliability and performance.  
+- Document development processes and solutions to support knowledge sharing within the team.  
+- Assist junior team members by providing guidance and support to foster their professional growth.  
+  
+**Professional & Technical Skills:**  
+**Must To Have Skills:**  
+ Proficiency in Spring Boot, Kubernetes.  
+- Strong experience in developing and deploying microservices using Spring Boot framework.  
+- Good understanding of container orchestration and management using Kubernetes.  
+- Familiarity with RESTful API design and implementation.  
+- Experience with continuous integration and continuous deployment pipelines.  
+- Ability to troubleshoot and optimize application performance in cloud environments.  
+  
+**Additional Information:**  
+  
+- The candidate should have minimum 3 years of experience in Spring Boot.  
+- This position is based at our Bengaluru office.  
+- A 15 years full time education is required.  
+  
+  
+  
+**Qualification**  
+15 years full time education

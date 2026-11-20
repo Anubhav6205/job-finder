@@ -1,0 +1,11 @@
+* 6-12 Years of experience in software engineering or a related role, with exposure to AI/ML concepts and applications.
+* Strong proficiency inPythonfor production-level software development.
+* Hands-on experience inapplication development, including building and deploying APIs.
+* Familiarity withAI/ML frameworks(e.g. TensorFlow, PyTorch, Hugging Face, OpenAI API) and their integration into software applications.
+* Hands-on experience on RAG based generative AI solutions with good knowledge of prompt engineering
+* Understanding ofmachine learning concepts, including different types of models and model training, fine-tuning, and deployment.
+* Knowledge ofMLOps best practices(e.g., model lifecycle management, monitoring, and scalability) is a plus.
+* Experience withsource control, DevOps, and CI/CD pipelines(e.g., Git, Docker, Kubernetes).
+* Strong understanding ofsoftware engineering principles, including scalability, performance optimization, and maintainability.
+* A collaborative team player with a proactive approach to problem-solving and a willingness to learn and adapt to new technologies.
+* A degree inComputer Science, Software Engineering, Data Science or a related field (or equivalent experience).

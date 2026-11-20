@@ -1,0 +1,56 @@
+* Full-time
+* Compensation: INR 1,500,000 - INR 3,000,000 - yearly
+
+**Company Description**
+-----------------------
+
+Technology is our how. And people are our why. For over two decades, we have been harnessing technology to drive meaningful change.  
+By combining world-class engineering, industry expertise and a people-centric mindset, we consult and partner with leading brands from various industries to create dynamic platforms and intelligent digital experiences that drive innovation and transform businesses.  
+From prototype to real-world impact - be part of a global shift by doing work that matters.
+
+**Job Description**
+-------------------
+
+**Role Summary**  
+We are seeking a highly motivated **Full Stack Developer** with strong foundational skills across modern web application development, APIs, databases, cloud platforms, and AI-assisted software engineering. The ideal candidate is a problem solver who can design, build, and maintain scalable applications while leveraging modern AI tools to improve productivity, code quality, and delivery speed.
+
+**Key Responsibilities**
+
+* Design, develop, test, and maintain responsive web applications using modern frontend frameworks (angular, react) and backend technologies.
+* Build and integrate RESTful APIs and microservices to support business and customer-facing applications.
+* Develop efficient, secure, and scalable database solutions, including data modeling, query optimization, and performance tuning.
+* Deploy, monitor, and maintain applications in cloud environments, with a preference for AWS services.
+* Collaborate with product managers, architects, and other engineers to translate business requirements into technical solutions.
+* Ensure application security, reliability, scalability, and maintainability through industry best practices.
+* Participate in code reviews, automated testing, CI/CD pipelines, and agile development processes.
+* Leverage AI-powered development tools such as Kiro (preferred), Claude, Cursor, GitHub Copilot, or similar platforms to accelerate development and improve engineering effectiveness.
+
+**Qualifications**
+------------------
+
+**Required Qualifications**
+
+* Bachelor's degree in Computer Science, Engineering, or related field, or equivalent practical experience.
+* 6+ years of software development experience in full stack application development.
+* Strong understanding of HTML, CSS, JavaScript/TypeScript, and modern web frameworks.
+* Experience developing backend services and APIs using one or more technologies such as Node.js, .NET, Python or Go.
+* Solid understanding of relational and/or NoSQL databases (e.g., PostgreSQL, SQL Server, MySQL, DynamoDB).
+* Experience with AWS services such as EC2, Lambda, ECS, API Gateway, RDS, S3, or similar cloud technologies.
+* Knowledge of software design principles, API security, authentication, and performance optimization.
+* Experience with Git, CI/CD pipelines, automated testing, and DevOps practices.
+* Demonstrated ability to effectively use AI-assisted development tools and techniques as part of the software development lifecycle.
+
+**Preferred Qualifications**
+
+* Familiarity with event-driven architectures and microservices patterns.
+* Experience leveraging AI to build applications and integrating AI-enabled applications, LLMs, or generative AI solutions.
+* AWS Certification(s) or equivalent cloud certifications.
+
+**Success in this role requires strong technical fundamentals, a continuous learning mindset, and the ability to leverage modern AI tools to deliver high-quality software efficiently.**
+
+**Additional Information**
+--------------------------
+
+We are open to hire across all Endava locations in India.
+
+At Endava, we’re committed to creating an open, inclusive, and respectful environment where everyone feels safe, valued, and empowered to be their best. We welcome applications from people of all backgrounds, experiences, and perspectives—because we know that inclusive teams help us deliver smarter, more innovative solutions for our customers. Hiring decisions are based on merit, skills, qualifications, and potential. If you need adjustments or support during the recruitment process, please let us know.

@@ -1,0 +1,60 @@
+Pune, Mahārāshtra, India Product Engineering Ref ID: JR-024162
+
+**Our Mission**
+
+At Palo Alto Networks®, we’re united by a shared mission—to protect our digital way of life. We thrive at the intersection of innovation and impact, solving real-world problems with cutting-edge technology and bold thinking. Here, everyone has a voice, and every idea counts. If you’re ready to do the most meaningful work of your career alongside people who are just as passionate as you are, you’re in the right place.
+
+**Who We Are**
+
+In order to be the cybersecurity partner of choice, we must trailblaze the path and shape the future of our industry. This is something our employees work at each day and is defined by our values: Disruption, Collaboration, Execution, Integrity, and Inclusion. We weave AI into the fabric of everything we do and use it to augment the impact every individual can have. If you are passionate about solving real-world problems and ideating beside the best and the brightest, we invite you to join us!
+
+We believe collaboration thrives in person. That’s why most of our teams work from the office full time, with flexibility when it’s needed. This model supports real-time problem-solving, stronger relationships, and the kind of precision that drives great outcomes.
+
+**Job Summary**
+
+### **Job Summary**
+
+Join our Engineering team to build and maintain out-of-the-box connectors for our Identity Governance and Administration (IGA) product. You will develop robust read and write connectors for major cloud platforms and SaaS applications like AWS, Microsoft Entra ID, and Google Workspace. By ensuring accurate access governance across diverse vendor APIs, you will directly impact our customers' security posture. As an Engineer Software, you will write maintainable code, fix bugs, and grow your expertise in SaaS access modeling.
+
+### **Key Responsibilities**
+
+* Complete enhancements to existing read and write connectors, syncing new attributes and supporting API changes.
+* Reproduce and resolve customer-reported connector issues, mapping attributes correctly with guidance from senior engineers.
+* Research and test vendor APIs using test accounts and sandboxes to ensure seamless integration.
+* Write comprehensive unit tests for all code to prevent regressions in automated test suites.
+* Utilize AI coding assistants responsibly, verifying output against real vendor APIs for accuracy.
+* Maintain and update connector documentation, including required permissions and setup instructions.
+* Write clear bug reports, pull request descriptions, and communicate progress and blockers effectively.
+
+**Qualifications**
+
+### **Required Qualifications**
+
+* Minimum of 2 years of software engineering experience (Please confirm this inferred value).
+* Solid programming foundation in JavaScript or TypeScript, data structures, and algorithms, with hands-on Node.js experience.
+* Strong understanding of HTTP, REST APIs, JSON, and experience integrating with third-party APIs.
+* Familiarity with MongoDB or similar databases for effective data storage and retrieval.
+* Proven experience writing unit tests and utilizing testing frameworks for code reliability.
+* Working knowledge of Git, issue tracking, CI/CD pipelines, and code review processes.
+* Hands-on experience with AI coding assistants, demonstrating strong judgment in validating generated code.
+* A team player who communicates clearly, asks for help early, and is eager to learn and grow.
+
+### **Preferred Qualifications**
+
+* Basic understanding of identity concepts including users, groups, roles, single sign-on, or OAuth.
+* Exposure to the admin console or API of SaaS products like Microsoft 365, Google Workspace, or Slack.
+* Familiarity with core AWS services and cloud computing basics.
+* Experience with testing frameworks such as Jest, Vitest, or similar tools.
+* Hands-on projects, internships, or open-source contributions involving third-party API integrations.
+
+**Our Commitment**
+
+We’re trailblazers that dream big, take risks, and challenge cybersecurity’s status quo. It’s simple: we can’t accomplish our mission without diverse teams innovating, together.
+
+We are committed to providing reasonable accommodations for all qualified individuals with a disability. If you require assistance or accommodation due to a disability or special need, please contact us at accommodations@paloaltonetworks.com.
+
+Palo Alto Networks is an equal opportunity employer. We celebrate diversity in our workplace, and all qualified applicants will receive consideration for employment without regard to age, ancestry, color, family or medical care leave, gender identity or expression, genetic information, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran status, race, religion, sex (including pregnancy), sexual orientation, or other legally protected characteristics.
+
+All your information will be kept confidential according to EEO guidelines.
+
+Is role eligible for Immigration Sponsorship? No. Please note that we will not sponsor applicants for work visas for this position.

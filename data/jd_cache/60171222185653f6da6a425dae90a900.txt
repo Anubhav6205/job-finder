@@ -1,0 +1,55 @@
+Roles & Responsibilities
+  
+  
+
+* Design and develop intelligent AI-based applications using advanced NLP and LLM techniques to solve real-world business challenges in financial services.
+* Build and optimize Retrieval-Augmented Generation (RAG) pipelines leveraging structured and unstructured financial data.
+* Integrate and orchestrate LLMs/SLMs for question-answering, summarization, semantic search, and document understanding.
+* Develop and maintain RESTful APIs (sync and async) to serve NLP models and chatbot interfaces using frameworks like FastAPI, Flask, etc.
+* Should have knowledge of advanced prompting techniques.
+* Implement semantic search, hybrid search, and text retrieval systems using Elasticsearch and vector databases (e.g., FAISS, Pinecone, Weaviate).
+* Perform NLP tasks such as entity recognition, text classification, intent detection, embedding generation, and sentiment analysis where required.
+* Monitor and fine-tune LLM/SLM performance with real-world user data to improve relevance, latency, and accuracy.
+* Exposure to LLMOps tools for monitoring, evaluation, and versioning of AI models in production.
+* Build, train, and evaluate deep learning models for NLP tasks including classification, NER, summarization, and embedding generation.
+* Develop traditional machine learning models (e.g., regression, decision trees, clustering) for structured data analysis and prediction tasks.
+* Interact with cross-functional teams to understand system issues and follow up with respective teams to get them fixed.
+* Understand and identify areas of improvement across businesses and participate in solution identification and implementation.
+* Should be able to work as an Individual Contributor on new and existing projects.
+* Positive and problem-solving attitude, must work as an independent contributor.
+
+Requirements
+  
+  
+  
+Ideal Candidate
+  
+  
+
+* Strong Data Scientist / AI Engineer / Generative AI Engineer profile.
+* Mandatory (Experience 1) - Must have 3+ years of hands-on experience in Data Science, Artificial Intelligence, Machine Learning, Deep Learning, NLP, or Generative AI application development.
+* Mandatory (Experience 2) - Must have strong hands-on experience in Python programming, backend development, API development, and production-grade application support.
+* Mandatory (Experience 3) - Must have experience working with Machine Learning and Deep Learning frameworks such as PyTorch, TensorFlow, Keras, or Scikit-learn.
+* Mandatory (Experience 4) - Must have hands-on experience in NLP use cases such as text classification, sentiment analysis, entity recognition (NER), semantic search, embeddings, or document understanding.
+* Mandatory (Experience 5) - Must have experience working with Large Language Models (LLMs) such as GPT, LLaMA, Mistral, Phi, Claude, Gemini, or similar models.
+* Mandatory (Experience 6) - Must have hands-on experience building or implementing Retrieval Augmented Generation (RAG) solutions, vector search, semantic search, or knowledge-based AI applications.
+* Mandatory (Experience 7) - Must have experience with Prompt Engineering and Generative AI frameworks such as LangChain, LangGraph, AI Agents, Azure OpenAI, or similar technologies.
+* Mandatory (Experience 8) - Must have experience developing, consuming, or integrating APIs using Python frameworks such as FastAPI, Flask, or similar technologies.
+* Mandatory (CTC) - The CTC breakup offered will be 75% fixed + 25% variable, as per company policy.
+* Preferred (Experience 1) - Experience with LLMOps/MLOps tools for monitoring, evaluation, experimentation, and versioning of AI models.
+* Preferred (Experience 2) - Exposure to Azure OpenAI, Azure Kubernetes Service (AKS), Kubernetes, cloud-native AI deployments, or distributed systems.
+* Preferred (Experience 3) - Experience working with PostgreSQL, MongoDB, Redis, Kafka, or large-scale data platforms.
+* Preferred (Experience 4) - Familiarity with Docker, Kubernetes, cloud platforms, and scalable deployment architecture.
+* Preferred (Company) - Candidates from AI-first startups, product companies, SaaS organizations, fintech, or data-driven technology companies.
+* Mandatory ( Age ) - Candidate Should be Below 28 Years.
+* Mandatory (Education) - B.TECH / M.TECH from Tier 1 Colleges (IIT, NIT, BITS, IIIT, DTU, NSUT) are considered.
+
+Experience: 3–6 years · Work from office · 5 days a week · Notice period up to 30 days
+
+Candidates from: Anywhere in India
+
+Benefits
+  
+  
+
+Our people define our passion and our audacious, incredibly rewarding achievements. Bajaj Finance Limited is one of India’s most diversified Non-banking financial companies, and among Asia’s top 10 Large workplaces. If you have the drive to get ahead, we can help find you an opportunity at any of the 500+ locations we’re present in India.

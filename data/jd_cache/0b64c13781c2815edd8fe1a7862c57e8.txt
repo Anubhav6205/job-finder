@@ -1,0 +1,81 @@
+**[Note: Candidates from IITs, NITs, and other reputed Tier-1 government engineering colleges, reputed private institutes such as BITS Pilani, VIT, and SRM will be Preferred. ]**
+
+  
+
+**Job Description: Frontend Engineer**
+
+  
+
+**Key Details**
+
+  
+
+**Job Title:** Frontend Engineer
+
+  
+
+**Experience:** 4+ years (3+ years with an advanced degree) ?
+
+  
+
+**Budget / CTC: 13-17 LPA [NEGOTIABLE FOR STRONG PROFILE]**
+
+  
+
+**Notice Period: IMMEDIATE TO 30 DAYS**
+
+  
+
+**Work Location:** Greater Noida West, Uttar Pradesh
+
+  
+
+**Work Mode:** Hybrid (days in office per week: ?)
+
+  
+
+**Employment Type:** Full-time, permanent
+
+  
+
+**Reports To:** Head of Engineering
+
+  
+
+**Mandatory Skills:** React, TypeScript, Flutter/Dart (or React Native / native mobile), Accessibility, Jest and React Testing Library
+
+  
+
+**Role Summary**
+
+Own every user-facing surface of a consent management platform: the enterprise console, the admin portal, the consumer mobile app and an embeddable Web SDK. You will work directly with the founder and Head of Engineering and shape product look and feel, as there is no dedicated designer yet.
+
+  
+
+**Key Responsibilities**
+
+* **Enterprise Console and Admin portal:** React and TypeScript. Dense, data-heavy screens that compliance teams will use daily.
+* **Consumer consent app:** Flutter. Used by people who did not choose to be there and will not read instructions.
+* **Embeddable Web SDK:** Consent flows that run inside other organisations pages without breaking them and without leaking anything.
+* **Platform integration:** Consuming APIs and handling JWE-encrypted auth correctly on the client.
+* **Accessibility and language:** An interface that works for people with disabilities and in the languages people actually read.
+
+**Minimum Qualifications**
+
+* 4 years of professional frontend engineering, or 3 years with an advanced degree, or equivalent practical experience.
+* Deep React and TypeScript: state management chosen deliberately, component design you can defend, and performance work you have actually measured.
+* Production mobile experience: Flutter/Dart preferred; strong React Native or native Android/iOS plus a serious appetite for Flutter also works.
+* Something shipped to the App Store or Play Store and maintained through releases.
+* Real accessibility practice: semantic markup, keyboard paths, screen-reader testing.
+* Testing as a habit: Jest and React Testing Library, widget tests, and enough end-to-end coverage to sleep at night.
+
+**Preferred Qualifications**
+
+* Embeddable widgets or a Web SDK that runs inside somebody elses page, including isolation, styling, CSP and versioning.
+* Design-system ownership, particularly the governance rather than the components.
+* Internationalisation at real scale, especially Indic scripts and their rendering problems.
+* Any work where the UI carried a legal or regulatory obligation.
+
+**Education**
+
+B.E./B.Tech or M.Tech in CS/IT, or equivalent demonstrated experience.

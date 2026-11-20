@@ -1,0 +1,69 @@
+**Pune**
+--------
+
+**Full Time**
+-------------
+
+**1 Open position**
+-------------------
+
+**3 - 5 Years of Experience**
+-----------------------------
+
+  
+
+**About the Role**
+------------------
+
+We are seeking a highly skilled and motivated AI Engineer to join our growing team. In this role, you will design, develop, and deploy AI driven solutions that solve real-world problems at scale. You will collaborate with cross-functional teams to transition models from research to production, ensuring performance, fairness, and explainability.
+
+**Key Responsibilities**
+------------------------
+
+* **AI Solution Development:** Design and develop AI models and algorithms from scratch, utilizing techniques like machine learning, deep learning, natural language processing (NLP), and computer vision.
+* **Model Management:** Train, test, fine-tune, and optimize AI and machine learning models for performance, accuracy, and scalability.
+* **Deployment and Integration:** Deploy AI solutions into production environments using APIs, microservices, Docker, and Kubernetes. Integrate these AI capabilities with existing software systems and applications
+* **Data Handling:** Collect, analyze, and interpret large, complex datasets to derive insights and ensure data integrity for model training.
+* **Collaboration:** Work closely with cross-functional teams, including data scientists, software engineers, product managers, and stakeholders, to define project goals and align AI strategies with business objectives.
+* **Monitoring and Maintenance:** Manage the AI development process (MLOps), monitor model performance in real-time, troubleshoot issues, and implement continuous improvements.
+
+**Skills & Experience: Key Requirements**
+-----------------------------------------
+
+**Required skills**
+-------------------
+
+* Three or more years of experience in applying AI to practical and comprehensive technology solutions
+* Working with LLM and prompt engineering and prompt tuning
+* Experience in Implementing pipelines for feature engineering and model retraining
+* Experience in Collaborating with data scientists to transition models from research to production
+* Experience in Managing model deployment in cloud environments (e.g. SageMaker, Vertex AI), MLOps and APIs
+* Experience in Testing and validating AI performance across use cases.
+* Knowledge of basic algorithms, object-oriented and functional design principles, and best-practice patterns
+* Experience in basics of data engineering and building data pipelines
+* Experience in REST API development, NoSQL database design, and RDBMS design and optimizations.
+* Excellent written and verbal communication skills.
+
+**Good to Have:**
+
+* Experience of applying AI in real-time or large-scale systems
+* Understanding of privacy, bias, and AI risk considerations
+* Experience with innovation accelerators
+* Experience with cloud environments
+* Daat storytelling and model explainability
+* Experience in model tuning, monitoring, and improvement
+* Experience in Ensuring models is secure, fair, and explainable
+
+**Tech Stack**
+--------------
+
+* Proficiency in programming languages like Python (essential), Java, or C++.
+* Experience with ML frameworks (TensorFlow, PyTorch, Scikit-learn).
+* Familiarity with MLOps, cloud platforms (AWS, Azure, GCP), and big data technologies (Hadoop, Spark).
+* Knowledge of REST API development and database design.
+* Expertise in specific AI domains like NLP, computer vision, or generative AI (LLMs, RAG).
+
+**Qualifications**
+------------------
+
+Bachelor’s or master’s degree in computer science or related field.

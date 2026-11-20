@@ -1,0 +1,56 @@
+About the job
+
+**Note: Apply 6+ Years of experience only**
+
+**Hiring: Senior AI/ML Engineer | Hyderabad**
+
+We are looking for an experienced
+**Senior AI/ML Engineer**
+to drive the development of enterprise-grade AI solutions, Generative AI applications, intelligent AI agents, and scalable machine learning platforms.
+
+**📍 Location:**
+Hyderabad
+
+**💼 Experience:**
+7+ Years
+
+**⏳ Notice Period:**
+30 Days or Currently Serving Notice Period
+
+**Key Technical Skills**
+
+* **Programming & Machine Learning:**
+  Python, PyTorch, TensorFlow, Statistical Modeling, Predictive Analytics, Deep Learning.
+* **Generative AI & LLMs:**
+  Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), Agentic AI, AI Agents, LangChain, Semantic Kernel.
+* **Vector Search & Data Engineering:**
+  Vector Databases, Semantic Search, Knowledge Repositories, Real-Time Data Pipelines, Data Orchestration.
+* **Cloud AI Platforms:**
+  Microsoft Azure AI Services, Azure AI, AWS AI/ML Services, Cloud-Native Architecture.
+* **MLOps & Deployment:**
+  MLOps, CI/CD Pipelines, Model Deployment, Model Monitoring, Model Versioning, Docker, Kubernetes.
+* **Advanced Machine Learning:**
+  Supervised and Unsupervised Learning, Regression, Classification, Clustering, Random Forest, XGBoost, LightGBM, Forecasting and Neural Networks.
+* **AI Security & Governance:**
+  Responsible AI, Model Performance Optimization, Data Privacy, AI Risk Mitigation and Secure AI Architecture.
+
+**Key Responsibilities**
+
+* Design, develop and deploy scalable AI/ML solutions, GenAI applications, RAG architectures and agentic AI workflows.
+* Build and optimize end-to-end machine learning pipelines, including model training, deployment, monitoring and lifecycle management.
+* Develop real-time data pipelines, vector search capabilities and AI-powered enterprise applications.
+* Optimize AI workloads across Azure and AWS for scalability, performance, security and cost efficiency.
+* Implement AI governance, data protection and responsible AI practices.
+* Collaborate with business and technology teams to translate business challenges into impactful AI solutions.
+
+**Preferred Background**
+
+Experience in financial services, logistics, operations or other regulated industries is an advantage. Relevant Azure AI or AWS Machine Learning certifications are a plus.
+
+Requirements added by the job poster
+
+• 3+ years of work experience with Machine Learning
+
+• 1+ years of work experience with Generative AI
+
+• 3+ years of work experience with Artificial Intelligence (AI)

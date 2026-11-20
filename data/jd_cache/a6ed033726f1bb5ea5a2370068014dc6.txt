@@ -1,0 +1,31 @@
+**Job Description Generative AI / Machine Learning Engineer**
+**Experience:**
+5+ Years
+  
+  
+**Location:**
+Hyderabad
+  
+  
+**Education:**
+15 Years of Full-Time Education
+  
+  
+****Job Description:****
+We are looking for an experienced Generative AI / Machine Learning Engineer with strong expertise in developing and implementing Generative AI models and machine learning solutions.
+  
+  
+****Key Skills Required:****
+
+* Strong experience in Machine Learning and Generative AI model development.
+* Hands-on experience with GPT, GANs, VAEs, and Deep Learning techniques.
+* Proficiency in Python, TensorFlow, PyTorch, or Keras.
+* Knowledge of NLP and tools such as Hugging Face, SpaCy, and NLTK.
+* Experience with AWS, Azure, or GCP cloud platforms.
+* Knowledge of Data Structures, Algorithms, and software engineering principles.
+* Familiarity with Matplotlib, Seaborn, or Plotly.
+
+****Additional Requirements:****
+
+* Strong analytical, problem-solving, and communication skills.
+* Ability to work independently and collaboratively in an Agile environment.

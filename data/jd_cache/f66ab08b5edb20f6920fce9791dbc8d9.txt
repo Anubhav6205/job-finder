@@ -1,0 +1,62 @@
+**Experience**
+4 – 6 years
+  
+  
+**Level**
+Mid-Level
+  
+  
+**Location**
+Delhi / Mumbai / Bangalore (India)
+  
+  
+**Employment Type**
+Full-time
+  
+  
+**Primary Skills**
+Azure AI Foundry, RAG, AI Agents, AI / ML
+  
+  
+**Role Summary**
+We are looking for an AI Engineer with hands-on experience in building Generative AI solutions on Microsoft Azure. You will design and develop Retrieval-Augmented Generation (RAG) pipelines and AI agents using Azure AI Foundry, working within a team under the guidance of senior engineers and architects, and contribute to production-grade AI/ML solutions for enterprise clients.
+  
+  
+**Key Responsibilities**
+
+* Develop and deploy RAG-based applications using Azure AI Foundry, Azure OpenAI, and Azure AI Search.
+* Build AI agents using Azure AI Foundry Agent Service, including tool/function calling and basic multi-step workflows.
+* Implement document ingestion pipelines: parsing, chunking, embedding generation, and vector indexing.
+* Write and iterate on prompts; apply prompt engineering techniques to improve answer quality and reduce hallucinations.
+* Build, train, and evaluate classical ML / deep learning models for classification, forecasting, NLP, or similar use cases.
+* Expose AI capabilities through REST APIs (FastAPI / Flask) and integrate them with front-end and enterprise systems.
+* Run evaluation of RAG and agent outputs (groundedness, relevance, accuracy) using Azure AI Foundry evaluation tools.
+* Write clean, tested, well-documented code and participate in code reviews.
+* Collaborate with product owners, data engineers, and QA teams to deliver sprint commitments.
+
+**Required Skills & Experience**
+
+* 4 – 6 years of total experience in software / data / AI engineering, with at least 1.5 – 2 years in Generative AI.
+* Hands-on experience with Azure AI Foundry (model catalog, deployments, prompt flow, evaluations).
+* Practical experience building RAG solutions end to end (embeddings, chunking, vector search, retrieval, re-ranking basics).
+* Experience building AI agents using Azure AI Foundry (Agent Service) or frameworks such as Semantic Kernel, LangChain, or AutoGen.
+* Strong Python programming skills; good understanding of REST APIs and JSON.
+* Working knowledge of AI/ML fundamentals: supervised / unsupervised learning, model evaluation, feature engineering, scikit-learn, and PyTorch or TensorFlow.
+* Familiarity with Azure services: Azure OpenAI, Azure AI Search, Blob Storage, Azure Functions, Key Vault.
+* Working knowledge of Git and CI/CD basics.
+
+**Qualifications**
+**Good to Have**
+
+* Azure certifications (AI-102, DP-100, or AZ-204).
+* Exposure to Azure Machine Learning, Azure Databricks, or Microsoft Fabric.
+* Experience with Docker and basic Kubernetes / Azure Container Apps.
+* Exposure to responsible AI practices and content safety.
+
+**Soft Skills**
+
+* Good written and verbal communication; able to explain technical work to non-technical stakeholders.
+* Ownership mindset, eagerness to learn fast-evolving AI tooling.
+
+**Education**
+B.E. / B.Tech / M.E. / M.Tech / MCA / M.Sc in Computer Science, Data Science, AI/ML, or a related field.

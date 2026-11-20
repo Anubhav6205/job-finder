@@ -1,0 +1,40 @@
+**Your Role and Responsibilities:**
+
+As a Frontend Software Engineer, you will help build client-side features for data-intensive products, working closely with senior engineers, designers and product managers.
+
+You will:
+
+* Help develop new features from user requirements and designs, taking on well-defined tasks within larger features, delivering them on time, refining them based on feedback, and growing the scope you own over time.
+* Build UI components and interactions to the design specifications using our design system, and integrate with backend APIs, working with backend engineers to understand API contracts and handle loading, error and empty states well.
+* Write clean, readable code with unit and end-to-end tests, and write short design notes for your tasks for peer review.
+* Take part in code reviews, both receiving and giving feedback.
+* Help investigate and fix bugs and production issues, starting by shadowing the on-call rotation.
+* Share your progress clearly in standups and project updates, and raise blockers early.
+* Learn Confluent's engineering practices, including release, monitoring and feature flag processes, and how our product works end to end.
+
+**Required Education:**
+
+Bachelor's Degree
+
+**Preferred Education:**
+
+Master's Degree
+
+**Required Technical and Professional Expertise:**
+
+* Experience with 0.6 -1 year of professional experience and a strong foundation in data structures, algorithms and problem-solving
+* Strong JavaScript fundamentals, including asynchronous programming (promises, async/await), closures and the DOM, plus solid HTML and CSS skills, including responsive layouts.
+* A good understanding of React (components, props, state, hooks, and how components re-render) and a basic understanding of frontend architecture: structuring components, managing state, and separating data fetching from UI.
+* Experience building and bundling a frontend project with Webpack or a similar tool such as Vite, including an understanding of modules, loaders and code splitting.
+* Comfort debugging with browser developer tools, and familiarity with Git and a pull-request-based workflow.
+* Curiosity, eagerness to learn and openness to feedback, with good communication and collaboration skills and a team-first mindset.
+
+**Preferred Technical and Professional Experience:**
+
+* Awareness of web accessibility and web performance (for example, bundle size and Core Web Vitals).
+* Experience with data visualization or charting libraries.
+* Exposure to AI-powered workflows, agentic AI or LLM-based applications.
+* Internships, open-source contributions, hackathons or personal projects you've built and shipped.
+* Interest in data streaming, Kafka or distributed systems (no prior experience needed).
+
+****Years of Experience:****1 - 2

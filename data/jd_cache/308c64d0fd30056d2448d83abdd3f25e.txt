@@ -1,0 +1,26 @@
+**Greetings from LTM!!**
+
+**LTM F2F Inperson drive on 21st Nov @Chennai-Walkin !!**
+
+  
+
+**Experience: 6 Yrs to 12Yrs**
+
+  
+
+**Job Description :Gen AI/Agentic AI -Python, RAG, Prompt Engg with AWS/Azure/GCP**
+
+* Hands-on experience in Data Science, AI/ML, and Deep Learning (DL) domains
+* Practical exposure to Generative AI (GenAI) and DL frameworks
+* Strong programming skills in Python and experience with Linux/Windows environments
+* Proficiency with common data science toolkits:TensorFlow, Keras, PyTorch, Pandas, NumPy, etc.
+* Familiarity with GenAI frameworks: LangChain, LlamaIndex, LangGraph, CrewAI, NeMo Agent Toolkit, NAT
+* Knowledge of DL & GenAI algorithms: Transformers, CNN, RNN, etc.
+* Experience with NLP, Large Language Models (LLMs), and Multimodal Language Models like:GPT, LLaMa, Mistral, Qwen, Nemotron, etc.
+* Hands-on experience with Cloud platforms:Azure, AWS, or GCP
+* Familiarity with Git, Docker, and Kubernetes
+* Strong problem-solving skills.
+
+  
+
+Only Candidates who is fitting in above criteria will be interviewed and take forward.

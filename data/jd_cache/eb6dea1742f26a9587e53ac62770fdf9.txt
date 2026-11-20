@@ -1,0 +1,22 @@
+**Gen AI Developer**
+
+  
+
+**Exp: 2 to 5 Years Experience**
+
+  
+
+Roles & Responsibilities
+
+* Develop and deploy Generative AI applications using Large Language Models (LLMs).
+* Build AI-powered chatbots, virtual assistants, and automation solutions.
+* Design and optimize prompts for better model performance (Prompt Engineering).
+* Implement Retrieval-Augmented Generation (RAG) solutions using vector databases.
+* Integrate OpenAI, Azure OpenAI, Gemini, Claude, or open-source LLMs into applications.
+* Develop APIs and backend services using Python frameworks like FastAPI or Flask.
+* Fine-tune and evaluate machine learning and language models.
+* Work with embeddings, semantic search, and document processing pipelines.
+* Build end-to-end AI workflows using LangChain, LlamaIndex, CrewAI, or AutoGen.
+* Collaborate with business stakeholders to identify Gen AI use cases.
+* Monitor model performance, cost optimization, and AI governance.
+* Ensure responsible AI practices, security, and data privacy compliance.

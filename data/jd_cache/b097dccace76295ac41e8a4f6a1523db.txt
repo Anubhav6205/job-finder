@@ -1,0 +1,37 @@
+Job Description:
+
+1. Analysis of the companys Existing SLA parameters with external stakeholders (Variance & Paradigm)
+
+2. Hourly & Daily variance & productivity
+
+3. Per person variance & productivity
+
+4. Per location variance & productivity
+
+5. Per department variance & productivity
+
+  
+
+Healthindia is a third-party administrator and categorized as service industry. The said company has performance SLAs with insurers and insurance brokers.
+
+  
+
+In order to adhere to these SLA’s departmental efficiencies needs to be measured. The company uses OCR & LLM’s as well as intimation bases file tracking from inward to outward across all departments. This Latter point is the basis of Analytics which needs to be prepared/ analyzed & presented Viz-a-viz current SLA’s entered by the said company with external stakeholders as well as management related MIS.
+
+  
+
+\* Data Preparation: Ingest, clean, and structure raw or noisy data (ETL processes).
+
+\* Modeling & Analysis: Build machine learning models, run statistical tests, and develop algorithms to spot hidden patterns or forecast future trends.
+
+\* Visualization & Storytelling: Translate technical findings into clear charts and reports using tools like Tableau or Microsoft Power BI to guide business leaders.
+
+  
+
+Core Skills & Tools:
+
+  
+
+\* Programming Languages: R, SQL.
+
+\* Machine Learning & Big Data: TensorFlow, PyTorch, Apache Spark, and Hadoop.

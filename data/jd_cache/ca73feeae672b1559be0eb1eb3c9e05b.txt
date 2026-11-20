@@ -1,0 +1,44 @@
+Summary
+  
+  
+At Apple, great ideas quickly have a way of becoming great products, services, and customer experiences. Bring passion and dedication to your job and there's no telling what you could accomplish here. Do you want to be part of a team that builds cutting edge software service, a team that is continually innovating and is proud of making a difference? If so, bring your passion and talent and come join us to be part of something big and amazing. Sales and Operations Engineering is part of IS&T and drives the technology behind Apple's global operations, sales, and supply chain. The team connects the systems that move products from factory to customer — bridging sales platforms with the operational infrastructure that keeps Apple running at scale and ensuring Apple's technology and business priorities move in lockstep.
+  
+  
+Description
+  
+  
+Apple’s IS&T team is looking for a Software Quality Engineer to contribute to design, analysis and certification of our applications. We are looking for someone who is equally passionate about quality and using lightweight processes to consistently achieve it. The role would also involve interacting with multi-functional engineering and product teams to test features, perform root cause analysis, and drive the quality of customer's experience.
+  
+  
+Minimum Qualifications  
+  
+  
+
+* Bachelor's degree in Computer Science, Engineering, or a related technical field, or equivalent practical experience.
+* 1 to 2 years of combined work experience in Software Development Engineer in Test/Quality Engineering
+* Experience in developing test strategies, scenarios and cases for UI(Web and Mobile apps), API/Web Services, DB workflows etc
+* Experience in functional, system, integration and exploratory testing
+* Exposure to automation, performance, software quality testing tools and CI/CD integrations
+* Experience working with Java, JavaScript, TypeScript.. programming languages
+
+  
+  
+  
+Preferred Qualifications  
+  
+  
+
+* Exposure to GenAI solutions and AI models
+* Identify repetitive testing activities that can be improved through AI-assisted automation.
+* Ability to work in a fast-paced environment with frequent context switching
+* Strong communication and collaboration skills, with the ability to work effectively with developers and product teams.
+* Strong problem-solving, debugging, and analytical skills.
+* Demonstrated ability to learn new technologies quickly and apply them to solve quality engineering challenges.
+
+  
+  
+  
+
+At Apple, we believe accessibility is a fundamental human right. You’ll find that idea reflected in everything here — in our culture, our benefits and our digital tools. By welcoming as many perspectives as possible, we help you build a career where you feel like you belong.  
+  
+Learn about accessibility in Apple’s workplace

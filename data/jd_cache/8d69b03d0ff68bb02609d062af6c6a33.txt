@@ -1,0 +1,13 @@
+**Roles and Responsibilities :**
+
+* Lead the development team in designing, developing, testing, and deploying large-scale Java applications using Spring Boot.
+* Collaborate with cross-functional teams to identify business requirements and develop solutions that meet customer needs.
+* Ensure high-quality code by reviewing and mentoring junior developers, promoting best practices, and implementing automated testing frameworks.
+* Participate in technical leadership activities such as architecture planning, roadmap creation, and resource allocation.
+
+**Job Requirements :**
+
+* 7-12 years of experience in software development with expertise in Java programming language.
+* Should have good experience in Java, Spring boot, Microservices, Kafka, SQL.
+* Strong understanding of Generative AI/ Agentic AI concepts and its application in enterprise environments.
+* Experience working on large-scale projects using microservices architecture with technologies like Kafka or Microsoft Azure.

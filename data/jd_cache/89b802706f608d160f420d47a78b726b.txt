@@ -1,0 +1,51 @@
+**About The Job**
+**Department**
+: Technology & Product
+  
+  
+**Employment Type:**
+Full-time
+  
+  
+**About TerraTern**
+TerraTern is one of India’s fastest-growing Global Talent Mobility startups, helping individuals navigate international relocation with confidence. We deliver end-to-end visa support, job search guidance, and mobility resources designed for global aspirants. Transparency, precision, and client trust are the foundation of everything we build.
+  
+  
+**Role Overview**
+We are looking for an AI Engineer to build products that use large language models to help people plan their move abroad. You will work with our product and tech teams to take an idea from a rough sketch to a working feature that real users rely on. Freshers with good projects and a strong interest in AI are welcome to apply.
+  
+  
+**Key Responsibilities**
+
+* Build AI features using LLM APIs, such as chat assistants, document readers and smart search.
+* Set up RAG systems so our AI answers from TerraTern’s own trusted information.
+* Create AI agents and workflows that handle repeat tasks for our users and our team.
+* Connect AI features to our website, apps and internal tools through clean APIs.
+* Test every feature on real questions, and fix wrong or unclear answers before users see them.
+* Watch speed, cost and accuracy after launch, and bring all three in line.
+* Work with product managers and designers so each feature is easy to use and solves a real problem.
+
+**Eligibility & Requirements**
+
+* 1 to 3 years of experience building software or AI applications, or a fresher with strong projects, internships or open-source work.
+* Bachelor’s or Master’s degree in Computer Science, Engineering, AI or a related field.
+* Good Python skills, and comfort with APIs, Git and a database.
+* Hands-on use of at least one LLM API such as OpenAI, Claude or Gemini.
+* Basic understanding of embeddings, vector search and prompt design.
+* Clear communication, and the ability to explain technical ideas in simple words.
+* Curiosity, ownership and a habit of finishing what you start.
+
+**Nice to Have**
+
+* Experience with LangChain, LlamaIndex, n8n or similar tools.
+* A deployed AI project, even a small personal one.
+* Interest in immigration, education or global careers.
+
+**Why Join TerraTern**
+
+* Impactful Work: Build tools that help people reach jobs and study options abroad.
+* Professional Growth: Learn from the team and work on real AI products from day one.
+* Entrepreneurial Culture: Share your ideas, try them out and own the result.
+* Collaborative Environment: Work closely with product, sales and operations in a team that likes to learn together.
+
+Skills: api,llms,langchain,agents,prompt engineering,rag,python,ml,ai

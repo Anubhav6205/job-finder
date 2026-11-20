@@ -1,0 +1,102 @@
+**What Exactly Should You Look For?**
+
+**Core Expertise:** Python, Machine Learning, Time-Series Modelling, and Numerical Optimisation.
+
+**Preferred Industry Background:** Manufacturing, Metals, Mining, Cement, Chemicals, Oil & Gas, and other Process Industries.
+
+**A. Strong Python & Machine Learning Expertise**
+
+**Must-have skills:**
+
+* Strong proficiency in Python programming.
+* Experience in Machine Learning model development.
+* Hands-on experience with LightGBM.
+* Knowledge of GAM (Generalized Additive Models).
+* Feature engineering.
+* Model validation and diagnostics.
+* Model explainability.
+
+**What to look for:**
+
+The candidate should be capable of reviewing existing ML models, identifying areas for improvement, and optimising their performance rather than building everything from scratch.
+
+**B. Time-Series & Industrial Process Modelling**
+
+This is one of the most important aspects of the requirement.
+
+**Must-have expertise:**
+
+* Time-series forecasting and modelling.
+* Industrial process data analysis.
+* Equipment performance modelling.
+* Experience working with historian data and laboratory data.
+* Understanding of lagged features and sensor data.
+* Knowledge of process variables and operational parameters.
+* Predictive modelling for manufacturing operations.
+
+**What does this mean practically?**
+
+The candidate should understand how different industrial variables interact and develop models that can predict final outcomes based on historical and real-time operational data.
+
+**C. Constrained Numerical Optimisation**
+
+**Relevant skills:**
+
+* Numerical optimisation.
+* Constrained optimisation.
+* Metaheuristic algorithms.
+* Grid Search.
+* Optimisation of operating parameters.
+* Multi-objective optimisation.
+* Throughput, recovery, and cost optimisation.
+* Sensitivity and scenario analysis.
+
+**What to look for:**
+
+Candidates should have experience developing optimisation approaches that identify the best operating parameters while considering industrial constraints, production targets, recovery rates, and operational costs.
+
+**D. Industrial Domain Experience**
+
+**Preferred industry backgrounds:**
+
+* Manufacturing.
+* Mining and Metals.
+* Cement.
+* Chemicals and Petrochemicals.
+* Oil & Gas.
+* Power and Energy.
+* Industrial Automation.
+
+**Relevant experience:**
+
+* Working with process engineers, plant operators, operational SMEs, and industrial data.
+* Understanding industrial processes and operational parameters.
+* Experience in manufacturing optimisation or process optimisation.
+
+Candidates with direct experience in industrial or process optimisation would be particularly relevant.
+
+**E. Model Pipeline & Live Testing**
+
+Look for candidates who have hands-on experience with:
+
+* Machine Learning model pipelines.
+* Model deployment and inference workflows.
+* Kedro (QuantumBlack) desirable, but not mandatory.
+* API integration and data exchange.
+* Live model validation.
+* Shadow testing.
+* Model monitoring and feedback loops.
+
+**What to look for:**
+
+The candidate should be comfortable running predictions on live plant data, comparing predicted outcomes with actual results, validating model performance, and improving models through continuous monitoring and feedback.
+
+**Key Hiring Priority**
+
+The ideal candidate should combine three major capabilities:
+
+1. **Machine Learning:** Strong Python, LightGBM, GAM, feature engineering, and model diagnostics.
+2. **Industrial Modelling & Optimisation:** Time-series modelling, process data understanding, and constrained numerical optimisation.
+3. **Practical Implementation:** Model pipelines, deployment, live plant data validation, and shadow testing.
+
+**Important:** Prioritise candidates who have applied Machine Learning and optimisation to real industrial processes rather than candidates with only theoretical ML or general data science experience.

@@ -1,0 +1,44 @@
+**About the Role: Python & AI Engineer**
+We are seeking a strong Software Engineer with mandatory Python expertise to support and additionally build Generative AI and agentic AI solutions on Microsoft Azure. This role is ideal for someone who has hands-on experience building production-grade AI applications using the Microsoft Agent Framework, modern backend engineering practices, and secure cloud-native architectures.
+  
+  
+The candidate should have hands-on experience independently building end-to-end Business process automation solutions across Web, API, Database, Excel, PDF, and Desktop applications using relevant Python libraries.
+  
+  
+The ideal candidate has experience designing and deploying primarily Python based Business process automations or custom-built applications and the considering the future intelligent automation development, there experience working on agentic systems, building evaluation harnesses, integrating tools and workflows, and implementing Responsible AI and security controls for enterprise use cases would be an important addition.
+  
+  
+**Key Responsibilities**
+
+* Design, develop, and maintain existing automation solutions/applications which are already developed in Python.
+* Develop and maintain Rest API services using FastAPI
+* Build end-to-end automation solutions using Python libraries for Web, API, Database, Excel, PDF, and Desktop applications.
+* Implement robust testing, debugging, error handling, performance optimization, logging, and monitoring.
+* Work with SQL Server, Snowflake, and/or Cosmos DB.
+* Build and deploy applications using Docker, Kubernetes, Azure Functions, and Azure VMs.
+* Follow modern engineering practices using GitHub, Azure DevOps, CI/CD, GitHub Copilot, and AI-assisted development tools.
+* Build and support AI solutions using the agentic framework
+* Design and integrate agent workflows, tool usage, orchestration, and workflow management patterns
+* Build agentic harnesses, test frameworks, and evaluation pipelines
+* Implement observability, monitoring, logging, and quality checks for AI systems
+* Use modern engineering tools and workflows including Azure DevOps (ADO), GitHub, Claude Code, Cowork, GitHub Copilot and automation-friendly development practices
+* Ensure adherence to Responsible AI, security, privacy, and governance requirements
+* Support document intelligence, OCR, and data processing workflows where needed
+* Experience with Azure cloud services including Virtual Machines (VMs) and Azure Functions to design, deploy, and manage scalable Python applications in a cloud-native environment
+
+**Qualifications & Experience**
+
+* 6+ years of software engineering experience, mandatorily on Python
+* 2+ years in GenAI, LLM, or agentic application development
+* Experience in enterprise or production AI environments preferred
+* Experience building backend services and APIs with FastAPI
+* Experience with AI agents, agent orchestration, tool calling, MCP, RAG, and evaluation frameworks.
+* Microsoft Agent Framework experience.
+* Experience integrating AI with enterprise APIs, workflows, databases, and business processes.
+* Experience with document intelligence, OCR, data processing, or knowledge retrieval is a plus.
+* Understanding of Responsible AI, AI security, privacy, and governance.
+* Experience with Azure cloud resources and cloud-native application development
+* Experience with ADO, GitHub, and modern Azure Devops CI/CD Pipelines
+* Strong understanding of secure design for AI systems, including access control, data handling, prompt safety, and system reliability
+* Experience with workflow management and orchestration in enterprise environments
+* Knowledgeable about working with multi-agent systems.

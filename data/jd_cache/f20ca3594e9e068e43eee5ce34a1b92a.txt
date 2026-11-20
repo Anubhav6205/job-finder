@@ -1,0 +1,29 @@
+We are seeking a **Business Consulting professional** with overall IT experience of 13+ years, specializing in Supply Chain Management, to join our team supporting Life Sciences clients, acting as a bridge between business functions and IT delivery teams to ensure solutions effectively support operational requirements, regulatory expectations and strategic objectives.
+
+  
+
+**Responsibilities**
+
+* Provide subject matter expertise across Supply Chain Management/Manufacturing processes, including demand planning, forecasting, supply and production planning, procurement, supplier management, inventory, warehouse management, distribution, logistics, order management, fulfillment and materials management
+* Understand end-to-end Supply Chain/Manufacturing processes and dependencies between business functions
+* Advise clients on industry best practices, process optimization and operational improvements
+* Identify opportunities for process standardization, automation and digital transformation
+* Support IT teams in translating Supply Chain/Manufacturing business requirements into functional specifications
+* Participate in the design, implementation, enhancement and maintenance of Supply Chain/Manufacturing IT applications
+* Provide functional guidance to developers, solution architects, testers and application support teams
+* Support the implementation and integration of ERP and Supply Chain Management/Manufacturing platforms
+* Engage with client business stakeholders to understand operational challenges and business needs, and facilitate workshops and requirements-gathering sessions
+* Analyze existing business processes, define functional requirements, business process models and user stories
+* Support the development of business cases and solution proposals
+* Act as a functional point of contact for Supply Chain/Manufacturing-related topics within IT service delivery
+
+**Requirements**
+
+* 13+ years of overall IT experience, with a focus on Supply Chain Management or Manufacturing consulting roles
+* Expertise in Supply Chain Management processes, preferably within pharmaceutical, biotechnology or medical device industries
+* Knowledge of Good Distribution Practice (GDP), Good Manufacturing Practice (GMP) and product traceability and serialization requirements
+* Familiarity with temperature-controlled and cold-chain logistics, batch and lot management, and expiry date and shelf-life management
+* Understanding of data integrity, auditability and regulatory compliance in Life Sciences IT environments
+* Background in supporting the alignment of IT solutions with applicable GxP requirements and validation expectations
+* Skills in business analysis, including requirements gathering, process analysis and solution proposal development
+* Capability to act as a liaison between business stakeholders, solution architects, project managers and software engineering teams

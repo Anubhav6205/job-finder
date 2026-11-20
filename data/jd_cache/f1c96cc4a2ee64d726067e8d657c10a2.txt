@@ -1,0 +1,144 @@
+JD For - Product Designer
+
+Location-Gurgaon WFO
+
+  
+
+Org Overview:
+
+  
+
+Group Bayport is a rapidly growing global e-Commerce B2B2C, B2B and B2C organization that has re-defined the business of delivering high-quality custom products through a unique blend of cutting-edge digital technologies, robust manufacturing capabilities, and global supply chain. An industry leader in print technology, Group Bayport operates in the United States, Canada, Australia, New Zealand, UK, and India through its family of brands BannerBuzz, Covers & All, Vivyx Printing, Circle One, Giant Media, and Neon Earth. From full suites of trade show and small business marketing solutions to sophisticated outdoor living covers, signages and shades to eclectic personal accents and home decor, we help our customers, clients, and partners to make a personalized statement through customization.
+
+  
+
+While our advanced technology and customer focus are certainly our salient attributes, our true strength comes from our team of 2000+ people. We are seeking exceptional talent across the board to join us in our exciting growth journey.
+
+  
+  
+
+For more about Group Bayport, please visit Website: https://groupbayport.com/about-us/
+
+LinkedIn: https://www.linkedin.com/company/groupbayport/mycompany/
+
+  
+
+Role Overview:
+
+  
+
+We’re hiring a Mid-level Product Designer to own the end-to-end product experience for one brand in our portfolio. Mid-level IC role: 80% product design execution (running the full design loop at production depth: discovery IA interaction visual execution handoff), 20% strategic framing (knowing your brand’s customer, partnering with PM on what’s worth designing, holding the customer-evidence bar).
+
+  
+
+Job role & Responsibilities:
+
+  
+
+Your core job is owning the product experience for your brand and shipping it at production quality.
+
+  
+
+Own the end-to-end product experience for one brand. You’ll shape how customers find products, configure custom orders, and complete purchases, on mobile and web. The depth comes from your hands on the work: Figma files, motion specs, edge cases, accessibility.
+
+  
+
+Run the full product design loop. Problem framing, discovery, IA, user flows, interaction design, visual execution, prototyping, engineering handoff. Some quarters skew toward shipping; others toward discovery. You don’t outsource the parts you find less interesting.
+
+  
+
+Own the output, regardless of who’s directing. The Designer leads visual direction across the portfolio; you partner with them on your surfaces. You’re still responsible for the output and outcomes of your work. Design quality doesn’t pause when they’re not available.
+
+  
+
+Contribute actively to the DSK (Design System Kit). Propose evolutions surfaced from your work, build new components at production quality, partner with the DSK lead on divergence decisions. You don’t just consume the system; you help it grow.
+
+  
+
+Partner with research, don’t duplicate it. The Sr. Product Design Researcher directs research priorities and runs heavy generative and behavioral studies. You’ll run lightweight evaluative work (usability sessions, concept tests) under their direction, and you’ll consume and apply their findings as a primary stakeholder.
+
+  
+
+Partner with your PM and pod lead. Partner with PMs, engineers, product designers and pod lead. Your PM owns the roadmap; you co-author the experience. Team-level discussions, not lone-designer mode.
+
+  
+
+Be available as a craft collaborator to the designers around you. Informal feedback, clarifying-question support, occasional design critique. Formal mentorship and craft coaching are owned at the senior layer of the team; you contribute peer-to-peer.
+
+  
+
+Make your brand’s customer real for the team. You should be the person in the room who knows your brand’s customer best, can describe their jobs-to-be-done, and pushes back when the proposed solution doesn’t match the evidence.
+
+  
+
+Why we are hiring this role: Product design here means owning how customers experience one of our brands end-to-end, from first arrival through configuration through purchase. That ownership requires both the craft depth to ship at production quality and the strategic instincts to decide what’s worth designing in the first place. This role exists for the designer who can do both.
+
+  
+
+Where you fit-PDX is a single product design organization serving Group Bayport’s 12+ brands. You are embedded in a pod alongside other product designers on the same brand. The pod lead is your manager: your direct support, your work reviewer, and the person you go to first.
+
+  
+
+Educational Requirements:
+
+  
+
+4–6 years of applied product design experience for digital products, with significant work in e-commerce, DTC, or consumer mobile apps. Without that depth, our commerce + mobile patterns will take 6+ months to learn — not the right fit for this role.
+
+End-to-end product design fluency. You’ve owned design from problem framing research IA interaction visual execution handoff. Not just one slice. Your portfolio shows shipped product surfaces, not concept work.
+
+Mobile and web design depth. Both surfaces, at production depth.
+
+Production-level Figma fluency. Component architecture, variants, tokens, prototyping, handoff specs. Files engineers can ship from.
+
+Strong personal visual quality bar. Typography, composition, color, spacing, hierarchy at production quality. Your work holds up without another designer’s polish pass.
+
+Stakeholder partnership. You collaborate with PMs, engineering, and brand-side leadership. You can present design rationale to non-designers, hold the line on quality, and push back when the evidence supports it.
+
+Clear design communication. You walk through your work and explain decisions. You give and take critique without defensiveness.
+
+Learns by shipping. Quarter-over-quarter you can point to craft growth in your work, not just role growth.
+
+  
+
+Strong Preferences (Not Required):
+
+  
+
+Direct experience designing for US, UK, Australia, or New Zealand consumers in DTC or e-commerce.
+
+Experience with customization, configuration, or made-to-order product categories. Group Bayport’s brands run on custom-printing flows.
+
+AI tool fluency in design workflows: Claude, ChatGPT, Cursor, V0, Figma AI, Lovable, or equivalents.
+
+Research fluency: comfort running usability sessions, concept tests, and interpreting behavioral data.
+
+Design system thinking: has worked inside a mature production design system; comfortable proposing new components within established conventions and flagging system gaps when a pattern needs evolving.
+
+A self-directed portfolio piece, something you designed because you wanted to. Signals craft drive and taste outside of paid work.
+
+Familiarity with Kaizen or similar continuous-improvement operating philosophies.
+
+  
+
+What this role isn't :
+
+  
+
+Not a research-heavy role. We hire designers who design: craft, taste, and intelligent design decisions are the center of gravity. If your work is over-indexed on research methodology and your design execution is light, this role will mis-fit you. Exception: if a prior role required heavy research and you can show product design outcomes that landed because of it, we’re open.
+
+  
+
+To save your time if this isn’t the right fit:
+
+  
+
+Not for designers without e-commerce or D2C mobile app experience. Our brands run on commerce flows and mobile-first traffic. Without that depth, you’ll spend the first six months learning the basics instead of shipping.
+
+Not for designers who rely on a visual designer to make their work beautiful. We hire craftspeople. Your outputs should be visually engaging on their own.
+
+Not a generalist-across-brands role. You own one brand’s product experience on the team.
+
+Not an agency-style role. We hire for shipped product depth, not campaign or marketing-design work.
+
+Not a remote role. The position is on-site in Gurgaon.

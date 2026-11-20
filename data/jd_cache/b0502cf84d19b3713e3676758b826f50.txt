@@ -1,0 +1,49 @@
+**Your Role and Responsibilities:**
+
+* Design, develop, and enhance backend applications as per business requirements.
+* Maintain and manage applications in a cloud-native environmentusing Kubernetes/OpenShift.
+* Commit source code using GitHub; perform code reviews to ensure code is up to date, compliant, high quality, and free of vulnerabilities.
+* Work in accordance with Agile methodologies.
+* Share knowledge and contribute to the technical growth and upskilling of team members.
+* Demonstrate excellent communication skills while collaborating with cross-functional teams.
+* Ability to quickly pick up new areas and technologies based on business requirements.
+
+**Required Education:**
+
+Bachelor's Degree
+
+**Preferred Education:**
+
+Master's Degree
+
+**Required Technical and Professional Expertise:**
+
+* 7+ years of overall experience in backend application development with a strong understanding of system design and best practices.
+* 5+ years of hands-on development experience in GoLang and/or Python(knowledge of C++ is a plus).
+* Good level of expertise in Kubernetes or OpenShift, including use of Docker/Podman and public cloud providers.
+* Good understanding of Container Networking (CNI) and container-native storage concepts.
+* Strong expertise in version control systems (Git).
+* Experience using cloud technologies such as AWS, GCP, Azure, or IBM Cloud.
+* Hands-on experience with Ansible and Shell scripting.
+* Proficient in Linux system administration.
+* Experience with Infrastructure as Code (IaC) using Terraform.
+* Ability to design and operate a DevOps application lifecycle.
+* Strong understanding of CI/CD pipelines, especially Jenkins, Github Actions, with hands-on experience writing and debugging Jenkinsfiles.
+* Knowledge of Generative AI systems, including:
+* LLM inferencing and model serving, including experience with vLLM
+* Integrating GenAI/LLM inferencing into backend services and APIs
+* Experience with deep learning frameworks such as PyTorch, TensorFlow, and Scikit-learn
+* Understanding of performance, scalability, GPU utilization, and cost considerations for AI workloads in production
+
+**Preferred Technical and Professional Experience:**
+
+* Full-stack development experience using GoLang and/or Python.
+* Advanced expertise in Kubernetes/OpenShift and cloud service providers.
+* Strong knowledge of Generative AI and inferencing, including:
+* Serving LLMs using vLLM in cloud-native environments
+* Scaling and operating inference workloads on Kubernetes/OpenShift
+* Integrating GenAI capabilities into enterprise applications
+* Ability to learn new domains and technologies quickly based on business needs.
+* Excellent written and verbal communication skills.
+
+****Years of Experience:****10 - 15

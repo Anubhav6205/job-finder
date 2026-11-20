@@ -1,0 +1,46 @@
+AI Engineer Lead Analyst  
+  
+Position: AI Engineer Lead Analyst  
+Experience: 5+ Years  
+Technology: RAG, AI Gateway, AWS, MCP, Guardrails, Vector stores in AWS or similar cloud provider  
+Work Location: Hyderabad/Bangalore/Chennai  
+Employment Type: Full-Time  
+Job ID : J1126-0908  
+#LI-SP40  
+  
+. Technical Expertise: Provide alignment and be responsible for the output of Cloud and AI platform within the application development. Implement AI platform strategy, ensuring that it aligns with the overall business and product objectives. Contribute to the definition of applications development policies, standards, and procedures.  
+Project Delivery: Execute software projects, ensuring they are delivered on time, within budget, and meet quality standards. Execute project plans and application designs to ensure projects are aligned with standards and IT strategy. Follow the design principles, and development best practices to ensure scalable, secure, and efficient solutions, collaborating with other senior leads.
+
+**Your future duties and responsibilities**
+
+. Architect and develop scalable, resilient, and ethical AI solutions in collaboration with Product Development, serving as a Generative AI subject matter expert.  
+. Establish connectivity to LLM endpoints in the enterprise cloud and document DNS, routing, IAM policies, and firewall rules.  
+. Implement layered guardrails, including input validation, prompt‑injection shielding, runtime constraints, and content safety, following the enterprise standards.  
+. Build solutions that align with Responsible AI principles, ensuring fairness, transparency, and compliance with enterprise governance requirements and emerging regulations.  
+. Utilize LLMs, open source frameworks, machine learning techniques, and numerical programming tools to create transformative business solutions.  
+. Work with open source libraries (e.g., TensorFlow, PyTorch, Hugging Face Transformers, LangChain), cloud platforms, and internal systems to deliver best in class AI capabilities.  
+. Develop and maintain end to end AI pipelines, including data preprocessing, feature extraction, model training, evaluation, and deployment.  
+. Stay current on AI trends, infrastructure, and emerging issues, particularly as they relate to LLMs and enterprise AI adoption.
+
+**Required qualifications to be successful in this role**
+
+Must Have Skills:  
+  
+Experience: 6 8 years in software/data engineering roles, with a strong track record in cloud native data solutions and 1+ years of hands on AI project experience. Expertise in one of the programming languages (preferably python) Experience in AI systems and tools such as RAG, AI Gateway, MCP, Guardrails, Vector stores in AWS or similar cloud provider. Proven expertise in AWS services (e.g., Lambda, S3, IAM, KMS, API Gateway, EC2, Containers). Preferably hands on experience with Terraform (or similar IaC tools) for provisioning and managing cloud infrastructure. Familiarity with CI/CD tools (e.g., Jenkins, GitHub Actions, GitLab CI). Exposure to Gen AI development environment such as Azure AI, AWS Bedrock or GCP. Experience in using AI productivity tools such as Cursor and exposure to Prompt Engineering.  
+. Leadership & Communication: Demonstrated ability to convert ideas to product components. Ability to actively contribute to technical discussions and influence decisions. Excellent communication and collaboration skills.  
+. Desirable: Experience working in regulated environments or with multi region/multi currency systems. Familiarity with agile methodologies and iterative delivery. Exposure to Jira or similar project management tools.
+
+**Together, as owners, let’s turn meaningful insights into action.**  
+  
+Life at CGI is rooted in ownership, teamwork, respect and belonging. Here, you’ll reach your full potential because…  
+  
+You are invited to be an owner from day 1 as we work together to bring our Dream to life. That’s why we call ourselves CGI Partners rather than employees. We benefit from our collective success and actively shape our company’s strategy and direction.  
+  
+Your work creates value. You’ll develop innovative solutions and build relationships with teammates and clients while accessing global capabilities to scale your ideas, embrace new opportunities, and benefit from expansive industry and technology expertise.  
+  
+You’ll shape your career by joining a company built to grow and last. You’ll be supported by leaders who care about your health and well-being and provide you with opportunities to deepen your skills and broaden your horizons.
+  
+  
+That same commitment to fairness extends to how we use technology. To support our recruitment team, AI tools may be used to help assess applications though they never replace human judgement. All hiring decisions remain entirely in the hands of our recruitment professionals.  
+  
+Come join our team—one of the largest IT and business consulting services firms in the world.

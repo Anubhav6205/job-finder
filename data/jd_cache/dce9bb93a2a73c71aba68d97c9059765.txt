@@ -1,0 +1,30 @@
+Job Summary
+
+  
+
+We are looking for an experienced **Frontend / GenAI Engineer** with strong expertise in **React.js/Next.js and TypeScript** along with hands-on experience in building **Generative AI and LLM-powered applications**. The ideal candidate should have experience integrating **OpenAI/Azure OpenAI**, developing modern AI-driven user interfaces, and working with **RAG, AI Agents, and cloud-based deployments**.
+
+  
+
+Required Skills
+
+  
+
+* 8-12 years of frontend development experience
+* Strong hands-on experience with **React.js or Next.js**
+* Proficiency in **TypeScript, JavaScript, HTML5, CSS3**
+* Experience building **GenAI / LLM-based applications**
+* Hands-on experience with **OpenAI, Azure OpenAI, or similar LLM services**
+* Experience with **REST APIs and Microservices integration**
+* Good understanding of **RAG (Retrieval-Augmented Generation)**
+* Knowledge of **LangChain, LangGraph, AI Agents, or Multi-Agent systems**
+* Experience with **Azure or AWS Cloud**
+* Understanding of authentication, authorization, and application security
+
+Preferred Skills
+
+* Azure AI Search
+* Real-time streaming, SSE, WebSockets
+* Docker and CI/CD
+* AI Observability, Logging, Monitoring
+* Multi-Agent workflows and orchestration

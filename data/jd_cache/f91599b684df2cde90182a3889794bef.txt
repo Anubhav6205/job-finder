@@ -1,0 +1,74 @@
+Founded in 1976, CGI is among the largest independent IT and business consulting services firms in the world. With 94,000 consultants and professionals across the globe, CGI delivers an end-to-end portfolio of capabilities, from strategic IT and business consulting to systems integration, managed IT and business process services and intellectual property solutions. CGI works with clients through a local relationship model complemented by a global delivery network that helps clients digitally transform their organizations and accelerate results. CGI Fiscal 2024 reported revenue is CA$14.68 billion and CGI shares are listed on the TSX (GIB.A) and the NYSE (GIB). Learn more at cgi.com.  
+  
+Job Title: AI/ML Engineer  
+Position: AI/ML Engineer  
+Experience: 6+ Years  
+Category: Software Engineer / Systems Analysis  
+Main Location: Hyd/Ban/Che  
+Position ID: J1126-1511  
+Employment Type: Full Time  
+position Description  
+We are seeking a highly experienced and innovative Senior Generative AI & Agentic AI Engineer with 5+ years of hands-on experience in building, deploying, and scaling enterprise AI solutions. This role will be responsible for designing, developing, and operationalizing secure, production-grade Generative AI, Retrieval-Augmented Generation (RAG), and Agentic AI solutions across enterprise environments. The ideal candidate will have deep expertise in the Microsoft Azure AI ecosystem, including Azure OpenAI, Microsoft Foundry, Azure AI Search, and modern AI orchestration frameworks. The position involves close collaboration with architects, engineers, security teams, data specialists, and business stakeholders to drive the adoption of scalable, secure, and responsible AI capabilities.
+
+**Your future duties and responsibilities**
+
+* Design, develop, and deploy enterprise-scale Generative AI solutions using Large Language Models (LLMs), Azure OpenAI, and Microsoft Foundry.
+* Build and optimize prompt engineering, context engineering, structured outputs, and AI-driven workflows.
+* Design and implement Agentic AI solutions including tool/function calling, state management, context retention, human-in-the-loop controls, and multi-agent orchestration.
+* Develop secure Retrieval-Augmented Generation (RAG) architectures using embeddings, chunking strategies, vector search, hybrid search, semantic retrieval, reranking, and Azure AI Search.
+* Integrate AI solutions with enterprise applications, APIs, databases, Microsoft services, and third-party systems using secure authentication and authorization mechanisms.
+* Implement enterprise-grade security controls addressing prompt injection, data leakage, unauthorized agent actions, privacy regulations, auditability, and Responsible AI requirements.
+* Build AI evaluation, observability, and monitoring frameworks covering hallucination detection, groundedness, retrieval quality, relevance, latency, accuracy, cost monitoring, and agent performance.
+* Develop and maintain clean, scalable, production-ready code using Python and/or C#/.NET while following software engineering best practices.
+* Establish CI/CD pipelines, automated testing, containerization, and cloud-native deployment strategies for AI applications.
+* Research emerging AI technologies, evaluate new tools and frameworks, rapidly prototype innovative solutions, and contribute to enterprise AI strategy.
+* Collaborate effectively with architecture, engineering, security, platform, data, and business teams throughout the solution lifecycle.
+
+**Required qualifications to be successful in this role**
+
+Must-Have Skills  
+
+* Bachelor's or Master's degree in Computer Science, Artificial Intelligence, Data Science, Engineering, or a related discipline.
+* 5+ years of experience in Software Engineering, Cloud Engineering, AI/ML Engineering, or Generative AI development.
+* Strong hands-on experience building and deploying production-grade Generative AI applications.
+* Expertise in Python and/or C#/.NET development.
+* Hands-on experience with Azure OpenAI, Microsoft Foundry, or similar enterprise LLM platforms.
+* Strong knowledge of LLMs, Prompt Engineering, Context Engineering, Structured Outputs, Tool Calling, and Agentic AI concepts.
+* Proven experience building RAG solutions using embeddings, document chunking, vector databases, hybrid search, reranking, and semantic retrieval.
+* Experience with Azure AI Search and enterprise search implementations.
+* Hands-on experience with AI orchestration technologies such as Semantic Kernel, Microsoft Foundry Agent Service, or equivalent frameworks.
+* Strong Microsoft Azure expertise including cloud-native development, API integration, authentication, authorization, and security implementation.
+* Experience with Microsoft Entra ID and enterprise identity management.
+* Knowledge of LLMOps, AI evaluation frameworks, observability, monitoring, model governance, and cost optimization.
+* Strong understanding of Responsible AI, AI Security, GDPR/Data Privacy, prompt injection risks, access controls, and enterprise AI governance.
+* Experience with Git, CI/CD pipelines, automated testing, containerization, and cloud deployment practices.
+* Excellent problem-solving, stakeholder management, and communication skills.
+
+  
+Good-to-Have Skills  
+
+* Experience with Microsoft Graph API and Microsoft 365 integrations.
+* Exposure to advanced multi-agent systems and autonomous agent architectures.
+* Experience with Azure Machine Learning and MLOps platforms.
+* Knowledge of vector databases such as Pinecone, Weaviate, Chroma, or Azure Cosmos DB Vector Search.
+* Experience with LangChain, LlamaIndex, AutoGen, CrewAI, or similar AI frameworks.
+* Familiarity with Kubernetes, Docker, Terraform, and Infrastructure as Code (IaC).
+* Experience with enterprise knowledge management and document intelligence solutions.
+* Azure AI, Azure Data, or Microsoft AI-related certifications.
+* Experience in regulated industries such as Banking, Insurance, Healthcare, or Financial Services.
+* Knowledge of advanced AI evaluation frameworks, red teaming, adversarial testing, and AI risk management practices.
+
+**Together, as owners, let’s turn meaningful insights into action.**  
+  
+Life at CGI is rooted in ownership, teamwork, respect and belonging. Here, you’ll reach your full potential because…  
+  
+You are invited to be an owner from day 1 as we work together to bring our Dream to life. That’s why we call ourselves CGI Partners rather than employees. We benefit from our collective success and actively shape our company’s strategy and direction.  
+  
+Your work creates value. You’ll develop innovative solutions and build relationships with teammates and clients while accessing global capabilities to scale your ideas, embrace new opportunities, and benefit from expansive industry and technology expertise.  
+  
+You’ll shape your career by joining a company built to grow and last. You’ll be supported by leaders who care about your health and well-being and provide you with opportunities to deepen your skills and broaden your horizons.
+  
+  
+That same commitment to fairness extends to how we use technology. To support our recruitment team, AI tools may be used to help assess applications though they never replace human judgement. All hiring decisions remain entirely in the hands of our recruitment professionals.  
+  
+Come join our team—one of the largest IT and business consulting services firms in the world.

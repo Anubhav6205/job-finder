@@ -1,0 +1,59 @@
+The Opportunity
+
+Join us as an AI Demo Engineer, a truly ground-floor role where you’ll be instrumental in shaping the future of Scout, our brand-new AI product. You’ll tackle the exciting challenge of building, not just maintaining, dynamic AI-powered demonstrations that empower our Sales Engineers and directly drive deal closures. This is your chance to build a critical function from scratch, defining processes and making a tangible impact on our market approach, bringing real variety and ownership to every project.
+
+What You'll Do
+
+As our first AI Demo Engineer in Bangalore, you will occupy a unique, pivotal position, bridging the gap between traditional Demo Engineering and AI engineering. Your primary focus will be on constructing sophisticated agentic Scout workflows, moving beyond static demo data to craft intelligent, multi-step solutions. You will own the creation of a comprehensive library of reusable standard demo agents, complete with robust data and documentation, serving as the essential foundation for all sales demonstrations. Furthermore, you will design and implement prospect-specific agents tailored to individual deal requirements, directly contributing to successful sales outcomes. A crucial part of your role involves maintaining the main demo template, ensuring it remains current, functional after platform updates, and populated with fresh data and golden records. Beyond building, you will become a diagnostic expert, analyzing prospect usage within Proof-of-Concept (POC) instances, identifying why a solution might not be landing, and expertly tuning agents, data, and configurations to optimize outcomes and secure conversions. You won't inherit a fixed process; instead, you'll help define the operating model for this critical new team function.
+
+The Skills You'll Have
+
+**Agentic AI / Scout Configuration**
+
+* You'll build or configure at least one agentic AI workflow, demonstrating proficiency with agents that plan, call tools, and complete multi-step tasks.
+* You'll possess hands-on prompt engineering experience, having written and iterated prompts/instructions for LLM-based tools.
+* You'll have a basic understanding of MCP (Multi-Cloud Platform) or comparable tool-calling/connector patterns.
+* You'll have designed multi-system agentic workflows end-to-end, showcasing your ability to move beyond single-agent/single-tool solutions.
+* You'll have built or worked directly with MCP connectors, leveraging your deep technical expertise.
+
+**Business Translation & Demo Enablement**
+
+* You'll translate complex business requirements into working demos, prototypes, or configurations without extensive guidance.
+* You'll produce clear documentation or handoff guides that empower others to successfully run a build you created.
+* You'll quickly understand a prospect's business process, translating it into value-led Scout workflows and compelling demo scripts.
+* You'll scope realistic deliverables and deadlines in collaboration with Sales Engineers, proactively closing gaps in incomplete requirements.
+* You'll hold one or more Salesforce certifications, and/or possess direct Sitetracker platform experience, enhancing your industry relevance.
+
+**POC Analysis & Tuning**
+
+* You'll analyze the usage of a live tool or instance and implement changes that measurably improved its performance.
+* You'll be comfortable reading how a system is actually being used, rather than relying solely on its intended design.
+* You'll diagnose why a POC instance is or isn't landing, treating challenges as diagnostic problems to solve.
+* You'll tune agents, data, and configurations to improve POC outcomes, directly affecting conversion rates.
+* You'll have run structured POC or pilot programs end-to-end, demonstrating a robust feedback loop from usage data back into configuration.
+
+**Industry Knowledge**
+
+* You'll have some exposure to Telecom, Utilities, Renewables, or another infrastructure-heavy industry, or to a software company that targets these verticals.
+* You'll possess the ability to quickly learn new infrastructure-heavy industries and deepen your expertise in existing ones.
+* You'll ensure Scout demos are credible and specific to a prospect's vertical, enhancing their impact.
+* You'll have worked directly in one of Sitetracker's target industries, or for a software company serving them.
+* You'll leverage your industry depth to keep Scout demos compelling and highly relevant to prospects.
+
+Within 90 Days, You'll
+
+* Establish the foundational components of a working standard demo agent library, with initial reusable Scout demo agents, data, and documentation available for SEs.
+* Take ownership of the main demo template, ensuring its stability and beginning the process of refreshing demo data and documentation.
+* Contribute your first prospect-specific agent builds to active sales opportunities, gaining hands-on experience in high-stakes scenarios.
+
+Within 180 Days, You'll
+
+* Significantly expand the standard demo agent library, incorporating new use cases and refining existing agents based on SE feedback and market needs.
+* Demonstrate clear contributions to closed deals through your custom Scout builds, directly impacting sales wins and validating your approach.
+* Successfully diagnose and tune struggling POC instances, applying your analytical skills to improve prospect engagement and conversion rates.
+
+Within 365 Days, You'll
+
+* Own a comprehensive, high-performing library of Scout demo agents that are consistently leveraged by the Sales Engineering team, becoming an indispensable asset for sales cycles.
+* Regularly contribute to the closure of significant deals through your expert prospect-specific agent builds and POC tuning, directly influencing revenue growth.
+* Help define and standardize the operating model and best practices for demo engineering within the Scout product team, shaping the long-term strategy for this critical function.

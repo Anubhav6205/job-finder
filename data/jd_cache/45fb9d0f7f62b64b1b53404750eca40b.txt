@@ -1,0 +1,92 @@
+**Company:**
+------------
+
+Qualcomm India Private Limited
+
+**Job Area:**
+-------------
+
+Engineering Services Group, Engineering Services Group > Technical Communications - Writing
+
+**General Summary:**
+
+**Job Overview**
+
+This position will be a part of the Global Technical Communications team that produces quality technical product information for all of Qualcomm’s products and customers.
+
+As a Writer, you will support engineers in planning, organizing, writing, formatting, editing, and releasing highly technical information deliverables such as: Developer documentation, SDKs, Quick starts, User guides, Debug guides, APIs, Datasheets, Specifications, Programmer reference, Tutorials, Presentations - both hard-copy and soft-copy deliverables are included.
+
+  
+
+**Skills/Experience**
+
+* Good English communication skills
+* 6-10 years of experience creating end-user documents in a high-tech technical publications environment
+* Strong ability to understand and document complex technical concepts
+* Experience working directly with engineering teams throughout the product development lifecycle
+* Excellent written, verbal, and editorial communication skills
+* Experience with structured authoring and version control systems
+* Team player and strong stakeholder management skills
+* Ability to handle changes and ambiguity
+  
+
+**Desirable**
+
+* Experience with Developer documentation
+* Knowledge of structured markup languages such as Markdown or reStructuredText (rST)
+* Knowledge of the Docs-as-Code methodology
+* Knowledge of content management systems such as Perforce and GitHub
+* Experience documenting mobile, embedded, AI, multimedia, connectivity, modem, or Snapdragon technologies
+* Knowledge of Linux, Android, Windows, embedded systems, or device drivers
+* Experience with JIRA, Confluence, and API documentation
+* Familiarity with Generative AI tools and documentation automation workflows
+* Experience driving content reuse, single sourcing, and documentation modernization initiatives
+* Previous experience with large-scale documentation projects and influencing documentation strategy
+  
+
+**Additional Skills/Interest**
+
+* Ability to understand chipset layout/circuit design
+* Basic understanding of computer architecture and semiconductor fundamentals
+  
+
+**Additional Job Description**
+
+* Creates clear, accurate, and concise technical content by leveraging knowledge of technical writing principles, resources, and tools, as well as various types of Qualcomm products and technologies
+* Edits, updates, and reviews content based on an understanding of project requirements to meet business goals and customer needs, in collaboration with other teams (for example, Engineering and Business)
+* Ensures technical content is standardized for ease of use by stakeholders and innovates on the technical documentation creation process to align with industry standards and best practices
+  
+
+**Minimum Qualifications**
+
+* Bachelor's degree in Engineering, Computer Science, Communications, English, or related field and 4+ years of experience writing and editing software and/or hardware documentation and content, or related work experience.
+    
+  OR
+* Associate's degree and 6+ years of writing and editing software and/or hardware documentation and content, or related work experience.
+    
+  OR
+* High School diploma or equivalent and 8+ years of writing and editing software and/or hardware documentation and content, or related work experience.
+
+**Minimum Qualifications:**
+
+* Bachelor's degree in Engineering, Computer Science, Communications, English, or related field and 4+ years of experience writing and editing software and/or hardware documentation and content, or related work experience.
+
+OR
+  
+Associate's degree and 6+ years of writing and editing software and/or hardware documentation and content, or related work experience.
+  
+OR
+  
+High School diploma or equivalent and 8+ years of writing and editing software and/or hardware documentation and content, or related work experience.
+  
+  
+
+* Completed advanced degrees in a relevant field may be substituted for up to two years (Master’s = one year, Doctorate = two years) of work experience.
+
+**Applicants** : Qualcomm is an equal opportunity employer. If you are an individual with a disability and need an accommodation during the application/hiring process, rest assured that Qualcomm is committed to providing an accessible process. You may e-mail disability-accomodations@qualcomm.com or call Qualcomm's toll-free number found here . Upon request, Qualcomm will provide reasonable accommodations to support individuals with disabilities to be able participate in the hiring process. Qualcomm is also committed to making our workplace accessible for individuals with disabilities. (Keep in mind that this email address is used to provide reasonable accommodations for individuals with disabilities. We will not respond here to requests for updates on applications or resume inquiries).
+
+Qualcomm expects its employees to abide by all applicable policies and procedures, including but not limited to security and other requirements regarding protection of Company confidential information and other confidential and/or proprietary information, to the extent those requirements are permissible under applicable law.
+
+**To all Staffing and Recruiting Agencies** : Our Careers Site is only for individuals seeking a job at Qualcomm. Staffing and recruiting agencies and individuals being represented by an agency are not authorized to use this site or to submit profiles, applications or resumes, and any such submissions will be considered unsolicited. Qualcomm does not accept unsolicited resumes or applications from agencies. Please do not forward resumes to our jobs alias, Qualcomm employees or any other company location. Qualcomm is not responsible for any fees related to unsolicited resumes/applications.
+
+If you would like more information about this role, please contact Qualcomm Careers .

@@ -1,0 +1,26 @@
+**Responsibilities:**
+
+  
+
+* Implement individual LangGraph agent nodes per agreed specifications: data retrieval, clinical assessment, evidence gathering, decision evaluation, and recommendation.
+* Build and maintain tool wrappers in the AI Tool Layer for enterprise clinical service integrations (claims, Rx, clinical documents, clinical model rules).
+* Write and optimize LLM prompt templates for relevance scoring and document processing tasks.
+* Implement error handling, retry logic, and circuit breaker patterns within agent nodes.
+* Instrument nodes with OpenTelemetry spans and structured audit log events.
+* Write unit and integration tests for all implemented nodes and tool integrations.
+* Participate in code reviews and contribute to engineering standards within the team.
+* Support integration testing, debugging, and defect resolution through the testing phase.
+
+  
+
+**Required Skills & Experience:**
+
+  
+
+* 6+ years software engineering experience; 3+ year working with LLM APIs or AI application development.
+* **Python:** async programming, REST API consumption, clean modular code.
+* **LLM integration:** experience calling LLM APIs (Azure OpenAI, OpenAI, or equivalent); function/tool calling, prompt construction, response parsing.
+* **LangGraph or LangChain:** working knowledge of agent node patterns, state management, and tool use. Production experience a strong plus.
+* Azure fundamentals: containerized workloads on AKS, Azure services consumption.
+* Testing discipline: unit tests, integration tests, and test-driven development practices.
+* Comfortable working within a defined architecture under senior technical direction.

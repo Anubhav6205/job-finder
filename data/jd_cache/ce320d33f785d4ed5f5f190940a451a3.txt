@@ -1,0 +1,47 @@
+**Job Description:**
+--------------------
+
+  
+
+* We are seeking a skilled AI ML Engineer with 5 9 years of experience in designing developing and deploying Machine Learning and Generative AI solutions
+* The ideal candidate should have hands on experience in machine learning algorithms deep learning NLP data preprocessing model deployment and MLOps practices
+* The candidate will work closely with business stakeholders data scientists and engineering teams to build scalable AI driven applications
+
+  
+
+**Key Responsibilities:**
+-------------------------
+
+  
+
+* Design develop train test and deploy Machine Learning models for business use cases
+* Build and optimize predictive classification recommendation and forecasting models
+* Develop and implement NLP LLM and Generative AI solutions
+* Perform data collection cleaning feature engineering and exploratory data analysis
+* Fine tune and optimize pre trained models for domain specific applications
+* Develop APIs and microservices to expose AI ML models
+* Implement MLOps practices for model deployment monitoring versioning and retraining
+* Work with large datasets and distributed processing frameworks
+* Collaborate with cross functional teams to understand business requirements and translate them into AI solutions
+* Monitor model performance accuracy and drift in production environments
+* Create technical documentation and best practices for AI ML implementations
+
+  
+
+**Technical Requirements:**
+---------------------------
+
+  
+
+* Python SQL Data Structures Algorithms
+* Machine Learning Deep Learning TensorFlow PyTorch Scikit Learn
+* Generative AI LLMs LangChain RAG Prompt Engineering
+* AWS Azure GCP Docker Kubernetes MLOps CI CD
+* NLP Vector Databases FAISS Pinecone ChromaDB Pandas NumPy API Development
+
+  
+
+**Preferred Skills:**
+---------------------
+
+Technology->AI-AI Engineering->AI/ML Solution Architecture and Design->generative ai

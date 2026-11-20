@@ -1,0 +1,59 @@
+**Role & responsibilities**
+
+  
+
+**Location: PAN India**
+
+**Interview Mode: L1 virtual & L2 F2F mandatory**
+
+  
+
+**Mandatory Skills :**  SOX, ITGC, GRC, AI for GRC, AI/Generative AI, Control Assurance, GRC Risk Assessment, ISO 42001, IT Audit, Microsoft Copilot for Security, PCI DSS, Python-Cybersecurity
+
+Job Description IT SOX ITGC Audit Senior Specialist minimum 6+ years experience
+
+Position Summary
+
+We are seeking a detailoriented IT SOX ITGC Audit professional with min 10 years of experience in IT controls SOX compliance and audit execution The role involves supporting endtoend SOX lifecycle activities including control design testing documentation and remediation tracking across multiple applications and platforms
+
+Key Responsibilities
+
+SOX Compliance ITGC Testing
+
+Execute ITGC testing Access Management Change Management IT Operations in line with SOX requirements
+
+Perform walk throughs to understand control design and validate effectiveness
+
+Assess controls against frameworks such as COSO COBIT and SOX Section 404
+
+Identify control gaps document deficiencies and support remediation efforts
+
+Control Execution Documentation
+
+Prepare detailed test plans work papers and audit documentation in tools like Audit Board Excel
+
+Evaluate key controls including
+
+* Logical Access Management
+* Segregation of Duties SoD
+* Change Management lifecycle
+* SDLC
+* Job scheduling batch processing and backup controls
+
+Ensure audit documentation is compliant and audit ready
+
+Stakeholder Management
+
+Coordinate with IT business and control owners for evidence collection
+
+Track testing status followups and ensure timely closure of audit requests
+
+Support internal external auditors during audit cycles
+
+Deficiency Risk Management
+
+Classify control deficiencies Design Operating and assess impact
+
+  
+
+**share profile in rehnuma@acsconsultants.in**

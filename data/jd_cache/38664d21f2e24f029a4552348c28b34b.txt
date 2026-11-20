@@ -1,0 +1,108 @@
+**Job Requirements**  
+
+To drive the end-to-end development, scientific evaluation, and product lifecycle management of Artificial Intelligence and Machine Learning (AI/ML) systems as part of an R&D organization. The Mid-Senior Data Scientist plays a key role in translating clinical, scientific, customer, and product requirements into robust AI/ML solutions and generating the scientific evidence required to demonstrate their performance, safety, reliability, and suitability for the intended use.
+
+The role requires a combination of strong Data Science and machine learning expertise, practical experience in clinical science, biomedical research, medical technology, or a related applied research environment, and the ability to work effectively across multidisciplinary product development teams.
+
+The candidate is expected to take ownership of assigned AI/ML components and scientific workstreams, from defining algorithm concepts and development strategies through data curation, algorithm development, performance characterization, verification and validation, and lifecycle monitoring. They should be capable of independently driving technical and scientific activities while collaborating closely with Data Scientists, clinical and domain experts, product management, software engineering, and quality and regulatory functions.
+
+A PhD is welcome but is not a prerequisite. Demonstrated experience in applied clinical or biomedical research, scientific evidence generation, and cross-functional product development is particularly valuable.
+
+**What are my responsibilities?**
+=================================
+
+* Lead the translation of customer needs, intended use, clinical or technical requirements, and applicable regulatory considerations into measurable algorithm performance targets and product requirements.
+* Drive the definition of AI/ML development and scientific evaluation strategies for assigned algorithm components, ensuring alignment with the overall product and clinical development strategy.
+* Work closely with research scientists, medical experts, product managers, and other stakeholders to understand clinical workflows, relevant endpoints, use cases, and the scientific context in which algorithms will be used.
+* Independently conduct exploratory data analysis and comprehensive data risk assessments to identify data gaps, quality issues, potential bias, confounding factors, outliers, and limitations that may affect algorithm development and evaluation.
+* Define data requirements, sourcing strategies, cohort composition, subgroup representation, and acceptance criteria for training, tuning, and independent evaluation datasets, ensuring alignment with the intended use and target population.
+* Lead the specification and quality assurance of annotations, including annotation guidelines, acceptance criteria, inter- and intra-annotator variability, and quality control processes. Collaborate with internal and external clinical experts, data providers, and annotation suppliers.
+* Establish and maintain representative, well-documented, and version-controlled data cohorts, ensuring data provenance, traceability, integrity, and fitness for purpose throughout the development lifecycle.
+* Design, implement, train, optimize, and technically characterize AI/ML algorithm components using appropriate machine learning, deep learning, statistical, and generative AI methods.
+* Identify and assess suitable emerging AI technologies, including foundation models, Large Language Models (LLMs), retrieval-augmented generation (RAG), model adaptation, fine-tuning, and Agentic AI approaches, where relevant to the product use case.
+* Define scientifically justified performance metrics, evaluation methodologies, test cases, and acceptance criteria to assess algorithm performance, including accuracy, robustness, reliability, generalizability, explainability, bias, and subgroup performance.
+* Plan, lead, and execute reproducible scientific evaluations and bench tests using representative datasets and relevant subgroups as part of the overall verification and validation strategy.
+* Interpret scientific and technical evaluation results, conduct detailed error and failure-mode analyses, investigate unexpected findings, and derive evidence-based recommendations for algorithm improvements and product decisions.
+* Assess the clinical and practical relevance of algorithm performance, including the implications of model limitations, data characteristics, and potential failure modes in the intended use environment.
+* Contribute to the design and execution of clinical investigations, reader studies, retrospective or prospective studies, and other evidence-generation activities required to establish algorithm performance and clinical relevance.
+* Collaborate with clinical research and domain experts to ensure that scientific evaluation approaches, study protocols, endpoints, and interpretations are methodologically sound and relevant to real-world use.
+* Take ownership of Data Science work products and scientific documentation, including data management information, data and annotation specifications, algorithm development documentation, scientific evaluation protocols, test cases, and scientific evaluation reports.
+* Provide scientific and technical input into product reviews, design reviews, verification and validation activities, and regulatory submissions. Support responses to questions concerning data, annotations, methodology, clinical relevance, and algorithm performance.
+* Work closely with software engineering and MLOps teams to establish reproducible development pipelines, versioned datasets and models, experiment tracking, automated testing, controlled deployment, and integration of AI/ML components into products.
+* Contribute to the definition and implementation of lifecycle monitoring strategies, including metrics and mechanisms for detecting data anomalies, changes in data distributions, performance degradation, and algorithm drift.
+* Identify technical, scientific, clinical, and data-related risks early and proactively communicate their potential impact on algorithm development, product performance, and regulatory objectives.
+* Mentor and provide technical guidance to junior Data Scientists, support knowledge sharing, and contribute to the development of scientific and technical best practices within the R&D organization.
+* Stay up to date with advances in Data Science, AI/ML, clinical research, biomedical science, and applicable regulatory expectations, assessing their relevance and potential application to ongoing and future product development.
+
+**Qualification**
+=================
+
+Master's degree or PhD in Computer Science, Data Science, Statistics, Mathematics, Biomedical Engineering, Medical Informatics, Biomedical Sciences, Clinical Research, or another relevant quantitative, scientific, or engineering discipline.
+
+A PhD is welcome but not required. Equivalent professional experience in clinical science, biomedical research, medical technology, applied AI/ML research, or a related scientific and technical environment is highly valued.
+
+The candidate should have a strong foundation in:
+
+* Probability, statistics, experimental design, and scientific methodology.
+* Artificial intelligence, machine learning, and deep learning.
+* Linear algebra, optimization, and numerical methods.
+* Data structures, algorithms, and software programming.
+* Clinical research methodology, biomedical research, or applied scientific investigation.
+* Model evaluation, interpretation of empirical results, and evidence-based decision-making.
+
+**Experience Level**
+====================
+
+This is a Mid-Senior R&D position. The candidate is expected to have approximately 4–8 years of relevant professional experience in Data Science, AI/ML, clinical science, biomedical research, medical technology, or a related applied research and product development environment.
+
+The emphasis is on demonstrated ownership and practical experience rather than academic qualifications or years of experience alone.
+
+Particularly relevant experience includes:
+
+* Hands-on development and scientific evaluation of AI/ML models in applied research or product development environments.
+* Experience working with clinical data, biomedical datasets, medical imaging, healthcare applications, or other domain-specific scientific data.
+* Experience designing or contributing to clinical studies, scientific investigations, or structured evidence-generation activities.
+* Experience translating clinical, scientific, or customer requirements into technical specifications and measurable performance criteria.
+* Experience collaborating across multidisciplinary teams, including clinical experts, researchers, engineers, product management, and quality and regulatory stakeholders.
+* Experience taking AI/ML solutions from research and prototyping towards product integration, verification, validation, and deployment.
+
+Candidates with a strong background in clinical research, biomedical engineering, medical informatics, or applied healthcare AI are particularly encouraged, even if their professional experience is not exclusively in traditional Data Science roles.
+
+**Desired Knowledge & Experience**
+==================================
+
+* Strong understanding of machine learning, deep learning, statistical analysis, experimental design, and scientific evaluation methodologies.
+* Active programming skills in Python and practical experience with libraries and frameworks such as NumPy, Pandas, SciPy, scikit-learn, PyTorch, TensorFlow, or Keras.
+* Demonstrated experience in the end-to-end AI/ML development workflow, including data preparation, model development, training, tuning, evaluation, error analysis, reproducibility, and technical documentation.
+* Proven ability to independently define and execute scientific evaluation strategies, including performance metrics, evaluation cohorts, subgroup analyses, test methods, and acceptance criteria.
+* Practical experience in clinical science, biomedical research, medical technology, healthcare AI, or another domain-specific applied research environment.
+* Understanding of clinical research principles, including study design, clinical endpoints, patient populations, data interpretation, and the assessment of clinical relevance.
+* Experience working with clinical or biomedical data, including an understanding of data quality, representativeness, bias, confounding factors, annotation quality, data provenance, and traceability.
+* Demonstrated ability to translate scientific and clinical questions into technical problems and to communicate algorithm performance, limitations, and implications to multidisciplinary stakeholders.
+* Experience contributing to scientific publications, clinical investigations, research reports, technical documentation, or other structured evidence-generation activities.
+* Knowledge of medical device software development, AI/ML product lifecycle management, and relevant quality and regulatory frameworks is an advantage.
+* Familiarity with MLOps concepts and tooling, including source and data versioning, reproducible pipelines, experiment tracking, automated testing, CI/CD, deployment, and performance monitoring.
+* Hands-on experience with current Large Language Models and Generative AI, including foundation models, prompting, retrieval-augmented generation, model adaptation, and fine-tuning.
+* Knowledge of Agentic AI, including tool-using models, multi-step workflows, orchestration, memory, and autonomous or semi-autonomous decision paths, is an advantage.
+* Experience with systematic evaluation of LLM, Generative AI, and Agentic AI systems, including task-specific benchmarks, groundedness, factuality, robustness, reproducibility, human evaluation, safety and guardrail testing, tool-use correctness, and failure-mode analysis.
+* Experience with databases and query languages such as SQL; knowledge of Kusto Query Language, Snowflake, or graph databases such as Neo4j is an advantage.
+* Exposure to cloud-based data and AI environments, preferably Microsoft Azure, including Azure Blob Storage, Azure Databricks, Azure Data Factory, Azure Machine Learning, Azure Monitor, or Azure DevOps.
+* Experience working with structured and unstructured data, including clinical datasets, medical imaging, machine logs, event data, Parquet files, text data, or multimodal data.
+* Knowledge of healthcare, medical technology, clinical data, or interoperability standards such as DICOM, HL7, or FHIR is preferred.
+* Familiarity with medical device development standards and regulatory frameworks, such as ISO 13485, IEC 62304, ISO 14971, and applicable AI-related regulatory requirements, is an advantage.
+* Experience coordinating scientific and technical workstreams, managing project deliverables, and aligning priorities across cross-functional R&D and product development teams.
+
+**Required Soft Skills & Other Capabilities**
+=============================================
+
+* Strong scientific mindset, analytical thinking, critical reasoning, and attention to detail, with the ability to challenge assumptions and draw objective conclusions from empirical evidence.
+* Ability to independently drive scientific and technical workstreams, take ownership of deliverables, and make well-founded decisions within an agreed scope.
+* Strong interdisciplinary mindset, with the ability to bridge Data Science, clinical science, biomedical research, software engineering, product development, and regulatory considerations.
+* Proven ability to collaborate effectively with clinical experts, researchers, Data Scientists, software developers, product managers, and quality and regulatory stakeholders.
+* Ability to understand and appreciate clinical and scientific context, translating complex domain-specific problems into practical and technically sound AI/ML solutions.
+* Commitment to scientific integrity, reproducibility, traceability, data quality, and responsible AI development.
+* Curiosity and resilience to investigate unexpected results, identify root causes, challenge established approaches, and continuously improve algorithms based on scientific evidence.
+* Strong problem-solving and decision-making skills, including the ability to assess technical and scientific risks, identify dependencies, and propose practical solutions.
+* Excellent written and verbal communication skills in English, including the ability to present and explain complex scientific methods, clinical context, technical results, uncertainties, limitations, and risks to both technical and non-technical stakeholders.
+* Ability to take initiative, manage competing priorities, and work independently while recognizing when alignment or guidance from senior technical, clinical, product, or regulatory stakeholders is required.
+* Willingness to share knowledge, mentor junior colleagues, and contribute to a collaborative, scientifically rigorous, and innovation-driven R&D culture.

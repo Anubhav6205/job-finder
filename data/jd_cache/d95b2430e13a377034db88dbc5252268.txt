@@ -1,0 +1,45 @@
+**Role & responsibilities**
+
+* Design, develop, and deploy Generative AI applications using LLMs, RAG architectures, and Agentic AI frameworks.
+* Build and implement AI agents, autonomous workflows, and multi-agent orchestration solutions.
+* Develop scalable AI-powered applications using Python, FastAPI, and relevant AI frameworks.
+* Implement RAG pipelines involving document ingestion, embeddings, vector databases, semantic search, and retrieval optimization.
+* Integrate LLMs such as OpenAI GPT, Claude, Gemini, and open-source models into enterprise applications.
+* Develop AI solutions using frameworks such as LangChain, LangGraph, CrewAI, or AutoGen.
+* Implement tool/function calling, Model Context Protocol (MCP), and agent orchestration workflows.
+* Design and deploy AI applications on AWS using services such as Amazon Bedrock, Lambda, S3, API Gateway, ECS, and EKS.
+* Develop REST APIs and integrate AI capabilities with existing enterprise applications and services.
+* Implement prompt engineering, prompt optimization, and LLM evaluation techniques to improve response accuracy.
+* Establish AI guardrails, hallucination detection, data privacy, and secure AI development practices.
+* Optimize LLM performance, latency, token utilization, and infrastructure costs.
+* Collaborate with architects, product owners, data engineers, and cross-functional teams to deliver end-to-end AI solutions.
+* Troubleshoot production AI applications and implement monitoring, logging, and observability mechanisms.
+
+**Must-Have Skills**
+
+1. **Programming:** Python, FastAPI / Flask, REST API Development
+2. **Generative AI:** LLMs, Prompt Engineering, LLM Integration, OpenAI / Claude / Gemini
+3. **Agentic AI:** AI Agents, Agent Orchestration, Tool/Function Calling
+4. **AI Frameworks:** LangChain, LangGraph, CrewAI or AutoGen
+5. **RAG:** Retrieval-Augmented Generation, Embeddings, Semantic Search
+6. **Vector Databases:** FAISS, ChromaDB, Pinecone, OpenSearch or equivalent
+7. **Cloud:** AWS, Amazon Bedrock, Lambda, S3, API Gateway
+8. **Deployment:** Docker, CI/CD, Git, Cloud Deployment
+
+**Good-to-Have Skills**
+
+* Experience implementing multi-agent architectures and autonomous AI workflows.
+* Knowledge of Model Context Protocol (MCP) and Agent-to-Agent (A2A) communication.
+* Exposure to fine-tuning techniques such as LoRA, QLoRA, and PEFT.
+* Experience with Hugging Face Transformers and open-source LLMs.
+* Understanding of AI security, prompt injection, jailbreak prevention, and guardrails.
+* Experience with LLMOps, MLflow, LangSmith, Langfuse, or similar observability platforms.
+
+  
+
+**Preferred candidate profile**
+
+  
+  
+
+**Perks and benefits**

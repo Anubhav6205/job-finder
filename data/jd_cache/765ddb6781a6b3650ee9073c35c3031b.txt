@@ -1,0 +1,76 @@
+**Note:** *Tarlan is recruiting a Organic Channel Lead for Bindbee, an Software Infrastructure SaaS startup. Tarlan is a recruiting firm managing this search.*
+
+  
+
+**About Bindbee**
+
+Bindbee is a unified API for HR, payroll and benefits systems. Companies building benefits, HR and insurance software connect to Bindbee once. They skip building and maintaining separate integrations with Workday, ADP, UKG, Paycom and 110+ other systems.
+
+  
+
+Our customers are US companies: benefits administrators, TPAs, ICHRA platforms, benefits navigation apps and HR tech products. Teams like ThrivePass, Newfront and Healthee run on Bindbee. We are SOC 2, ISO, GDPR and HIPAA compliant.
+
+  
+
+Our buyers are CTOs, heads of engineering and product leaders. They search, compare vendors and increasingly ask ChatGPT and Claude before they talk to us.
+
+  
+
+**The role**
+
+You own the organic channel end to end, and you are measured on qualified pipeline, not traffic. Rankings, sessions and AI citations matter only if they turn into meetings that qualify.
+
+  
+
+The website is already our second-largest source of meetings. The job is two things at once: bring in more of the right buyers, and stop the wrong ones from reaching the calendar.
+
+  
+
+This is an individual contributor role. You set the strategy and you do the work: the audits, the briefs, the page fixes, the reporting. When we use an agency, you direct it and hold it to a pipeline number. When we dont, you run the whole thing in-house with our team and our AI workflows.
+
+  
+
+We want someone who has already seen this work across many accounts. You know which tactics worked for several US B2B SaaS companies and which only worked once, and you can bring that pattern library on day one.
+
+  
+
+**What you'll do**
+
+* Own the organic strategy. Decide which topics, pages and keywords we go after, based on buyer intent and pipeline, not search volume alone.
+* Run technical SEO. Site architecture, crawl and indexing, Core Web Vitals, schema and internal linking on our Webflow site.
+* Win AI answers (AEO and GEO). Get Bindbee cited and recommended in ChatGPT, Perplexity, Gemini and Google AI Overviews when buyers ask about HR, payroll and benefits integrations.
+* Build topical authority. Plan and ship topic clusters: integration pages for each HR and payroll system, comparison pages, use case pages and deep technical guides.
+* Turn traffic into pipeline. Own conversion on the site: page CTAs, demo forms, the booking flow and the qualification step before a meeting is booked.
+* Earn authority off-site. Backlinks, brand mentions, review sites and partner listings that both search engines and LLMs trust.
+* Measure what matters. Own GA4, Search Console and attribution so every qualified meeting from the website traces back to the page that produced it.
+* Direct the work. Write briefs, review content for accuracy, and manage an agency when we have one.
+* Use and improve our AI workflows. We research, brief and draft with Claude-based tools. You make them sharper.
+
+  
+
+Stack: Webflow, GA4, Google Search Console, HubSpot, DataforSEO, Microsoft Clarity, Peec AI and Claude.
+
+  
+
+**Who you are**
+
+* You have agency experience. This is the must-have. You have worked at an SEO or growth agency and managed organic for several B2B SaaS clients selling to the US market.
+* You have seen what works across accounts. You can name the tactics that worked again and again across clients, and the ones that only worked once. You know why.
+* You know US B2B buyers. You understand how technical buyers in the US search, compare vendors and decide, and what makes a SaaS page rank and convert.
+* You are strong on technical SEO. You can audit a site, find what is broken and fix it, or write a spec a developer can ship.
+* You already work on AEO. You have structured content to be cited by AI answer engines and you track AI visibility, not just Google rankings.
+* You think in pipeline. You have tied organic work to leads, meetings and revenue before, and you can show the numbers.
+* You write clearly. You can turn a complex topic like a payroll API into a page a CTO trusts.
+* You learn the domain fast. You wont code, but you will learn what an API, a webhook and an SFTP file feed are, and why our buyers care.
+* 4 to 5 years in SEO or organic growth. Experience in HR tech, fintech or developer tools is a bonus.
+
+  
+
+**Who this isnt for**
+
+* Someone who reports traffic and rankings but has never been asked about pipeline.
+* Someone who has only worked on one in-house site and hasnt seen what works across different accounts.
+* Someone whose experience is mostly B2C, ecommerce or local SEO.
+* Someone who only writes content, or only does technical SEO, and hands off the rest.
+* Someone who needs a large team and budget before they can start. This is a hands-on IC role.
+* Someone who doesnt like being measured. We track qualified meetings from the website every week.

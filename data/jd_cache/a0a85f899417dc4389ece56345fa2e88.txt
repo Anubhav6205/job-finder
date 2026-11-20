@@ -1,0 +1,73 @@
+About Us
+
+Jefferies Financial Group Inc. (‘‘Jefferies,’’ ‘‘we,’’ ‘‘us’’ or ‘‘our’’) is a U.S.-headquartered global full service, integrated investment banking and securities firm. Our largest subsidiary, Jefferies LLC, a U.S. broker-dealer, was founded in the U.S. in 1962 and our first international operating subsidiary, Jefferies International Limited, a U.K. broker-dealer, was established in the U.K. in 1986. Our strategy focuses on continuing to build out our investment banking effort, enhancing our capital markets businesses and further developing our Leucadia Asset Management alternative asset management platform. We offer deep sector expertise across a full range of products and services in investment banking, equities, fixed income, asset and wealth management in the Americas, Europe and the Middle East and Asia.
+
+Innovation Hub Overview
+
+Jefferies is creating a Technology Innovation Hub in Pune, a greenfield opportunity to build the systems that power global markets. As our first India technology center, this hub brings together hands on builders who engineer the platforms behind Jefferies’ growth across capital markets, investment banking, and institutional securities. We’re scaling toward an elite team of 500 engineers while maintaining the agility, ownership, and meritocratic spirit that defines Jefferies. From cloud and data to AI, risk, and core business technologies, teams in Pune will lead high impact work with a global mandate.
+
+IT Infrastructure Technology
+
+Jefferies’ IT Infrastructure Technology team builds and runs the core technology backbone that enables the firm to operate globally. It covers enterprise infrastructure engineering and operations while driving modernization initiatives such as Cloud Adoption and Network Resiliency. The group supports critical platforms including networking, end-user computing, cloud, databases, server/Unix engineering, communications, and global data centers (including low-latency colocations near exchanges).
+
+Key functions:
+
+* Networking / Telecom / Multimedia Engineering
+* Windows / Desktop / Messaging Engineering.
+* Private / Public Cloud / Database / Unix Engineering.
+* Data Centers.
+
+Position Overview
+
+We are seeking a Cloud Engineer to help design, build, and operate enterprise cloud and Kubernetes platforms. This role will focus on delivering secure, reliable, scalable, and automated platform capabilities that enable application teams to adopt cloud-native technologies effectively.
+
+The ideal candidate will have strong engineering experience in either AWS or Microsoft Azure, hands-on Kubernetes knowledge, and experience using infrastructure-as-code and DevOps practices to manage cloud environments at scale.
+
+Responsibilities
+
+* Design, build, and operate secure, scalable, and resilient cloud platform capabilities across AWS and Microsoft Azure.
+* Engineer and support enterprise Kubernetes platforms, including managed services such as Amazon EKS and Azure Kubernetes Service.
+* Manage Kubernetes platform capabilities including cluster lifecycle, upgrades, networking, ingress, DNS, security, observability, capacity, and operational governance.
+* Develop and maintain reusable infrastructure-as-code modules and patterns using Terraform.
+* Enable application teams to onboard applications and infrastructure through standardized, automated, and self-service platform capabilities.
+* Build and support CI/CD and GitOps-based deployment workflows for cloud infrastructure and Kubernetes platforms.
+* Build automation that solves complex problems with Agentic AI solutions
+* Implement cloud governance, security controls, identity and access management, and policy enforcement through automation.
+* Partner with application, architecture, cybersecurity, networking, and operations teams to deliver cloud-native solutions.
+* Troubleshoot complex cloud and Kubernetes platform issues across infrastructure, networking, security, and application integration layers.
+* Improve platform reliability through monitoring, observability, automation, operational standards, and continuous engineering improvements.
+* Support cloud modernization and migration initiatives, including the transformation of legacy applications into cloud-native architectures.
+* Evaluate emerging cloud and Kubernetes technologies and recommend practical improvements to the platform.
+
+Required Qualifications
+
+* 3-5+ years professional hands-on experience with a major cloud provider
+* Strong hands-on experience with at least one major cloud provider, preferably AWS or Microsoft Azure.
+* Experience designing, engineering, or operating cloud platforms in an enterprise environment.
+* Experience with Kubernetes and managed Kubernetes services such as Amazon EKS or Azure Kubernetes Service.
+* Experience with Kubernetes platform engineering, including cluster lifecycle management, networking, ingress, security, observability, upgrades, and workload onboarding.
+* Strong experience with infrastructure-as-code, preferably Terraform.
+* Experience implementing CI/CD, GitOps, or other automated infrastructure and application delivery practices.
+* Hands-on experience in solving complex problems and build automation driven through Agentic AI solutions
+* Demonstrated proficiency in leveraging generative AI and code generation tools (e.g., GitHub Copilot, Claude, ChatGPT, or similar) to enhance productivity, accelerate development workflows, and improve code quality; ability to evaluate AI-generated code critically, validate outputs, and integrate suggestions appropriately while maintaining security and maintainability standards.
+* Understanding of cloud networking, identity and access management, security controls, governance, and operational best practices.
+* Experience troubleshooting complex infrastructure and cloud platform issues.
+* Ability to collaborate effectively with application teams, architecture, cybersecurity, networking, and other engineering stakeholders.
+* Strong analytical, communication, and problem-solving skills.
+
+Preferred Qualifications
+
+* Experience building reusable, self-service cloud or Kubernetes platform capabilities.
+* Experience with enterprise-scale cloud governance, policy automation, and infrastructure standardization.
+* Experience with observability, platform reliability, incident management, and operational automation.
+* Familiarity with Google Cloud Platform, combined with strong expertise in AWS and/or Microsoft Azure, is a strong plus.
+* Broader multi-cloud experience across AWS, Microsoft Azure, and Google Cloud is a plus.
+
+Certifications
+
+The following certifications are preferred but not required:
+
+* AWS Certified Solutions Architect – Associate.
+* A comparable Microsoft Azure associate-level certification.
+* Other relevant associate-level AWS or Microsoft certifications in cloud architecture, cloud engineering, operations, systems architecture, or DevOps.
+* HashiCorp Certified: Terraform Associate is a plus.

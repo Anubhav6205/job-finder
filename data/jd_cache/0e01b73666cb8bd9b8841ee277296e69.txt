@@ -1,0 +1,37 @@
+We are looking for an Agentic Engineer with strong software engineering background and recent hands-on experience in GenAI / Agentic Engineering.
+
+  
+
+The role requires someone who has owned and scaled entire product engineering systems and can design, build, and deploy
+
+enterprise grade autonomous and semiautonomous AI agents that power high impact decision workflows.
+
+  
+
+**Key Responsibilities**
+
+* Design and implement agentic workflows (single agent and multiagent) for complex business decisions and task automation
+* Build agents that plan, reason, act, verify, and recover using tools, memory, and context graphs
+* Integrate LLMs (e.g., GPT4 / GPT4o or equivalent) with enterprise systems via APIs and event driven architectures
+* Own and scale end-to-end product engineering, from architecture and backend systems to deployment, observability, and production reliability
+* Develop orchestration using frameworks such as LangChain, Semantic Kernel, or custom agent runtimes
+* Implement guardrails: error handling, retries, fallback logic, deterministic shells around probabilistic cores
+* Instrument observability and evaluation (task success, reliability, latency, safety) for agent performance
+* Collaborate with product, domain SMEs, and data teams to translate business logic into executable agent behaviours
+* Ensure security, access control, compliance, and auditability across agent actions and decisions
+
+  
+
+* **Key Requirements**
+* 7 years of overall experience, with strong software engineering foundations and the last 2 years in GenAI / Agentic Engineering
+* Strong experience building LLM based or agentic systems (tool use, memory, routing, planning)
+* Strong expertise in Python + LLMs or C++ + LLMs, with modern backend and production engineering
+* practices
+* • Hands-on expertise in prompt engineering, latency optimization, embeddings, context management,
+* reasoning patterns, and large datasets
+* Experience with orchestration and evaluation frameworks (e.g., LangChain agents, LangSmith, TruLens,
+* RAGAS)
+* Experience owning and scaling entire product engineering charters, including architecture, engineering
+* execution, productionization, and scale-up
+* API integration and data transformation across enterprise systems
+* Production mindset: logging, monitoring, reliability, and failure handling

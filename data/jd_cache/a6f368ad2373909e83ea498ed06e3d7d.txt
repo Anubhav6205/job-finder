@@ -1,0 +1,41 @@
+**Overview**
+
+**Microsoft’s mission is to empower every person and every organization on the planet to achieve more. As employees we come together with a growth mindset, innovate to empower others, and collaborate to realize our shared goals. Each day we build on our values of respect, integrity, and accountability to create a culture of inclusion where everyone can thrive at work and beyond.**
+
+The Purview AI Classification team builds advanced AI capabilities to identify and classify sensitive information at enterprise scale, with a strong focus on Named Entity Recognition (NER) and rigorous AI evaluation. We develop and improve ML/NLP models for complex entity recognition scenarios and build evaluation methodologies to systematically measure accuracy, precision, recall, robustness, and model improvements across diverse datasets and real-world conditions.  
+  
+The Software Engineer will design and build scalable AI-powered classification and NER capabilities, with a focus on improving quality, performance, and reliability. The role will also contribute to evaluation infrastructure and partner with applied science and product teams to productionize model improvements at enterprise scale.
+
+ **Responsibilities**  
+
+* + Design, develop, and ship scalable AI-powered classification and NER systems, from service architecture and APIs through production deployment and integration.
+  + Build and productionize capabilities for complex entity recognition scenarios, including All Full Names, Medical Terms, and Physical Addresses.
+  + Develop production-grade code in C#, Python, etc., with strong focus on scalability, performance, security, testability, and maintainability.
+  + Build and evolve AI evaluation infrastructure for datasets, automated evaluation, grading, regression detection, quality measurement, and reporting.
+  + Integrate ML, LLM, and Generative AI capabilities into enterprise-scale classification systems and optimize them for real-world workloads.
+  + Partner closely with Applied Science and Product Management to translate model improvements and customer requirements into robust production capabilities.
+  + Own production quality across reliability, latency, throughput, observability, accuracy, and cost efficiency.
+  + Build engineering systems for CI/CD, experimentation, safe rollout, monitoring, telemetry, and live-site operations for AI-powered services.
+  + Apply Responsible AI, privacy, security, and compliance principles throughout system design and implementation.
+
+  
+**Qualifications**  
+
+* **Qualifications: Minimum Requirements**
+* Bachelor’s degree in Computer Science, Engineering, or related technical field with a minimum of 5 years of experience.
+* Strong programming skills in C#, C++, Python, or similar languages.
+* Experience designing, developing, and operating large-scale distributed or cloud services.
+* Solid understanding of software engineering fundamentals, including system design, testing, debugging, performance, and reliability.
+* Experience working with AI/ML systems or integrating ML models into production applications/services.
+* Strong problem-solving skills and ability to collaborate across engineering, applied science, and product teams.
+
+* **Qualifications: Other/Preferred Requirements**
+* + Master’s or PhD in CS or related field.
+  + Security, compliance, or privacy-sensitive system experience.
+
+  
+  
+
+This position will be open for a minimum of 5 days, with applications accepted on an ongoing basis until the position is filled.
+
+Microsoft is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to age, ancestry, citizenship, color, family or medical care leave, gender identity or expression, genetic information, immigration status, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran or military status, race, ethnicity, religion, sex (including pregnancy), sexual orientation, or any other characteristic protected by applicable local laws, regulations and ordinances. If you need assistance with religious accommodations and/or a reasonable accommodation due to a disability during the application process**.**

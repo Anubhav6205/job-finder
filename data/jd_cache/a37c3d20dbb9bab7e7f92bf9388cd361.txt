@@ -1,0 +1,50 @@
+**DESCRIPTION**
+---------------
+
+At AWS AI, we want to make it easy for our customers to train their deep learning workloads in the cloud. With Amazon SageMaker, AWS is building customer-facing services to empower data scientists and software engineers in their deep learning endeavors. As our customers rapidly adopt large language models and generative AI for their business, we're building the next-generation AI platform to accelerate their development. We're seeking a dedicated engineering team lead to drive building our next-generation AI compute platform that's optimized for large language models and distributed training.  
+  
+You will be influential within your team and work with peers and senior leaders to define and revise the standards for operational excellence across systems. You will consistently tackle issues that span multiple functional areas and drive your team to push for improvements that can scale across other teams, services, and platforms.  
+  
+You'll work alongside teams of talented engineers, collaborate with applied scientists, and solve problems that span the full AI lifecycle — from efficient resource scheduling across heterogeneous hardware to fault-tolerant distributed training and reinforcement learning. If you're passionate about building reliable, high-performance infrastructure and want to work where cloud systems meet AI, this is your team.  
+  
+Key job responsibilities  
+Design and improve the automation, reliability, and performance of generative AI training compute infrastructure, including resource scheduling and fault-tolerant distributed training across heterogeneous hardware.  
+Lead architecture and code reviews for your team and adjacent teams, identifying bottlenecks and proposing solutions that reduce complexity and eliminate recurring operational issues.  
+Define and instrument key infrastructure metrics such as GPU utilization and training throughput, using data to drive continuous improvement and capacity planning decisions.  
+Mentor and guide other engineers on engineering best practices, decomposing complex problems into deliverable components and enabling parallel execution across the team.  
+Partner with applied scientists and software engineers to evaluate new technologies and deliver infrastructure changes that improve the end-to-end AI development workflow.  
+  
+A day in the life  
+You'll spend your days close to the customer — identifying their pain points and building the tools that solve them. You'll dig into how resources are being used, find opportunities to make them more efficient and secure, then implement those optimizations end to end. You'll also define and instrument the metrics that matter, such as GPU efficiency, so the team can measure what's working and continuously improve. It's a role for someone who enjoys moving between understanding a problem, engineering a solution, and proving its impact with data.  
+  
+About the team  
+Diverse Experiences  
+AWS values diverse experiences. Even if you do not meet all of the preferred qualifications and skills listed in the job description, we encourage candidates to apply. If your career is just starting, hasn’t followed a traditional path, or includes alternative experiences, don’t let it stop you from applying.  
+  
+Why AWS?  
+Amazon Web Services (AWS) is the world’s most comprehensive and broadly adopted cloud platform. We pioneered cloud computing and never stopped innovating — that’s why customers from the most successful startups to Global 500 companies trust our robust suite of products and services to power their businesses.  
+  
+Inclusive Team Culture  
+Here at AWS, it’s in our nature to learn and be curious. Our employee-led affinity groups foster a culture of inclusion that empower us to be proud of our differences. Ongoing events and learning experiences, including our Conversations on Race and Ethnicity (CORE) and AmazeCon (gender diversity) conferences, inspire us to never stop embracing our uniqueness.  
+  
+Mentorship & Career Growth  
+We’re continuously raising our performance bar as we strive to become Earth’s Best Employer. That’s why you’ll find endless knowledge-sharing, mentorship and other career-advancing resources here to help you develop into a better-rounded professional.  
+  
+Work/Life Balance  
+We value work-life harmony. Achieving success at work should never come at the expense of sacrifices at home, which is why we strive for flexibility as part of our working culture. When we feel supported in the workplace and at home, there’s nothing we can’t achieve in the cloud.
+
+**BASIC QUALIFICATIONS**
+------------------------
+
+* 6+ years of systems design, software development, operations, automation, and process improvement experience
+* Experience programming with at least one modern language such as Python, Ruby, Golang, Java, C++, C#, Rust
+* Experience with Linux/Unix
+* Experience with CI/CD pipelines build processes
+
+**PREFERRED QUALIFICATIONS**
+----------------------------
+
+* Experience with distributed systems at scale
+
+  
+Our inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how-we-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner.

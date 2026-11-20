@@ -1,0 +1,105 @@
+**Job Description**
+
+**AI/ML Engineer / Data Scientist AI Product Enablement**
+
+**Grade:** Senior Director  
+ **Experience:** 12–18 Years  
+ **Location:** Bengaluru
+
+**Role Overview**
+
+We are looking for a highly experienced **AI/ML Engineer / Data Scientist** to drive **AI product enablement** across Comviva's product ecosystem, including mobile money, digital wallet, digital banking and financial services platforms.
+
+The role will involve working closely with Product, Engineering, Data, and Business teams to identify AI/ML opportunities, design and develop production-grade AI solutions, and embed intelligence into products and platforms. A core part of the role is the **hands-on creation of reusable machine learning models** for high-value financial services use cases, such as **fraud and risk detection, cash and liquidity projection, and credit scoring/rating**, delivered as configurable product capabilities that can be adapted across customer deployments.
+
+The ideal candidate should have strong hands-on experience in **AI/ML, Generative AI, LLMs, machine learning systems, data science, and product engineering**, along with the ability to translate business/product requirements into scalable AI solutions and to take models from data exploration all the way to monitored, governed production systems.
+
+**Key Responsibilities**
+
+**Strategy & Opportunity Identification**
+
+* Define and drive the AI/ML technical roadmap for product and platform capabilities.
+* Identify and prioritise opportunities to embed AI/ML and Generative AI into existing and new products, based on business value, data readiness, feasibility and regulatory considerations.
+* Evaluate emerging AI technologies, frameworks, and models and assess their applicability to Comviva products.
+
+**Model Creation & Delivery**
+
+* Own the end-to-end lifecycle of ML models: problem framing, data exploration, feature engineering, training, tuning, validation, deployment, and continuous improvement.
+* Design, build and deploy production-grade models for key use cases including **fraud detection and anomaly detection, cash and liquidity forecasting, credit scoring and risk rating**, customer analytics and recommendations.
+* Build pre-trained, configurable model templates and feature libraries that can be tuned to each customer deployment (operators, banks, MFIs, fintechs), including approaches for limited-data and cold-start situations.
+* Design real-time, low-latency inference for scoring in the transaction path, as well as batch and near-real-time scoring for forecasting, risk and analytics workloads.
+* Work on **Generative AI, LLMs, RAG, agentic workflows, NLP, predictive analytics, recommendation systems, anomaly detection**, and other relevant AI use cases.
+
+**Architecture, MLOps & Governance**
+
+* Design AI/ML architectures covering data pipelines, feature engineering, model development, deployment, monitoring, and continuous improvement.
+* Develop and implement MLOps practices for model deployment, monitoring, versioning, retraining, and governance, including drift and performance monitoring in production.
+* Establish model governance practices: explainability, bias and fairness testing, validation, documentation and audit trails to meet regulator, auditor and customer risk-management expectations.
+* Ensure privacy and security of data and models, including PII protection, data minimisation and compliance with applicable data protection and financial regulations.
+
+**Collaboration & Leadership**
+
+* Collaborate with Product Managers, Architects, Engineering teams, and business stakeholders to convert product requirements into AI-driven solutions.
+* Provide technical leadership: set standards, review designs and code, and mentor data scientists and ML engineers.
+
+**Required Technical Skills**
+
+**AI / Machine Learning**
+
+* Strong expertise in Machine Learning and Deep Learning.
+* Experience with supervised and unsupervised learning; NLP, recommendation systems, predictive analytics, anomaly detection, and classification.
+* Proven experience building and deploying production-grade ML models at scale for **fraud/anomaly detection, time-series forecasting and credit risk scoring** or comparable use cases.
+* Strong command of tabular modelling (gradient boosting, ensembles) and time-series forecasting (statistical, ML and deep learning approaches).
+* Hands-on handling of real-world data challenges: highly imbalanced classes, cost-sensitive learning, delayed or noisy labels, selection bias, concept drift, and feature engineering from transaction and behavioural data.
+* Rigorous model validation along with Explainable and responsible AI
+* Graph analytics / graph ML for network-based fraud detection is desirable.
+
+**Generative AI / LLM**
+
+* Strong understanding of **Generative AI and Large Language Models (LLMs)**.
+* Experience with **RAG, embeddings, vector databases, prompt engineering, fine-tuning, and model evaluation**.
+* Exposure to agentic architectures, tool use, guardrails, hallucination control, and LLM security (such as prompt injection and data leakage).
+
+**Programming**
+
+* Strong proficiency in **Python** and the ML ecosystem (scikit-learn, XGBoost/LightGBM, PyTorch or TensorFlow, statsmodels/Prophet or similar).
+* Good understanding of Java/Scala or another programming language is desirable, for integrating models with high-throughput, JVM-based transaction platforms.
+* Strong knowledge of data structures, algorithms, and software engineering practices.
+
+**Data & Big Data**
+
+* Strong SQL skills; experience with relational and NoSQL databases.
+* Exposure to **Spark/PySpark, Kafka, Hadoop or other distributed data-processing technologies**, including streaming platforms (Kafka Streams, Flink or Spark Structured Streaming) for real-time features.
+* Experience designing data pipelines and feature engineering at scale for AI/ML workloads, with attention to data quality and lineage.
+
+**Cloud & MLOps**
+
+* Experience with one or more cloud platforms: AWS, Microsoft Azure, Google Cloud Platform; familiarity with private-cloud and on-premise deployments commonly required by telecom and banking customers.
+* Exposure to Docker / Kubernetes, MLflow, CI/CD, model deployment and monitoring, feature stores, and MLOps frameworks and practices.
+* Experience with model serving and optimisation for low-latency inference (such as ONNX, KServe, Triton or similar), and with drift detection and automated retraining.
+
+**Domain Knowledge (Preferred)**
+
+* Understanding of payments, mobile money, digital wallets and digital banking, including fraud typologies and AML/CFT concepts.
+* Familiarity with credit risk concepts (PD/LGD/EAD, scorecards, thin-file lending) and with treasury, float and liquidity management.
+* Awareness of regulatory expectations on model risk management, explainability and data protection in financial services.
+
+**Experience & Qualifications**
+
+* **12–18 years of overall experience** in AI/ML, Data Science, Machine Learning Engineering, or related areas.
+* Significant experience in building and deploying AI/ML solutions at scale, ideally in fintech, banking, payments or telecom.
+* Demonstrated track record of taking models from PoC to production with measurable business impact.
+* Bachelor's or Master's degree (PhD a plus) in Computer Science, Statistics, Mathematics, Data Science or a related field.
+* Strong communication, stakeholder management, and technical leadership skills.
+
+**Success in the Role**
+
+Success in this role will be measured by the ability to:
+
+* Identify and prioritise high-value AI/ML opportunities.
+* Successfully convert AI/ML concepts and PoCs into production-ready product capabilities.
+* Demonstrate measurable business impact, such as reduced fraud losses and false positives, improved forecast accuracy, and better credit decisions at controlled risk.
+* Keep models reliable in production through continuous monitoring, drift management, retraining and governance.
+* Accelerate AI adoption across Comviva's product portfolio.
+* Build scalable, reliable, and commercially relevant AI solutions.
+* Establish reusable AI/ML capabilities and best practices across engineering teams, and mentor the next generation of AI/ML talent.

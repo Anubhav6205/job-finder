@@ -1,0 +1,141 @@
+Job Description
+
+Expert Systems Engineer
+
+What we are looking for?
+
+1. Right balance of Leadership and management
+
+2. Technically sound around Windows Server administration, Active Directoy, DNS, DHCP, Windows Cluster, Printing, IT/cloud Service delivery, well versed with ITIL processes, a very good troubleshooter of technical issues
+
+3. Experienced DNS Expert responsible for designing, managing, troubleshooting, and optimizing enterprise DNS infrastructure to ensure high availability, security, and performance across on-premises and cloud environments.
+
+3. Problem Management - Methodological Problem solving thought process - 5 Whys, RCAs, KepnerTrego
+
+4. Excellent Communication skills (verbal, written), able to organize the thought and then express it. Clearn communications.
+
+5. Organizing skills: define a problem statement, identify potential paths to resolution, weigh prons/cons, finalize the solution, put a plan in place to implement that over X weeks, track and report progress.
+
+People Management Competencies:
+
+Overall 8+ years IT experience with at least 1-2 years of experience in leading directly 5 or more people
+
+Plan/Roster team members to give optimal 24\*7 coverage.
+
+Coach, mentor and develop staff, including overseeing new employee onboarding and providing career development planning and opportunities.
+
+Effective utilization and management of staff such that milestones/goals are obtained and staff is motivated and competent.
+
+Empower employees to take responsibility for their jobs and goals. Delegate responsibility and expect accountability and regular feedback.
+
+Lead employees using a performance management and development process that provides an overall context and framework to encourage employee contribution and includes goal setting, feedback, and performance development planning.
+
+Maintain transparent communication. Appropriately communicate organization information through department meetings, one-on-one meetings, and appropriate email, IM, and regular interpersonal communication.
+
+Identify and recruit internal/external talents to ensure effective mix of competencies.
+
+Recognize high performers to maintain motivation and retain key talent.
+
+Regularly communicate on company news and team progress against business plan.
+
+Key Competencies:
+
+Understands structure of Global IT/Hosting/Cloud delivery environment with various technical functions like Windows/Linux Server, Database, Storage/Backup, Azure/Cloud, Network, Citrix.
+
+5-7 years of experience on Windows Server administration, IIS, Application support/troubelshooting, SSL Certificate Life cycle management
+
+Install/Update/Manage - Domain controllers, Active Directory, FSMO Roles, DNS, DHCP - Overall management of Windows server infrastructure.
+
+Extensive experience in installing/updating/managing - Windows Cluster, Windows Print management, Terminal services, Active directory users, groups, RBAC models - Overall exceptional troubleshooting/problem solving skiils around Windows server infrastructure.
+
+Work towards solving the problem "ONCE", Exceptional troubleshooting and methodical problem solving ability
+
+Knowledge/awareness of Monitoring tools - Azure Monitor, Logic Monitor, SentryOne, Appd etc
+
+Organizing skills: define a problem statement, identify potential paths to resolution, weigh prons/cons, finalize the solution, put a plan in place to implement that over X weeks, track and report progress.
+
+Experience on Microsoft office tools/application e.g. MS Excel, PowerPoint, Teams
+
+Experience in ITIL processes - Incident, Problem, Change management
+
+Primary Responsibilities
+
+Design, implement, and maintain enterprise DNS infrastructure (Microsoft DNS, BIND, Infoblox, Route 53, Azure DNS, etc.).
+
+Troubleshoot complex DNS resolution issues affecting applications, servers, and network services.
+
+Manage DNS zones, records, delegations, conditional forwarders, and split-brain DNS configurations.
+
+Perform DNS migrations, consolidations, and infrastructure upgrades with minimal business impact.
+
+Monitor DNS performance, availability, and health using enterprise monitoring tools.
+
+Implement DNS security controls including DNSSEC, Response Rate Limiting (RRL), and secure zone transfers.
+
+Collaborate with network, cloud, security, and application teams to resolve service-impacting issues.
+
+Support hybrid cloud DNS integrations across Azure, AWS, and on-premises environments.
+
+Conduct root cause analysis (RCA) for major incidents and provide preventive recommendations.
+
+Develop and maintain DNS operational procedures, architecture documentation, and knowledge articles.
+
+Automate DNS administration tasks using PowerShell, Python, or Infrastructure-as-Code tools.
+
+Participate in on-call support and incident management activities for critical infrastructure services.
+
+Ensure compliance with organizational security, governance, and change management standards.
+
+Perform capacity planning and recommend improvements to enhance DNS resilience and scalability.
+
+Key Responsibilities:
+
+Manage individual contributors
+
+Providing weekly/monthly reports/dashboard against key problem management KPIs
+
+Daily/weekly/monthly reports
+
+Partnering with various teams/leaders to improve and expedite Problem resolution
+
+Leading internal projects for various ongoing operational tasks
+
+Balances demand management for multiple complex simultaneous projects, operational enhancements, break-fix, and maintenance requests.
+
+Ensure team adherence to all team, account, and client policies and procedures.
+
+Required Skills
+
+Strong expertise in DNS architecture, protocols, and troubleshooting.
+
+Hands-on experience with Microsoft DNS, Active Directory-integrated DNS, Infoblox, or BIND.
+
+Knowledge of TCP/IP, DHCP, routing, load balancing, and network fundamentals.
+
+Experience with cloud DNS platforms such as Azure DNS and AWS Route 53.
+
+Familiarity with DNS security concepts including DNSSEC, DDoS mitigation, and threat protection.
+
+Proficiency in PowerShell or Python scripting for automation.
+
+Strong analytical, problem-solving, and incident management skills.
+
+Academic and Professional Qualifications:
+
+1. Bachelor’s Degree in computer science/IT or any releavnt field.
+
+2. Any relevant IT certification would be a plus
+
+Travel Requirements:
+
+1. Willing and able to travel, regionally and/or internationally
+
+Working Arrangements:
+
+1. Able and willing to work in 24\*7\*365 environment on Rotational Shifts
+
+2. Work is performed in a standard office environment with minimal exposure to health or safety hazards
+
+AI Skill – Demonstrates willingness and openness to learn and work with AI tools; actively participates in AI learning opportunities and experiments with new ways of applying AI to day-to-day work.
+
+AI Adoption – Applies AI tools with growing skill and confidence in practical, work-relevant ways; uses sound judgement about when and how to rely on AI outputs and shares learnings with others.

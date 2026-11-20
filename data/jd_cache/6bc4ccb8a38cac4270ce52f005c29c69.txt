@@ -1,0 +1,50 @@
+**About Refold**
+
+Refold is building the next-generation AI platform that replaces enterprise integration and consultants. We’re pioneering autonomous AI agents that understand complex enterprise systems, generate production-ready code, and operate at a scale no consulting firm can match. Today, we’re starting with integrations—a $50B market. Tomorrow, we’re building towards a world where AI agents handle any complex cognitive work.
+
+Traction: Serving 20+ enterprise customers with Fortune 500 deployments, processing 10M+ API calls/day. Refold was founded by Jugal Anchalia & Abhishek Kumar, who sold their previous startup to Netmeds; they have also been featured in Forbes 30 Under 30. They have experience at organisations such as Nomura, JioMart, InstaMojo, IIT Kharagpur, and IIT Roorkee. We are funded by marquee investors, including Eniac Ventures, Tidal Ventures, Karman Ventures, Ahead VC & Better Capital.
+
+**The Role:**
+
+As a forward-deployed engineer, you turn the hardest enterprise integration problems into production-grade systems on our agentic platform. You’ll take ambiguous, real-world requirements; messy APIs; undocumented systems; and edge cases nobody anticipated and reason from first principles to ship production-grade integrations.
+
+You’re a curious, hands-on builder with a customer-first mindset and a real passion for AI already on the frontier of agentic tooling and vibe coding and eager to point that energy at real customer problems. You think like a solutions engineer: the goal isn’t to build; it’s to solve. Mostly delivery, with time as the technical engine behind our highest-stakes POCs — and the patterns you uncover shape the platform itself.
+
+* **Team:** Small, high-calibre technical team working directly with architects, product, and founders.
+* **Building:** Agentic AI workflows, connectors, and high-throughput integration pipelines.
+* **You’ll work with i**ntegration leaders and engineering teams at high-growth SaaS companies and Fortune 500 enterprises.
+
+**Key Responsibilities:**
+
+* **Solve hard integration problems.** Take ambiguous, real-world enterprise requirements and reason from first principles to design integrations that work, including the problems for which no playbook exists yet.
+* **Build agentic workflows end-to-end.** Implement complete integrations on Refold’s AI-native integration platform, orchestration logic, agentic decision-making, data transformations, and system connectivity against live enterprise systems.
+* **Drive product direction from the field.** You’re one of our highest-signal sources of product truth. Surface gaps, friction, and missing capabilities you hit while building and validate new platform features through real customer workflows.
+* **Power high-stakes POCs.** Partner with the pre-sales team to execute the technical work behind proofs-of-concept, building and validating integrations that prove value during the sales cycle.
+* **Codify what works.** Turn hard-won learnings into reference architectures, integration patterns, and runbooks that scale across the delivery team and feed the support knowledge base.
+* **Evolve agentic capabilities.** Contribute to the evolution of Refold's agentic workflows — decision-making logic, tool invocation, and autonomous execution within integrations — and feed every implementation back into the skills/graph layer so the platform's agents get measurably smarter with each integration you ship.
+
+**Required Skills & Abilities:**
+
+* 2-4 years in solutions engineering, integration engineering, product engineering, or a similar hands-on technical role.
+* A curious, hands-on builder, you reason about systems from first principles, love getting your hands dirty, and are energised by ambiguity.
+* Genuine passion for AI: you already build with cutting-edge tools (LLMs, agentic frameworks, and vibe coding) for fun, not just at work, and you stay on the frontier as it moves.
+* With a customer-first, solutions-engineering mindset, you measure yourself by the problem solved and the outcome delivered, not the code shipped.
+* Strong foundation in APIs, distributed systems, and common integration patterns.
+* Hands-on proficiency in Python and/or JavaScript / TypeScript (Node.js).
+
+**Nice to Have:**
+
+* Experience with enterprise systems such as Salesforce, SAP, Oracle, Workday, NetSuite, or ServiceNow.
+* Familiarity with iPaaS or workflow automation platforms (Workato, Boomi, MuleSoft, Zapier, Merge).
+* Experience with cloud infrastructure (AWS, GCP, and Azure) and containerised environments (Docker and Kubernetes).
+* Hands-on experience building with LLMs and agentic frameworks (OpenAI, Anthropic, open-source models, agent orchestration).
+* Background at an early-stage startup where product and engineering responsibilities were tightly coupled.
+
+**Why Join Refold AI?**
+
+* Fast-growing seed-stage company (raised $6.5M from Eniac Ventures & Tidal Ventures)
+* Founding team opportunity to shape engineering culture and technical direction from day one
+* Cutting-edge AI + infrastructure tech solving complex, high-value enterprise problems
+* Early traction with Fortune 500 clients and high-growth software companies
+* Direct line of sight to leadership and future engineering management path
+* Work with a small, exceptional team that ships fast and celebrates bold ideas

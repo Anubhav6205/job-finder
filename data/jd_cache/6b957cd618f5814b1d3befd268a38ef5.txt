@@ -1,0 +1,81 @@
+**India T Special Bonus:**  
+**Req ID:** 398631
+  
+  
+NTT DATA strives to hire exceptional, innovative and passionate individuals who want to grow with us. If you want to be part of an inclusive, adaptable, and forward-thinking organization, apply now.
+  
+  
+We are currently seeking a AWS AI Engineer to join our team in Bengaluru, Karnātaka (IN-KA), India (IN).
+  
+  
+AI Engineer
+  
+  
+Role Summary
+  
+  
+We are seeking a hands-on AI Engineer to build, deploy, and support production-grade Agentic AI and multi-agent solutions on AWS. This is an engineering-focused role requiring strong software development expertise, rapid prototyping capabilities, and the ability to transform successful AI concepts into secure, scalable, and production-ready solutions.
+  
+  
+Key Responsibilities
+  
+  
+
+* Build and deploy Agentic AI and multi-agent solutions using Python, LangGraph, and LangChain.
+* Develop POCs and rapidly transition successful approaches into production.
+* Implement orchestration, tool calling, state/memory management, checkpointing, HITL, MCP, and A2A capabilities.
+* Develop RAG and LLM-based solutions integrated with enterprise applications, APIs, and data platforms.
+* Build and operate AI services using AWS, Amazon Bedrock, and Amazon Bedrock AgentCore.
+* Develop production APIs and integration services.
+* Implement automated testing, CI/CD, AI evaluation, guardrails, observability, and security controls.
+* Optimize production solutions for performance, reliability, scalability, latency, and cost.
+* Collaborate with teams to share reusable patterns, best practices, and AI engineering innovations.
+* Provide AI engineering consulting and technical guidance on Agentic AI implementation and adoption.
+
+Qualifications
+  
+  
+
+* 5+ years of experience in Software Engineering, AI/ML Engineering, or related development roles.
+* Strong Python software engineering skills.
+* Hands-on experience with LangGraph, LangChain, Agentic AI, and multi-agent systems.
+* Strong experience with AWS, Amazon Bedrock, Amazon Bedrock AgentCore, MCP, and A2A.
+* Strong understanding of RAG, LLMs, embeddings, vector search, tool calling, state/memory management, and HITL.
+* Experience with FastAPI, APIs, Docker, Git, CI/CD, automated testing, AI evaluation, guardrails, observability, and production support.
+* Ability to independently deliver high-quality production solutions from established designs.
+
+Mandatory Experience
+  
+  
+
+* Proven experience building, deploying, and supporting at least two production-grade multi-agent AI solutions.
+* Production experience is essential; certification, tutorial, hackathon, or POC-only experience is not sufficient.
+
+Preferred Skills
+  
+  
+
+* Terraform or CloudFormation.
+* Kubernetes/EKS.
+* OpenTelemetry or LangSmith.
+* SageMaker or MLflow.
+* Azure and/or GCP exposure.
+* Experience integrating AI solutions with SAP environments.
+
+Preferred Certifications
+  
+  
+
+* AWS Certified Generative AI Developer – Professional.
+* AWS Certified Machine Learning Engineer – Associate.
+
+About NTT DATA
+  
+  
+NTT DATA is a $30 billion business and technology services leader, serving 75% of the Fortune Global 100. We are committed to accelerating client success and positively impacting society through responsible innovation. We are one of the world's leading AI and digital infrastructure providers, with unmatched capabilities in enterprise-scale AI, cloud, security, connectivity, data centers and application services. our consulting and Industry solutions help organizations and society move confidently and sustainably into the digital future. As a Global Top Employer, we have experts in more than 50 countries. We also offer clients access to a robust ecosystem of innovation centers as well as established and start-up partners. NTT DATA is a part of NTT Group, which invests over $3 billion each year in RD.
+  
+  
+Whenever possible, we hire locally to NTT DATA offices or client sites. This ensures we can provide timely and effective support tailored to each client’s needs. While many positions offer remote or hybrid work options, these arrangements are subject to change based on client requirements. For employees near an NTT DATA office or client site, in-office attendance may be required for meetings or events, depending on business needs. At NTT DATA, we are committed to staying flexible and meeting the evolving needs of both our clients and employees. NTT DATA recruiters will never ask for payment or banking information and will only use @nttdata.com, @nttdatafed.com and @talent.nttdataservices.com email addresses. If you are requested to provide payment or disclose banking information, please submit a contact us form, https://us.nttdata.com/en/contact-us.
+  
+  
+NTT DATA endeavors to make https://us.nttdata.com accessible to any and all users. If you would like to contact us regarding the accessibility of our website or need assistance completing the application process, please contact us at https://us.nttdata.com/en/contact-us. This contact information is for accommodation requests only and cannot be used to inquire about the status of applications. NTT DATA is an equal opportunity employer. Qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability or protected veteran status. For our EEO Policy Statement, please click here. If you'd like more information on your EEO rights under the law, please click here. For Pay Transparency information, please click here.

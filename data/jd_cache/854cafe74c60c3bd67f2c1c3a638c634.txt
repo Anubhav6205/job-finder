@@ -1,0 +1,60 @@
+**Company:** Tamada Media  
+**Experience:** Freshers / Interns  
+**Department:** AI Initiatives  
+**Employment Type:** Full-Time
+
+Tamada Media is one of South India's fastest-growing digital media companies, working with some of the biggest digital content creators and leading OTT platforms. We believe in boundless innovation and encourage young talent to explore new possibilities in digital media and content creation.
+
+**Job Overview**
+
+We are looking for creative and curious individuals who are passionate about Artificial Intelligence and generative AI tools. As a Visual Prompt Engineer, you will experiment with AI-powered image and video generation tools, create effective prompts, and help produce high-quality visual content for creative projects.
+
+This role is ideal for freshers who actively explore AI tools, enjoy experimenting with creative ideas, and have a strong interest in visual storytelling.
+
+**Key Responsibilities**
+
+* Create, test, and refine prompts to generate high-quality images and videos using AI tools.
+* Experiment with different AI platforms to achieve creative and visually appealing outputs.
+* Develop reusable prompts and templates to maintain consistency in characters, backgrounds, styles, and visual elements.
+* Explore different prompting techniques to improve the quality and accuracy of AI-generated content.
+* Identify and improve issues in generated visuals, such as distorted images, inconsistent characters, unnatural movements, and visual errors.
+* Explore new AI tools, features, and trends in image and video generation.
+* Collaborate with filmmakers, video editors, and creative teams to bring visual concepts to life.
+* Document successful prompts, techniques, and workflows for future use.
+
+**Skills & Requirements**
+
+* Strong interest in Artificial Intelligence and AI-powered creative tools.
+* Hands-on knowledge of tools such as ChatGPT, Claude, Midjourney, Kling AI, Runway, Google Veo, Sora, Leonardo AI, or similar platforms.
+* Good understanding of prompt writing and the ability to generate desired outputs through effective prompts.
+* Creative thinking and an eye for visual details, aesthetics, and storytelling.
+* Willingness to experiment with different AI tools and learn new technologies.
+* Good communication skills and the ability to work collaboratively.
+* A creative portfolio or samples of AI-generated images and videos will be an added advantage.
+
+**Who Can Apply?**
+
+* Fresh graduates and candidates with an interest in AI-powered content creation.
+* Candidates who regularly experiment with AI tools and creative platforms.
+* Individuals with a creative mindset and a willingness to learn and explore.
+
+**Note:** This is a non-programming role. We are looking for candidates skilled in using AI tools for creative output, not software development or coding.
+
+**Why Join Tamada Media?**
+
+* Opportunity to work with emerging AI technologies.
+* Hands-on exposure to AI-powered filmmaking and creative content production.
+* Work alongside experienced filmmakers and creative professionals.
+* Opportunity to experiment, innovate, and build your skills in the growing AI industry.
+
+Pay: ₹15,000.00 - ₹20,000.00 per month
+
+Benefits:
+
+* Flexible schedule
+* Health insurance
+* Paid sick time
+* Paid time off
+* Provident Fund
+
+Work Location: In person

@@ -1,0 +1,76 @@
+**About the Role**
+
+We are an ambitious technology company building innovative products at the intersection of artificial intelligence, accessibility, and digital content. We are seeking a skilled **Machine Learning Engineer** to join our team and drive the development of advanced machine learning systems across several high-impact applications.
+
+Responsibilities
+
+**End-to-End ML Development:**
+
+* Design, train, and optimize deep learning models for computer vision, natural language processing, and multimodal data.
+* Develop scalable pipelines for data collection, preprocessing, and augmentation.
+* Implement real-time inference solutions suitable for web and mobile platforms.
+
+**Research & Prototyping:**
+
+* Evaluate state-of-the-art models and adapt them to our product requirements.
+* Build proof-of-concept systems to validate new ideas and features.
+
+**Infrastructure & Deployment:**
+
+* Package and deploy models into production environments.
+* Optimize models for latency and performance on resource-constrained devices.
+
+**Collaboration:**
+
+* Work closely with cross-functional teams, including software engineers, designers, and product managers.
+* Participate in code reviews, documentation, and knowledge sharing.
+
+**Data Engineering & Infrastructure**
+
+* Build scalable data pipelines to collect, clean, and augment multimodal datasets (video, audio, text)
+* Develop model deployment pipelines for mobile and web (TensorFlow Lite, ONNX, PyTorch Mobile)
+* Integrate ML inference with our React Native, Python, and Node.js backends
+
+**Applied Research & Prototyping**
+
+* Research state-of-the-art models (Transformers, Diffusion, GANs) and adapt them to Product use cases
+* Develop proof-of-concepts and iterate rapidly with the product and design teams
+* Contribute to model evaluation, A/B testing, and continuous improvement
+
+**Must-Have Skills**
+
+* Experience in applied ML, deep learning, or computer vision
+* Proficiency in Python, TensorFlow, PyTorch
+
+**Experience with:**
+
+* CNNs and RNNs for video/sequence tasks
+* NLP models (Transformers, BERT, GPT-style architectures)
+* Real-time inference optimization (TensorRT, quantization, pruning)
+* Strong understanding of data engineering workflows
+* Familiarity with integrating ML into production systems (REST APIs, microservices)
+
+**Nice-to-Have:**
+
+* Experience with LiDAR or 3D spatial data
+* Familiarity with React Native and mobile ML deployment
+* Contributions to open-source ML projects
+* Publications or patents in ML/AI domains
+
+**What We Offer:**
+
+* Opportunity to build technologies that **fundamentally improve millions of lives**
+* A collaborative, purpose-driven environment
+* Competitive salary and performance incentives
+* Full ownership of end-to-end ML systems
+* Access to cutting-edge infrastructure
+
+Pay: ₹300,000.00 - ₹425,000.00 per year
+
+Benefits:
+
+* Leave encashment
+* Paid sick time
+* Provident Fund
+
+Work Location: In person

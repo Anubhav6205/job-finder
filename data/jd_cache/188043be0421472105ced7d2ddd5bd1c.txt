@@ -1,0 +1,26 @@
+Overview:
+
+Work with a team of AI engineers to develop AI Agents which can be used in ongoing client projects. The big push for AI implementation at Prodapt will drive extensive work for AI development in the coming months.
+
+Responsibilities:
+
+* Coordinate and technically guide a team of engineers working on the framework
+* Own and improve the overall system architecture (agent orchestration, tool integration, extension)
+* Design, build and review new agents and capabilities within the framework
+* Diagnose and fix bugs across the agent pipeline
+* Introduce and maintain observability for agentic workflows (tracing agent, tool calls, token, failure modes)
+* Build and maintain evaluation pipelines
+
+Requirements:
+
+* Strong professional Python experience (production grade code, tests, CI/CD, packaging)
+* Solid software architecture skills, be able to design maintainable and modular systems
+* Comfortable to work with APIs, async code, integrate 3rd party services and tools and collaborate with various external teams
+* Practical experience building multi-step or multi-agent systems with a framework such as LangChain, LangGraph, Semantic Kernel, AutoGen/AG2, CrewAI, or an equivalent custom orchestration layer
+* Solid understanding of tool/function calling, structured output, and how to design reliable agent-to-tool interfaces
+* Experience with prompt engineering: versioning prompts, testing them systematically, understanding failure modes (hallucination, tool misuse, context loss) and mitigating them
+* Working knowledge of context management techniques (chunking, RAG, memory strategies) and their trade-offs — not necessarily building embeddings/vector infra from scratch, but knowing when and how to use it
+* Experience setting up or using LLM observability tooling (e.g. LangSmith, Langfuse, OpenTelemetry-based tracing, Arize, or in-house equivalents) to debug agent runs in production
+* Experience designing or running evaluation frameworks for LLM/agent output quality (e.g. LLM-as-judge, golden datasets, regression suites, automated scoring)
+* Awareness of cost/latency trade-offs between models and how to design systems that use the right model for the right step
+* Comfortable reading model provider docs/API changes (OpenAI, Azure OpenAI, Anthropic, etc.) and adapting the system accordingly

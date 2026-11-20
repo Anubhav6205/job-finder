@@ -1,0 +1,54 @@
+**Please Note:**
+
+**1. If you are a first time user, please create your candidate login account before you apply for a job.**
+
+**2. If you already have a Candidate Account, please Sign-In before you apply.**
+
+**Job Description:**
+--------------------
+
+**Job Requisition Details**
+
+**Next-Generation Firewall, Software Engineer - Datapath & Control Path**
+
+**About Us**
+  
+  
+Broadcom is a global leader in infrastructure technology, data center networking, and security with more than 60 years of innovation, collaboration, and engineering excellence.
+
+Broadcom’s Application Networking and Security (ANS) business unit is a leader in distributed and gateway security. Within ANS, the Next-Generation Firewall (NGFW) product is a pioneer and market leader in distributed security through microsegmentation. Microsegmentation allows for security and access controls between workloads within an enterprise for strongerZero Trust security control. Our Gateway Firewall product provides security and control when connecting to WANs.
+
+Broadcom is an outright leader in virtualization in data centers and cloud deployments, through a product known as VCF(VMware Cloud Foundation). VCF provides a full SDDC stack and hybrid cloud service for running workloads on any cloud. Our NGFW product is built upon VCF as a value-added comprehensive security service with its own revenue stream.
+
+NGFW software development is done by a small, focused team driven by creating compelling customer value in security. We are motivated by the challenge of increasing our market leadership position through continuous innovation and execution. The team is broadly split into data plane, control plane, management plane, and cloud services.
+
+This opportunity is in the data and control plane area.
+
+**Job Description** We are seeking a data plane security and control plane development engineer with a passion for complex distributed computing environments to join our NGFW development team. You will work as part of a team that develops security products and features for virtualized and cloud environments, with a focus on optimizing system performance, reducing latency, and minimizing system resource usage. This position is based in Pune, Maharashtra.  
+  
+**Responsibilities:**
+
+* Design, develop, and deliver high-quality, industry-leading NGFW security software features and services on an aggressive timeline.
+* Emphasize quality: execution with corner cases considered, unit tests, automation, code coverage analysis, and debug support.
+* Design complex distributed architectures, influence peer groups to adopt them**,** and work with management to drive implementation**.**
+* Collaborate with cross-functional development, testing, and release teams to ensure features are complete and interwork seamlessly.
+* Proactively identify technical risks and dependencies with existing initiatives, communicate issues early, and drive mitigation plans in a timely manner**.**
+* Continuously review the product and code for optimizations in scale, latency, and performance.
+* Document architecture, design decisions, interfaces, and troubleshooting procedures; contribute to customer-facing technical documentation.
+* Mentor junior engineers through technical guidance and code reviews.
+
+**Preferred qualifications and skills:**
+
+* Required: Bachelor's or Master's in Computer Science or related field and 8+ years of related experience
+* Strong proficiency in C and C++ on Linux platform for high-performance, multi-threaded systems programming. Familiarity with Python, Java, or Go is a plus.
+* Deep knowledge of networking stacks and protocols, including Ethernet, IPv4/IPv6, TCP/UDP/ICMP, TLS/SSL, and L7 app identification/inspection.
+* Strong grounding in stateful firewall architecture and implementations: connection tracking, NAT/ALGs, rule matching, flow caches, and fast-path/slow-path design.
+* Hands-on experience with DPDK and multi-core packet processing; experience with Linux kernel I/O and driver subsystems is a plus.
+* Proven debugging and performance optimization skills(e.g. packet captures, core dumps, and system/CPU profiling tools like gdb, perf, etc).
+* Understanding of distributed systems development & database concepts
+* Excellent verbal and written communication and collaboration skills
+* Willingness and familiarity in working with AI tools and agentic AI systems
+
+**Broadcom is proud to be an equal opportunity employer. We will consider qualified applicants without regard to race, color, creed, religion, sex, sexual orientation, national origin, citizenship, disability status, medical condition, pregnancy, protected veteran status or any other characteristic protected by federal, state, or local law. We will also consider qualified applicants with arrest and conviction records consistent with local law.**
+
+**If you are located outside USA, please be sure to fill out a home address as this will be used for future correspondence.**

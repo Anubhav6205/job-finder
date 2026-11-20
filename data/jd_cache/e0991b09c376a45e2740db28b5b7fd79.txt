@@ -1,0 +1,34 @@
+**Position:** Senior Python Developer Generative AI  
+ **Experience:** 9+ Years  
+ **Location:** Bangalore, Karnataka (Hybrid/Work from Office)  
+ **Employment Type:** Full-Time
+
+Role Overview
+
+We are seeking a highly experienced **Senior Python Developer** with expertise in **Generative AI (Gen AI)** to design, develop, and deploy AI-powered applications and enterprise solutions. The ideal candidate will have strong hands-on experience in **Python development, Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), Prompt Engineering, AI/ML frameworks, and scalable backend systems**. The role requires deep technical expertise, solution architecture capabilities, and experience delivering AI-driven business solutions.
+
+Key Responsibilities
+
+  
+
+* Design and develop scalable applications and backend services using Python.
+* Build and integrate **Generative AI** solutions leveraging Large Language Models (LLMs).
+* Develop and optimize **RAG (Retrieval-Augmented Generation)** pipelines for enterprise AI applications.
+* Implement prompt engineering strategies to improve AI model performance and response quality.
+* Integrate AI solutions with enterprise applications, APIs, databases, and cloud platforms.
+* Design and develop microservices and RESTful APIs for AI-enabled products.
+* Work closely with product owners, data scientists, architects, and business stakeholders to define AI use cases.
+* Optimize model performance, scalability, latency, and cost efficiency.
+* Conduct code reviews, mentor junior developers, and drive engineering best practices.
+* Participate in architecture discussions and contribute to technology roadmaps.
+
+  
+
+Mandatory Skills
+
+  
+
+* 9+ years of hands-on software development experience with strong expertise in **Python**.
+* Experience building enterprise applications using **FastAPI, Flask, or Django**.
+* Hands-on experience with **Generative AI, LLMs, and AI-powered application development**.
+* Strong knowledge of **Prompt Engineering, RAG, Embeddings, Vector Search, and Semantic Search**.

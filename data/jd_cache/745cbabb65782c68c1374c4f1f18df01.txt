@@ -1,0 +1,48 @@
+**Dear Aspirant!**
+
+**We empower our people to stay resilient and relevant in a constantly changing world. We’re looking for people who are always searching for creative ways to grow and learn. People who want to make a real impact, now and in the future. Does that sound like you? Then it seems like you’d make a great addition to our vibrant international team.**
+
+**We are looking for: Integration Test Automation Engineer (SAP Ecosystems)**
+
+**The Test Manager is responsible for the overall planning, coordination, governance and reporting of testing activities within the SHERPA X environment. The role ensures effective validation of SAP S/4HANA and connected applications across functional, integration, end-to-end and non-functional testing, while driving risk-based testing, automation and the effective use of AI-supported testing capabilities. The Test Manager works closely with business, E2E process teams, development teams, the Testing Factory, Release Management and technical specialists to ensure transparency of quality, risks and release readiness.**
+
+**You’ll make an impact by:**
+
+* **Define and manage the overall test strategy, scope and planning for SHERPA X releases.**
+* **Lead and coordinate functional, integration, end-to-end, regression and non-functional testing across the SHERPA X landscape.**
+* **Drive cross-system integration testing across SAP S/4HANA, APIs, EDI, middleware, interfaces and connected applications.**
+* **Coordinate testing across Business, E2E Process Teams, Development Teams, Testing Factory, Release Management and technical specialists.**
+* **Manage test execution, defects, risks, quality gates and test evidence, ensuring transparency of overall quality status.**
+* **Ensure release readiness and provide clear quality and risk assessments as input for Go/No-Go decisions.**
+* **Drive risk-based regression testing and test automation, focusing on business-critical processes and high-risk scenarios.**
+* **Coordinate performance and non-functional testing with Performance Architects and Engineers, including load, endurance, performance regression, API/interface and batch testing.**
+* **Ensure relevant performance requirements and KPIs are defined and validated, including response time, throughput, stability and error rates.**
+* **Drive the adoption of AI-supported testing, including test-case generation and optimization, risk-based test selection, defect analysis and test-data support.**
+* **Provide transparent test KPIs, quality status, risks and management reporting to support release decisions.**
+* **Continuously improve testing through shift-left, automation, AI, standardization and lessons learned.**
+
+**You’re excited to build on your existing expertise, including****:**
+
+* **7+ years of experience in test management, test leadership or comparable roles, ideally within complex SAP environments.**
+* **Strong experience in test strategy, planning, governance and execution management across large-scale transformation programs.**
+* **Good understanding of SAP S/4HANA, integration and end-to-end business process testing.**
+* **Proven experience coordinating testing across business, process, development and technical teams.**
+* **Experience with defect management, quality gates, release readiness and Go/No-Go preparation.**
+* **Good understanding of risk-based regression testing and test automation.**
+* **Practical understanding of performance and non-functional testing, including relevant performance KPIs and NFRs.**
+* **Knowledge of integration technologies such as APIs, OData/REST, middleware and EDI.**
+* **Practical experience or strong understanding of AI/GenAI applications in testing and test automation.**
+* **Strong stakeholder management, communication and reporting skills in an international environment.**
+* **Strong ownership mindset and ability to drive testing from strategy and planning through execution and continuous improvement.**
+
+**Create a better #TomorrowWithUs!**
+
+**This role is based in Pune/Bangalore, where you’ll get the chance to work with teams impacting entire cities, countries - and the shape of things to come.**
+
+**We value your unique identity and perspective and are fully committed to providing equitable opportunities and building a workplace that reflects the diversity of society. Come bring your authentic self and create a better tomorrow with us.**
+
+**We’re Siemens. A collection of over 300,000 minds building the future, one day at a time in over 200 countries. We’re dedicated to equality, and we encourage applications that reflect the diversity of the communities we work in. All employment decisions at Siemens are based on qualifications, merit and business need. Bring your curiosity and creativity and help us shape tomorrow.**
+
+**Find out more about Siemens careers at:** **www.siemens.com/careers**
+
+**#LI-GN1**

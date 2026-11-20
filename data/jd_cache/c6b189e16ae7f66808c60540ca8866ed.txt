@@ -1,0 +1,62 @@
+**About the Role**
+
+We are looking for solution driven operations leaders to own processes within the Merchant Operations function, serving merchants across our payment offerings QR, Soundbox, EDC/POS, Payment Links, and Online Payment Gateways. The role is process-agnostic by design: depending on business need, you may lead onboarding due diligence and KYC, merchant lifecycle and account maintenance, banking partnerships, settlements and reconciliation, LEA and regulatory requests, VAS operations etc. Run the process at scale for millions of merchants with zero compliance gaps, and continuously re-engineer it through AI-led solutioning.
+
+The ideal candidate is a payments operations leader who thinks in workflows, not headcount someone who can build a process from scratch (0 to 1), scale it up or down rapidly, and get the detailing right at massive scale. You will have a track record of converting manual, high-volume processes into automated, AI-enabled, measurable systems, while balancing the expectations of regulators, merchants, and management. You will build strong teams and partner closely with Sales, Product, Technology, Compliance, Finance, banking partners, government and private-sector clients, and external authorities such as regulators and law enforcement agencies.
+
+  
+
+**Key Responsibilities**
+
+Process Ownership & Compliance
+
+* Own end-to-end delivery of assigned merchant operations processes against defined SLAs, TAT, quality, and cost targets.
+* Ensure every process operates in strict alignment with KYC/KYB and AML frameworks, RBI guidelines, FEMA (for cross-border flows), card network and NPCI rules, and applicable laws.
+* Design and govern workflows that adapt to varying merchant segments, business models, and payment corridors from small retail merchants to large enterprises in India and abroad.
+* Act as the senior escalation point for complex cases, exceptions, and disputes requiring cross-functional resolution.
+* Drive audit readiness: periodic portfolio reviews, maker-checker controls, sampling-based quality audits, and closure of internal and regulatory audit observations.
+
+Automation & Workflow Transformation
+
+* Map current-state processes, identify manual and repetitive steps, and build a prioritised automation roadmap with clear business cases (effort saved, TAT reduction, error reduction, cost per transaction).
+* Champion AI-led solutioning: identify where AI / Agentic AI can replace or assist manual review, document checks, profiling, triage, and merchant communication, and take these from pilot to production at scale.
+* Lead delivery of automation using the right lever for each problem: rule engines and decisioning logic, workflow / BPM and case-management tools, RPA, low-code / no-code platforms, API-based integrations, OCR and intelligent document processing, and AI-assisted review and triage.
+* Write clear BRDs, process flows, and user stories; partner with Product and Engineering through design, UAT, rollout, and post-launch stabilisation.
+* Build self-serve and auto-resolution journeys for merchants and internal teams to reduce inbound volume and dependency on operations.
+* Controlled automation : Exception handling, audit trails, fallback paths, and monitoring so that speed never comes at the cost of Compliance and Risk exposure Strategy, Scale & Business Impact
+* Ideate and launch new processes and operating models from scratch (0 to 1) for new payment products, partners, and merchant segments, and scale them up or down rapidly with business demand.
+* Identify and deliver revenue growth and bottom-line improvement opportunities through faster activation, better merchant experience, and lower cost to serve.
+* Own cost optimisation for the function — cost per merchant, vendor spend, and productivity — with clear quarterly targets.
+* Maintain multi-dimensional control across volumes, quality, compliance, cost, and stakeholder outcomes, keeping a balanced view of regulator, merchant, and management priorities.
+
+Data, Governance & Process Excellence
+
+* Build and maintain operational dashboards and MIS covering volumes, TAT, SLA adherence, backlog, exception and rejection rates, quality scores, and automation coverage.
+* Lead root-cause analysis on failures, escalations, and SLA breaches; convert recurring issues into permanent system or process fixes rather than manual workarounds.
+* Apply Lean / Six Sigma methods to remove waste, standardise work, and improve first-time-right rates.
+
+Stakeholders, Partners & People
+
+* Serve as the operational interface between Merchant Operations and Sales, Merchant Helpdesk, Product, Technology, Compliance, Legal, and Finance.
+* Build and manage relationships with banking partners, aggregators, and third-party vendors for quality, compliance, and cost-effectiveness.
+* Engage with regulators and law enforcement agencies for Fraud mitigation initiatives and queries.
+* Build, coach, and retain complex and diversified teams of all sizes; develop process owners and analysts with an automation-first mindset and a culture of ownership and accountability.
+
+  
+
+**Experience & Qualifications**
+
+  
+
+**Should have team handling experience and currently candidate should handle a team.**
+
+  
+
+* 10+ years of progressive experience in payments, fintech, or banking operations, with at least 5 years leading teams and owning multiple processes. Exposure across online and offline payments, financial services, Brand operations, Business Growth Operations, LEA Operations is a plus
+* Hands-on ownership for merchant operations processes at scale — Onboarding and KYC/KYB, lifecycle management, Product operations, Disputes, Business growth OR LEA operations.
+* AI-first approach to solutioning; experience with workflow / BPM or case-management platforms, Merchant technical integrations, low-code / no-code tools, and rule engines; understanding of APIs and system integrations; exposure to OCR / IDP and AI / GenAI use cases in operations.
+* Demonstrated track record of delivering process automation and workflow re-design with measurable outcomes (for example, TAT reduced, STP increased, FTE effort saved, error rates lowered).
+* Experience building 0-to-1 processes or teams and scaling them across multiple verticals, or functions.
+* Strong knowledge of payment acquiring, cross-border corridors, and the associated regulatory frameworks (RBI, FEMA, AML, card network rules), across Offline and Online Payments
+* Bachelor's degree in Business, Finance, Engineering, or a related field; MBA or equivalent postgraduate qualification preferred.
+* Strong data driven decisioning and command over analytical tools (Google analytics, SQL, Python, Power BI, Looker, or equivalent

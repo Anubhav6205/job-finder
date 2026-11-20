@@ -1,0 +1,45 @@
+Job description:
+
+Role : Gen AI Engineer
+
+*Job Description:*
+
+* Collect and prepare data for training and evaluating multimodal foundation models. This may involve cleaning and processing text data or creating synthetic data.
+* Develop and optimize large-scale language models like GANs (Generative Adversarial Networks) and VAEs (Variational Autoencoders)
+* Work on tasks involving language modeling, text generation, understanding, and contextual comprehension.
+* Regularly review and fine-tune Large Language models to ensure maximum accuracy and relevance for custom datasets.
+* Build and deploy AI applications on cloud platforms – any hyperscaler Azure, GCP or AWS.
+* Integrate AI models with our company's data to enhance and augment existing applications.
+* Handle data preprocessing, augmentation, and generation of synthetic data.
+* Design and develop backend services using Python or .NET to support OpenAI-powered solutions (or any other LLM solution)
+* Develop and Maintaining AI Pipelines
+* Work with custom datasets, utilizing techniques like chunking and embeddings, to train and fine-tune models.
+* Integrate Azure cognitive services (or equivalent platform services) to extend functionality and improve AI solutions
+* Collaborate with cross-functional teams to ensure smooth deployment and integration of AI solutions.
+* Ensure the robustness, efficiency, and scalability of AI systems.
+* Stay updated with the latest advancements in AI and machine learning technologies.
+* Strong foundation in machine learning, deep learning, and computer science.
+* Expertise in generative AI models and techniques (e.g., GANs, VAEs, Transformers).
+* Experience with natural language processing (NLP) and computer vision is a plus.
+* Ability to work independently and as part of a team.
+* Knowledge of advanced programming like Python, and especially AI-centric libraries like TensorFlow, PyTorch, and Keras. This includes the ability to implement and manipulate complex algorithms fundamental to developing generative AI models.
+* Knowledge of Natural language processing (NLP) for text generation projects like text parsing, sentiment analysis, and the use of transformers like GPT (generative pre-trained transformer) models.
+* Experience in Data management, including data pre-processing, augmentation, and generation of synthetic data. This involves cleaning, labeling, and augmenting data to train and improve AI models.
+* Experience in developing and deploying AI models in production environments.
+* Knowledge of cloud services (AWS, Azure, GCP) and understanding of containerization technologies like Docker and orchestration tools like Kubernetes for deploying , managing and scaling AI solutions
+* Should be able to bring new ideas and innovative solutions to our clients
+
+**#Position will close on 24th November**
+
+Pay: From ₹1,400,000.00 per year
+
+Experience:
+
+* Gen AI: 2 years (Preferred)
+* IT: 4 years (Required)
+
+Location:
+
+* Hyderabad, Telangana (Required)
+
+Work Location: Hybrid remote in Hyderabad, Telangana

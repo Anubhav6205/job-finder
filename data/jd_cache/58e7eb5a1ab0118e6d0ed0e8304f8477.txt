@@ -1,0 +1,69 @@
+**Req ID:** 389801
+  
+  
+NTT DATA strives to hire exceptional, innovative and passionate individuals who want to grow with us. If you want to be part of an inclusive, adaptable, and forward-thinking organization, apply now.
+  
+  
+We are currently seeking a Fullstack engineers + AI experience to join our team in Bangalore, Karnātaka (IN-KA), India (IN).
+  
+  
+Fullstack engineers + AI experience
+  
+  
+Job Description – Senior Full Stack Engineer (Python, React, Node.js Databricks)
+  
+  
+**Position:** Senior Full Stack Engineer – AI/Data Applications
+  
+**Experience:** 7+ Years
+  
+**Location:** Offshore – India
+  
+  
+**Role Summary:**  
+We are looking for experienced Full Stack Engineers with strong Python development expertise, React.js, Node.js, Databricks (DBX), and PostgreSQL experience. The ideal candidate should have hands-on experience building enterprise-scale applications, preferably supporting AI/ML or data-driven use cases.
+  
+  
+**Key Responsibilities:**  
+
+* Design and develop scalable full-stack applications using Python, React.js, and Node.js.
+* Build robust backend services, APIs, and microservices with heavy emphasis on Python.
+* Develop responsive and reusable front-end components using React.js.
+* Build and integrate applications/data solutions using Databricks (DBX).
+* Design and optimize data persistence and queries using PostgreSQL.
+* Integrate AI/ML capabilities into enterprise applications and workflows.
+* Design applications for horizontal scaling, high availability, performance, and reliability.
+* Implement secure APIs and services following enterprise security and compliance standards.
+* Participate in architecture, code reviews, performance optimization, CI/CD, and production troubleshooting.
+
+**Mandatory Skills:**  
+
+* 7+ years of overall software engineering experience.
+* Strong/heavy hands-on Python development experience – this is a key requirement.
+* Strong hands-on experience with React.js.
+* Good hands-on experience with Node.js.
+* Minimum 3 years of Databricks (DBX) experience.
+* Strong experience with PostgreSQL, including SQL and database design.
+* Practical experience with AI/ML or Generative AI-enabled applications.
+* Strong understanding of microservices and distributed application architecture.
+* Experience building applications at scale, including horizontal scaling, performance, resiliency, and high availability.
+* Good understanding of application/API security and enterprise security compliance.
+* Experience developing and integrating REST APIs/microservices.
+
+**Preferred Skills:**  
+
+* Experience with cloud platforms such as AWS, Azure, or GCP.
+* Docker/Kubernetes and containerized application deployment.
+* CI/CD and DevOps practices.
+* Experience integrating LLMs, GenAI APIs, RAG, AI agents, or ML models into applications is an advantage.
+
+About NTT DATA
+  
+  
+NTT DATA is a $30 billion business and technology services leader, serving 75% of the Fortune Global 100. We are committed to accelerating client success and positively impacting society through responsible innovation. We are one of the world's leading AI and digital infrastructure providers, with unmatched capabilities in enterprise-scale AI, cloud, security, connectivity, data centers and application services. our consulting and Industry solutions help organizations and society move confidently and sustainably into the digital future. As a Global Top Employer, we have experts in more than 50 countries. We also offer clients access to a robust ecosystem of innovation centers as well as established and start-up partners. NTT DATA is a part of NTT Group, which invests over $3 billion each year in RD.
+  
+  
+Whenever possible, we hire locally to NTT DATA offices or client sites. This ensures we can provide timely and effective support tailored to each client’s needs. While many positions offer remote or hybrid work options, these arrangements are subject to change based on client requirements. For employees near an NTT DATA office or client site, in-office attendance may be required for meetings or events, depending on business needs. At NTT DATA, we are committed to staying flexible and meeting the evolving needs of both our clients and employees. NTT DATA recruiters will never ask for payment or banking information and will only use @nttdata.com, @nttdatafed.com and @talent.nttdataservices.com email addresses. If you are requested to provide payment or disclose banking information, please submit a contact us form, https://us.nttdata.com/en/contact-us.
+  
+  
+NTT DATA endeavors to make https://us.nttdata.com accessible to any and all users. If you would like to contact us regarding the accessibility of our website or need assistance completing the application process, please contact us at https://us.nttdata.com/en/contact-us. This contact information is for accommodation requests only and cannot be used to inquire about the status of applications. NTT DATA is an equal opportunity employer. Qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability or protected veteran status. For our EEO Policy Statement, please click here. If you'd like more information on your EEO rights under the law, please click here. For Pay Transparency information, please click here.

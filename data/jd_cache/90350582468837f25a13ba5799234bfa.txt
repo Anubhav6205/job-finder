@@ -1,0 +1,120 @@
+Job Description
+
+**About Persistent**
+
+  
+
+We are an AI-led, platform-driven Digital Engineering and Enterprise Modernization partner, combining deep technical expertise and industry experience to help our clients anticipate what’s next. Our offerings and proven solutions create a unique competitive advantage for our clients by giving them the power to see beyond and rise above. We work with many industry-leading organizations across the world, including 18 of the Fortune 50 companies, 7 of the 10 top US banks, 9 of the 10 technology companies, and numerous innovators across the healthcare ecosystem.
+
+  
+
+Our disruptor’s mindset, commitment to client success, and agility to thrive in the dynamic environment have enabled us to sustain our growth momentum. Persistent has been recognized across top industry platforms for innovation, leadership, and inclusion. We have delivered 26 sequential quarters of growth with $487.6M in Q2 FY27 revenue, up 7.8% Q-o-Q and 20.0% Y-o-Y. Our 29,500+ global team members, located in 21 countries, have been instrumental in helping the market leaders transform their industries. We received five awards at the ISG (Information Services Group) Provider Lens™ Awards 2026 and, for the second year in a row, were awarded the Growth Honor of the Year at the Everest Group Elevate 2026.
+
+  
+
+**About Position:**
+
+  
+
+We are seeking a skilled Senior Power BI Developer with 4 to 6 years of experience in business intelligence, data visualization, and analytics solutions. The ideal candidate will have hands-on expertise in Power BI report development, semantic modeling, SQL-based data extraction, and dimensional data modeling. You will work closely with business stakeholders and data engineering teams to transform complex data into meaningful insights through interactive dashboards and reports that support strategic decision-making.
+
+  
+
+* **Role: Power BI Developer**
+* **Location: Pune**
+* **Experience: 4 to 6 Years**
+* **Job Type: Full-Time Employment**
+  
+
+**What You'll Do:**
+
+  
+
+* Design, develop, and maintain interactive Power BI dashboards and reports aligned with business requirements.
+* Create and optimize Power BI Semantic Models to support scalable reporting and analytics solutions.
+* Develop complex SQL queries for data extraction, transformation, and reporting purposes.
+* Implement dimensional data models using Star Schema and other best-practice modeling techniques.
+* Collaborate with business users to gather reporting requirements and translate them into effective dashboard solutions.
+* Perform data analysis, validation, and quality checks to ensure reporting accuracy.
+* Work closely with Data Engineers to integrate and optimize data pipelines for reporting and analytics.
+* Develop and enhance ETL/ELT processes to support enterprise reporting needs.
+* Leverage cloud-based data platforms such as Snowflake, Microsoft Fabric, and Databricks for analytics solutions.
+* Utilize Python and PySpark for advanced data preparation and transformation when required.
+* Support Power Platform initiatives including Power Apps and Power Automate integrations.
+* Identify opportunities to improve reporting performance, usability, and data accessibility.
+* Troubleshoot report performance issues and optimize dashboard responsiveness.
+* Document reporting solutions, data models, and development standards.
+  
+
+**Expertise You'll Bring:**
+
+  
+
+* 4 to 6 years of experience in Power BI development and business intelligence solutions.
+* Strong hands-on experience creating Power BI dashboards, reports, and semantic models.
+* Expertise in DAX, Power Query, and Power BI Service capabilities.
+* Strong knowledge of dimensional modeling concepts, including Star Schema and Snowflake Schema.
+* Proficiency in SQL, T-SQL, PL/SQL, and complex query development.
+* Experience with ETL/ELT processes and enterprise data integration.
+* Understanding of Data Warehousing concepts and modern analytics architectures.
+* Hands-on experience with cloud data platforms such as Snowflake, Databricks, or Microsoft Fabric.
+* Knowledge of Python and PySpark for data transformation and analytics.
+* Experience working with large datasets and performance optimization techniques.
+* Familiarity with Power Platform technologies including Power Apps and Power Automate.
+* Strong analytical, troubleshooting, and problem-solving skills.
+* Experience gathering business requirements and translating them into reporting solutions.
+* Excellent communication and stakeholder management skills.
+* Ability to explain complex data insights to technical and non-technical audiences.
+* Experience working in Agile development environments.
+  
+
+**Benefits:**
+
+  
+
+* Competitive salary and benefits package
+* Culture focused on talent development with quarterly growth opportunities and company-sponsored higher education and certifications
+* Opportunity to work with cutting-edge technologies
+* Employee engagement initiatives such as project parties, flexible work hours, and Long Service awards
+* Annual health check-ups
+* Insurance coverage: group term life, personal accident, and Mediclaim hospitalization for self, spouse, two children, and parents
+  
+
+**Values-Driven, People-Centric & Inclusive Work Environment:**
+
+  
+
+Persistent is dedicated to fostering diversity and inclusion in the workplace. We invite applications from all qualified individuals, including those with disabilities, and regardless of gender or gender preference. We welcome diverse candidates from all backgrounds.
+
+  
+
+* We support hybrid work and flexible hours to fit diverse lifestyles.
+* Our office is accessibility-friendly, with ergonomic setups and assistive technologies to support employees with physical disabilities.
+* If you are a person with disabilities and have specific requirements, please inform us during the application process or at any time during your employment
+  
+
+**Let's unleash your full potential at Persistent -** **persistent.com/careers**
+
+  
+
+***"Persistent is an Equal Opportunity Employer and prohibits discrimination and harassment of any kind."***
+
+1
+
+Open Positions
+
+PowerBI,SQL
+
+Skills Required
+
+PUNE
+
+Location
+
+PowerBI,SQL
+
+Desirable Skills
+
+191167
+
+Job Code

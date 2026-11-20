@@ -1,0 +1,35 @@
+### **Job Description**
+
+* End-to-end electronic product development spanning concept, architecture, electronics design, embedded firmware, AI integration, prototyping, testing, and product realization.
+* PCB design using Altium Designer and KiCAD, including schematic capture, layout, routing, manufacturing documentation, and board bring-up for 2-layer and multi-layer (4+ layer) boards.
+* Firmware development, hardware debugging, system integration, testing, and troubleshooting across embedded platforms.
+* Working with microcontrollers and embedded platforms including STM32, ESP32, ARM Cortex, Raspberry Pi, and similar systems.
+* Implementing and integrating Machine Learning, Edge AI, and Computer Vision solutions into product development workflows.
+* Applying knowledge of communication protocols including UART, SPI, I2C, CAN, RS232, RS485, USB, Ethernet, BLE, Wi-Fi, LoRa, and MQTT.
+* Using laboratory equipment such as Oscilloscopes, Logic Analyzers, Spectrum Analyzers, Function Generators, and Multimeters for testing and validation.
+* Applying DFM, DFT, and product validation practices to ensure manufacturable and reliable designs.
+
+### **Requirements and preferences**
+
+* Qualification: B.E./B.Tech in Electronics & Communication, Electronics Engineering, Embedded Systems, Electrical Engineering, or related field.
+* 2 years of hands-on experience in electronic product development, embedded systems, and prototyping.
+* Strong programming skills in C, C++, Python, and Embedded C.
+* Experience with PCB design using Altium Designer and KiCAD; ability to independently design 2-layer and multi-layer PCBs (4+ layers).
+* Strong understanding of analog, digital, mixed-signal, RF, and power electronics; good grasp of signal integrity, EMI/EMC, grounding, shielding, and high-speed design practices.
+* Working knowledge of Machine Learning, Artificial Intelligence, Edge AI, Computer Vision, and AI-assisted product development tools.
+* Familiarity with AI/ML frameworks such as TensorFlow, PyTorch, OpenCV, or Scikit-Learn is desirable.
+* Strong problem-solving skills with ability to diagnose and resolve multidisciplinary engineering challenges across hardware, software, embedded systems, and AI domains.
+* Self-driven, hands-on, and passionate about building innovative products in a fast-paced R&D environment.
+
+### **About the Team**
+
+This role is part of Venture Center's electronics and deep-tech prototyping ecosystem, supporting startups and innovators working at the intersection of embedded systems, AI, and product development. Learn more here
+
+**General requirements and expectations from Venture Center employees:**
+
+* Venture Center is a non‐profit organization with aim to benefit society by promoting entrepreneurs and start‐ups. Thus, Venture Center seeks employees and consultants with a strong interest and passion in seeing technology innovators, entrepreneurs, and start‐ups succeed, and a strong "service" ethos.
+* A strong feature of Venture Center jobs is the rich learning environment and opportunity provided to employees to experiment, take initiative and be creative. The work of most employees has visible impact which can be satisfying. All employees benefit from access to high quality facilities and work environments. Compensation packages can be flexible but are often conservative due to Venture Center’s non‐profit status.
+* General requirements include: a) strong ethical standards and work ethics, b) comfort with computers, computer applications and internet, c) strong communication skills – spoken and written.
+* Venture Center’s working hours are 9.30 AM – 5.30 PM (Monday to Friday and alternate Saturday) and are designed to keep operations of Venture Center convenient for the start‐ups, entrepreneurs, inventors and others that the organization serves. Managers in certain functions are provided the opportunity to avail of flexible hours. All jobs are located in Pune, Maharashtra, India.
+
+*Venture Center is an equal-opportunity employer and does not discriminate against any employee or applicant based on age, color, disability, gender, national origin, race, religion, sexual orientation or parental status.*

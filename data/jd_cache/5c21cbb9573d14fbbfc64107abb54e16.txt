@@ -1,0 +1,34 @@
+**WHAT YOU WILL OWN**
+
+**-** Drive innovation across our existing AI modules image intelligence, voice-to-structured-data, document pre-underwriting, and multi-signal triangulation — identifying accuracy gaps, introducing new model architectures, and pushing performance benchmarks
+
+**-** Conduct on-ground customer immersions: accompany field officers, observe loan origination in real conditions, and convert unstructured field knowledge into hypotheses for new product capabilities
+
+**-** Conceptualise and prototype new modules end-to-end — from customer pain-point to proof-of-concept to production — working directly with the CTO and Founder-CEO
+
+**-** Refine and expand our surrogate income and creditworthiness classification logic across trade segments and geographies, calibrating models to loan officer ground truth rather than bureau proxies
+
+**-** Act as the primary data science liaison with active clients — lead performance reviews, explain model behaviour to credit heads and CXOs, and translate field feedback into a clear improvement roadmap
+
+**-** Monitor live deployments across geographies; detect model drift early and ship fixes fast — this is an environment where days matter, not sprints
+
+**-** Build evaluation frameworks — precision/recall, NPA lift, Gini, KS — and convert them into ROI narratives that resonate with credit risk and product leaders
+
+**-** Contribute to research and outcome measurement deliverables for development finance and grant partners, with rigorous, audit-ready data outputs
+
+**MUST HAVE**
+
+* 3+ years in applied ML/data science with shipped, production models — not just research
+* Deep expertise in at least one of: computer vision, NLP/ASR, or document intelligence
+* Proven ability to present complex model outputs to non-technical audiences credit committees, CXOs, regulators
+* Comfort going from ambiguous customer observation to structured problem to prototype in compressed timelines
+* Strong Python and SQL; fluency with cloud-based data pipelines and experiment tracking
+* High ownership instinct — you close loops, flag issues early, and do not wait to be chased
+
+**STRONG PLUS**
+
+* MSME, microfinance, or BFSI credit domain knowledge
+* Experience with low-resource or multilingual models
+* Familiarity with alternative credit scoring and surrogate income methodologies
+* Prior experience in an early-stage startup — you built from scratch, not inherited
+* Awareness of AI regulatory and data privacy norms in financial services

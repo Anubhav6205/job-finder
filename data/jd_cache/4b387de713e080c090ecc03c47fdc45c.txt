@@ -1,0 +1,41 @@
+**Project Role :** LLM Model Developer  
+ **Project Role Description :** Fine-tunes Large Language Models with emphasis on instruction fine-tuning and domain adaptation to enhance model relevance and performance in specific contexts.   
+  
+**Must have skills :**Large Language Models (LLMs)  
+  
+**Good to have skills:**NA  
+Minimum **2** year(s) of experience is required  
+  
+**Educational Qualification:**15 years full time education  
+  
+Summary:   
+As an LLM Model Developer, a typical day involves working closely with advanced language models to refine their capabilities by focusing on instruction fine-tuning and adapting them to specific domains. This role requires continuous engagement with evolving datasets and model parameters to ensure that the language models deliver accurate and contextually relevant outputs. The workday often includes analyzing model behavior, experimenting with different tuning techniques, and collaborating with team members to align the models with project goals and user needs, fostering innovation and precision in language understanding.  
+  
+**Roles & Responsibilities:**  
+  
+- Expected to perform independently and become an SME.  
+- Required active participation/contribution in team discussions.  
+- Contribute in providing solutions to work related problems.  
+- Collaborate with cross-functional teams to integrate fine-tuned models into broader applications and workflows.  
+- Continuously monitor model performance and implement improvements based on feedback and evaluation metrics.  
+- Document methodologies and results to support knowledge sharing and future development efforts.  
+  
+**Professional & Technical Skills:**  
+**Must To Have Skills:**  
+ Proficiency in Large Language Models (LLMs).  
+- Experience with natural language processing techniques and model fine-tuning strategies.  
+- Strong understanding of machine learning principles and neural network architectures relevant to language models.  
+- Familiarity with data preprocessing, annotation, and augmentation methods to support domain adaptation.  
+- Ability to analyze model outputs critically and optimize parameters for enhanced performance.  
+- Experience working with programming languages and frameworks commonly used in AI model development.  
+  
+**Additional Information:**  
+  
+- The candidate should have minimum 2 years of experience in Large Language Models (LLMs).  
+- This position is based at our Bengaluru office.  
+- A 15 years full time education is required.  
+  
+  
+  
+**Qualification**  
+15 years full time education

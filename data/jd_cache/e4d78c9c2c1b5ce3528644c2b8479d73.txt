@@ -1,0 +1,31 @@
+**Role**: Senior Full Stack Engineer – GenAI /AgenticAI  
+**Experience:** 5+ Years  
+**Location:** Pune / Bangalore  
+Employment Type: Contractual-6months(extendable based on performance)
+
+**Job Description**
+
+We are looking for a **Senior Full Stack Engineer** for one of our clients in the **Life Sciences and Healthcare Analytics industry**.
+
+**Key Responsibilities & Skills:**
+
+* Develop scalable full-stack applications using **Python, React.js/Next.js and TypeScript**.
+* Build and integrate **GenAI** solutions using **LLMs, RAG, Agentic AI and multimodal foundation models**.
+* Work with **Azure OpenAI, vector databases, semantic search and retrieval systems**.
+* Develop REST APIs, microservices and event-driven architectures.
+* Implement LLMOps/MLOps practices, including deployment, evaluation, monitoring, observability, prompt management and guardrails.
+* Integrate speech-to-text, text-to-speech, image and video generation APIs.
+* Work with Azure services, Databricks, AKS/Kubernetes and Azure Data Lake Gen2.
+* Manage CI/CD pipelines, testing, security and governance using GitHub/Azure DevOps.
+
+Mandatory Requirements
+
+* 5 years of relevant software development experience.
+* Strong hands-on full-stack development experience.
+* Proficiency in Python, React.js/Next.js and TypeScript.
+* Practical experience with GenAI, LLMs, RAG and Agentic AI.
+* Experience developing and deploying production-grade AI applications.
+* Strong API development and microservices experience.
+* Good communication and problem-solving skills.
+
+Work Location: In person

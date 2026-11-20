@@ -1,0 +1,43 @@
+**We're looking for a**
+
+**Forward Deployment Engineer**
+===============================
+
+**This role is** **Office Based, Hyderabad Office**
+
+**Forward Deployment Engineer (FDE)**
+
+Cornerstone OnDemand is looking for a Forward Deployment Engineer (FDE) who will lead the design, development, and deployment of AI-powered solutions using AWS AI services, Bedrock, and Generative AI technologies. You will be responsible for building intelligent automation solutions and creating custom Gen AI applications serving as critical bridge between Cornerstone’s product engineering teams and our strategic enterprise customer teams to ensure seamless integration and delivery of Agentic applications. As an FDE, you will drive successful deployments of AI-powered Workforce Agility products and assist customer needs into product innovations.
+
+**In this role you will…**
+
+* Assist with technical deployments and integrations of Cornerstone's AI-native Workforce Agility products at strategic enterprise accounts, ensuring high-impact, successful outcomes.
+* Work closely with customer engagements — owning solution architecture, implementation strategy, and long-term adoption planning.
+* Partner directly with customers to deeply understand their workforce challenges, then design and deliver tailored AI-driven solutions leveraging Generative AI and Agentic Frameworks.
+* Identify and prototype custom solutions — including scripts, APIs, and AI workflow extensions — that accelerate customer time-to-value.
+* Stay current with enterprise integration technologies, AI advancements, and industry trends to continuously elevate customer engagements.
+* Participate in technical discovery sessions with client stakeholders to understand business requirements and integration constraints.
+* Support on-site and remote deployment of AI solutions within client environments, managing configuration, data integration, and go-live activities.
+* Deliver proof-of-concept projects to evaluate AI technologies and demonstrate business value to client teams.
+* Provide technical enablement and knowledge transfer sessions to client engineering teams as needed.
+
+**You have what it takes if you have…**
+
+* Bachelor’s or Master’s in Computer Science, Engineering, or a closely related field (or equivalent experience in senior enterprise technical roles).
+* 2+ years of hands-on experience in enterprise software deployment, systems integration, or solutions engineering — with strong proficiency in Python, Java, or equivalent.
+* 1–2 years of experience deploying or integrating products built on Generative AI, LLMs, or Agentic Frameworks in production enterprise environments.
+* Familiarity with AI/ML concepts (NLP, recommendation systems, LLMs, vector databases, semantic search) sufficient to implement AI-native solutions.
+* Design and develop scalable APIs and microservices for AI model deployment and MCP integration.
+* Outstanding problem-solving instincts — able to diagnose ambiguous customer environments quickly and drive toward solutions under pressure.
+
+#LI-Onsite
+
+**Our Culture:**
+
+Spark Greatness. Shatter Boundaries. Share Success. Are you ready? Because here, right now – is where the future of work is happening. Where curious disruptors and change innovators like you are helping communities and customers enable everyone – anywhere – to learn, grow and advance. To be better tomorrow than they are today.
+
+**Who We Are:**
+
+At Cornerstone, we believe in AI that works in the service of people, amplifying their judgment to drive high-performing, future-ready organizations forward. Cornerstone Workforce AI™, the intelligence platform for workforce readiness, brings together workforce and labor market data into a proprietary Cornerstone People Graph™, translating signals into intelligence, targeting learning where it matters, developing critical skills, and surfacing hidden talent. Delivered as an open, enterprise platform across whatever application your people work in every day, Cornerstone Workforce AI is built for scale, security, and trust, with certified AI guardrails. As an industry leader, Cornerstone is helping approximately 7,000 organizations, 140M+ users, across 186 countries build continuous workforce readiness.
+
+Check us out on LinkedIn, Comparably, Glassdoor, and Facebook!

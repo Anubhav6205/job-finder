@@ -1,0 +1,49 @@
+Since 2003, Entrata has evolved from a visionary, student-led startup into a global leader in AI-driven property management technology. Today, we power the industry's most essential operating system, serving owners and residents worldwide through a comprehensive suite of intelligent leasing, payment, and communication tools powered by cutting-edge AI. With a proven track record of sustained growth and a global team of more than 2,200 employees, we offer the rare combination of established stability and high-velocity innovation. Recognized by the Silicon Slopes Hall of Fame and the Utah Business Fast 50, Entrata fosters a culture of radical transparency and entrepreneurial energy. At Entrata, we create an environment where different perspectives are valued and respected. Those perspectives challenge assumptions, strengthen our decisions, and raise the bar as we reshape the global living experience through AI-powered solutions.
+  
+  
+We’re looking for a Software Engineer to help build Document Ingestion, a platform that processes any documents or images into structured data using LLM Models, OCR, and AWS cloud-based processing.
+  
+  
+You’ll work across frontend, backend services, APIs, extraction workflows, evaluations, deployment, and observability.
+  
+  
+**Responsibilities will include:**
+
+* Design, build, test, deploy, maintain, and support the most accurate Document Ingestion features
+* Develop Python APIs and services using FastAPI and Pydantic
+* Build document ingestion workflows for PDFs, DOCX, and image files
+* Work with AI models, prompts, schemas, structured outputs, and OCR
+* Build asynchronous processing using S3, SQS, DynamoDB, and worker services
+* Create automated tests and extraction-quality evaluations
+* Troubleshoot production issues using logs, metrics, traces, and New Relic
+* Contribute to Docker, Terraform, Helm, and Amazon EKS deployments
+* Demonstrate autonomy and operate with minimal supervision
+* Follow best security practices for authentication, API scopes, tenant isolation, and data documentation
+
+**Minimum Qualifications:**
+
+* 4+ years of experience building complex products
+* Proficiency in the Python programming language
+* Experience with REST APIs, background processing, databases, cloud services, and automated testing
+* Understanding of AI applications, prompt design, structured outputs, tool calling, and response validation
+* Experience with monitoring and troubleshooting production systems
+* Experience using Codex/Cursor AI coding tools
+* Strong problem-solving and communication skills
+* Ability to communicate effectively with teams across Entrata
+* Experience with LLM APIs integrations
+* Experience with FastAPI, Pydantic, pytest, PyMuPDF, or AWS Textract
+* Knowledge of AWS services like S3, DynamoDB, and SQS
+
+**Preferred Qualifications:**
+
+* Knowledge of Deployment services like Docker, Terraform, Helm, or Amazon EKS
+* Experience with document-vision models and document extraction evals
+* Familiarity with JWT, API scopes, New Relic, Langfuse, Vue, or Tailwind CSS
+
+Entrata is dedicated to creating a workplace where a diverse and inclusive team thrives in an environment free from discrimination. We provide equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity, protected veteran status, or any other applicable characteristics protected by law.
+  
+  
+It’s a great place to work! Will you join us?
+  
+  
+We may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses and identifying potential inconsistencies or verification signals in application materials based on available information. These tools assist our recruitment team but do not replace human judgment. Final hiring decisions are ultimately made by humans. If you would like more information about how your data is processed, please contact us.

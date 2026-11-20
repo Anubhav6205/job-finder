@@ -1,0 +1,241 @@
+Cordance is dedicated to accelerating the growth of vertically focused business-to-business (B2B) software-as-a-service (SaaS) companies through acquisition and long-term tactical and financial guidance. We’re experienced operators and subject-matter experts with a passion for software and building businesses. We partner with founders to help them scale their businesses and realize their companies’ full potential.
+
+We look for businesses with strong leadership and high potential for profitable growth, and work together to increase year-over-year revenue, company efficiency, and impact. Cordance envisions that all companies we work with achieve their full potential. We embrace what makes each company great and build on those foundations. We believe in elevating a company as it scales, delivering dignity to the organization and its employees, and sharing a passion for building a legacy.
+
+**Job Overview**
+
+We are looking for versatile **Full-Stack .NET Engineers** to join our Engineering team. The team works across multiple Business Units and technology initiatives, supporting new product development, application enhancements, application modernization, integrations, and specialized engineering projects.
+
+The role requires strong hands-on expertise in **C# and .NET**, combined with the ability to work across frontend, backend, databases, cloud, DevOps, and emerging technologies. Our environment includes both modern applications and long-running legacy systems, so engineers should be comfortable understanding, maintaining, troubleshooting, and modernizing legacy **.NET Framework** applications toward modern .NET and ASP.NET Core.
+
+Candidates must have hands-on, production experience with both React and Angular. Our Business Units run frontends on both frameworks, and engineers are expected to move between them without a ramp-up period.
+
+The ideal candidate is a strong problem solver who can quickly understand unfamiliar codebases, adapt to different technology environments, leverage AI-assisted development tools effectively, and take ownership of delivering high-quality engineering outcomes.
+
+**Roles & Responsibilities**
+
+* Design, develop, test, maintain, and modernize applications using C# and .NET.
+
+* Build and consume RESTful APIs and backend services.
+
+* Develop full-stack applications using .NET with both React and Angular frontends.
+
+* Build, maintain, and modernize React and Angular applications, including upgrading legacy AngularJS / older Angular versions and older React codebases (class components) to current versions.
+
+* Design reusable UI components, state management, and API integration patterns that work consistently across React and Angular codebases.
+
+* Work with both modern .NET and legacy .NET Framework applications.
+
+* Analyze legacy codebases and identify opportunities for modernization, refactoring, performance improvement, and technical-debt reduction.
+
+* Modernize legacy applications from **.NET Framework to modern .NET / ASP.NET Core**.
+
+* Upgrade frameworks, libraries, dependencies, and application components while maintaining application stability.
+
+* Work with relational and NoSQL databases.
+
+* Develop integrations with enterprise applications and third-party systems.
+
+* Work with AWS or Azure cloud services.
+
+* Implement CI/CD pipelines and automated testing.
+
+* Troubleshoot application and production issues across multiple technology layers.
+
+* Participate in technical design, architecture discussions, code reviews, and technical decision-making.
+
+* Where applicable, integrate AI/ML services, LLM APIs, and intelligent automation.
+
+* Collaborate with engineers, product teams, architects, and Business Unit stakeholders.
+
+* Adapt to different projects and technology environments based on business priorities.
+
+**Required Skills**
+
+**.NET / C#**
+
+* Strong hands-on experience with C#.
+
+* Experience with **.NET 8+** preferred.
+
+* Experience with .NET 6/7/8+ desirable.
+
+* ASP.NET Core.
+
+* REST API development.
+
+* Entity Framework Core.
+
+* LINQ.
+
+* Dependency Injection.
+
+* Asynchronous programming.
+
+* Object-oriented programming and design principles.
+
+**Legacy .NET**
+
+Experience working with one or more of:
+
+* **.NET Framework 4.x**
+
+* ASP.NET MVC
+
+* ASP.NET Web API
+
+* ASP.NET Web Forms
+
+* WCF
+
+* Entity Framework 6
+
+* IIS-hosted applications
+
+* Legacy third-party libraries.
+
+Candidates should be comfortable **understanding and modernizing legacy .NET applications**, not only developing new applications.
+
+**Frontend**
+
+Hands-on production experience with BOTH React and Angular is mandatory. Experience with only one framework is not sufficient.
+
+**React**
+
+* React 18+ with functional components and Hooks.
+
+* State management: Redux / Redux Toolkit, Context API, or Zustand.
+
+* Data fetching: React Query / TanStack Query or similar.
+
+* React Router; Next.js experience is a plus.
+
+* Testing with Jest and React Testing Library.
+
+**Angular**
+
+* Angular 15+ (standalone components and Signals a plus).
+
+* RxJS and reactive programming patterns.
+
+* State management: NgRx or services-based state.
+
+* Angular CLI, modules, dependency injection, routing, guards, interceptors, and reactive forms.
+
+* Testing with Jasmine/Karma or Jest; Cypress or Playwright for E2E.
+
+* Migration experience from AngularJS (1.x) or older Angular versions is a strong plus.
+
+**Common Frontend**
+
+* Strong TypeScript and modern JavaScript (ES6+).
+
+* HTML5, CSS3, SCSS; responsive design; Tailwind, Material UI, or Angular Material.
+
+* Build tooling: Vite, Webpack, npm/yarn/pnpm.
+
+* Web performance optimization, accessibility (WCAG), and frontend security (XSS, CSRF, auth token handling).
+
+* Integrating SPAs with ASP.NET Core APIs, including OAuth2 / OpenID Connect authentication.
+
+**Database**
+
+* Strong SQL and relational database fundamentals.
+
+* SQL Server preferred.
+
+* Experience with PostgreSQL, MySQL, MongoDB, or similar databases is desirable.
+
+**Engineering Practices**
+
+* Git.
+
+* Automated testing.
+
+* CI/CD.
+
+* Debugging and troubleshooting.
+
+* API design.
+
+* Secure coding practices.
+
+**Good to Have Skills**
+
+* AWS or Azure.
+
+* Docker / containerization.
+
+* Kubernetes.
+
+* Infrastructure as Code.
+
+* Microservices.
+
+* Event-driven architecture.
+
+* Kafka or message queues.
+
+* Serverless technologies.
+
+* Python or Java.
+
+* AI/ML services.
+
+* Generative AI / LLM APIs.
+
+* AI-assisted development tools such as GitHub Copilot, Claude, Cursor, or similar.
+
+* Application modernization experience.
+
+* Observability and monitoring.
+
+**Senior Engineer – Additional Expectations**
+
+* Technical design and architecture.
+
+* Leading application modernization initiatives.
+
+* Assessing legacy architectures and defining pragmatic migration strategies.
+
+* Strong understanding of security, scalability, reliability, and maintainability.
+
+* Mentoring engineers and leading technical initiatives.
+
+* Setting frontend architecture and standards across React and Angular codebases, and guiding framework upgrade/migration decisions.
+
+* Stakeholder engagement and technical problem solving.
+
+*Please note that we do not accept unsolicited resumes, work on a Corp-to-Corp basis, or engage with non-vetted external agencies.*
+
+### **Why Join Us?**
+
+At Cordance, we believe in taking care of our team members. When you join us, you’ll enjoy a comprehensive benefits package designed to support your health, financial well-being, and work-life balance:
+
+* **Health and Wellness:**
+  + Comprehensive Health Coverage: Coverage begins on your first day of employment.
+* **Retirement Savings:**
+  + 401K Plan (US): We match 1:1 for the first 3% of contributions and 0.5:1 for the next 2%. Contribute 5% of your salary and get a 4% match. Choose from pre-tax and Roth options. You’re eligible the first of the month after 90 days and immediately vested.
+  + RRSP (CAN): We match 1:1 for the first 3% of contributions and 0.5:1 for the next 2%. Contribute 5% of your salary and get a 4% match. Choose from pre-tax and Roth options. You’re eligible the first of the month after 90 days and immediately vested.
+* **Paid Time Off:**
+  + Flexible PTO: Enjoy uncapped paid time off to balance your work and personal life.
+* **Parental Leave:**
+  + 12 weeks paid leave for all employees.
+* **Remote Work Support:**
+  + Monthly Stipend: Receive $75 USD / $140 CAD per month for phone and internet if you work remotely.
+* **Holidays:**
+  + Generous Holiday Schedule: Benefit from an extensive list of holidays to recharge and spend time with loved ones.
+
+Join us and be part of a company that values your contributions and well-being from day one!
+
+##### ***EEOC & ADA Statement*****:**
+
+##### **Cordance and its companies provide equal employment opportunities to all employees and applicants for employment and prohibits discrimination and harassment of any type without regard to race, color, religion, age, creed, sex, nationality, ancestry, national origin, disability status, genetics, protected veteran status, affectional or sexual orientation, gender identity or expression, marital status, or any other characteristic protected by federal, state, or local laws.**
+
+##### **Cordance and its companies comply with federal and state disability laws and make reasonable accommodations for applicants and employees with disabilities. If reasonable accommodation is needed to participate in the job application or interview process, to perform essential job functions, and/or to receive other benefits and privileges of employment, please contact Human Resources.**
+
+##### **This applies to all terms and conditions of employment, including recruiting, hiring, placement, promotion, termination, layoff, recall, transfer, leaves of absence, compensation, and training.**
+
+##### **Final candidate must be able to pass a background check.**
+
+##### **To view applicant notices required under federal and state law, please visit:** **https://cordance.co/applicant-notices/**

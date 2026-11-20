@@ -1,0 +1,59 @@
+**Join our Team**
+-----------------
+
+We are seeking a hands-on AI Engineer to build and support enterprise People Data, analytics, and AI solutions.  
+The role involves working with business and technology teams to understand requirements, develop prototypes, and turn successful ideas into secure, scalable solutions. The candidate should be comfortable coding, solving technical problems, and supporting applications through deployment and production.
+
+**Key Responsibilities**
+
+* Translate business requirements into practical technical solutions.
+* Develop and maintain data pipelines, APIs, AI applications, and integrations.
+* Build prototypes and evolve successful concepts into production-ready solutions.
+* Develop GenAI capabilities such as RAG applications, intelligent assistants, and AI-enabled workflows.
+* Integrate AI solutions with Snowflake, cloud services, enterprise APIs, and vector databases.
+* Support the modernization and migration of legacy data workloads.
+* Implement data quality, security, privacy, access control, monitoring, and responsible AI requirements.
+* Test, troubleshoot, document, deploy, and support solutions in production.
+* Collaborate with engineers, business teams, security, and architecture stakeholders.
+
+**Technical Skills**
+
+**Python and Software Engineering**
+
+* Strong Python programming skills.
+* Experience developing APIs, backend services, data pipelines, or AI applications.
+* Understanding of modular development, testing, logging, exception handling, secure coding, and CI/CD.
+* Ability to troubleshoot application and production issues.
+
+**AI and GenAI**
+
+* Experience building LLM-powered applications.
+* Knowledge of RAG, embeddings, vector databases, prompt engineering, and AI orchestration frameworks.
+* Understanding of AI evaluation, hallucination mitigation, model monitoring, and responsible AI.
+* Experience integrating AI solutions with enterprise data and applications.
+
+**Snowflake and Data Engineering**
+
+* Hands-on experience with Snowflake, SQL, data modelling, and ETL/ELT pipelines.
+* Familiarity with Snowflake features such as Streams, Tasks, Snowpipe, RBAC, and data masking.
+* Experience with query optimisation, data reconciliation, and performance monitoring.
+* Knowledge of PySpark and at least one major cloud platform: AWS, Azure, or GCP.
+
+**Required Competencies**
+
+* Relevant experience in AI engineering, software engineering, or data engineering.
+* Strong coding, analytical, and problem-solving skills.
+* Ability to work through ambiguity and learn new technologies quickly.
+* Good understanding of secure and scalable application development.
+* Clear communication and effective collaboration with technical and business teams.
+* Experience working with enterprise security, privacy, and governance requirements.
+
+“All academic credentials must be from recognized and accredited institutions and are further subject to verification.”
+
+**Why join Ericsson?**At Ericsson, you´ll have an outstanding opportunity. The chance to use your skills and imagination to push the boundaries of what´s possible. To build solutions never seen before to some of the world’s toughest problems. You´ll be challenged, but you won’t be alone. You´ll be joining a team of diverse innovators, all driven to go beyond the status quo to craft what comes next.  
+  
+**What happens once you apply?**Click Here to find all you need to know about what our typical hiring process looks like.Encouraging a diverse and inclusive organization is core to our values at Ericsson, that's why we champion it in everything we do. We truly believe that by collaborating with people with different experiences we drive innovation, which is essential for our future growth. We encourage people from all backgrounds to apply and realize their full potential as part of our Ericsson team. Ericsson is proud to be an Equal Opportunity Employer. learn more.
+
+**Primary country and city:** India (IN) || Bangalore
+
+**Req ID:** 794709

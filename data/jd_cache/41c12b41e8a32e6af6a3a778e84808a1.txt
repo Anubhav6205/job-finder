@@ -1,0 +1,44 @@
+**Experience:**
+3–6 Years
+
+**Required Skills:**
+Python, SQL, Machine Learning, GenAI, LLM, LangChain, LangGraph, MCP
+
+**Preferred Cloud Platform:**
+AWS
+
+**Job Summary:**
+
+We are looking for a skilled GenAI / Machine Learning Engineer with 4–6 years of experience in Python, SQL, machine learning, and generative AI technologies. The candidate should have hands-on experience working with LLM models, developing GenAI-based solutions, and using frameworks like LangChain and LangGraph. Experience with MCP (Model Context Protocol), cloud platforms, and AI-powered coding assistants will be an added advantage.
+
+**Key Responsibilities:**
+
+* Design, develop, and implement GenAI and machine learning solutions.
+* Work with Large Language Models (LLMs) to build AI-powered applications.
+* Develop and integrate solutions using LangChain and LangGraph.
+* Work on MCP (Model Context Protocol) integrations and implementations.
+* Write efficient Python and SQL code for data processing and application development.
+* Work with cloud platforms, preferably AWS, to develop and deploy AI solutions.
+* Work with data visualization tools like AWS QuickSight or Power BI.
+* Collaborate with teams to solve technical challenges and improve existing solutions.
+* Use Git and Docker for version control and application deployment workflows.
+* Leverage AI coding assistants like AWS Kiro and GitHub Copilot to improve development productivity.
+
+**Required Skills:**
+
+* 3–6 years of experience in software development, data science, machine learning, or related technologies.
+* Strong hands-on experience in Python and SQL.
+* Good understanding and practical experience in machine learning.
+* Hands-on experience developing GenAI solutions and working with LLM models.
+* Experience with LangChain and LangGraph frameworks.
+* Knowledge or experience with MCP (Model Context Protocol).
+* Minimum 2 years of experience working on any cloud platform; AWS preferred.
+* Experience with Git and Docker.
+* Good problem-solving and analytical skills.
+
+**Good to Have Skills:**
+
+* Experience with AWS QuickSight or Power BI.
+* Exposure to Big Data technologies.
+* Experience using AWS Kiro and GitHub Copilot coding assistants.
+* Experience deploying and managing AI/ML applications on cloud platforms.

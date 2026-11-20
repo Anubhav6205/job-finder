@@ -1,0 +1,147 @@
+**Make an impact with NTT DATA**  
+Join a company that is pushing the boundaries of what is possible. We are renowned for our technical excellence and leading innovations, and for making a difference to our clients and society. Our workplace embraces diversity and inclusion – it’s a place where you can grow, belong and thrive.
+
+**Automotive Domain + AI Subject Matter Expert (SME)**
+
+**Role Purpose**
+
+We are looking for an **Automotive Domain + AI SME** who combines deep automotive business and business-process expertise with a strong applied understanding of **AI, Generative AI and Agentic AI**.
+
+The role will work closely with automotive business and technology teams to understand existing processes, IT landscapes and value flows, challenge existing assumptions and improvement opportunities, map applications and data supporting those processes, and identify how AI and agents can enable fundamentally better ways of working and measurable business value.
+
+The SME will lead opportunities from **process discovery future-state reimagination AI opportunity identification prioritization business-value validation implementation roadmap**, working together with consulting, architecture and engineering teams.
+
+**Key Responsibilities**
+
+**1. Automotive Domain Expertise & Process Reimagination**
+
+* Conduct workshops and engage on eye level with automotive business, engineering and IT stakeholders.
+* Understand and document **as-is business processes, value flows and pain points** to challenge and contribute to client discussions.
+* Identify where current process structures, controls or decision points can be simplified, augmented or eliminated through AI and automation.
+* Understand process dependencies across business functions, applications, data and organizational boundaries.
+* Reimagine **to-be processes enabled by AI and automation**.
+* Bring automotive industry benchmarks, best practices and solid domain knowledge into discussions.
+
+**2. AI Opportunity Identification**
+
+* Evaluate processes for applicability of **GenAI, Agentic AI, ML and intelligent automation**.
+* Translate domain problems and future-state process ideas into clearly defined AI-enabled use cases.
+* Identify opportunities for:
+  + Knowledge assistants and enterprise search
+  + AI agents and autonomous workflows
+  + Engineering productivity
+  + Predictive analytics
+  + Intelligent document processing
+  + Service/support automation
+  + Process re-imagionation and optimization
+  + AI-enabled decision support
+* Assess feasibility considering **data, applications, integration, security and business readiness**.
+
+**3. Application & Process Mapping**
+
+* Undertand and map how business processes are supported by underlying applications, systems and data.
+* Understand interactions between legacy, enterprise and custom applications.
+* Identify where AI can augment or orchestrate existing applications rather than requiring major replacement, and where process redesign applies.
+* Work with architects and engineers to translate requirements into APIs, integrations and data sources.
+
+**4. AI Use-Case Prioritization & Business Case**
+
+* Develop an **AI opportunity backlog** through discovery and reimagationation workshops.
+* Prioritize opportunities based on:
+  + Business value
+  + Productivity improvement
+  + Technical feasibility
+  + Data availability
+  + Implementation complexity
+  + Time-to-value
+* Define measurable KPIs and expected outcomes for selected use cases.
+* Develop high-level business cases and implementation roadmaps.
+
+**5. PoC / Prototype Leadership**
+
+* Convert shortlisted opportunities into structured PoC proposals.
+* Define PoC scope, success criteria, data requirements and expected outcomes.
+* Work hands-on or closely with AI engineers to shape and develop prototypes.
+* Validate and demonstrate solutions to business stakeholders.
+* Assess PoC results against agreed business KPIs.
+* Recommend **Scale / Refine / Stop** decisions based on results.
+
+**6. Automotive AI Advisory**
+
+The candidate should have deep knowledge in **at least 2 automotive domains**, such as:
+
+* Vehicle Engineering / R&D
+* Software-Defined Vehicle
+* Manufacturing & Plant Operations
+* Quality Management
+* Supply Chain & Logistics
+* Procurement
+* Sales & Marketing
+* Aftersales / Customer Service
+* Connected Vehicle
+* Finance / Leasing
+* Dealer Management
+
+The SME should continuously assess the impact of emerging AI capabilities on these automotive processes.
+
+**AI & Technology Expectations**
+
+Strong conceptual and practical understanding of and how to apply:
+
+* AI and Large Language Models
+* Agentic AI / AI Agents, including humain-in-the-loop patterns
+* RAG and enterprise knowledge solutions
+* AI-assisted software engineering
+* Machine Learning fundamentals
+* Process automation and orchestration
+* AI APIs and integration concepts
+* Cloud-based AI platforms and enterprise AI architectures
+* Responsible AI, security and data privacy
+
+Exposure to major enterprise AI platforms and agent frameworks. Experience with technologies such as **Azure OpenAI, AWS Bedrock, Google Vertex AI, OpenAI, Microsoft Copilot, LangChain/LangGraph** would be advantageous.
+
+The person **does not need to be a full-time AI developer**, but must be technically strong enough to discuss AI architecture with engineering teams and guide a PoC from business problem to working solution.
+
+**Candidate Profile**
+
+**Experience:** 8–15 years overall, preferably with significant automotive industry experience.
+
+**Education:** Engineering / Computer Science / Automotive / Manufacturing / equivalent degree. MBA or relevant advanced qualification is advantageous.
+
+**Preferred Background:**
+
+* Automotive OEM
+* Tier-1 automotive supplier
+* Automotive technology organization
+* Automotive consulting organization
+* IT/services organization with substantial automotive experience
+
+**Workplace type****:**
+
+  
+
+**About NTT DATA**  
+NTT DATA is a $30+ billion business and technology services leader, serving 75% of the Fortune
+
+Global 100. We are committed to accelerating client success and positively impacting society through
+
+responsible innovation. We are one of the world’s leading AI and digital infrastructure providers, with
+
+unmatched capabilities in enterprise-scale AI, cloud, security, connectivity, data centers and
+
+application services. Our consulting and industry solutions help organizations and society move
+
+confidently and sustainably into the digital future. As a Global Top Employer, we have experts in more
+
+than 70 countries. We also offer clients access to a robust ecosystem of innovation centers as well as
+
+established and start-up partners. NTT DATA is part of NTT Group, which invests over $3 billion each
+
+year in R&D.
+
+**Equal Opportunity Employer**  
+NTT DATA is proud to be an Equal Opportunity Employer with a global culture that embraces diversity. We are committed to providing an environment free of unfair discrimination and harassment. We do not discriminate based on age, race, colour, gender, sexual orientation, religion, nationality, disability, pregnancy, marital status, veteran status, or any other protected category. Join our growing global team and accelerate your career with us. Apply today.
+
+**Third parties fraudulently posing as NTT DATA recruiters**
+
+NTT DATA recruiters will never ask job seekers or candidates for payment or banking information during the recruitment process, for any reason. Please remain vigilant of third parties who may attempt to impersonate NTT DATA recruiters whether in writing or by phone in order to deceptively obtain personal data or money from you. All email communications from an NTT DATA recruiter will come from an **@nttdata.com** email address. If you suspect any fraudulent activity, please *contact us*.

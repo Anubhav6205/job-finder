@@ -1,0 +1,59 @@
+**The Role in One Line**
+
+You are the product owner of our agents. You define what each agent is responsible for, how much autonomy it gets, how it is measured, and how it improves from real usage. You do not write the code.
+
+  
+
+**Why This Role Exists**
+
+Hungama is building AI-native entertainment products for India and beyond. Models change every few weeks. Calling an API is no longer the hard part. The hard part is designing agents and workflows that users trust, return to and pay for, and then keeping them reliable as models, costs and user behaviour shift.
+
+  
+
+AI Product & Workflow is where that gets defined, evaluated and tuned. You will sit between Tech, AI Engineering, Design, Creative and Growth. Engineers build the system. You decide what it should do, how it should behave, and what happens next.
+
+  
+
+**What You Will Own**
+
+  
+
+**Agent definition.** Write the spec for each agent: its goal, scope, inputs and outputs, tools it can call, what it must never do, and the quality bar it has to clear before it ships.
+
+**Orchestration and handoffs.** Design the workflow behind each product: how a task is broken into steps, which steps are handled by which agent or model, how steps hand off, and where the workflow retries, escalates or stops.
+
+**Autonomy and human in the loop.** Set autonomy levels per task. Decide what the agent does on its own, what needs user approval, and what needs a human reviewer. Move tasks up the autonomy ladder as evidence builds.
+
+**Self-learning loops.** Define how the agent gets better with use: which user and system signals count as feedback, what gets stored as memory, how edits and rejections feed back into prompts and evals, and how you prove it is improving.
+
+**Evals and release gates.** Build and maintain the eval set for every agent: golden examples, failure cases and scoring rubrics. Decide when a prompt, model or workflow change is good enough to release, and when to roll back.
+
+**Observability and failure review.** Read agent traces and failed runs weekly. Classify failures, find the pattern, and decide whether the fix is a prompt, a tool, a workflow step, a model swap or a product change.
+
+**Unit economics and model choice.** Track cost per task, latency, success rate and quality for each workflow. Trade these off deliberately, and choose the right image, audio, video or language model for each step.
+
+**Agent UX.** Work with the UI team to define how agent behaviour shows up on screen: progress, approvals, edits, regenerate, undo, errors and handoff to a human. Review builds against intent.
+
+**Go to market.** Own positioning, pricing, launch and rollout with Growth and Partnerships. Know who the product is for, why they pay, and what it costs us to serve them.
+
+**Insights to iteration.** Read analytics, session behaviour, feedback and support tickets. Turn what you find into prompt changes, workflow changes, new defaults or killed features, and ship them within the sprint.
+
+  
+
+**You Are a Fit If**
+
+You have 8 to 10 years in product, and at least 1 year managing AI products that real users have used in production.
+
+You know how to productise Agentic AI: multi-step agents, tool use, orchestration, guardrails, evals, cost control and failure handling. You have shipped it, not just prototyped it.
+
+You understand self-learning agents and can explain how one gets better over time and how you would measure that.
+
+You use Claude and ChatGPT heavily every day for real work. You have your own prompts, workflows and strong opinions on which model is best for what.
+
+You know the GenAI model landscape across image, audio and video, including what each is good at, where it fails, and what it costs.
+
+You write specs engineers and designers can build from without a meeting.
+
+You think in GTM: who buys, why, at what price, through which channel.
+
+You read user data and feedback fast and act on it within a sprint.

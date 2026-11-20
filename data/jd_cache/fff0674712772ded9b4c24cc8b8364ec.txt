@@ -1,0 +1,14 @@
+**Roles and Responsibilities :**
+
+* Lead a team of full-stack developers to design, develop, test, and deploy complex software applications using React.JS, JavaScript, SQL, and Azure Cloud technologies.
+* Collaborate with cross-functional teams to identify project requirements and deliver high-quality solutions that meet business needs.
+* Develop technical roadmaps for projects and prioritize tasks based on business objectives and resource availability.
+* Ensure timely delivery of projects by monitoring progress against milestones and providing guidance to team members.
+
+**Job Requirements :**
+
+* 9-14 years of experience in full stack application development with expertise in React.JS, JavaScript, SQL.
+* Strong understanding of artificial intelligence (AI) concepts and their application in software development.
+* Strong experience designing and developing REST APIs.
+* Strong end-to-end full stack development experience across frontend, APIs, databases, and cloud deployment.
+* Experience working with Azure Cloud platform for deployment and management of large-scale applications.

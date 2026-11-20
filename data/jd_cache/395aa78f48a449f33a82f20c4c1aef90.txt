@@ -1,0 +1,69 @@
+# Identity & Security Engineer – AI/Agent Identity POCs
+
+## Position Details
+
+- \*\*JP ID:\*\* DLTJP00064771
+
+- \*\*Skill Name (FG):\*\* AI Engineer
+
+- \*\*Number of Open Positions:\*\* 1
+
+- \*\*Total / Relevant Experience:\*\* 8–10 years
+
+- \*\*Budget:\*\* ₹20–22 LPA
+
+- \*\*Rate Card:\*\* INR 1,000–1,800
+
+- \*\*Work Location:\*\* Hyderabad / Bangalore / Chennai / Pune
+
+- \*\*Shift Timing:\*\* 12:00 AM to 9:00 PM
+
+- \*\*Employment Type:\*\* As per project requirements
+
+## Role Overview
+
+We are seeking a versatile engineer to evaluate and validate identity and security technologies for AI-agent use cases. The role involves configuring vendor products, building and executing proofs of concept (POCs), testing real-world scenarios, and documenting findings and recommendations.
+
+The immediate focus areas are Ping, gateway technologies, and SPIFFE/SPIRE.
+
+## Must-Have Skills
+
+- Strong hands-on engineering skills and ability to work independently.
+
+- Identity and Access Management (IAM) background with a solid understanding of identity flows.
+
+- Token issuance, token exchange, claims, and scoping.
+
+- Public Key Infrastructure (PKI) knowledge.
+
+- Experience with Ping and/or API or LLM/AI gateway technologies.
+
+- Hands-on experience with SPIFFE/SPIRE.
+
+- Experience working in GCP and/or AWS environments.
+
+## Key Responsibilities
+
+- Independently configure vendor products and build and execute POCs.
+
+- Test AI-agent and security use cases and document findings and recommendations.
+
+- Configure and test SPIFFE/SPIRE for AI-agent identity.
+
+- Work with Ping and LLM/AI gateways to enforce identity and access controls.
+
+- Implement and validate token issuance, token exchange, claims, and scoping.
+
+- Collaborate with security, IAM, and engineering teams to share results and guide next steps.
+
+## Good-to-Have Skills
+
+- Familiarity with OAuth 2.0, OIDC, and SAML.
+
+- Experience securing AI/ML or agent-based workloads.
+
+- Strong technical documentation and communication skills.
+
+Pay: Up to ₹2,200,000.00 per year
+
+Work Location: Hybrid remote in Bangalore City, Bengaluru, Karnataka

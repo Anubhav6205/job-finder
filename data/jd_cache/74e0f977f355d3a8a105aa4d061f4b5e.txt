@@ -1,0 +1,25 @@
+**Primary Skills**: Strong **Java** development experience with **Docker** (Image).
+
+  
+
+**Secondary Skills**: .Net, Python, and familiarity with CI/CD toolchains.
+
+  
+
+**Technical & Behavioral Competencies**
+
+**Specific Qualifications:**
+
+* **Containerization:** Expert-level knowledge of **Docker** and container security management.
+* **Software Development:** Proven experience in software engineering (specifically in **Java, .NET, or Python**) to enable deep-dive vulnerability remediation.
+* **Security & Vulnerability Management:** Expert-level knowledge of identifying, analyzing, and fixing security flaws within application stacks.
+* **Toolchain Proficiency:** Practical experience with CI/CD toolchains and security scanning tools.
+* **IT Infrastructure:** Strong general knowledge of IT infrastructure and cloud environments.
+
+**Skills Referential (Required knowledge, skills and abilities)**
+
+**Technical Skills:**
+
++ Docker (expert level)
++ Java, .Net or Python
++ CI/CD toolchain

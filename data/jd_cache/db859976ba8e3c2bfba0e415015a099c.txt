@@ -1,0 +1,122 @@
+**Data Scientist and ML Engineer**
+
+**NETRA, PACE, ProPilot (Primary) | ProShip, ProWMS, Control Tower (Secondary)**
+
+**Prozo Technology Team** | Data Science and Machine Learning
+
+DEPARTMENT: Technology / AI and ML | BUSINESS UNIT: Prozo Warehousing & Logistics Platform
+
+**Position:**
+
+Data Scientist and ML Engineer
+
+**Grade:**
+
+Across Designations
+
+**Reports To:**
+
+Vice President Engineering
+
+**Location:**
+
+Panchkula
+
+**Employment:**
+
+Full-Time, In-office
+
+**Experience:**
+
+Minimum 5 years in data science or machine learning engineering (not open to freshers)
+
+**THE MANDATE**
+
+Own the models that decide how tens of thousands of Indian e-commerce shipments are allocated, verified and delivered every day. Prozo runs machine learning in production, not in slides. PACE allocates every ProShip order to a courier partner using a LightGBM model retrained every week. NETRA Address Intelligence reads and scores Indian addresses in real time on a fine-tuned IndicBERT model. NETRA RTO Risk gives every order a 0 to 100 return-to-origin risk score with plain-English reasons, built with XGBoost on about 13 million ProShip orders. ProPilot answers operations and performance questions in plain language on the Anthropic Claude API.
+
+You will improve these models, take them to the next level of accuracy and scale, and build the next set: volume forecasting, anomaly detection and demand-aware slotting are on the 6 to 12 month roadmap. Every model you ship is consumed by Java Spring Boot services and React screens used by brands, warehouse teams and courier operations, so a model is done only when it runs reliably in production and moves a business number.
+
+Prozo ships releases almost every alternate day across ProShip, Control Tower, ProWMS and ProOMS, powered by AI-first development workflows using Claude and other AI platforms. You will sit with business and engineering teams from the requirement stage, understand what a wrong prediction costs a brand (an RTO, a failed delivery, a mis-allocated courier), and design models around that cost. This role is based at the Gurugram head office. We are looking for a hands-on, senior practitioner who can take a problem from raw data to a monitored production model without hand-holding.
+
+**KEY RESPONSIBILITY AREAS**
+
+**1. Courier Allocation and Delivery Intelligence (PACE, ProShip)**
+
+* Own the PACE courier allocation model (LightGBM, weekly retraining): feature engineering on lane, pincode, weight, payment mode, courier partner performance and SLA history; ranking and classification objectives; offline evaluation and safe rollout of every new version.
+* Extend delivery intelligence on ProShip: estimated delivery date (EDD) prediction, NDR intent classification and courier partner performance scoring, each with a clear business metric (delivery success, RTO rate, cost per shipment).
+* Design A/B tests and shadow deployments so a new model is proven against the live one on real shipments before it takes over.
+
+**2. NETRA: Address Intelligence and RTO Risk**
+
+* Improve NETRA Address Intelligence: fine-tune and evaluate IndicBERT and other transformer models for Indian address parsing, completeness scoring and locality-to-pincode matching across English, Hindi and mixed-script (Hinglish) input.
+* Own NETRA RTO Risk (XGBoost on about 13 million orders): handle class imbalance, calibrate the 0 to 100 score, and keep the plain-English reasons accurate using SHAP or equivalent explainability methods.
+* Build labelled datasets and feedback loops from delivery outcomes, NDR responses and address corrections so the models keep learning from live operations.
+
+**3. Generative AI and ProPilot**
+
+* Build and improve ProPilot and LLM features on the Anthropic Claude API: retrieval-augmented generation (RAG), intent classification, text-to-SQL over operational data, prompt design and tool use.
+* Set up evaluation for LLM features: answer accuracy test sets, hallucination checks, latency and cost per query tracking.
+
+**4. Forecasting and Warehouse Analytics (Roadmap)**
+
+* Build the roadmap models for ProWMS and Control Tower: order volume forecasting by client, channel and warehouse; anomaly detection on orders, inventory and SLA breaches; inputs for demand-aware slotting and manpower planning.
+* Work with operations to turn forecasts into decisions: manpower per shift, inventory placement and dispatch capacity.
+
+**5. Data Pipelines, MLOps and Production Engineering**
+
+* Build data pipelines from MongoDB Atlas (ProShip), RDS MySQL (ProWMS), Amazon MSK (Kafka) event streams and S3 into clean, versioned training datasets.
+* Deploy models as low-latency REST services on AWS (EC2, Lambda) that Java Spring Boot services call in real time at peak loads of over 200 requests per second; own versioning, retraining schedules, rollback and model registry.
+* Monitor models in production for data drift, prediction drift and accuracy decay using Grafana, Prometheus and CloudWatch, and fix issues before they reach a brand.
+* Handle personal data (names, phone numbers, addresses) in line with DPDP Act controls, ISO 27001 and SOC 2 practices: masking, access control and minimum necessary use.
+
+**6. Business-Integrated Delivery and AI-First Practices**
+
+* Join requirement discussions with ProShip, warehouse and KAM teams; translate an operational problem into a model objective, a metric and a success threshold before writing code.
+* Present model results to engineering leaders and business heads in plain language: what changed, by how much, and what it means for cost, SLA or RTO.
+* Use Claude and other AI coding tools to speed up data exploration, feature work, code and documentation; mentor backend developers on consuming and testing ML services.
+
+**QUALIFICATIONS & EXPERIENCE**
+
+**Experience**
+
+* Minimum 5 years of hands-on experience in data science or machine learning engineering, with models you built running in production and used by a live business. We are not considering freshers for this role.
+* Prior experience in logistics, e-commerce, quick commerce, fintech risk or supply chain technology is a strong plus.
+
+**Core data science and ML skills (must have)**
+
+* Strong Python: pandas, NumPy, scikit-learn, and clean, tested, version-controlled code (Git).
+* Strong SQL and comfort with NoSQL data (MongoDB aggregation pipelines).
+* Statistics and experimentation: hypothesis testing, A/B test design, sampling, confidence intervals and bias in observational data.
+* Supervised learning on tabular data: gradient boosting (LightGBM, XGBoost, CatBoost), feature engineering, cross-validation, handling class imbalance, probability calibration and model explainability (SHAP).
+* Deep learning and NLP: PyTorch, Hugging Face Transformers, fine-tuning BERT-family models for classification, named entity recognition and text matching.
+* Model evaluation beyond accuracy: precision, recall, AUC, ranking metrics, and tying every metric to a business cost.
+
+**Prozo stack skills (direct experience in these is a strong plus)**
+
+* Ranking or allocation models (recommendation, routing or assignment problems), as used in PACE.
+* Indian-language or noisy-text NLP: address parsing, transliteration, Hinglish, fuzzy matching and geocoding, as used in NETRA Address Intelligence.
+* Risk scoring with explainable reasons (fraud, credit, RTO or churn), as used in NETRA RTO Risk.
+* LLM application engineering: Claude or OpenAI APIs, RAG, embeddings and vector search, text-to-SQL, prompt evaluation, as used in ProPilot.
+* Time series forecasting and anomaly detection (Prophet, statsforecast, gradient boosting on lag features, isolation forest or equivalent).
+* MLOps on AWS: serving models as REST APIs (FastAPI or Flask), EC2, Lambda, S3, model registry and experiment tracking (MLflow or equivalent), Docker, scheduled retraining and drift monitoring.
+* Streaming and integration: consuming Kafka (Amazon MSK) events, and working with Java Spring Boot teams on API contracts, latency and failure handling.
+
+**Working style**
+
+* AI-first working style. You should already use Claude, ChatGPT or similar tools daily to speed up analysis and code. This is non-negotiable.
+* Ownership from problem to production: you define the metric, build the model, ship it, monitor it and report its business impact.
+* Clear written and verbal communication for both engineers and operations leaders.
+* Bachelor's or Master's degree in Computer Science, Statistics, Mathematics, Engineering or a related field from a reputable institution.
+
+**WORKING AT PROZO**
+
+* Work from Office: This is an in-office role.
+* Monday to Saturday, with alternate Saturdays off (2nd and 4th Saturday). Standard business hours with flexibility required during model releases, peak sale events and critical deployment cycles.
+* Distributed technology team. You will report to the Vice President Engineering and collaborate with developers, QA and the AI/ML team across Noida, Gurugram and Panchkula. Comfort with collaboration tools (Slack, Google Meet, Jira) is essential.
+* Fast-paced, AI-native engineering culture. Prozo uses Claude and AI-first development workflows across the stack. You will be trained and supported in adopting this approach from day one.
+
+**About Prozo**
+
+Prozo is India's integrated supply chain operating system, a technology-led 3PL/4PL platform operating 50+ fulfilment centres across 3M+ sq ft, serving 120+ enterprise brands including Tira (Reliance), Pepe Jeans, Bata, Philips, Daikin, Snitch, bewakoof, and others. Our proprietary technology stack, ProWMS, ProShip, ProOMS, and Control Tower, powers omnichannel fulfilment across D2C, marketplace, quick commerce, and B2B channels. ProShip PACE manages freight across 30+ courier partners covering 25,900+ pin codes.
+
+**Website:** www.prozo.com**Role & responsibilities**

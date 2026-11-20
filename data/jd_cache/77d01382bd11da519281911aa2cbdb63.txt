@@ -1,0 +1,123 @@
+Job Description
+
+**About Persistent**
+
+  
+
+We are an AI-led, platform-driven Digital Engineering and Enterprise Modernization partner, combining deep technical expertise and industry experience to help our clients anticipate what’s next. Our offerings and proven solutions create a unique competitive advantage for our clients by giving them the power to see beyond and rise above. We work with many industry-leading organizations across the world, including 18 of the Fortune 50 companies, 7 of the 10 top US banks, 9 of the 10 technology companies, and numerous innovators across the healthcare ecosystem.
+
+  
+
+Our disruptor’s mindset, commitment to client success, and agility to thrive in the dynamic environment have enabled us to sustain our growth momentum. Persistent has been recognized across top industry platforms for innovation, leadership, and inclusion. We have delivered 26 sequential quarters of growth with $487.6M in Q2 FY27 revenue, up 7.8% Q-o-Q and 20.0% Y-o-Y. Our 29,500+ global team members, located in 21 countries, have been instrumental in helping the market leaders transform their industries. We received five awards at the ISG (Information Services Group) Provider Lens™ Awards 2026 and, for the second year in a row, were awarded the Growth Honor of the Year at the Everest Group Elevate 2026.
+
+  
+
+**About Position:**
+
+  
+
+We are seeking a highly skilled Senior Generative AI Engineer – Agentic AI with 8 to 12 years of experience in designing, developing, and deploying enterprise-grade AI solutions. The ideal candidate will have strong expertise in Python, Large Language Models (LLMs), Agentic AI frameworks, Retrieval-Augmented Generation (RAG), and Azure OpenAI Services. In this role, you will build intelligent AI agents, automate complex business workflows, and develop scalable AI-powered solutions that enhance operational efficiency, accuracy, and business outcomes.
+
+  
+
+* **Role: Generative AI Engineer**
+* **Location: All Persistent Locations**
+* **Experience: 8 to 12 Years**
+* **Job Type: Full-Time Employment**
+  
+
+**What You'll Do:**
+
+  
+
+* Design, develop, and deploy enterprise-grade Generative AI and Agentic AI solutions.
+* Build intelligent AI agents capable of executing multi-step workflows and business processes.
+* Integrate Large Language Models (LLMs) into enterprise applications and business platforms.
+* Design and implement Retrieval-Augmented Generation (RAG) pipelines using vector databases and embeddings.
+* Develop scalable backend services and APIs using Python and FastAPI.
+* Create and optimize prompts to improve model accuracy, relevance, and response quality.
+* Conduct LLM evaluation, benchmarking, and performance testing to ensure reliable AI outputs.
+* Build agent orchestration workflows using frameworks such as LangChain and similar AI orchestration platforms.
+* Deploy, monitor, and maintain AI applications on Microsoft Azure and Azure OpenAI environments.
+* Implement observability, logging, monitoring, and governance frameworks for AI services.
+* Containerize and deploy applications using Docker and Kubernetes.
+* Collaborate with business stakeholders, product teams, and engineering teams to identify AI-driven opportunities.
+* Optimize AI system performance, scalability, security, and cost efficiency.
+* Ensure compliance with responsible AI practices and enterprise governance standards.
+* Stay updated with emerging trends in Generative AI, LLMs, Agentic AI, and cloud-native AI technologies.
+  
+
+**Expertise You'll Bring:**
+
+  
+
+* 8 to 12 years of experience in software engineering, AI solution development, or intelligent automation.
+* Strong hands-on programming expertise in Python.
+* Experience developing and deploying enterprise-grade Generative AI applications.
+* Deep understanding of Large Language Models (LLMs), prompt engineering, and prompt optimization techniques.
+* Hands-on experience with Agentic AI architectures, multi-agent systems, and workflow orchestration.
+* Experience building AI applications using LangChain, LangGraph, or similar GenAI frameworks.
+* Strong knowledge of Retrieval-Augmented Generation (RAG), embeddings, vector databases, and semantic search.
+* Experience performing LLM evaluation, testing, validation, and performance optimization.
+* Expertise in integrating Azure OpenAI and Azure AI services into enterprise applications.
+* Hands-on experience with FastAPI and API-driven application development.
+* Experience with Docker, Kubernetes, and containerized application deployments.
+* Knowledge of AI observability, monitoring, governance, and responsible AI practices.
+* Understanding of cloud-native architectures and distributed systems on Microsoft Azure.
+* Experience implementing security, reliability, and scalability best practices for AI applications.
+* Familiarity with CI/CD pipelines and DevOps practices for AI workloads.
+* Good understanding of Machine Learning concepts and model lifecycle management.
+* Strong analytical, problem-solving, and communication skills.
+* Ability to work with cross-functional teams and translate business requirements into AI-driven solutions.
+  
+
+**Benefits:**
+
+  
+
+* Competitive salary and benefits package
+* Culture focused on talent development with quarterly growth opportunities and company-sponsored higher education and certifications
+* Opportunity to work with cutting-edge technologies
+* Employee engagement initiatives such as project parties, flexible work hours, and Long Service awards
+* Annual health check-ups
+* Insurance coverage: group term life, personal accident, and Mediclaim hospitalization for self, spouse, two children, and parents
+  
+
+**Values-Driven, People-Centric & Inclusive Work Environment:**
+
+  
+
+Persistent is dedicated to fostering diversity and inclusion in the workplace. We invite applications from all qualified individuals, including those with disabilities, and regardless of gender or gender preference. We welcome diverse candidates from all backgrounds.
+
+  
+
+* We support hybrid work and flexible hours to fit diverse lifestyles.
+* Our office is accessibility-friendly, with ergonomic setups and assistive technologies to support employees with physical disabilities.
+* If you are a person with disabilities and have specific requirements, please inform us during the application process or at any time during your employment
+  
+
+**Let's unleash your full potential at Persistent -** **persistent.com/careers**
+
+  
+
+***“Persistent is an Equal Opportunity Employer and prohibits discrimination and harassment of any kind.”***
+
+1
+
+Open Positions
+
+AI ML,GenAI Concepts
+
+Skills Required
+
+PUNE
+
+Location
+
+AI ML,GenAI Concepts
+
+Desirable Skills
+
+189509
+
+Job Code

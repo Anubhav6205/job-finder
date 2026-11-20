@@ -1,0 +1,55 @@
+**Key Responsibilities:**  
+ • Design and implement microservice-based applications using Python and   
+ frameworks such as Django, Flask, or FastAPI.  
+ • Develop and maintain RESTful APIs and services with strong understanding of REST   
+ principles and ORM.  
+ • Build feature-rich full stack applications and chatbots using Generative AI APIs and   
+ AI coding tools.  
+ • Implement LLM-powered features using frameworks such as LangChain,   
+ LangChain.js, LangChain4j, Spring AI, LangGraph, LlamaIndex, Autogen.  
+ • Integrate Azure OpenAI Service and work with providers such as OpenAI, Gemini,   
+ Amazon, and Claude.  
+ • Build RAG pipelines, work with vector databases and embeddings, and utilize tools   
+ like LangSmith for basic usage metrics.  
+ • Develop event-driven systems using Azure Service Bus, RabbitMQ, or Kafka for AIpowered workflows.  
+ • Optimize application performance and ensure responsiveness, reliability, and   
+ scalability.  
+ • Implement automated testing, unit testing, and CI/CD pipelines; perform debugging   
+ and code quality improvements.  
+ • Containerize and orchestrate services using Docker and Kubernetes; deploy on   
+ Azure/AWS/GCP (PaaS and IaaS).  
+ • Collaborate cross-functionally with data scientists and ML engineers to integrate   
+ models.  
+ • Follow best practices for security and documentation.  
+ Requirements:  
+ • 6+ years as a full stack or backend developer with proficiency in Python; fair to   
+ strong experience with JavaScript frameworks/libraries (Angular, React).  
+ • Strong software development skills across design, development, testing,   
+ deployment, and maintenance of large-scale applications.  
+ • Experience with RESTful APIs, asynchronous request handling, and ORM.  
+ • Ability to build feature rich full stack AI integrated applications.  
+ • Knowledge of SQL and NoSQL databases and data storage solutions; data   
+ processing/manipulation and bulk data operations.  
+ • Experience with containers (Docker, Kubernetes) and CI/CD.  
+ • Working experience deploying to Azure, AWS, or GCP.  
+ • Strong unit testing and debugging skills; strong experience with version control (Git).  
+ • Understanding of LLMs, embeddings, vector databases, RAG, multimodal   
+ applications, agentic frameworks (fundamental level).  
+ • Experience with data/ML frameworks and tools (PyTorch, LangChain, Autogen).  
+ • Strong in data structures, architecture, and design; familiarity with Python threading   
+ limitations and multi-process architecture.  
+ • Strong communication, teamwork, and problem-solving skills; adherence to   
+ security practices.
+
+**Preferred Qualifications:**  
+ • Familiarity with Agile methodologies and cloud-native/serverless patterns (Azure   
+ Functions, AWS Lambda).  
+ • Experience exposing GenAI capabilities via APIs and embedding AI-driven UIs in   
+ Angular/React.  
+ • Experience with observability and basic telemetry for AI applications.  
+ Good To have:  
+ Certifications in AI/ML, Deep Learning and NLP from Learning platforms such as Coursera,   
+ Udemy or equivalent.  
+ Certifications on Cloud Architecture (GCP/Azure/AWS)  
+ Experience building MCP servers or Agent to Agent applications.  
+ Fine tuning LLMs and Hosting LLMs on Premises

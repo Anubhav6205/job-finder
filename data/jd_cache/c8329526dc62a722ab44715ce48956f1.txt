@@ -1,0 +1,57 @@
+Roles & Responsibilities
+  
+  
+
+• Contribute to the development and optimization of enterprise-wide search systems and models.
+  
+• Design and implement algorithms to improve indexing, query relevance, and search accuracy.
+  
+• Support taxonomy, ontology, and metadata model creation for better search outcomes.
+  
+• Collaborate with business units (Loans, Insurance, Investments) to build AI-enabled search features.
+  
+• Conduct analysis of user behavior and system metrics to refine search performance.
+  
+• Work with engineers, product managers, and designers to deliver integrated search solutions.
+  
+• Develop production-grade ML systems for ranking, personalization, and recommendations.
+  
+• Participate in proof-of-concept initiatives with internal and external partners.
+  
+• Follow best practices in software engineering including CI/CD, testing, and monitoring.
+  
+• Keep abreast of emerging developments in AI/ML to apply them in practical solutions.
+
+Requirements
+  
+  
+  
+Ideal Candidate
+  
+  
+
+* Strong AI Engineer / Machine Learning Engineer profiles.
+* Mandatory (Experience 1) – Must have minimum 3+ years of hands-on experience in Data Science, Machine Learning, Applied AI, NLP, Deep Learning, or Generative AI solutions.
+* Mandatory (Experience 2) – Must have strong hands-on experience in Python programming, SQL, data analysis, feature engineering, model development, and production-grade ML applications.
+* Mandatory (Experience 3) – Must have experience working with Machine Learning and Deep Learning frameworks such as PyTorch, TensorFlow, Keras, Scikit-learn, or equivalent.
+* Mandatory (Experience 4) – Must have hands-on experience working on NLP, embeddings, semantic search, text classification, document understanding, recommendation systems, or similar AI/ML use cases.
+* Mandatory (Experience 5) – Must have experience working with Large Language Models (LLMs) such as GPT, Llama, Mistral, Claude, Gemini, Phi, or similar foundation models.
+* Mandatory (Experience 6) – Must have hands-on experience building or implementing RAG (Retrieval Augmented Generation) systems, vector search, knowledge retrieval, embeddings, chunking, indexing, or semantic retrieval solutions.
+* Mandatory (Experience 7) – Must have experience working with Git, CI/CD practices, production environments, and scalable AI/ML systems.
+* Mandatory (CTC) – The CTC breakup offered will be 75% fixed + 25% variable, as per company policy.
+* Mandatory (Age) - Candidate's Age should be below 28 Years
+* Preferred (Experience 1) – Experience with MLFlow, Kubeflow, Airflow, Prefect, Feature Stores, Model Registry, or MLOps/LLMOps frameworks.
+* Preferred (Experience 2) – Experience working with Vector Databases, Spark, PySpark, distributed ML pipelines, large-scale data processing, or real-time ML systems..
+* Preferred (Experience 3) – Familiarity with Docker, Kubernetes, Azure, AWS, GCP, cloud-native AI deployments, and scalable ML architecture.
+* Preferred (Company) – Candidates from AI-first startups, Fintech, Banking, Lending, Fraud Analytics, Risk Analytics, Product Companies, SaaS organizations, or data-driven technology companies
+* Mandatory ( Pedigree) - B.TECH / M.TECH from Tier 1 Colleges (IIT's, NIT's, BITS) are Considered.
+
+Experience: 3–6 years · Work from office · 5 days a week · Notice period up to 30 days
+
+Candidates from: Anywhere in India
+
+Benefits
+  
+  
+
+Our people define our passion and our audacious, incredibly rewarding achievements. Bajaj Finance Limited is one of India’s most diversified Non-banking financial companies, and among Asia’s top 10 Large workplaces. If you have the drive to get ahead, we can help find you an opportunity at any of the 500+ locations we’re present in India.

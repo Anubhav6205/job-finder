@@ -1,0 +1,43 @@
+**About Us**
+
+At Travel Counsellors, our customers, communities, and colleagues are at the heart of everything we do. For over 30 years, we've empowered 2,200+ independent travel agents worldwide, helping them build successful businesses while providing deeply personal, human connections with their customers. Supported by a talented team of over 400 people in our Support Offices, we create unique travel experiences that keep customers coming back. Named the Best Place to Work in Travel (2022) and ranked in the Sunday Times Best Places to Work (2023, 2024 & 2025), we’re expanding rapidly and looking for exceptional individuals to join our Head Office team.
+
+**About the Role**
+
+The Data and AI Scientist will play a crucial role in turning data, experimentation and AI into measurable business value for Travel Counsellors. The role involves developing and evaluating solutions for areas such as pricing, customer behaviour and operational efficiency - starting from a clear understanding of the business problem, the customer need and the outcome that matters. Working with commercial, product, engineering and operational teams, the Data and AI Scientist will build, test and operationalise ML/AI solutions. They will translate evidence into clear business implications and recommend next steps. The role requires them to actively shape and embed responsible and effective AI-enabled ways of working, while enabling the wider data team to do the same.
+
+**Principal Accountabilities**
+
+* Build, validate and deploy predictive models for optimising pricing, personalised recommendations and operational efficiencies, connecting technical performance to customer, commercial and operational outcomes.
+
+* Collaborate with data and software engineers to operationalise ML models within our wider technology platform and deliver on our AI ambitions, monitoring adoption, performance and realised value after launch.
+* Conduct in-depth analysis of large datasets to identify trends, patterns and anomalies related to customer behaviour, booking patterns and market trends, and distinguish material business signals from statistical noise.
+* Develop and present clear, actionable insights and recommendations to stakeholders through excellent verbal and written communication, tailoring the narrative to the decision being made and the audience's level of technical understanding.
+* Design, analyse and critically evaluate A/B tests and other experiments, including power, bias, statistical significance, practical significance and limitations; explain what the results mean in real terms for customers, revenue, cost, risk and colleague experience.
+* Challenge model performance analysis and experimentation conclusions constructively, identify gaps in evidence or unintended consequences, and articulate proportionate next steps and why they are the right actions.
+* Stay updated on industry trends and best practices in data science and AI, advocating for continuous improvement and responsible use within the team.
+* Use AI tools responsibly and effectively throughout the data scientist's workflow, including problem framing, research, coding, analysis, documentation, testing and communication; validate outputs, protect sensitive information and retain appropriate human judgement.
+* Lead data-related projects, ensuring timely delivery while balancing multiple priorities and stakeholder needs, and steer the wider data team to adopt useful, secure and repeatable AI-enabled ways of working.
+
+**Required Experience**
+
+* Strong understanding of business models, customer needs and value drivers, with the ability to connect analysis and model outputs to commercial, customer and operational decisions
+
+* Expertise in developing and deploying various ML algorithms, e.g. recommendations
+* Experience applying statistical methods to analyse data, test hypotheses, design and interpret A/B tests, and draw conclusions that distinguish statistical from practical significance
+* Highly proficient in Python for data manipulation, analysis and model development
+* Strong SQL skills for querying and manipulating data from relational databases
+* Understanding of database concepts and experience with data warehousing solutions
+* Working knowledge of Generative AI/LLMs, including strengths, limitations, risks and responsible use
+* Practical experience using AI tools to enhance the end-to-end data science workflow, with the judgement to verify outputs and maintain quality, privacy and security
+* Ability to explain technical evidence, uncertainty, trade-offs and recommended next steps clearly to non-technical stakeholders
+* Experienced in the use of BI tools such as Power BI/Tableau desirable
+* Strong analytical and problem-solving skills
+
+Excellent communication and presentation skills
+
+**Inclusive Recruitment at Travel Counsellors**
+
+Travel Counsellors is an equal opportunity employer committed to diversity and inclusion. We welcome applicants from all backgrounds and do not discriminate based on race, gender, disability, or any protected characteristic. We provide accommodations for individuals with disabilities throughout the hiring process and will make every effort to accommodate reasonable adjustments where required. We believe diverse perspectives strengthen our team and encourage all to apply.
+
+For more information about this role – and others – at Travel Counsellors, please do not hesitate to contact the Talent Acquisition team at talentacquisition@travelcounsellors.com

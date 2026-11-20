@@ -1,0 +1,56 @@
+**Senior Agentic AI Engineer**
+
+**About the Role**
+
+Insurance software implementations are among the most complex, document-heavy, and process-intensive programmes in enterprise technology. A single implementation can involve thousands of configuration decisions, hundreds of requirement documents, and years of delivery time. Sapiens is rebuilding how that work gets done — using production-grade AI agents that operate across the full implementation lifecycle, from pre-sales and scoping through to configuration, testing, and go-live.
+
+**Work You'll Do**
+
+**Agent architecture & orchestration**
+
+* Design and implement agentic systems capable of multi-step reasoning, planning, tool use, and workflow execution against complex, document-intensive implementation processes
+* Build stateful workflows using LangGraph or equivalent — including branching, retries, self-correction, human-in-the-loop checkpoints, and reusable orchestration patterns
+* Engineer for long-horizon reliability — multi-step task completion, recovery from compounding errors, planning under uncertainty, and robust tool use when individual steps fail
+* Build the reasoning behind high-stakes implementation decisions — criteria-grounded outputs, structured review patterns, and auditable rationales that delivery consultants can act on and defend
+
+**Retrieval, grounding & context engineering**
+
+* Develop end-to-end RAG pipelines: ingestion, chunking, embeddings, vector and hybrid retrieval, reranking, contextual compression, and grounding strategies
+* Engineer memory and context management — conversational state, persistent memory, retrieval-aware context assembly, and token-efficient context selection
+* Apply MCP-style tool and context interfaces so agents access the right information at the right time across enterprise knowledge repositories, document sources, and structured configuration data
+
+**Reliability, evaluation & safety**
+
+* Implement observability and tracing for prompts, tool calls, retrieval quality, agent traces, failures, drift, latency, and production behaviour
+* Apply guardrails, safety controls, and failure-handling to reduce hallucinations in agents whose outputs practitioners act on directly in live client settings
+* Evaluate agents at trajectory and task level — multi-step task success, failure-mode and regression analysis, sandboxed test environments — alongside retrieval and generation quality metrics, automated checks, and human review
+
+**Integration & production craft**
+
+* Build integrations with internal and external tools, APIs, enterprise systems, databases, and model providers so agents operate reliably within real delivery workflows
+* Deliver production-quality Python code with strong practices in testing, CI/CD, logging, versioning, and documentation; make architecture decisions that balance quality, reliability, latency, cost, and model risk
+* Translate ambiguous, high-complexity implementation processes into robust system logic and reusable AI patterns; stay current with advances in agentic systems and translate research into practical engineering decisions
+
+**Required Qualifications**
+
+4- 8years of total experience.
+
+* Demonstrated depth building and shipping production agentic AI systems — we weigh shipped systems over years in a title
+* Strong, hands-on experience with LangGraph or equivalent agentic orchestration frameworks, including custom orchestration
+* Deep proficiency in Python — clean, testable, production-ready code
+* Experience designing and optimising end-to-end RAG systems: indexing, retrieval, reranking, grounding, and evaluation
+* Daily working proficiency with Claude (Anthropic API) and Claude Code — you use these tools every day, not occasionally
+* Experience building and deploying agents on Azure AI Foundry or an equivalent enterprise cloud AI platform
+* Practical understanding of LLM behaviour — strengths, limitations, hallucination risks, reasoning constraints, and the evaluation methods used to measure them
+* Experience evaluating and debugging agent behaviour at trajectory and task level, not just output quality
+* Hands-on experience with MCP-based interoperability patterns and tool-calling agent design
+* Modern software practices: testing, CI/CD, observability, tracing, and debugging for LLM-based systems in production
+
+**Preferred Qualifications**
+
+* Experience with multi-agent orchestration and agent collaboration patterns
+* Familiarity with vector databases — Pinecone, Weaviate, Azure AI Search, OpenSearch
+* Experience building agents that process complex, unstructured document types — contracts, RFPs, configuration files, regulatory documents
+* Exposure to model adaptation techniques such as LoRA or QLoRA
+* Prior work in insurance, financial services, or enterprise SaaS implementation environments
+* Demonstrated habit of staying current with AI research, benchmarks, and emerging engineering patterns

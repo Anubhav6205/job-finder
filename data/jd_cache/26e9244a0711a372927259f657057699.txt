@@ -1,0 +1,35 @@
+**Your Role and Responsibilities:**
+
+As a Data Scientist with expertise in Artificial Intelligence, you will skillfully combine data analysis and business acumen to tackle cognitive computing challenges. You will be responsible for architecting and delivering AI solutions using cutting-edge technologies, with a strong focus on foundation models and large language models.
+
+**Your Primary Responsibilities Will Include:**
+
+* **Design AI Solutions:** Architect and deliver AI solutions using cutting-edge technologies, with a strong focus on foundation models and large language models, and experience in tools like Github Copilot and Amazon Code Whisperer.
+* **Develop Cognitive Solutions:** Create comprehensive cognitive solutions that effectively process and analyze both structured and unstructured data, utilizing expertise in NLP, ML, and other specialized areas such as Image Processing, Video Processing, Voice Processing, or Watson technologies.
+* **Implement AI Frameworks:** Apply strong programming skills, with proficiency in Python and experience with AI frameworks such as TensorFlow, PyTorch, Keras, or Hugging Face, to develop and deploy AI models.
+* **Manage AI Project Lifecycle:** Oversee the full AI project lifecycle, from research and prototyping to deployment in production environments, ensuring successful project delivery.
+* **Collaborate with Stakeholders:** Work with various stakeholders to identify business problems and leverage the power of artificial intelligence for cognitive computing, driving business value through AI-driven solutions.
+
+**Required Education:**
+
+Bachelor's Degree
+
+**Preferred Education:**
+
+Master's Degree
+
+**Required Technical and Professional Expertise:**
+
+* **Advanced Analytics Techniques:** Exposure to advanced analytics techniques for structured data, including data analysis and interpretation, to inform business decisions and tackle cognitive computing challenges.
+* **AI Frameworks and Tools:** Experience working with AI frameworks such as TensorFlow, PyTorch, Keras, or Hugging Face, and tools like Github Copilot and Amazon Code Whisperer to develop and deploy AI models.
+* **Programming Skills:** Proficiency in Python programming language, with experience in applying programming skills to develop and deploy AI solutions.
+* **NLP and ML Methods:** Exposure to Natural Language Processing (NLP) and Machine Learning (ML) methods for unstructured content, including foundation models and large language models.
+* **Cloud Platforms and Databases:** Experience working with cloud platforms (e.g. Kubernetes, AWS, Azure, GCP) and related services, as well as relational and NoSQL databases (SQL, Postgres, DB2, MongoDB).
+
+**Preferred Technical and Professional Experience:**
+
+* **Familiarity with Modern UI:** Familiarity with modern UI frameworks such as Backbone.js, AngularJS, React.js, Ember.js, Bootstrap, and JQuery, with the ability to apply this knowledge in developing AI solutions.
+* **Understanding of Libraries:** Understanding in the usage of libraries such as SciKit Learn, Pandas, Matplotlib, etc., with the ability to apply this knowledge in developing AI solutions.
+* **Operating Systems Knowledge:** Experience working with various operating systems (Linux, Windows, iOS, Android), with the ability to apply this knowledge in developing and deploying AI solutions.
+
+****Years of Experience:****18 - 20

@@ -1,0 +1,26 @@
+* Design, develop, and deploy advanced GenAI and NLP solutions to solve complex business and healthcare problems, using stateoftheart transformer models, LLMs, and modern ML frameworks
+* Lead research, evaluation, and integration of new LLMs (GPT, Claude, Gemini, Anthropic), vector search technologies, promptengineering techniques, and enterprise GenAI platforms
+* Build and optimize RetrievalAugmented Generation (RAG) systems using vector databases (FAISS, Pinecone, Chroma), improving grounding, retrieval accuracy, and overall system reliability
+* Architect and implement agentic AI workflows using frameworks like LangGraph, AutoGen, CrewAI, or Semantic Kernel, enabling singleagent and multiagent systems for reasoning, planning, and toolcalling
+* Drive the development of highquality NLP pipelinesincluding tokenization, embeddings, seqtoseq models, evaluation metrics, and domain adaptation—with a focus on performance, scalability, and robustness
+* Perform advanced data analysis, preprocessing, and feature engineering to ensure data quality, reduce noise, and improve model reliability
+* Develop and maintain scalable bigdata pipelines for ingestion, processing, and analysis, working with structured and unstructured datasets
+* Optimize model inference, latency, and throughput, including integration with LLM gateways, guardrails, filters, and enterprise evaluation frameworks
+* Scientist Responsibilities: (manager discretion if AI responsibilities are already present in JD):
+
++ Collaborate with research, engineering, and product teams to translate cutting-edge AI advancements into production-ready capabilities. Uphold ethical AI principles by embedding fairness, transparency, and accountability throughout the model development lifecycle
+
+* Comply with the terms and conditions of the employment contract, company policies and procedures, and any and all directives (such as, but not limited to, transfer and/or re-assignment to different work locations, change in teams and/or work shifts, policies in regard to flexibility of work benefits and/or work environment, alternative work arrangements, and other decisions that may arise due to the changing business environment). The Company may adopt, vary or rescind these policies and directives in its absolute discretion and without any limitation (implied or otherwise) on its ability to do so
+
+  
+
+**Required Qualifications:**
+
+* Bachelor's degree or higher in computer science or engineering with a focus on language processing
+* 7+ years of experience in AI, ML and/or NLP R&D (with demonstrable impact preferred). This requirement maybe relaxed for candidates with a PhD
+* 10+ years of overall experience
+* Experience with both traditional machine learning algorithms and modern deep learning and generative AI models
+* Proven good knowledge of and hands-on skills with repository management and GPU use, and the ability to rapidly set up pipelines for testing new ideas
+* Proficiency in Python, R, SQL and other programming languages for data analysis and modeling
+* Proficiency with cloud development environments such as Azure, AWS, and GCP
+* Proven excellent analytical and problem-solving skills, including the ability to disaggregate issues, identify root causes and recommend solutions

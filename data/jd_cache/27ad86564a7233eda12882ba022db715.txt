@@ -1,0 +1,68 @@
+Zscaler (NASDAQ: ZS) accelerates digital transformation so customers can be more agile, efficient, resilient, and secure. The Zscaler Zero Trust Exchange platform protects thousands of customers from cyberattacks and data loss by securely connecting users, devices, and applications in any location. Distributed across 200+ public data centers globally and thousands of private sites at the edge, the SASE-based Zero Trust Exchange is the world's largest in-line cloud security platform.
+
+We believe the future of work is Human + AI and are building an AI-native enterprise where human potential is amplified by machine intelligence to solve the world's hardest security challenges. Driven by deep customer obsession, we are committed to the mission, outcome, and to each other. We bring these commitments to life through three core behaviors: ownership and collaboration, trust through outcomes and impact, and a challenge culture with ongoing feedback. Ready to make an impact at the company pioneering security transformation in the AI era? Join us at Zscaler.
+
+**Role**
+
+We are looking for a Senior Information Security Engineer to join our team. This is a Hybrid role, reporting to the Director, Software Development Engineering in the Engineering department.
+
+In this role, we are building an Adversarial Exposure Validation platform where autonomous agents find and validate real-world security exposures. In this role as Senior Threat Research and Playbook Specialist, you will expand and maintain the attack playbook library that powers the platform, turning real-world adversary behavior and threat research into repeatable validation scenarios that test whether customers' security controls actually work.
+
+**What you'll do (Role Expectations)**
+
+* Build and refine playbooks across identity, cloud, and endpoint scenarios, and measure each one for execution accuracy, attack efficacy, and adherence to scope and safety guardrails
+* Translate real-world adversary techniques and campaigns into repeatable validation scenarios
+* Evaluate proposed exploits and scenarios for technical correctness, safety, and evidence quality
+* Track emerging threats and vulnerabilities and prioritize new playbook content accordingly
+* Document scenarios clearly so engineers can implement and maintain them
+
+**Who You Are (Success Profile)**
+
+* You act as an owner with an authentic passion for operational excellence and a strong bias for action, navigating seamlessly between high-level strategy and tactical execution.
+* You foster a high-trust, collaborative environment that values transparent feedback, healthy debate, and shared team success above individual accolades.
+* You champion the customer experience by anchoring engineering decisions in solving critical, real-world problems for both internal stakeholders and external users.
+* You bring deep technical curiosity and an innovative mindset to solve complex architectural challenges, continuously seeking more resilient, automated, and scalable solutions.
+* You lead with unwavering integrity and high accountability, cultivating trust across organizations through transparent communication and consistent follow-through.
+
+**What We're Looking for (Minimum Qualifications)**
+
+* Demonstrated curiosity and active exploration of AI tools, with a proven history of integrating new technologies to enhance daily workflows and augment problem-solving
+* Core offensive security expertise with 5–7 years of experience in red teaming, adversary emulation, threat research, or offensive security content development
+* Practical understanding of multi-stage attack chains and how security controls (EDR, SIEM, identity, network) detect or block them, with strong working knowledge of MITRE ATT&CK and MITRE ATLAS
+* Hands-on experience building or using AI-assisted or fully automated offensive security tools, including scripting in Python, PowerShell, or Bash
+* Experience designing LLM evaluations (test cases, benchmarks, scoring criteria) to measure accuracy and safety within a security context
+* Experience building LLM agents or agent skills (prompts, tool definitions, and scope-constrained guardrails) for authorized adversarial scenarios
+
+**What Will Make You Stand Out (Preferred Qualifications)**
+
+* Proven ability to leverage AI technologies and workflows to drive measurable operational efficiency
+* Experience with breach and attack simulation or continuous security validation platforms, including authoring attack emulation content or contributing to open-source frameworks
+* Background in threat intelligence, detection engineering, or purple teaming
+* Public research, conference presentations, or published write-ups on adversary techniques, reverse engineering, binary analysis, or mobile application testing
+
+#LI-SK3
+
+#LI-HYBRID
+
+At Zscaler, we are committed to building a team that reflects the communities we serve and the customers we work with. We foster an inclusive environment that values all backgrounds and perspectives, emphasizing collaboration and belonging. Join us in our mission to make doing business seamless and secure.
+
+Our Benefits program is one of the most important ways we support our employees. Zscaler proudly offers comprehensive and inclusive benefits to meet the diverse needs of our employees and their families throughout their life stages, including:
+
+* Various health plans
+* Time off plans for vacation and sick time
+* Parental leave options
+* Retirement options
+* Education reimbursement
+* In-office perks, and more!
+
+Learn more about Zscaler's hybrid working model and benefits here.
+
+By applying for this role, you adhere to applicable laws, regulations, and Zscaler policies, including those related to security and privacy standards and guidelines.
+
+Zscaler is committed to providing equal employment opportunities to all individuals. We strive to create a workplace where employees are treated with respect and have the chance to succeed. All qualified applicants will be considered for employment without regard to race, color, religion, sex (including pregnancy or related medical conditions), age, national origin, sexual orientation, gender identity or expression, genetic information, disability status, protected veteran status, or any other characteristic protected by federal, state, or local laws. *See more information by clicking on the* *Know Your Rights: Workplace Discrimination is Illegal* *link.*
+
+Pay Transparency
+
+Zscaler complies with all applicable federal, state, and local pay transparency rules.
+
+Zscaler is committed to providing reasonable support (called accommodations or adjustments) in our recruiting processes for candidates who are differently abled, have long term conditions, mental health conditions or sincerely held religious beliefs, or who are neurodivergent or require pregnancy-related support.

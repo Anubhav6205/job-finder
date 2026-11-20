@@ -1,0 +1,39 @@
+OptraScan is seeking a talented and motivated AI/ML professional to join our dynamic team. As an AI/ML Developer, you will play a pivotal role in the development and implementation of machine learning algorithms and AI models to enhance our digital pathology platform. You will collaborate closely with cross-functional teams to drive innovation and deliver solutions that address complex challenges in healthcare.
+
+Key Responsibilities:
+
+1. Design, develop, and implement machine learning algorithms and AI models for digital pathology applications.
+
+2. Analyze large-scale medical imaging datasets and extract meaningful insights to improve diagnostic accuracy and efficiency.
+
+3. Optimize algorithms for performance, scalability, and robustness in real-world clinical settings.
+
+4. Collaborate with software engineers, pathologists, and data scientists to integrate AI/ML solutions into our digital pathology platform.
+
+5. Stay updated on the latest advancements in AI/ML technologies and contribute to continuous learning and improvement within the team.
+
+6. Participate in code reviews, documentation, and knowledge sharing activities to maintain high standards of software quality and best practices.
+
+Mandatory Skills:
+
+· Minimum. 4-8 yr of relevant experience.
+
+· Proficient in Python, C++ programming.
+
+· Hands-on experience with TensorFlow and PyTorch frameworks.
+
+· Experience in MATLAB for algorithm development and analysis.
+
+· Knowledge of CUDA programming for GPU acceleration.
+
+· Strong background in Image Processing techniques.
+
+· Knowledge of AI/ML technology, NLP, Machine learning.
+
+· object oriented design/development skills.
+
+· Knowledge of image analysis methods, techniques and practices.
+
+· In-depth knowledge of Neural Networks (e.g., CNNs, RNNs, etc.)
+
+· Familiarity with multithreading and parallel computing concepts.

@@ -1,0 +1,163 @@
+Job Description – Full Stack Developer – MEAN/MERN, Mobile & Agentic AI**About the Company**
+
+**TechVibrant Innovative Solutions Pvt Ltd** is a Bangalore-based technology company focused on building **enterprise software solutions, digital products, mobile applications, and Industry 4.0 solutions** for businesses across multiple industries.
+
+We work closely with our customers to understand complex business problems and build scalable, practical technology solutions that improve productivity, customer experience, and business outcomes.
+
+**About the Role**
+
+We are looking for a **Full Stack Developer with 3–4 years of experience** who is comfortable working across multiple layers of the technology stack.
+
+You will be responsible for building and enhancing **web and mobile applications**, developing APIs and backend services, working with databases and integrations, and contributing to end-to-end product development.
+
+This is not a role limited to frontend or backend development. You will have opportunities to work across the **frontend, backend, mobile, database, and cloud layers**.
+
+**Forward-Deployed Engineering & AI Focus**  
+**This is a forward-deployed engineering role. You will work closely with customers, business/product stakeholders and internal teams to understand real-world problems, translate them into specifications, build and deploy working solutions, and iterate based on feedback. The role requires strong hands-on engineering skills together with an ability to use AI coding agents and agentic AI capabilities to accelerate the software development lifecycle.**
+
+**What Will You Work On?**
+
+As part of the engineering team, you will:
+
+· Develop and maintain modern **web applications using React.js / Angular**
+
+· Build scalable backend services and **REST APIs using Node.js and Express.js**
+
+· Develop and integrate **Android and iOS mobile applications**
+
+· Design and work with databases such as **MongoDB, PostgreSQL and MySQL**
+
+· Build integrations with third-party services and external APIs
+
+· Develop new features and enhancements for existing platforms
+
+· Understand existing codebases and independently implement new functionality
+
+· Debug, troubleshoot and optimize applications across different technology layers
+
+· Work with cloud infrastructure, containers and CI/CD pipelines
+
+· Collaborate with product, design and engineering teams to deliver complete features
+
+**AI-Native & Agentic Engineering**
+
+We are building an **AI-native engineering culture**, where AI is an integral part of the software development lifecycle.
+
+Our engineering processes increasingly use AI-assisted and agentic workflows for:
+
+· Requirement analysis and clarification
+
+· Specification and **Spec-Driven Development (SDD)**
+
+· Architecture and technical design
+
+· Code generation and implementation
+
+· Automated testing
+
+· Debugging and issue resolution
+
+· Code reviews and refactoring
+
+· Documentation
+
+· Development workflow automation
+
+You will be expected to learn and work with **AI coding agents and AI-assisted development tools** as part of your daily engineering workflow.
+
+We are looking for engineers who are curious about how AI can make software development **faster, more reliable, and more scalable**, while maintaining strong engineering practices.
+
+**Required Skills**
+
+· 3–4 years of hands-on software development experience
+
+· Strong experience with **MEAN/MERN stack development**
+
+· Strong experience with **Node.js and Express.js**
+
+· Experience with modern frontend technologies such as **React.js and/or Angular**
+
+· Strong experience with **MongoDB**
+
+· Experience with **PostgreSQL and/or MySQL**
+
+· Strong understanding of **REST API development**
+
+· Hands-on experience with **Android and iOS mobile application development**
+
+· Understanding of authentication, authorization and API integrations
+
+· Good debugging and problem-solving skills
+
+· Ability to work across frontend, backend, database and mobile layers
+
+· Experience working with existing codebases and independently developing new features
+
+Preferred / Desired Skills
+
+· Experience with **Spec-Driven Development (SDD)**
+
+· Experience using **AI coding assistants / AI development tools**
+
+· Understanding of **AI agents and agentic engineering workflows**
+
+· Cloud experience with **AWS or Azure**
+
+· Experience with **Docker**
+
+· Experience with **CI/CD pipelines**
+
+· Experience with microservices architecture
+
+· Experience with automated testing
+
+ Preferred: Prior hands-on experience with Spec-Driven Development (SDD), including defining requirements, specifications, acceptance criteria and using specifications to drive implementation and testing.
+
+ Preferred: Prior experience working with AI coding assistants, AI agents, or agentic software engineering workflows.
+
+ Preferred: Prior experience in a forward-deployed engineering, customer-facing engineering, solutions engineering, implementation engineering, or similar role.
+
+ Preferred: Demonstrated ability to use agentic AI capabilities for requirement analysis, technical design, coding, testing, debugging, documentation and workflow automation.
+
+**What We Look For**
+
+We are looking for engineers who:
+
+· Take ownership of features from **requirement to deployment**
+
+· Can learn and work across different technology stacks
+
+· Are comfortable understanding and improving existing systems
+
+· Have strong problem-solving and debugging abilities
+
+· Are interested in **AI-native software development**
+
+· Are willing to adopt new engineering tools, processes and practices
+
+· Can work independently while collaborating effectively with the team
+
+**Role Expectation: Candidates should be comfortable working as forward-deployed engineers, engaging directly with stakeholders when required, and applying agentic AI capabilities and Spec-Driven Development in day-to-day engineering work.**
+
+**Location & Work Mode**
+
+**Location:** Bangalore
+
+**Work Mode:** Strictly Work from Office
+
+**Experience:** 3–4 Years
+
+**Openings:** Multiple
+
+If you are interested or know someone who would be a good fit, **share the profile/contact details to kavita.n@techvibrant.com**
+
+Pay: ₹600,000.00 - ₹850,000.00 per year
+
+Benefits:
+
+* Health insurance
+* Paid sick time
+* Paid time off
+* Provident Fund
+
+Work Location: In person

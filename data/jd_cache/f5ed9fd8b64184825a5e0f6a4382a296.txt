@@ -1,0 +1,48 @@
+Prompt engineer
+  
+  
+Full Time Bangalore, IN
+  
+  
+Innovate with Benchmark Gensuite as a Prompt engineer
+  
+  
+Everyone wants to make the world a better place. We work to make it happen. By joining Benchmark Gensuite and exploring careers in the EHS, Sustainability, and ESG Disclosure Reporting space, you’ll be helping customers throughout the business community empower informed decision making, improve employee safety, and lessen their environmental footprint while creating a culture that values diversity, equity, and inclusion. Join us and help make the corporate world better for the planet and better for its employees. Benchmark Gensuite jobs play a crucial role in helping develop our unified EHS, Sustainability, and ESG digital transformation software solutions that enable cross-functional performance excellence, enhance businesses’ sustainability efforts, and help them achieve their ESG goals. With our incredible global team, the collaborative spirit of our subscribers and partners, and the continuous innovation in exciting new technologies like Artificial Intelligence, Machine Learning, and IoT, a career at Benchmark Gensuite mean you will continuously use and evolve your skills to develop fresh ideas and initiatives.
+  
+  
+Benchmark Gensuite Benefits At Benchmark Gensuite, your hard work is rewarded. We offer annual bonus programs, regular team-building events, and off-cycle reviews to promptly give excellent performers their due. With engaging team activities including happy hours and exciting virtual events, we actively encourage our teams to connect and build a strong, supportive, and fun rapport! Our Benchmark Gensuite Team Member Networks, like the Respect for Diversity Group and the Sustainability Group, offer a safe and supportive space, bringing together team members who share a common identity and empowering them to voice their ideas and initiate action. Explore Benchmark Gensuite job openings and come join us as we combine our collective creativity and passion to meet and exceed the expectations of our customers.
+  
+  
+About Benchmark Gensuite Benchmark Gensuite® enables companies to implement robust, cross-functional digital systems for EHS, Sustainability, and ESG Reporting through a unified digital platform—locally, globally and across diverse operating profiles. With intuitive, best-practice-based process functionality, flexible configurations, and powerful extensions, the Benchmark Gensuite® platform has helped companies worldwide manage their EHS, Sustainability; Quality; Operational Risk and Compliance; Product Stewardship, and Supply Chain Risks for over two decades; and now organically integrated with cutting-edge ESG disclosure reporting and management solutions. Join over 3 million users that trust Benchmark Gensuite® with their software system needs and benefit from rapid deployment and adoption, immediate return on investment (ROI), service excellence, and collaborative innovation.
+  
+  
+Key Responsibilities
+  
+  
+
+* Design, develop, test, and optimize prompts for LLMs such as OpenAI GPT, Anthropic Claude, Meta Llama, and other generative AI models.
+* Apply advanced prompting techniques to improve response accuracy, relevance, consistency, and overall model performance.
+* Evaluate LLM outputs, identify issues such as hallucinations and inconsistent responses, and continuously refine prompts.
+* Build and maintain reusable prompt libraries and templates for various business use cases.
+* Work on LLM-powered applications using APIs, Python, and AI frameworks to integrate prompt-based solutions into SaaS products.
+* Collaborate with AI Engineers, Data Scientists, and Product Teams to develop and enhance AI-driven features.
+* Stay updated with emerging LLM technologies, prompt engineering techniques, and Generative AI best practices.
+
+**Key Qualifications & Experience**
+
+* 2–4 years of experience in Prompt Engineering, Generative AI, AI/ML, NLP, or related domains.
+* Hands-on experience with LLMs such as OpenAI GPT, Claude, Llama, or similar models.
+* Strong understanding of prompt engineering techniques and LLM evaluation methodologies.
+* Working knowledge of Python, REST APIs, and LLM integrations.
+* Familiarity with AI frameworks such as LangChain, LangGraph, Strands, or CrewAI.
+* Basic understanding of RAG, embeddings, vector databases, and model fine-tuning.
+* Strong analytical, problem-solving, and communication skills.
+
+**Preferred Tech Stack**
+
+* LLMs: OpenAI GPT, Anthropic Claude, Meta Llama
+* Frameworks: LangChain, LangGraph, Strands, CrewAI
+* Programming: Python, Node.js, JavaScript
+* Backend: FastAPI, REST APIs
+* Databases: PostgreSQL, MS SQL, Redis
+* Cloud: AWS

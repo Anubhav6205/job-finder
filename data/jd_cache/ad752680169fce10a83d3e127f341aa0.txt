@@ -1,0 +1,42 @@
+**Project Role :** Application Support Engineer  
+ **Project Role Description :** Act as software detectives, provide a dynamic service identifying and solving issues within multiple components of critical business systems.   
+  
+**Must have skills :**Generative AI  
+  
+**Good to have skills:**Python (Programming Language), Machine Learning (ML)  
+Minimum **5** year(s) of experience is required  
+  
+**Educational Qualification:**15 years full time education  
+  
+Summary:   
+As an Application Support Engineer, a typical day involves acting as a software detective by investigating and resolving issues across various components of essential business systems. This role requires a proactive approach to identifying problems, analyzing system behaviors, and ensuring the smooth operation of critical applications. The position demands continuous collaboration with different teams to maintain system stability and deliver timely solutions that support business continuity and efficiency.  
+  
+**Roles & Responsibilities:**  
+  
+- Expected to be an SME, collaborate and manage the team to perform.  
+- Responsible for team decisions.  
+- Engage with multiple teams and contribute on key decisions.  
+- Provide solutions to problems for their immediate team and across multiple teams.  
+- Lead efforts to troubleshoot complex system issues and implement effective resolutions.  
+- Facilitate knowledge sharing and mentoring within the team to enhance overall performance.  
+- Coordinate with stakeholders to prioritize and address critical incidents promptly.  
+  
+**Professional & Technical Skills:**  
+**Must To Have Skills:**  
+ Proficiency in Generative AI.  
+- Good To Have Skills: Experience with Python (Programming Language), Machine Learning (ML).  
+- Strong analytical skills to diagnose and resolve software issues efficiently.  
+- Ability to work with cross-functional teams to understand system dependencies and impacts.  
+- Experience in monitoring and maintaining high availability of business-critical applications.  
+- Familiarity with debugging tools and techniques to identify root causes of system failures.  
+  
+**Additional Information:**  
+  
+- The candidate should have minimum 5 years of experience in Generative AI.  
+- This position is based at our Bengaluru office.  
+- A 15 years full time education is required.  
+  
+  
+  
+**Qualification**  
+15 years full time education

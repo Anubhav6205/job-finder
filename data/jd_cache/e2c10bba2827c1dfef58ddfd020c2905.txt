@@ -1,0 +1,113 @@
+**Experience:**
+2–3 Years
+
+**Role:**
+AI Developer / AI Engineer
+
+**Domain:**
+Artificial Intelligence / Machine Learning / Generative AI
+
+**Employment Type:**
+Full-time
+
+**1. Role Overview**
+
+We are looking for passionate and hands-on AI Developers with 2–3 years of experience in developing and implementing Artificial Intelligence and Machine Learning solutions.
+
+The candidate should have strong programming skills in Python and practical experience in developing AI-powered applications using Machine Learning, Deep Learning, Natural Language Processing, Generative AI and automation technologies.
+
+The individual will work on developing intelligent solutions such as chatbots, voice bots, image recognition, document processing, HR onboarding automation and other AI-driven business applications.
+
+Experience working with banking or financial services clients will be an added advantage.
+
+**2. Key Responsibilities**
+
+* Develop, test and deploy AI/ML-based applications using Python.
+* Build and enhance AI-powered chatbots and conversational AI solutions.
+* Develop voice bot solutions using speech recognition and text-to-speech technologies.
+* Implement NLP-based solutions for text classification, entity extraction, sentiment analysis and document understanding.
+* Work on image recognition, computer vision and OCR-based applications.
+* Develop Generative AI applications using LLMs, prompt engineering and RAG architectures.
+* Build AI-driven HR onboarding and recruitment automation solutions, including resume screening, candidate matching and document verification.
+* Integrate AI models with enterprise applications through REST APIs.
+* Work with databases, APIs and structured / unstructured data.
+* Participate in model training, fine tuning, testing and performance optimization.
+* Debug, troubleshoot and optimize AI applications.
+* Collaborate with AI Architects, technical leads and business teams to deliver AI solutions.
+* Document technical implementations and follow coding standards.
+
+**3. Mandatory Technical Skills**
+
+**A. Programming and Development**
+
+* Strong hands on experience in Python.
+* Knowledge of Python libraries such as NumPy, Pandas and Scikit-learn.
+* Experience with FastAPI or Flask for API development.
+* Knowledge of SQL and database integration.
+* Understanding of REST APIs and JSON.
+
+**B. Artificial Intelligence and Machine Learning**
+
+* Fundamentals of Machine Learning and Deep Learning.
+* Practical knowledge of NLP techniques.
+* Experience with TensorFlow or PyTorch.
+* Experience in model development, training, testing and evaluation.
+* Understanding of supervised and unsupervised learning.
+
+**C. Generative AI and LLM**
+
+* Hands-on experience with Generative AI applications.
+* Knowledge of LLMs such as GPT, Llama, Gemini or similar models.
+* Experience with prompt engineering.
+* Understanding of Retrieval-Augmented Generation (RAG).
+* Exposure to vector databases and embedding models.
+* Knowledge of LangChain, LlamaIndex or similar frameworks is preferred.
+
+**D. AI Application Development**
+
+* Experience developing AI-powered chatbots.
+* Exposure to voice bots and speech processing.
+* Knowledge of OCR and intelligent document processing.
+* Experience in image recognition and computer vision using OpenCV or similar frameworks.
+* Exposure to AI-based workflow automation.
+
+**4. Preferred Skills**
+
+* Exposure to AI-powered HR onboarding and recruitment automation.
+* Knowledge of resume parsing and candidate matching solutions.
+* Experience with cloud AI services such as Azure AI, AWS AI or Google Vertex AI.
+* Knowledge of Docker and containerization.
+* Exposure to Git, CI/CD pipelines and application deployment.
+* Understanding of AI security, data privacy and responsible AI practices.
+* Exposure to banking or financial services applications.
+
+**5. Desired Candidate Profile**
+
+* 2–3 years of hands-on experience in Python and AI/ML development.
+* Strong interest in developing practical AI-driven business solutions.
+* Ability to convert functional requirements into working AI applications.
+* Good analytical and problem-solving skills.
+* Ability to work independently on development tasks and collaborate with architects and senior developers.
+* Should have exposure to real world AI projects and preferably production deployments.
+* Willingness to learn and work on emerging AI technologies.
+
+**6. Key Evaluation Areas During Interview**
+
+Python programming and problem-solving.
+
+Practical knowledge of Machine Learning and Deep Learning.
+
+NLP implementation and text processing.
+
+Hands-on chatbot development.
+
+Generative AI, LLM and RAG implementation.
+
+Image recognition, OCR and document processing.
+
+API development and enterprise application integration.
+
+Ability to develop and demonstrate a working AI prototype.
+
+**Preferred:**
+Candidates who have developed and deployed at least one or two practical AI applications and can demonstrate their hands-on coding capabilities.

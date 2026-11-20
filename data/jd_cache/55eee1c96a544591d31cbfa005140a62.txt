@@ -1,0 +1,67 @@
+**MSI Services Pvt. Ltd.**
+is looking for talented AI professionals to join our
+**Business Transformation Team**
+in
+**Bengaluru**
+. This role offers an opportunity to build innovative AI solutions that support business transformation across
+**Sales, Purchase, Imports, and Accounting functions**
+.
+
+**Key Responsibilities:**
+
+* Develop AI solutions using
+  **Machine Learning, NLP, Neural Networks, and Deep Learning**
+  .
+* Build and automate workflows using
+  **Python, TypeScript, APIs, and local AI models**
+  .
+* Create and manage workflows in
+  **ComfyUI**
+  , including custom nodes, API integration, model management, and VRAM optimization.
+* Work with local image, video, audio, language, vision, and generative AI models.
+* Develop solutions using tools such as
+  **Ollama, vLLM, OpenAI APIs, and other deep-learning libraries**
+  .
+* Collaborate with business and technical teams to develop practical AI solutions.
+
+**Required Skills:**
+
+* **1 to 3 years**
+  of experience in AI/ML development with
+  **ComfyUI, YoloV8**
+  experience.
+* Strong programming skills in
+  **Python and TypeScript**
+  .
+* Knowledge of
+  **Node.js, JSON, C++, or C#**
+  will be an advantage.
+* Experience with machine-learning algorithms, regression, neural networks, and deep learning.
+* Hands-on experience with
+  **ComfyUI and local generative AI models**
+  .
+* Knowledge of image, video, audio, LLM, and vision models.
+* Strong mathematical, analytical, problem-solving, and communication skills.
+* Ability to work independently and collaborate closely with business and technical stakeholders.
+
+**Good to Have**
+
+* Experience with Gemini, Veo, Kling, Runway, or other cloud-generation tools.
+* Exposure to Indian-language speech models.
+* Experience using AI coding assistants such as
+  **Claude Code or Cursor**
+  .
+
+Interested candidates can apply for this position through the job posting or send their updated resumes directly to
+**akhil.k@msisurfaces.com**
+.
+
+**Please Note:**
+
+* This role requires working from the office
+  **five days a week**
+  . Hybrid or work-from-home options are not available.
+* Please apply only if you are comfortable with the work-from-office requirement.
+* Interviews will be conducted
+  **face-to-face only**
+  . Virtual interviews will not be conducted.

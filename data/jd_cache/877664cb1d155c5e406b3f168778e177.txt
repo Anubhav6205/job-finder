@@ -1,0 +1,50 @@
+**Job Description:**
+--------------------
+
+  
+
+* We are looking for an experienced MLOps Engineer to design deploy automate and maintain scalable machine learning platforms and workflows
+* The ideal candidate should have hands on experience with ML lifecycle management CI CD pipelines cloud platforms containerization and model deployment
+
+  
+
+**Key Responsibilities:**
+-------------------------
+
+  
+
+* Responsible for successful delivery of MLOps solutions and services in client consulting environments
+* Define key business problems to be solved formulate high level solution approaches and identify data to solve those problems develop analyze draw conclusions and present to client
+* Assist clients with operationalization metrics to track performance of ML Models
+* Help team with ML Pipelines from creation to execution
+* Guide team to debug issues with pipeline failures
+* Understand and take requirements on Operationalization of ML Models from Data Scientist
+* Engage with Business Stakeholders with status update on progress of development and issue fix
+* Setup Standards related to Coding Pipelines and Documentation
+* Research on new topics services and enhancements in Cloud Technologies
+
+  
+
+**Technical Requirements:**
+---------------------------
+
+  
+
+* Machine Learning MLOps
+* ML lifecycle management
+* Model deployment and monitoring
+* Feature stores and model registries
+* Experiment tracking
+* Tools Frameworks
+* MLflow
+* Kubeflow
+* Airflow
+* TensorFlow PyTorch Scikit learn
+* Apache Spark preferred
+
+  
+
+**Preferred Skills:**
+---------------------
+
+Technology->AI-Data science->PYTHON - AI-Data Science,Technology->AI-Machine Learning->ML Platform,Technology->AI-AI Engineering->MLOps

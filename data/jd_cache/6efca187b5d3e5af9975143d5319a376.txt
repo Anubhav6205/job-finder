@@ -1,0 +1,52 @@
+**Overview**
+
+**Role- Lead Fullstack Developer**
+
+**Skills- Rectsj, Nextjs, Nodejs or Python, GenAI, OAuth, AWS(All Mandatory)**
+
+**Location- Bangalore. Hyderabad, Chennai, Coimbatore**
+
+**Shift Timings- 11AM-8PM**
+
+**Work Model- Hybird**
+
+We are looking for a passionate and hands-on **Sr** **Full Stack Developer** with strong experience in modern web technologies and Generative AI solutions.
+
+If you enjoy building scalable applications, integrating AI capabilities, and working on cloud-native architectures, this opportunity is for you.
+
+Join us at OGS
+
+We are OGS—Omnicom's Integrated Solutions Engine that brings together a global talent community and connected capabilities in data, creative, media, commerce, and technology to build adaptive, future-ready solutions.
+
+We are redefining the global capability center - not as an offshoring hub, but as a true inside edge. OGS is the place where the future is tested, built, and scaled for the world’s most ambitious agencies and clients.
+
+With over **4300+ talented professionals in India**, we are proud to be a diverse, inclusive, and collaborative community that thrives on innovation and excellence. Our teams work with some of the world’s most iconic brands, helping them move faster and achieve more—everywhere. We are growing rapidly and looking for passionate individuals to be part of this journey.
+
+**Responsibilities**
+
+Responsibilities:
+
+* Design and develop scalable full stack applications
+* Build AI-powered solutions using LLMs
+* Work on frontend SPA and backend microservices
+* Lead architecture discussions and mentor developers
+* Collaborate with cross-functional teams
+* Optimize application performance, security, and scalability
+
+**Qualifications**
+
+Qualifications & Key Requirements
+
+• Experience: 4–6 years of software engineering experience in full-stack web application development and production deployments.
+
+**• Frontend: Strong expertise in React.js, Next.js, TypeScript, HTML5, CSS3, Tailwind CSS, and WebSockets.**
+
+**• Backend: Proficiency in Python and Node.js (Express/NestJS) for building scalable microservices and async data processing.**
+
+**• Database & Caching: Strong competency in SQL (PostgreSQL/MySQL), query optimization, indexing, and Redis caching mechanisms.**
+
+**• GenAI & AI Integrations: Direct experience building Generative AI features, LLM API integrations, and RAG frameworks (LangChain, LlamaIndex, Vector Search).**
+
+**• Cloud Infrastructure: Solid hands-on experience with AWS cloud services and containerization tools like Docker.**
+
+**• Architecture: Practical understanding of event-driven design, RBAC, multi tenant database isolation, and API security** protocols.

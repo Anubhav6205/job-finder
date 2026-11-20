@@ -1,0 +1,16 @@
+**Role description**
+
+Focus Area
+
+Build MCP Servers for CIE (expose scoring, rules, explainability as MCP tools via Model Context Protocol), Integrate with AgentCore Gateway (JWT/mTLS authentication, entitlement checks, routing), Deploy BHI custom models to Databricks Model Serving + Snowflake (UDFs, external functions), AWS Bedrock integration for LLM explainability via AI Marketplace subscription, PHI guardrails implementation (pre-request scanning, post-response masking for healthcare data), MLflow model registry (versioning, A/B testing, rollback), Build CI/CD for model deployment, Feature store integration (Databricks Feature Store MCP tools), OpenTelemetry instrumentation (usage events emission to AI Marketplace metering), MCP tool manifest registration (score\_claim, explain\_detection, provider\_profile tools)
+
+Skill
+
+AWS/ Databricks Certified (preferred) Python 5+ years, Familiarity with MCP Protocol (Model Context Protocol) - build MCP servers that expose tools, MLOps/MLflow 3+ years (model registry, serving) on AWS and Databricks, Databricks Model Serving production (REST API endpoints), Snowflake UDF + external function deployment, OAuth2/JWT authentication + mTLS certificate handling, AWS Bedrock (LLM integration for explainability), AgentCore Gateway integration (JWT validation, entitlement enforcement, tool routing), PHI/HIPAA compliance (pre/post-request PHI scanning), OpenTelemetry (usage event emission, distributed tracing), REST API development (MCP tool endpoints), Docker/containerization, Monitoring (Databricks, CloudWatch), Git + GitHub + CI/CD, Must have 3-5 years MLOps with AWS + Databricks + Snowflake, Must understand MCP Protocol or willingness to learn (AWS AgentCore documentation), Must have worked with OAuth2-secured APIs
+
+ **Skills**
+
+aws,hipaa compliance,aws databricks,json web token,rest api development,cicd,docker containerization,
+
+ **About UST**  
+UST is a global digital transformation solutions provider. For more than 20 years, UST has worked side by side with the world’s best companies to make a real impact through transformation. Powered by technology, inspired by people and led by purpose, UST partners with their clients from design to operation. With deep domain expertise and a future-proof philosophy, UST embeds innovation and agility into their clients’ organizations. With over 30,000 employees in 30 countries, UST builds for boundless impact—touching billions of lives in the process.

@@ -1,0 +1,29 @@
+Job Summary
+
+We are actively searching for a talented and forward-thinking Full-stack developer with storage or cloud domain knowledge auto to join our team. As a key member of our organization, you will play a vital role in the development and maintenance of our cloud-based solutions. Your primary responsibility will involve solving complex problems by leveraging your expertise in multiple technologies. Additionally, you will collaborate closely with our DevOps team to ensure seamless feature deployment in production environments. If you are deeply passionate about cloud technologies and excited to contribute to cutting-edge solutions, we enthusiastically invite you to join our team.
+
+Job Requirements
+
+Develop, test, and maintain cloud-native applications and services using TypeScript, Nodejs. 
+
+Strong in Data Structures and algorithms. 
+
+Expertise in cloud technologies, containers, orchestration frameworks like Kubernetes. 
+
+Good understanding of REST API design and implementation. 
+
+Knowledge of any one of databases (MSSQL or Oracle). 
+
+Participate in code reviews, knowledge sharing sessions, and contribute to the improvement of development processes. 
+
+Utilize AI (Artificial Intelligence) tools like Claude, Copilot or Cursor to enhance productivity in automation, development, documentation, and unit test writing. 
+
+Familiarity with monitoring and logging tools (e.g., Kibana, ELK stack). 
+
+Troubleshoot and resolve issues related to cloud infrastructure, performance, and security.
+
+Education
+
+Master's/bachelor's degree in a relevant field (e.g. Computer Science, Engineering) 
+
+Typically requires a minimum of 4-8 years of related experience.

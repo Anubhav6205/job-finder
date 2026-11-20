@@ -1,0 +1,47 @@
+**Job Summary**
+
+We are looking for an AI/ML Engineer with 2+ years of experience to design, build, and ship AI-native applications. This role requires strong full-stack capabilities, combining backend systems, frontend development, and rapid prototyping to deliver custom dashboards, micro apps, and scalable AI-driven products.
+
+Experience: 2+ Years
+
+Location: Ahmedabad (Work from office)
+
+**Key Responsibilities**
+
+* Design and develop AI-native applications end-to-end (backend + frontend)
+* Build custom dashboards and internal tools powered by AI insights
+* Develop micro apps / lightweight tools to solve specific business problems
+* Integrate LLM APIs (OpenAI, Claude, Hugging Face) into real-world applications
+* Create REST APIs and scalable backend services in Python
+* Build responsive and functional frontends (React/Next.js or similar)
+* Rapidly prototype ideas using a 'vibe coding' approach (fast iteration, quick validation)
+* Implement prompt engineering, RAG pipelines, and context-aware AI systems
+* Optimize performance, scalability, and cost of AI-driven applications
+* Collaborate closely with product/business teams to turn ideas into working solutions
+
+**Required Skills & Qualifications**
+
+* 2+ years of experience in software/AI engineering
+* Strong proficiency in Python (backend)
+* Hands-on experience with frontend development (React, Next.js, or similar)
+* Experience working with LLM APIs (OpenAI, Claude, Hugging Face)
+* Ability to build and ship end-to-end applications independently
+* Strong understanding of REST APIs, micro services, and system design
+* Familiarity with prompt engineering, embeddings, and RAG concepts
+* Experience with data handling (Pandas, NumPy)
+* Strong problem-solving and debugging skills
+
+**Good to Have**
+
+* Experience with LangChain / LlamaIndex or similar frameworks
+* Familiarity with vector databases (Pinecone, Weaviate, Supabase, etc.)
+* Experience building custom dashboards or internal tools
+* Exposure to AI-native UX patterns (chat interfaces, copilots, assistants)
+* Understanding of fast prototyping tools and workflows
+
+**What We Expect (Important)**
+
+* Not just a backend engineer - should be comfortable building frontend as well
+* Not just ML training - focus is on applying AI in real products
+* Should be able to prototype quickly ('vibe coding') and iterate fast
+* Strong ownership mindset - ability to take features from idea to production

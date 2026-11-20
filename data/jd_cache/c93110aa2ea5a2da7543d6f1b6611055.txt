@@ -1,0 +1,143 @@
+**Job description:**
+
+  
+
+LRR Technologies is currently hiring talented people to work with Carrier Corporation. Carrier Corporation (NYSE: CARR) is a global provider of innovative heating, ventilating, and air conditioning (HVAC), refrigeration, fire, security, and building automation technologies boasting annual sales of over $20 billion, with 58,000 employees spread across 160+ countries. For its R&D center in Hyderabad, Carrier is looking for a talented Lead AI Engineer to lead the design, development,
+
+and deployment of enterprise AI solutions using Machine Learning, Generative AI, Agentic AI, and cloud technologies. This role combines
+
+hands-on technical leadership with solution architecture to deliver
+
+scalable AI applications that address engineering and business
+
+challenges.
+
+  
+
+**Job Responsibilities:**
+
+  
+
+The ideal candidate has extensive experience building production-grade AI solutions, mentoring engineering teams, driving technical excellence, and collaborating with product, engineering, and business stakeholders to deliver innovative AI capabilities.
+
+  
+
+**Education:**
+
+  
+
+Bachelor's or Master's degree in Computer Science, Artificial Intelligence, Data Science, Engineering, or a related field with 8+ years of experience in software engineering, AI/ML, or data science.
+
+  
+
+**Required Technical Skills/Education:**
+
+  
+
+AI Solution Architecture: Experience designing scalable AI/ML,
+
+Generative AI, and Agentic AI solutions for enterprise applications.
+
+  
+
+**Programming:** Strong proficiency in Python with experience building
+
+enterprise-grade AI applications and APIs.
+
+  
+
+**Generative AI:** Hands-on experience with LLMs, RAG, prompt
+
+engineering, AI agents, and orchestration frameworks.
+
+  
+
+**AI Frameworks:** Experience with LangChain, LangGraph, Hugging
+
+Face, TensorFlow, PyTorch, or equivalent frameworks.
+
+  
+
+**Software Engineering:** Strong understanding of microservices,
+
+distributed systems, API development, and secure software engineering
+
+practices.
+
+  
+
+**Cloud Platforms:** Experience developing and deploying AI solutions on
+
+Azure, AWS, or Google Cloud Platform.
+
+  
+
+**AI Security :** Security & Risk Analysis.
+
+  
+
+**Experience / Qualifications:**
+
+  
+
+**Data Engineering:** Experience building scalable AI data pipelines and
+
+integrating enterprise data sources.
+
+  
+
+**MLOps:** Experience implementing model deployment, monitoring,
+
+CI/CD, experiment tracking, and AI lifecycle management.
+
+  
+
+**Technical Leadership:** Experience leading technical design
+
+discussions, architecture reviews, and mentoring engineering teams.
+
+  
+
+**Version Control & DevOps:** Proficiency with Git, Azure DevOps,
+
+GitHub Actions, or similar tools.
+
+  
+
+**Preferred Technical Skills/Education:**
+
+  
+
+Experience designing multi-agent systems and enterprise AI platforms.
+
+  
+
+Familiarity with CrewAI, AutoGen, Semantic Kernel, or Azure AI Agent
+
+Service.
+
+  
+
+Experience with Spark, Airflow, Databricks, or large-scale data
+
+processing platforms.
+
+  
+
+Knowledge of Responsible AI, AI governance, and evaluation frameworks.
+
+  
+
+Cloud certifications in Azure, AWS, or Google Cloud are desirable.
+
+  
+
+**Perks and Benefits:**
+
+  
+
+The position will pay quite well - Rs. 30 - 30.7 lakh per annum is the band, and the final amount may be even higher depending on your experience and expertise.
+
+If made an offer, you will need to join in 4 weeks.
+
+This is the opportunity of a lifetime for people looking to specialize in highly coveted niche futuristic skills, and to work in a top multinational company with excellent employee-first initiatives. We look forward to your application.

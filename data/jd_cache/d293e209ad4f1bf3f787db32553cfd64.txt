@@ -1,0 +1,94 @@
+Dear candidate,
+
+Please find the JD for the AI Developer role below, let me know if you have any questions.
+
+**Role Summary**  
+We are looking for an AI Developer to design, build, and run agentic AI systems: software agents that plan, call tools, use company data, and complete multi-step tasks with controlled human oversight. You will work with several model providers and model sizes, choosing and routing between them for quality, speed, cost, and data-handling needs, ensuring no single model or vendor becomes a point of failure.  
+This is a hands-on engineering role. You will write production code, build evaluation harnesses, and take agents from prototype to a monitored, secure, and supportable service.  
+**Key Responsibilities**  
+**Agent design and build**  
+• Design and build agents and multi-agent workflows that plan, use tools, keep state, and complete multi-step business tasks.  
+• Choose the right pattern for each problem (single agent, workflow with fixed steps, supervisor and worker agents, human-in-the-loop approval) and explain the trade-offs.  
+• Write and maintain prompts, system instructions, tool definitions, and structured output schemas as versioned code.  
+• Build retrieval-augmented generation (RAG) and memory components, including document ingestion, chunking, embeddings, vector or hybrid search, and citation of sources.  
+**Multi-model strategy and orchestration**  
+• Work with several model families and providers (for example Anthropic Claude, OpenAI GPT, Google Gemini, and open-weight models such as Llama or Mistral) through hosted APIs, cloud platforms (AWS Bedrock, Azure AI Foundry, Google Vertex AI), and self-hosted inference.  
+• Build a model abstraction and routing layer that selects models by task type, quality, latency, cost, context length, and data-residency rules, with fallbacks when a provider fails or rate-limits.  
+• Benchmark models on our own tasks and data, record the results, and re-evaluate when new models or versions are released.  
+• Manage cost and latency through caching, batching, prompt compression, smaller models for simple steps, and token budgets.  
+**Tools and integrations**  
+• Connect agents to enterprise systems through REST and SOAP APIs, databases, message queues, files, and the Model Context Protocol (MCP) or equivalent tool standards.  
+• Design tools with clear contracts, least-privilege access, input validation, idempotency, and safe handling of errors and retries.  
+• Build integrations for document processing, search, email and messaging, workflow engines, and line-of-business applications such as claims, policy, and finance systems.  
+**Evaluation and quality**  
+• Build evaluation suites with golden datasets, automated checks, model-graded and human review, and regression tests that run on every change to prompts, tools, or models.  
+• Measure task success, accuracy, groundedness, tool-call correctness, latency, and cost, and report them to stakeholders.  
+• Run red-team and adversarial tests, including prompt injection, data leakage, and tool misuse.  
+**Safety, security, and governance**  
+• Apply guardrails: input and output filtering, permission checks before actions, approval steps for high-impact actions, and audit logs of every agent decision and tool call.  
+• Protect personal and health data (PII and PHI) through masking, access control, encryption, retention rules, and region-appropriate hosting, in line with applicable regulations (for example data-privacy law and sector rules such as IRDAI).  
+• Document model choices, known limitations, and risks, and support internal AI governance and model risk reviews.  
+**Operations and collaboration**  
+• Deploy agents through CI/CD pipelines to cloud or container platforms, with tracing, monitoring, alerting, usage and cost dashboards, and incident runbooks.  
+• Provide L2/L3 support for agent incidents and carry out root-cause analysis, including bad outputs, tool failures, and model regressions.  
+• Work with business owners, product managers, security, data, and integration teams to scope use cases, define success metrics, and plan rollout.  
+• Review code and designs, mentor developers new to LLM engineering, and keep technical documentation and an internal catalog of agents, tools, and approved models.  
+**Required Qualifications**  
+• Bachelor's degree in Computer Science, Engineering, Data Science, or a related field (or equivalent practical experience).  
+• 4+ years of software development experience, including 1+ year building LLM-based applications that reached production.  
+• Strong Python (and/or TypeScript or Java) with clean, tested, maintainable code.  
+• Hands-on experience building agents with tool or function calling, structured outputs, and multi-step workflows, using a framework (for example LangGraph, LlamaIndex, Semantic Kernel, AutoGen, CrewAI, or a vendor agent SDK) or custom orchestration.  
+• Practical experience with at least two model providers or families, and an understanding of their differences in context length, tool-use behavior, cost, latency, and data-handling terms.  
+• Experience with RAG: embeddings, vector or hybrid search, chunking strategies, and retrieval quality tuning.  
+• Experience designing evaluations for LLM systems (test sets, automated and human review, regression checks).  
+• Strong API and integration skills (REST, JSON, OAuth2, webhooks) and SQL.  
+• Working knowledge of Git, CI/CD, containers (Docker), and at least one cloud platform (AWS, Azure, or Google Cloud).  
+• Understanding of LLM security risks (prompt injection, data leakage, excessive agent permissions) and of handling sensitive data.  
+**Preferred Qualifications**  
+• Experience running open-weight models (for example with vLLM, Ollama, or managed endpoints) and knowledge of quantization, serving, and GPU cost trade-offs.  
+• Experience with fine-tuning or adapting models (LoRA, preference tuning, distillation) and judging when it is worth doing instead of prompting or RAG.  
+• Experience with model gateways and routing tools (for example LiteLLM, or cloud-native gateways) and with observability tools for LLM tracing (for example Langfuse, LangSmith, or OpenTelemetry-based tracing).  
+• Experience with the Model Context Protocol (MCP), agent-to-agent protocols, and building shared tool servers.  
+• Experience with document AI: OCR, extraction from forms and PDFs, speech-to-text, and multilingual content.  
+• Background in insurance, healthcare, or financial services, including claims, policy, or customer-service workflows.  
+• Knowledge of AI governance frameworks and regulation (for example the NIST AI Risk Management Framework, ISO/IEC 42001, or local data-protection and sector rules).  
+• Experience with event-driven systems (Kafka, RabbitMQ, or cloud queues), workflow engines, and Kubernetes.  
+• Relevant certifications (cloud, AI or ML, or security).  
+**Core Competencies**  
+• Engineering rigor: testing, version control, and measuring before and after every change  
+• Sound judgment about when an agent is the right solution, and when a simple workflow or rule is better  
+• Structured problem-solving and strong debugging skills for non-deterministic systems  
+• Clear communication with business and technical stakeholders, including plain-language explanation of risks and limits  
+• Security and privacy mindset, with caution about the permissions and data an agent can reach  
+• Curiosity and discipline in tracking fast-moving models and tools without chasing every release  
+• Ownership from prototype through production support
+
+  
+
+Interested candidates please share the updated resume along with below details
+
+Employee Name :
+
+Contact Number:
+
+Email ID :
+
+Exp in yrs. :
+
+Current CTC :
+
+Expected CTC :
+
+Current Organization :
+
+Notice Period in Days:
+
+Current Location :
+
+Preferred Location :
+
+Counter Offer: Yes/No
+
+If Yes : Counter Offer CTC:
+
+Serving Notice Period: LWD:

@@ -1,0 +1,41 @@
+Position: AI Engineer
+
+Location: Bangalore
+
+Working Days: Monday to Friday
+
+Experience Required: 3-5 years
+
+Our Client is building an AI-native Social Content & Campaign Intelligence OS for global consumer brands , helping them monitor, audit, reason over, and activate intelligence across social content, influencer campaigns, UGC, and commerce. We are working with Fortune 500 global enterprise brands.
+
+**The role**
+
+You'd build the agents in our AI-native social content operating system, and the deterministic pipelines they run inside , conceiving those workflows as well as writing them.
+
+You'd sit in the core build team, working with the Backend engineers on the services around the pipelines.
+
+What you'll do
+
+* Build and operate multi-step AI pipelines as real workflows , idempotent, retryable, observable, resumable after failure
+* Design the evaluation before you ship: datasets, metrics, and gates that can block a release
+* Make model behaviour reproducible through versioning, caching and replay, so a decision made months ago can be reconstructed
+* Harden pipelines against adversarial and injected input, structurally rather than by prompt instruction
+* Keep cost and latency per operation measured, and treat regressions as bugs
+* Work with the Site Reliability Engineers on production visibility into provider latency, failure rates and cost
+* Keep the model layer swappable, so changing provider is a configuration change rather than a rewrite
+
+**What you'll need**
+
+* Around 3 or more years in software engineering, including shipping AI or LLM-backed features to production
+* Stayed responsible for those features after launch, including their failures
+* Built evaluation harnesses and used them to make real ship or no-ship decisions
+* Strong general software engineering , most of this job is systems work
+* Can reason clearly about the failure modes of a component that doesn't return the same answer twice
+
+**Nice to have**
+
+* Multi-modal pipelines , vision, audio, or document understanding
+* Retrieval systems and the evaluation of retrieval quality
+* Adversarial input, prompt injection, or abuse-resistance work
+* Fine-tuning or distillation, and the infrastructure around it
+* Experience with workflow orchestration at scale.

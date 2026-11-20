@@ -1,0 +1,36 @@
+As the global leader in high-speed connectivity, Ciena is committed to a people-first approach. Our teams enjoy a culture focused on prioritizing a flexible work environment that empowers individual growth, well-being, and belonging. We’re a technology company that leads with our humanity—driving our business priorities alongside meaningful social, community, and societal impact.
+
+Blue Planet, the software division of Ciena, provides intelligent automation software and niche professional services that help clients modernize IT and network operations. The Security Engineer (Software Engineer 1A) role contributes to product security across the Blue Planet portfolio by combining security scanning, automation, vulnerability management, and collaboration with engineering teams. This role joins the Blue Planet Security team, which manages product security for solutions used by customers around the world.
+
+**How you will make an impact:**
+
+* Contribute to product security across the Blue Planet portfolio as part of the Blue Planet Security team.
+* Build and maintain automation and tooling that integrates security scanning into CI/CD pipelines and reduces manual effort.
+* Run and triage security scans, including SCA, SAST, DAST, secrets, and container scanning, and summarize results for engineering teams.
+* Track, validate, and follow up on vulnerabilities and CVEs through remediation.
+* Collaborate with product teams and Security Champions to collect evidence, drive fixes, and maintain accurate dashboards and reports.
+* Explore and prototype AI/LLM-based tooling to accelerate security tasks and apply it safely.
+* Contribute to documentation, runbooks, and knowledge sharing in accordance with team standards.
+
+**The must haves:**
+
+* **Education:** Bachelor’s degree in Engineering, Cybersecurity or a related field (or equivalent practical experience).
+* **Experience:** Around 1 year of experience.
+* Application of software development fundamentals, including programming concepts, algorithms and data structures, version control, and debugging.
+* Application of security fundamentals, including application security concepts, the OWASP Top 10, common vulnerability classes, and secure coding practices.
+* Ability to write and maintain scripts or tools in a programming language of choice; use of Git and the command line; basic understanding of AI/ML and GenAI tools; and awareness of AI Security concepts such as prompt injection, OWASP Top 10 for LLMs, and responsible use of AI.
+* Basic background in CI/CD pipelines and how automated security checks fit into them.
+* Clear written and verbal communication; eagerness to learn, ownership, collaboration, and attention to detail.
+
+**Nice to haves:**
+
+* Exposure to security tooling, including SCA, SAST, DAST, and fuzzing, and automation that calls REST APIs or parses tool output.
+* Background in containers, orchestration and cloud platforms, threat modeling concepts, security certifications, or CTF/open-source contributions.
+
+#LI-FA
+
+At Ciena, we are committed to building and fostering an environment in which our employees feel respected, valued, and heard. Ciena values the diversity of its workforce and respects its employees as individuals. We do not tolerate any form of discrimination.
+
+Ciena is an Equal Opportunity Employer, including disability and protected veteran status.
+
+If contacted in relation to a job opportunity, please advise Ciena of any accommodation measures you may require.

@@ -1,0 +1,74 @@
+**About Persistent**
+We are an AI-led, platform-driven Digital Engineering and Enterprise Modernization partner, combining deep technical expertise and industry experience to help our clients anticipate what’s next. Our offerings and proven solutions create a unique competitive advantage for our clients by giving them the power to see beyond and rise above. We work with many industry-leading organizations across the world, including 20 Fortune 50 companies and 4 of the 5 top banks in both the US and India, and numerous innovators across the healthcare ecosystem.
+  
+  
+Our disruptor’s mindset, commitment to client success, and agility to thrive in the dynamic environment have enabled us to sustain our growth momentum. Persistent has been recognized across top industry platforms for innovation, leadership, and inclusion. We reported $1,654.4M FY26 revenue with 17.4% Y-o-Y growth. We have delivered 24 sequential quarters of growth with $436.0M in Q2 FY27 revenue, up 3.2% Q-o-Q and 16.2% Y-o-Y growth. Our 27,500+ global team members, located in 18 countries, have been instrumental in helping the market leaders transform their industries. We have been recognized as the Fastest Growing IT Services Brand Globally in the 2026 Brand Finance IT Services 25 Report. We named a Leader in the Everest Group Private Equity (PE) Services PEAK Matrix® Assessment 2026 and Software Product Engineering PEAK Matrix® Assessment 2026.
+  
+  
+**About Position**
+We are looking for a GenAI Developer with foundational experience in Generative AI technologies and modern AI-powered application development. The ideal candidate should possess knowledge of GPT-family models, AI coding assistants, LangChain, and Digital Assistant platforms. The role involves building AI-enabled solutions, integrating Large Language Models (LLMs), and supporting enterprise AI initiatives.
+  
+  
+
+* Role: GenAI Developer
+* Location: Pune
+* Experience: 8 to 12 Years
+* Job Type: Full-Time Employment
+
+**What You'll Do**
+
+* Develop and implement Generative AI-based applications and solutions
+* Integrate Large Language Models (LLMs) into enterprise applications and workflows
+* Build conversational AI and Digital Assistant solutions
+* Design and implement prompt engineering strategies for business use cases
+* Develop AI orchestration workflows using LangChain frameworks
+* Integrate AI services through APIs and cloud-based AI platforms
+* Support chatbot development and conversational experiences
+* Collaborate with product, engineering, and business teams to identify AI use cases
+* Evaluate emerging GenAI tools, frameworks, and technologies
+* Assist in developing reusable AI components and accelerators
+* Participate in AI solution testing, validation, and optimization activities
+* Create technical documentation and implementation guidelines
+* Contribute to AI-driven automation and productivity improvement initiatives
+
+**Expertise You'll Bring**
+
+* Good understanding of Generative AI concepts and Large Language Models (LLMs)
+* Basic knowledge of GPT family models and AI coding assistant platforms such as CodeWhisperer
+* Familiarity with LangChain and AI orchestration frameworks
+* Experience working with Digital Assistants and conversational AI solutions
+* Understanding of prompt engineering techniques and best practices
+* Knowledge of AI model integration through APIs and SDKs
+* Experience with Python programming and automation scripting
+* Understanding of REST APIs and application integration concepts
+* Exposure to cloud-based AI and machine learning services
+* Familiarity with Retrieval-Augmented Generation (RAG) concepts is an advantage
+* Understanding of vector databases and embeddings is a plus
+* Experience developing IDE plugins or developer productivity tools will be an added advantage
+* Strong analytical and problem-solving skills
+* Good communication and stakeholder collaboration abilities
+* Ability to learn and adapt to rapidly evolving AI technologies and frameworks
+* Experience working in Agile development environments preferred
+
+**Benefits**
+
+* Competitive salary and benefits package
+* Culture focused on talent development with quarterly growth opportunities and company-sponsored higher education and certifications
+* Opportunity to work with cutting-edge technologies
+* Employee engagement initiatives such as project parties, flexible work hours, and Long Service awards
+* Annual health check-ups
+* Insurance coverage: group term life, personal accident, and Mediclaim hospitalization for self, spouse, two children, and parents
+
+**Values-Driven, People-Centric & Inclusive Work Environment**
+Persistent is dedicated to fostering diversity and inclusion in the workplace. We invite applications from all qualified individuals, including those with disabilities, and regardless of gender or gender preference. We welcome diverse candidates from all backgrounds.
+  
+  
+
+* We support hybrid work and flexible hours to fit diverse lifestyles.
+* Our office is accessibility-friendly, with ergonomic setups and assistive technologies to support employees with physical disabilities.
+* If you are a person with disabilities and have specific requirements, please inform us during the application process or at any time during your employment
+
+**Let’s unleash your full potential at Persistent -**
+**persistent.com/careers**
+***“Persistent is an Equal Opportunity Employer and prohibits discrimination and harassment of any kind.”***
+Artificial Intelligence,AI ML

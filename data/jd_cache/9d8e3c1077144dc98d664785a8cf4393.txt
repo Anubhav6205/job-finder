@@ -1,0 +1,53 @@
+About Letitbex AI:(https://letitbexai.com/)
+
+Letitbex AI is a fast-growing AI-driven technology company focused on building intelligent, scalable, and enterprise-grade solutions. We work at the intersection of AI, data engineering, cloud, and business transformation, helping organizations unlock real value from artificial intelligence.
+
+Position: Playwright Automation Engineer
+
+Experience: 3+ Years
+
+Notice Period: Can be considered up 15 Days
+
+  
+
+**Role Summary**
+
+We are seeking a skilled TypeScript Automation Engineer to support the migration and modernization of existing Python-based automation scripts to TypeScript. The candidate will analyze existing scripts, develop scalable and reusable automation solutions, and ensure functional equivalence, reliability, and seamless integration with enterprise systems. Familiarity with SAP Finance processes is an added advantage.
+
+**Key Responsibilities**
+
+* Analyze existing Python scripts, automation workflows, dependencies, and integrations.
+* Migrate and refactor Python automation scripts into modular, reusable, and maintainable TypeScript code.
+* Develop and enhance automation solutions using TypeScript, JavaScript, and Node.js.
+* Ensure functional parity through unit, integration, and regression testing.
+* Integrate automation scripts with REST APIs, databases, and CI/CD pipelines.
+* Troubleshoot migration issues, improve execution reliability, and follow established coding standards.
+* Collaborate with engineering, QA, functional, and DevOps teams to support successful migration.
+* Maintain technical documentation and support knowledge transfer.
+
+**Required Technical Skills**
+
+* 4–7 years of overall software development or automation engineering experience.
+* Minimum 3 years of hands-on TypeScript development experience with strong JavaScript fundamentals.
+* 2+ years of experience with Node.js and asynchronous programming.
+* 1–2 years of practical Python scripting experience, including debugging and understanding automation workflows.
+* Strong understanding of REST APIs, JSON, error handling, and integration patterns.
+* Experience with automation/testing frameworks such as Playwright, Jest, or equivalent tools.
+* Experience with Git, CI/CD pipelines, and automated testing practices.
+* Strong debugging, problem-solving, and code refactoring skills.
+
+**Preferred Qualifications**
+
+* Experience in Python-to-TypeScript migration or legacy automation modernization.
+* Basic understanding of SAP Finance (SAP FI) modules and business processes, including General Ledger (GL), Accounts Payable (AP), and Accounts Receivable (AR), is a plus.
+* Familiarity with SAP ECC or SAP S/4HANA environments and finance-related automation workflows.
+* Experience with SQL, database integrations, and enterprise application workflows.
+* Familiarity with GitHub Actions, Jenkins, or Azure DevOps.
+* Understanding of reusable automation frameworks and coding best practices.
+
+**Expected Deliverables**
+
+* Migrated and validated TypeScript automation scripts.
+* Reusable TypeScript automation components and utilities.
+* Automated unit, integration, and regression tests.
+* Migration documentation, execution reports, and knowledge transfer.

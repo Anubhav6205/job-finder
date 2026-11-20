@@ -1,0 +1,115 @@
+**Discover your future at Citi**
+--------------------------------
+
+Working at Citi is far more than just a job. A career with us means joining a team of approximately 219,000 dedicated people from around the globe. At Citi, you’ll have the opportunity to grow your career, give back to your community and make a real impact.
+
+**Job Overview**
+----------------
+
+The Applications Development Technology Lead Analyst is a senior level position responsible for establishing and implementing new or revised application systems and programs in coordination with the Technology team. The overall objective of this role is to lead applications systems analysis and programming activities.
+  
+  
+**Responsibilities:**
+
+* Partner with multiple management teams to ensure appropriate integration of functions to meet goals as well as identify and define necessary system enhancements to deploy new products and process improvements
+* Resolve variety of high impact problems/projects through in-depth evaluation of complex business processes, system processes, and industry standards
+* Provide expertise in area and advanced knowledge of applications programming and ensure application design adheres to the overall architecture blueprint
+* Utilize advanced knowledge of system flow and develop standards for coding, testing, debugging, and implementation
+* Develop comprehensive knowledge of how areas of business, such as architecture and infrastructure, integrate to accomplish business goals
+* Provide in-depth analysis with interpretive thinking to define issues and develop innovative solutions
+* Serve as advisor or coach to mid-level developers and analysts, allocating work as necessary
+* Appropriately assess risk when business decisions are made, demonstrating particular consideration for the firm's reputation and safeguarding Citigroup, its clients and assets, by driving compliance with applicable laws, rules and regulations, adhering to Policy, applying sound ethical judgment regarding personal behavior, conduct and business practices, and escalating, managing and reporting control issues with transparency.
+  
+
+**Recommended Qualifications:**
+
+* 10+ years of relevant experience in Apps Development or systems analysis role
+* Extensive experience system analysis and in programming of software applications
+* Experience in managing and implementing successful projects
+* Subject Matter Expert (SME) in at least one area of Applications Development
+* Ability to adjust priorities quickly as circumstances dictate
+* Demonstrated leadership and project management skills
+* Consistently demonstrates clear and concise written and verbal communication
+
+**Key Responsibilities**
+
+**1. Strategic Technology Roadmap & Architecture**
+
+* **Define and Execute Vision:** Establish and drive the strategic technology architecture roadmap for the Client Financials portfolio, ensuring alignment with long-term business outcomes.
+* **Technical Direction:** Provide strategic direction and critical input into key technology decisions to ensure a scalable, robust, and future-proof buildout.
+* **Solution Design:** Demonstrate deep technical acumen to collaborate with and direct a strong engineering team in making critical architectural and design decisions.
+
+**2. Cloud Transformation & Data Engineering**
+
+* **Cloud-Native Engineering:** Lead the design, development, and scaling of enterprise-grade, cloud-native data services on AWS.
+* **Databricks & Spark Migration:** Drive the migration of legacy data platforms to Databricks, delivering high-performance Spark and PySpark solutions.
+* **Platform Optimization:** Optimize system performance, capacity, and infrastructure efficiency to support data-heavy, high-throughput applications.
+* **AI-Enabled Analytics:** Deliver AI-enabled operational and analytics platforms to unlock advanced insights and predictive capabilities.
+
+**3. Stakeholder Management & Business Alignment**
+
+* **Methodology Representation:** Present and represent the firm's client returns methodology to senior stakeholders across diverse business and technology teams, including Markets, Finance, Risk, Banking, Performance Management, and ICM.
+* **Impact Analysis:** Clearly articulate and present the technology platform's impacts on revenue, expense, GSIB (Global Systemically Important Banks), and tax calculations.
+* **Relationship Building:** Foster strong, collaborative partnerships with senior business and technology leaders to align engineering delivery with business priorities.
+
+**4. Engineering Leadership & Agile Delivery**
+
+* **End-to-End Accountability:** Take full and direct accountability for the solution delivery lifecycle of the Client Financials portfolio.
+* **Team Leadership:** Lead, mentor, and scale a high-performing team of expert data and software engineers, fostering a culture of technical excellence, quality, and velocity.
+
+**Agile Execution:** Drive agile execution across multiple complex data engines, calculation engines, and multi-dimensional analytics platforms
+
+  
+
+**Education:**
+
+* Bachelor’s degree/University degree or equivalent experience
+* Master’s degree preferred
+  
+
+  
+
+This job description provides a high-level review of the types of work performed. Other job-related duties may be assigned as required.
+
+  
+
+.
+
+-
+
+**Job Family Group:**
+---------------------
+
+Technology
+
+-
+
+**Job Family:**
+---------------
+
+Applications Development
+
+-
+
+**Time Type:**
+--------------
+
+Full time
+
+-
+
+**Most Relevant Skills**
+------------------------
+
+Please see the requirements listed above.
+
+-
+
+**Other Relevant Skills**
+-------------------------
+
+For complementary skills, please see above and/or contact the recruiter.
+
+-
+
+*Citi is an equal opportunity employer, and qualified candidates will receive consideration without regard to their race, color, religion, sex, sexual orientation, gender identity, national origin, disability, status as a protected veteran, or any other characteristic protected by law.*

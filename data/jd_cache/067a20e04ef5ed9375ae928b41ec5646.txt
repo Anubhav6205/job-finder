@@ -1,0 +1,48 @@
+**Where Ambition Meets Innovation**
+
+At LPL’s Global Capability Center, you'll find a collaborative culture where your voice matters, integrity guides every decision, and technology fuels progress. Your skills, talents, and ideas will redefine what's possible. LPL's success reflects its exceptional employees, who together pursue one noble purpose: empowering financial advisors to deliver personalized advice for all who need it. We’re proud to be expanding and reaching new heights in Hyderabad.
+
+Join us as we create something extraordinary together.
+
+**Job Overview:**
+
+As a **Senior Engineer** in our AI Engineering(AIE) organization, you will architect and lead the design and implementation of production-grade agentic AI systems and generative model platforms. You’ll define standards for safe model deployment, governance, and observability — and mentor a growing team to deliver innovative, compliant, and reliable AI features that scale across the LPL enterprise. Here you will:
+
+* Help build a first-of-its-kind AI platform at the intersection of finance and responsible automation
+* Influence the enterprise AI roadmap and technology strategy
+* Collaborate with cross-functional leaders in engineering, compliance, and innovation
+* Enjoy a culture of innovation, autonomy, and long-term impact
+
+**Responsibilities:**
+
+* Lead the end-to-end development of agentic AI systems leveraging AWS (SageMaker, Lambda, Step Functions, ECS/EKS) and open-source orchestration frameworks (LangChain, Hugging Face, etc.)
+* Build reliable RAG and multi-agent architectures with vector databases (FAISS, Pinecone, OpenSearch)
+* Drive model governance — versioning, access control, audit trails, and risk reviews aligned with LPL’s compliance standards
+* Stay up-to-date on the latest advancements in industry and technology solutions, bringing insights to the team for continuous development of our stack, solutions and ways of working
+
+**What are we looking for?**
+
+We’re looking for strong collaborators who deliver exceptional client experiences and thrive in fast-paced, team-oriented environments. Our ideal candidates **pursue greatness**, **act with integrity**, and are **driven to help our clients succeed**. We value those who embrace creativity, continuous improvement, and contribute to a culture where we **win together** and **create and share joy** in our work.
+
+**Requirements:**
+
+* Bachelor’s or Master’s degree in Computer Science, Data Science or a related field (year's experience may apply to cover this requirement)
+* 7+ years of software engineering experience, with 3+ years leading ML/AI initiatives
+* Strong experience building/managing agentic solutions with solid understanding of agent orchestration, tool use, and guardrails for autonomous systems
+* Strong experience building/managing Knowledge Graphs (entity extraction, linkage, ontology design)
+* Experience integrating Knowledge Graph with AI Systems for retrieval, reasoning, agent context (enriching with LLM)
+* Proven expertise deploying ML and LLM solutions on AWS (SageMaker, Bedrock, ECS, Lambda
+* Deep knowledge of open-source ML frameworks (PyTorch, TensorFlow, Hugging Face Transformers)
+* Strong experience with MLOps and infrastructure-as-code (Terraform, Docker, Kubernetes)
+
+**Prefernces:**
+
+* Familiarity with Azure AI, Vertex AI, or multi-cloud deployments a plus
+
+**Core Competencies:**
+
+* Partner with product and business stakeholders to identify and deliver upon high-impact AI opportunities across advisor experiences and enterprise automation
+* Mentor engineers, set best practices, and guide the adoption of LLMOps and model observability
+* Collaborate with cybersecurity, risk, and data governance teams to ensure responsible model usage and policy alignment
+
+LPL Global Business Services, LLP - PRIVACY POLICY

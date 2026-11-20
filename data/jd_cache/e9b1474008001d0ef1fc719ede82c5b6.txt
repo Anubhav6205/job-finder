@@ -1,0 +1,37 @@
+**GenAI Full Stack- Senior Associate**
+
+  
+
+Responsibilities
+
+- Design and develop responsive, performant user interfaces using modern frontend frameworks (React, Angular, Vue.js), implementing reusable component libraries and ensuring design consistency.
+
+- Optimize frontend performance through techniques like lazy loading, code splitting, caching, and efficient rendering strategies for scalable web applications.
+
+- Build, secure, and maintain scalable REST and GraphQL APIs and backend services using Node.js, Java Spring Boot, or Python, handling business logic, data validation, and error handling.
+
+- Develop and manage microservices architectures and design relational and NoSQL database schemas with optimized queries and migrations for production environments.
+
+- Deploy applications on cloud platforms (AWS, Azure, GCP) leveraging Docker, Kubernetes, and CI/CD tools (GitHub Actions, Azure DevOps, Jenkins) for continuous integration and delivery.
+
+- Collaborate closely with product managers to translate UX designs and user stories into pixel-perfect, accessible, and consistent user interfaces across devices and browsers.
+
+What You Must Have
+
+- At least a Bachelor's & Master's Degree
+
+- 4 years of experience
+
+- Oral and written proficiency in English required
+
+What Sets You Apart
+
+- Experience working with AI or Generative AI tools-based applications.
+
+- Strong backend development skills using Node.js, Nest.js, Java Spring Boot, or Python frameworks, with solid understanding of RESTful APIs and GraphQL.
+
+- Proficient in front-end technologies including HTML5, CSS3, JavaScript/TypeScript, and modern frameworks like React, Vue.js, or Next.js.
+
+- Familiarity with relational and NoSQL databases such as PostgreSQL, MySQL, or MongoDB, along with authentication and authorization mechanisms.
+
+- Knowledgeable in version control systems, preferably Git, to manage code and collaborate effectively.

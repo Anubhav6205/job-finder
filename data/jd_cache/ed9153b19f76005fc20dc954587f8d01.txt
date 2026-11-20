@@ -1,0 +1,13 @@
+**Roles and Responsibilities :**
+
+* Design, develop, test, deploy and maintain scalable AI models using Python and MongoDB.
+* Collaborate with cross-functional teams to integrate AI solutions into existing systems.
+* Troubleshoot complex issues related to AI model performance and data quality.
+* Stay up-to-date with industry trends and best practices in artificial intelligence.
+
+**Job Requirements :**
+
+* 5-10 years of experience in developing AI applications using Python.
+* Strong understanding of machine learning algorithms and their implementation in Python.
+* Experience working with NoSQL databases such as MongoDB for storing large datasets.
+* Proficiency in troubleshooting complex technical issues related to AI model deployment.

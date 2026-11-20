@@ -1,0 +1,121 @@
+**Should have past development (SDLC) experience in Java**
+
+**Job Title: Tech Lead (GenAI Lead)**
+
+**Organization Name: NEC Corporation of India Ltd.**
+
+**Location: Japan**
+
+**Reporting Relationship: Project Manager**  
+**Experience:** 7-10 Years  
+**Job Type:** Regular
+
+**Role Summary:**
+
+We are seeking an experienced Generative AI Lead to drive the end-to-end design, development, testing, and deployment of GenAI-powered solutions. The ideal candidate should possess strong expertise across the Software Development Life Cycle (SDLC), including requirements gathering, solution architecture, development, testing, and deployment, while leveraging modern AI/ML and Large Language Model (LLM) technologies to solve business problems. The candidate will be responsible for ensuring the timely deliveries of milestones keeping the quality standard high, supporting in reviews and technical guidance to other team members. Candidate should be self-driven and should have potential to lead the project individually while working closely with customers.
+
+The role requires close collaboration with business stakeholders, architects, data engineers, developers, QA teams, and operations teams to deliver secure, scalable, and enterprise-ready GenAI solutions.
+
+**Job Description / Key Responsibilities:**
+
+**Strategy & Requirements:**
+
+* Engage with business stakeholders to identify and assess GenAI use cases.
+
+* Facilitate requirement gathering workshops and translate business needs into technical solutions.
+
+* Define solution roadmaps, feasibility assessments, and implementation strategies.
+
+* Develop business cases, effort estimations, and delivery plans for GenAI initiatives.
+
+**Solution Design & Architecture:**
+
+* Design scalable GenAI architectures leveraging LLMs, RAG, AI Agents, and enterprise data sources.
+
+* Create technical design documents, architecture diagrams, and solution specifications.
+
+**Development & Engineering:**
+
+* Lead development teams in building GenAI applications, copilots, chatbots, intelligent assistants, and automation solutions.
+
+* Develop and review code.
+
+* Drive integration with enterprise applications, APIs, document repositories, and knowledge bases.
+
+**Testing & Quality Assurance:**
+
+* Define GenAI testing frameworks and quality assurance strategies.
+
+* Establish processes for functional, integration, performance, security, and hallucination testing.
+
+* Ensure compliance with enterprise risk, privacy, security, and responsible AI guidelines.
+
+**Leadership and Operations:**
+
+* Drive continuous optimization of prompts, models, and retrieval mechanisms.
+
+* Manage project risks, dependencies, and stakeholder communications.
+
+* Provide leadership for innovation, PoCs, and enterprise AI adoption initiatives.
+
+* Ensure compliance with coding standards, best practices, and security guidelines.
+
+* Self-learner, willing to experiment with latest tools & technologies.
+
+* Experience in Waterfall/Agile development.
+
+* Strong development and technical troubleshooting capabilities.
+
+* Good communication skills both written and oral.
+
+**Technical Skills:**
+
+* Generative AI & AI Platforms:
+
+* Anthropic Claude, Google Gemini (preferred)
+
+* LangChain, LangGraph, Semantic Kernel
+
+* AI Agents and Multi-Agent Frameworks
+
+* Prompt Engineering and RAG Architecture
+
+* Development Technologies:
+
+* Python
+
+* Java/.Net
+
+* REST APIs and Microservices
+
+* Git, Azure DevOps, GitHub
+
+* Data & Cloud:
+
+* Azure Cloud Services.
+
+* Vector Databases.
+
+* Data Integration and ETL Concepts.
+
+**Preferred Skills/Certifications:**
+
+* Experience in communicating complex technical information to a variety of audiences.
+
+* Team player, willing to take responsibility and contribute.
+
+* Can play lead role for managing 3-4 members.
+
+* Microsoft Certified: Azure AI Engineer Associate.
+
+* Microsoft Certified: Azure Solutions Architect Expert.
+
+**Qualifications:**
+
+* B. Tech/B.E./M.Tech/MCA from reputed institute.
+
+* At least 3-4 years relevant working experience with expertise in GenAI Platforms, LLMs.
+
+Pay: ₹1,000,000.00 - ₹2,400,000.00 per year
+
+Work Location: In person

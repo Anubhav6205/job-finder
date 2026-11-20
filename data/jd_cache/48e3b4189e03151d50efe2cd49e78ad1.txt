@@ -1,0 +1,53 @@
+AI Engineer Lead Analyst  
+  
+Position: AI Engineer Lead Analyst  
+Experience: 5+ Years  
+Technology: RAG, AI Gateway, AWS, MCP, Guardrails, Vector stores in AWS or similar cloud provider  
+Work Location: Hyderabad/Bangalore/Chennai  
+Employment Type: Full-Time  
+Job ID : JJ1126-0909  
+#LI-SP40  
+  
+We are seeking an AI engineer to architect and develop scalable, resilient, and ethical AI solutions for the IH organization. This role will establish connectivity to Large Language Models (LLMs), implement layered guardrails, utilize LLMs and open source libraries, develop and maintain end to end AI pipelines.
+
+**Your future duties and responsibilities**
+
+. Architect and develop scalable, resilient, and ethical AI solutions in collaboration with Product Development, serving as a Generative AI subject matter expert.  
+. Establish connectivity to LLM endpoints in the enterprise cloud and document DNS, routing, IAM policies, and firewall rules.  
+. Implement layered guardrails, including input validation, prompt‑injection shielding, runtime constraints, and content safety, following the enterprise standards.  
+. Build solutions that align with Responsible AI principles, ensuring fairness, transparency, and compliance with enterprise governance requirements and emerging regulations.  
+. Utilize LLMs, open source frameworks, machine learning techniques, and numerical programming tools to create transformative business solutions.  
+. Work with open source libraries (e.g., TensorFlow, PyTorch, Hugging Face Transformers, LangChain), cloud platforms, and internal systems to deliver best in class AI capabilities.  
+. Develop and maintain end to end AI pipelines, including data preprocessing, feature extraction, model training, evaluation, and deployment.  
+. Stay current on AI trends, infrastructure, and emerging issues, particularly as they relate to LLMs and enterprise AI adoption.
+
+**Required qualifications to be successful in this role**
+
+Must Have Skills:  
+  
+Advanced degree in Computer Science, Artificial Intelligence, Machine Learning, or a related field.  
+At least 8 years of experience in a technical role developing and deploying AI solutions preferably in healthcare or highly regulated industries for various countries in a medium to large enterprise.  
+At least 3 years of experience in research with sequential modelling or generative AI, deep learning architectures, and Transformers, with a strong understanding of deep learning techniques such as GPT, VAE, and GANs.  
+Programming experience in one of C/C++, Java, Python and for self supervised learning, transfer learning, and reinforcement learning.  
+Proficiency in machine learning libraries and frameworks, such as TensorFlow, PyTorch, LangFlow, and Keras.  
+Background in natural language processing (NLP), with experience utilizing tools like SpaCy, NLTK, and Hugging Face.  
+Familiarity with cloud based platforms and services, such as AWS, GCP, or Azure.  
+Excellent problem solving skills, with the ability to think critically and creatively to develop innovative AI solutions.  
+Strong communication skills, with the ability to effectively convey complex technical concepts to a diverse audience.  
+Possess a proactive mindset, with the ability to work independently and collaboratively in a fast paced, dynamic environment.  
+Understand responsible AI frameworks and adhere to established ethical AI principles.
+
+**Together, as owners, let’s turn meaningful insights into action.**  
+  
+Life at CGI is rooted in ownership, teamwork, respect and belonging. Here, you’ll reach your full potential because…  
+  
+You are invited to be an owner from day 1 as we work together to bring our Dream to life. That’s why we call ourselves CGI Partners rather than employees. We benefit from our collective success and actively shape our company’s strategy and direction.  
+  
+Your work creates value. You’ll develop innovative solutions and build relationships with teammates and clients while accessing global capabilities to scale your ideas, embrace new opportunities, and benefit from expansive industry and technology expertise.  
+  
+You’ll shape your career by joining a company built to grow and last. You’ll be supported by leaders who care about your health and well-being and provide you with opportunities to deepen your skills and broaden your horizons.
+  
+  
+That same commitment to fairness extends to how we use technology. To support our recruitment team, AI tools may be used to help assess applications though they never replace human judgement. All hiring decisions remain entirely in the hands of our recruitment professionals.  
+  
+Come join our team—one of the largest IT and business consulting services firms in the world.

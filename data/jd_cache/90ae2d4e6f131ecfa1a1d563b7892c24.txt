@@ -1,0 +1,80 @@
+**Who We Are**
+
+At Kyndryl, we run and reimagine the mission-critical technology systems that drive advantage for the world’s leading businesses. We are at the heart of progress; with proven expertise and a continuous flow of AI-powered insight, enabling smarter decisions, faster innovation, and a lasting competitive edge. For our people—Kyndryls—that means doing purposeful work that powers human progress. Join us and experience a flexible, supportive environment where your well-being is prioritized and your potential can thrive.
+
+**The Role**
+
+**Your role**
+
+Bring your specialist knowledge and experience to a company managing 50% of the world’s MIPS and play a critical role in our modernization mission. You’ll be in good company among our global community of experts leading the future of mainframe modernization. Experts who share knowledge openly and collaborate freely.
+
+In this role, you’ll design, build and maintain the high-volume business logic that runs on the mainframe. At the same time you’ll play a key role in refactoring legacy code to enable modern cloud and mobile applications to seamlessly interact with the mainframe’s core data.
+
+**What you will do**
+
+* **End-to-End Environment Setup:** Deploy containerized \*Agent Builder platform components and cloud infrastructure across sandbox, staging, and production environments using Docker, Kubernetes, and IaC templates.
+* **Enterprise Integration:** Build secure API adapters, connectors, and webhooks to integrate AI agents with enterprise platforms like ServiceNow, SharePoint, Confluence, GitHub, and CMDB.
+* **Agent Workflow Configuration:** Operationalize \*Agent Builder catalog workflows, tuning prompts, tools, memory, and retrieval mechanisms for production readiness.
+* **Security & Observability:** Implement enterprise guardrails, access permissions, logging, distributed tracing, metrics, retry policies, and audit trails for reliable agent execution.
+* **Cross-Functional Collaboration:** Partner directly with architects, engineers, AMS SMEs, and customer stakeholders to resolve blockers and ensure platform alignment.
+* **Technical Discovery & Delivery:** Lead workshops, capture requirements, validate data access, and support environment readiness reviews through go-live.
+* **Handover & Supportability:** Resolve integration and network defects, and produce deployment runbooks and documentation for operational handover.
+
+**Your future at Kyndryl**
+
+Every position at Kyndryl offers a way forward to grow your career, from Junior System Administrator to Architect. We have opportunities for Cloud Hyperscalers that you won’t find anywhere else, including hands-on experience, learning opportunities, and the chance to certify in all four major platforms. One of the benefits of Kyndryl is that we work with clients in a variety of industries, from banking to retail. Whether you want to broaden your knowledge base or narrow your scope and specialize in a specific sector, you can find yourated
+
+**Who You Are**
+
+You’re good at what you do and possess the required experience to prove it. However, equally as important – you have a growth mindset; keen to drive your own personal and professional development. You are customer-focused – someone who prioritizes customer success in their work. And finally, you’re open and borderless – naturally inclusive in how you work with others.
+
+  
+
+### **Required Skills and Experience**
+
+  
+
+* **Experience & Domain:** 6+ years in software, DevOps, platform, cloud, or integration engineering, including 2+ years deploying AI/ML, GenAI, automation, or data-driven platforms in enterprise environments.
+* **Enterprise Execution:** Experience leading customer-facing implementations, production support, and security-constrained enterprise deployments.
+* **Platform Hands-on:** Hands-on deployment and configuration of Agent Builder or equivalent enterprise agent platforms.
+* **Agent Building & Customization:** Proven track record with low-code/no-code workflows, agent catalogs, tool registration, prompt configuration, and template customization.
+* **Lifecycle & Release Management:** Practical execution of agent workflow testing, release packaging, environment promotion, monitoring, and rollback planning.
+* **Workflow Mechanics:** Strong understanding of workflow state management, durable execution, retries, timeouts, and long-running workflows.
+* **AI Architecture & Agent Patterns:** Practical understanding of tool-using AI agents, multi-step workflows, RAG architectures, and specialized agents (knowledge, ticket analysis, operations).
+* **LLM Tech Stack & Quality:** Working knowledge of core LLMs (Azure OpenAI/OpenAI, Gemini, Claude, Llama, Mistral), model endpoint integrations, prompt/context configuration, grounding, guardrails, agent evaluation, output validation, and expert proficiency in Python, FastAPI, REST APIs, JSON, YAML, and shell scripting.
+
+**Preferred Skills and Experience**
+
+  
+
+* Prior background in AMS, ITSM, ServiceNow administration/development, SRE, cloud migration, or automation.
+* Hands-on exposure to agentic frameworks including Semantic Kernel, LangChain, LangGraph, LlamaIndex, AutoGen, or MCP-style tool connectivity.
+* Deep familiarity with ServiceNow APIs, data models, CMDB integrations, incident/request/change workflows, and knowledge management.
+* Integration experience with enterprise systems including SharePoint, Confluence, GitHub/GitLab, Jira, monitoring/event tools, enterprise search, and cloud databases.
+* Practical working exposure to JavaScript or TypeScript alongside strong hands-on experience with Docker, Kubernetes, Helm, OpenShift, and Terraform.
+* Experience building and maintaining CI/CD pipelines via GitHub Actions, GitLab CI, or Azure DevOps.
+* Proven skill in observability and monitoring using logs, metrics, traces, operational dashboards, alerts, and distributed troubleshooting.
+Solid grasp of security fundamentals: OAuth, OIDC, SAML, certificates, secrets management, API gateways, RBAC, and private networking.  
+
+  
+
+**Being You**
+
+The “Kyn” in Kyndryl means kinship, which represents the strong bonds we have with each other, our customers and our communities. We focus on ensuring all Kyndryls feel included and we welcome people of all cultures, backgrounds, and experiences. Even if you don’t meet every requirement, we encourage you to apply. We believe in growth, and we’re excited to see what you can bring. At Kyndryl, employee feedback has told us that our number one driver of employee engagement is belonging. That sense of belonging — being a valued, respected, trusted member of the team — is fundamental to our culture and fueling great experiences for our customers. This dedication to welcoming everyone into our company means that Kyndryl gives you the ability to thrive and contribute to our culture of empathy and shared success. That’s The Kyndryl Way.
+
+**What You Can Expect**
+
+Your career with us isn’t just a job—it’s an adventure with purpose. We offer a dynamic, hybrid-friendly culture that supports your well-being and empowers you to grow. Our Be Well programs are thoughtfully designed to support your financial, mental, physical, and social health—because we know that when you feel your best, you do your best.
+  
+  
+From your very first day, you’ll dive into impactful work that powers the systems our customers rely on every day. You won’t just contribute—you’ll make a difference, tackling meaningful projects that sharpen your skills and fuel your growth.
+  
+  
+We’re here to champion your journey. With powerful tools to chart your career path, personalized development goals aligned with your ambitions, and continuous feedback to keep you inspired and on track, you’ll have everything you need to thrive and evolve. You’ll develop in-demand skills to grow your career and achieve your ambitions with access to cutting-edge learning opportunities—from certifications with Microsoft, Google, and Amazon to coaching and hands-on experiences. And through it all, you’ll be part of a culture that values empathy, restless learning, and a devotion to shared success.
+  
+  
+We want you to thrive here—and we’re committed to helping you do just that. Ready to make an impact? Join us and help shape what’s next.
+
+**Get Referred!**
+
+If you know someone that works at Kyndryl, when asked ‘How Did You Hear About Us’ during the application process, select ‘Employee Referral’ and enter your contact's Kyndryl email address.
