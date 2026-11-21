@@ -1,0 +1,47 @@
+**RoleRole & responsibilities**
+
+  
+
+* **Backend & API Development:** Design, develop, and maintain robust, scalable backend services and RESTful APIs using **Python**, Object-Oriented Programming (OOP) principles, **FastAPI**, or **Flask**.
+* **GenAI & Agentic Workflows:** Architect and implement end-to-end Generative AI solutions, including Retrieval-Augmented Generation (RAG) pipelines, semantic search, and multi-agent systems using frameworks like **LangChain** and **LangGraph**.
+* **LLM Integration & Optimization:** Integrate and fine-tune interactions with leading LLMs (such as **OpenAI** and **Anthropic**), applying advanced prompt engineering, embeddings management, and vector database indexing.
+* **Agent Protocols & Tooling:** Build interoperable AI agents utilizing emerging protocols such as **Model Context Protocol (MCP)** and **Agent-to-Agent (A2A)** communication for seamless external API and tool integration.
+* **Evaluation & Observability:** Implement rigorous LLM evaluation frameworks, observability pipelines, and performance optimization strategies to monitor latency, accuracy, and hallucination rates in production.
+* **Cloud Deployment:** Deploy, manage, and scale AI/ML workloads on cloud infrastructure (**AWS**, **Azure**, or **GCP**), leveraging managed AI services and serverless architectures.
+* **Prototyping & Data Management:** Build rapid interactive prototypes and internal tools using **Streamlit**, while managing structured and unstructured data workflows using **SQL**, **JSON**, and **Git** for version control.
+
+**Preferred candidate profile**
+
+  
+
+* **Core Programming & Web Frameworks:** Strong proficiency in **Python** (OOP), **FastAPI** or **Flask**, **JSON**, **SQL**, **Git**, and **Streamlit**.
+* **AI, ML & Deep Learning:** Solid foundation in Machine Learning (ML), Natural Language Processing (NLP), and Deep Learning (DL) concepts.
+* **Generative AI & LLM Expertise:** Hands-on experience with Embeddings, Semantic Search, Vector Databases, Prompt Engineering, RAG architectures, **LangChain**, **LangGraph**, and autonomous Agents / Agentic Systems.
+* **LLM Operations & Protocols:** Practical knowledge of LLM Evaluation methodologies, third-party API integrations, **MCP**, and **A2A** protocols.
+
+  
+
+* **Cloud Proficiency (Any One)**
+
++ **AWS:** SageMaker, Bedrock, S3, Lambda
++ **Azure:** Azure OpenAI, Azure AI Foundry, Azure AI Search, Azure ML
++ **GCP:** Vertex AI, Gemini, BigQuery, Cloud Run
+
+* **Production Readiness:** Experience with AI/system observability and performance optimization.
+
+  
+
+* **Good to Have**
+
++ Experience with **MLOps**, **Docker**, and **CI/CD** pipelines.
++ Familiarity with **Async Programming** and **Scalable Architecture** design.
++ Prior **Healthcare domain knowledge** (e.g., clinical workflows, HIPAA compliance, medical data standards). **& responsibilities**
+
+  
+  
+
+**NP - Immediate - 30 days Joiners**
+
+  
+
+**Interested candidates please share your resume s.baig@globant.com**

@@ -1,0 +1,120 @@
+Job Description
+
+**About Persistent**
+
+  
+
+We are an AI-led, platform-driven Digital Engineering and Enterprise Modernization partner, combining deep technical expertise and industry experience to help our clients anticipate what’s next. Our offerings and proven solutions create a unique competitive advantage for our clients by giving them the power to see beyond and rise above. We work with many industry-leading organizations across the world, including 18 of the Fortune 50 companies, 7 of the 10 top US banks, 9 of the 10 technology companies, and numerous innovators across the healthcare ecosystem.
+
+  
+
+Our disruptor’s mindset, commitment to client success, and agility to thrive in the dynamic environment have enabled us to sustain our growth momentum. Persistent has been recognized across top industry platforms for innovation, leadership, and inclusion. We have delivered 26 sequential quarters of growth with $487.6M in Q2 FY27 revenue, up 7.8% Q-o-Q and 20.0% Y-o-Y. Our 29,500+ global team members, located in 21 countries, have been instrumental in helping the market leaders transform their industries. We received five awards at the ISG (Information Services Group) Provider Lens™ Awards 2026 and, for the second year in a row, were awarded the Growth Honor of the Year at the Everest Group Elevate 2026.
+
+  
+
+**About Position:**
+
+  
+
+We are seeking a highly skilled Generative AI Engineer to design, develop, and optimize intelligent AI agents that automate survey programming and data processing workflows. The ideal candidate will have strong expertise in Python, Large Language Models (LLMs), Agentic AI frameworks, Retrieval-Augmented Generation (RAG), and Azure OpenAI. In this role, you will build advanced AI-powered solutions that improve operational efficiency, automate complex business processes, and deliver high levels of accuracy through continuous evaluation and optimization.
+
+  
+
+* **Role: Generative AI Engineer**
+* **Location: Bengaluru**
+* **Experience: 5 to 8 Years**
+* **Job Type: Full-Time Employment**
+  
+
+**What You'll Do:**
+
+  
+
+* Design, develop, and deploy AI agents using Python, LangGraph, Microsoft Agent Framework, and Azure OpenAI.
+* Build and optimize Survey Programming Agents covering Questionnaire Parsing, Routing Logic, JSON Generation, Dimensions Setup, STG Generation, Translation Workflows, DMS Script Creation, Link Testing, Survey Quality Control, and Change Impact Analysis.
+* Develop and enhance Data Processing Agents for Quantum Programming, Tabulation, Weighting, Cross-Tab Detection, Open-End Coding Merge, SPSS/PKD Setup, and Quality Control processes.
+* Implement Retrieval-Augmented Generation (RAG) pipelines and intelligent agent workflows for enterprise-scale automation.
+* Design reasoning workflows, confidence-scoring mechanisms, and evidence-generation frameworks to improve AI decision-making.
+* Build exception-handling frameworks and Human-in-the-Loop (HITL) review processes for critical workflows.
+* Develop agent observability and monitoring capabilities to measure performance, quality, and accuracy.
+* Integrate Large Language Models with enterprise platforms, APIs, and business processes.
+* Create and optimize JSON schema designs for structured AI outputs and workflow orchestration.
+* Conduct prompt engineering, prompt optimization, and model evaluations to improve AI response quality.
+* Execute automated evaluation loops against golden datasets and benchmark results against predefined quality targets.
+* Perform model fine-tuning and optimization activities to improve domain-specific performance.
+* Collaborate with business stakeholders, data teams, and engineering teams to identify automation opportunities and deliver scalable AI solutions.
+* Maintain technical documentation, evaluation reports, and AI governance standards.
+  
+
+**Expertise You'll Bring:**
+
+  
+
+* 5 to 8 years of software engineering, AI engineering, or machine learning experience.
+* Strong programming expertise in Python.
+* Hands-on experience with Large Language Models (LLMs) and enterprise AI application development.
+* Strong experience working with Azure OpenAI Services and LLM integrations.
+* Experience building Agentic AI solutions using LangGraph, Microsoft Agent Framework, LangChain, or similar technologies.
+* Strong understanding of Retrieval-Augmented Generation (RAG) architectures and retrieval optimization techniques.
+* Expertise in Prompt Engineering, prompt evaluation, and prompt optimization methodologies.
+* Experience designing and implementing JSON schemas, structured outputs, and workflow-driven AI systems.
+* Knowledge of AI evaluation frameworks, benchmarking methodologies, and quality scoring techniques.
+* Experience building AI agents that automate business workflows and decision-making processes.
+* Strong understanding of model fine-tuning, evaluation, and performance optimization.
+* Experience implementing observability, monitoring, and operational frameworks for AI systems.
+* Familiarity with REST APIs, cloud-native architectures, and microservices-based systems.
+* Strong analytical, troubleshooting, and problem-solving skills.
+* Excellent communication and stakeholder management capabilities.
+* Experience working in Agile, Scrum, or modern product engineering environments.
+  
+
+**Benefits:**
+
+  
+
+* Competitive salary and benefits package
+* Culture focused on talent development with quarterly growth opportunities and company-sponsored higher education and certifications
+* Opportunity to work with cutting-edge technologies
+* Employee engagement initiatives such as project parties, flexible work hours, and Long Service awards
+* Annual health check-ups
+* Insurance coverage: group term life, personal accident, and Mediclaim hospitalization for self, spouse, two children, and parents
+  
+
+**Values-Driven, People-Centric & Inclusive Work Environment:**
+
+  
+
+Persistent is dedicated to fostering diversity and inclusion in the workplace. We invite applications from all qualified individuals, including those with disabilities, and regardless of gender or gender preference. We welcome diverse candidates from all backgrounds.
+
+  
+
+* We support hybrid work and flexible hours to fit diverse lifestyles.
+* Our office is accessibility-friendly, with ergonomic setups and assistive technologies to support employees with physical disabilities.
+* If you are a person with disabilities and have specific requirements, please inform us during the application process or at any time during your employment
+  
+
+**Let's unleash your full potential at Persistent -** **persistent.com/careers**
+
+  
+
+***"Persistent is an Equal Opportunity Employer and prohibits discrimination and harassment of any kind."***
+
+1
+
+Open Positions
+
+Agentic AI
+
+Skills Required
+
+Bengaluru, Karnataka, India
+
+Location
+
+Agentic AI,RAG (Retrieval Augmented Generation)
+
+Desirable Skills
+
+191290
+
+Job Code

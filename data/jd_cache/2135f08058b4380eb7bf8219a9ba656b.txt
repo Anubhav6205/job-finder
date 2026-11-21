@@ -1,0 +1,78 @@
+AI/ML Engineer
+
+Company: Visnaix Pvt. Ltd.
+
+Number of Openings: 4
+
+Location: Koramangala, Bengaluru, Karnataka
+
+Experience: 1–3 Years
+
+Education: B.E./B.Tech in Artificial Intelligence, Machine Learning, Computer Science, or a related engineering discipline.
+
+Job Description
+
+Visnaix is looking for talented and motivated AI/ML Engineers to join its technology team and contribute to developing intelligent AI solutions, machine learning models, and business automation systems for enterprise applications.
+
+Key Responsibilities
+
+- Design, develop, train, and deploy machine learning and deep learning models.
+
+- Build and implement AI-powered applications and automation solutions.
+
+- Work with Large Language Models (LLMs), Generative AI, NLP, and computer vision technologies.
+
+- Develop and optimise AI algorithms and data processing pipelines.
+
+- Work with Python and popular AI/ML frameworks such as TensorFlow, PyTorch, and Scikit-learn.
+
+- Integrate AI/ML models with APIs, databases, and existing software systems.
+
+- Evaluate model performance, improve accuracy, and optimise computational efficiency.
+
+- Collaborate with software engineers and technical teams to deliver production-ready AI solutions.
+
+Required Skills
+
+- Strong programming skills in Python.
+
+- Practical understanding of machine learning and deep learning concepts.
+
+- Familiarity with TensorFlow, PyTorch, or Scikit-learn.
+
+- Knowledge of data structures, algorithms, and statistical concepts.
+
+- Understanding of NLP, Generative AI, and LLM-based applications.
+
+- Familiarity with REST APIs, Git, and database systems.
+
+- Strong analytical, problem-solving, and debugging abilities. Preferred Qualifications
+
+- Hands-on experience developing or deploying AI/ML projects.
+
+- Familiarity with LangChain, Hugging Face, vector databases, or RAG architectures.
+
+- Understanding of cloud-based AI deployment and model optimisation.
+
+- Personal, academic, or professional AI/ML projects demonstrating practical implementation skills.
+
+What We Expect
+
+Candidates should have a strong technical foundation, a practical approach to problem-solving, and an interest in building scalable AI solutions for real-world business applications.
+
+Work Location: Koramangala, Bengaluru, Karnataka
+
+Open Positions: 4
+
+Pay: ₹800,000.00 - ₹1,600,000.00 per year
+
+Benefits:
+
+* Health insurance
+* Leave encashment
+* Life insurance
+* Paid sick time
+* Provident Fund
+* Work from home
+
+Work Location: In person

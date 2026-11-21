@@ -1,0 +1,53 @@
+**Job Description AI Engineer (Digital Transformation)**
+
+**Experience: 2–4 Years**  
+ **Location: Bangalore**  
+ **Domain: Digital Transformation / Digital Solutions**  
+ **Employment Type: Full-Time**
+
+**Role Overview**
+
+We are looking for an AI Engineer with 2–4 years of experience in developing and implementing AI-driven solutions for digital transformation initiatives. The candidate should have hands-on experience in Python, Machine Learning, Generative AI, and Large Language Models (LLMs). The role involves building intelligent applications, automating business processes, and integrating AI capabilities into enterprise solutions.
+
+**Key Responsibilities**
+
+* Design, develop, and implement AI/ML solutions to address business challenges and improve operational efficiency.
+* Develop and integrate Generative AI applications using Large Language Models (LLMs).
+* Build AI-powered applications such as chatbots, intelligent assistants, document processing, and automation solutions.
+* Work with LLM frameworks and orchestration tools such as LangChain and LangGraph.
+* Implement Retrieval-Augmented Generation (RAG) pipelines using vector databases and embedding models.
+* Develop REST APIs and integrate AI models with enterprise applications and digital platforms.
+* Perform data preprocessing, model evaluation, testing, and performance optimization.
+* Work with cloud-based AI services and platforms to deploy scalable AI solutions.
+* Collaborate with business analysts, architects, developers, and stakeholders to understand requirements and deliver AI-driven solutions.
+* Stay updated with emerging AI technologies, frameworks, and industry best practices.
+
+**Required Skills & Qualifications**
+
+* 2–4 years of hands-on experience in AI/ML engineering or software development with AI implementations.
+* Strong programming skills in Python.
+* Good understanding of Machine Learning, Deep Learning, and Natural Language Processing (NLP).
+* Hands-on experience with Generative AI and Large Language Models (LLMs).
+* Experience with frameworks such as LangChain, LangGraph, or LlamaIndex.
+* Understanding of RAG architecture, embeddings, semantic search, and vector databases.
+* Experience working with APIs, REST services, and application integrations.
+* Knowledge of ML libraries such as Scikit-learn, TensorFlow, or PyTorch.
+* Familiarity with Git, Docker, and basic CI/CD practices.
+* Good analytical, debugging, and problem-solving skills.
+
+**Good to Have**
+
+* Exposure to cloud AI services such as Azure OpenAI, AWS Bedrock, or Google Vertex AI.
+* Experience with vector databases such as FAISS, Pinecone, ChromaDB, or Weaviate.
+* Knowledge of prompt engineering, fine-tuning, and model evaluation techniques.
+* Exposure to AI agents, agentic workflows, and multi-agent systems.
+* Understanding of MLOps and model deployment practices.
+* Experience in developing enterprise-grade AI solutions and workflow automation
+
+**Preferred Candidate Profile**
+
+* Hands-on experience in building and deploying AI-based applications.
+* Ability to translate business requirements into practical AI solutions.
+* Understanding of how AI and Generative AI can drive digital transformation.
+* Strong communication and collaboration skills.
+* Willingness to learn and work with emerging AI technologies.

@@ -1,0 +1,40 @@
+**Job Summary**
+
+Expert-level engineer designing and building LLM applications and agentic workflows on Azure: RAG pipelines, multi-agent orchestration, MCP tool integration, evaluation, guardrails and cost control. Sets the GenAI engineering standards for the account and is accountable for solution quality against agreed evaluation thresholds.
+
+**Responsibilities**
+
+* Build LLM applications and agent workflows with LangGraph / LangChain / Semantic Kernel on Azure OpenAI (AWS Bedrock / GCP Vertex a plus).
+* Design RAG pipelines: document ingestion, chunking strategies, embeddings, vector search (Azure AI Search, FAISS, Pinecone), hybrid retrieval and re-ranking.
+* Integrate enterprise tools and context via Model Context Protocol (MCP) servers and function / tool calling; design multi-agent systems.
+* Engineer, version and test prompts; run offline and online evaluations (accuracy, grounding, hallucination rate) and fine-tuning where justified.
+* Implement responsible-AI guardrails (content filters, PII redaction, policy checks) and LLM observability (tracing, token accounting, latency).
+* Optimise token and inference cost (model routing, caching, batching); report against cost budgets.
+* Document prompts, evaluation results and model choices; mentor engineers adopting GenAI patterns.
+
+**Skills** **Must have**
+
+* Bachelor's degree in Computer Science, Engineering, Information Systems or a related field, or equivalent practical experience.
+* 10+ years in software or data engineering, of which 3+ in machine learning / NLP and 2+ delivering production LLM applications (RAG, agents) on Azure OpenAI or equivalent.
+* Expert Python; LangGraph, LangChain and/or Semantic Kernel; asynchronous, event-driven application design.
+* Azure OpenAI, Azure AI Search, Azure AI Foundry / ML, Functions, Container Apps / AKS, Key Vault, Application Insights.
+* RAG design: chunking, embeddings, vector databases (Azure AI Search, FAISS, Pinecone), hybrid search, re-ranking.
+* MCP server / client development, function calling, multi-agent orchestration and state management.
+* LLM evaluation (RAGAS, promptfoo, Azure AI evaluation or equivalent), fine-tuning (LoRA / PEFT) and model selection.
+* Guardrails (Azure AI Content Safety, NeMo Guardrails or similar), LLM observability (LangSmith, OpenTelemetry), FinOps for inference.
+
+**Nice to have**
+
+* AWS Bedrock or GCP Vertex AI.
+* Semantic caching, model distillation, small-language-model deployment.
+* Azure AI Engineer Associate (AI-102) or equivalent.
+* Experience in financial services, sovereign wealth / investment holding or other regulated enterprise environments.
+* Experience working with distributed teams (onsite UAE with nearshore India / offshore Poland squads).
+
+**Qualifications**
+
+* Languages: English: C1 Advanced
+* Seniority: Senior
+
+  
+**Location -** pune,mumbai,chennai,Bengaluru

@@ -1,0 +1,57 @@
+**Project Role :**
+Full Stack Engineer
+  
+  
+**Project Role Description :**
+Responsible for developing and/or engineering the end-to-end features of a system, from user experience to backend code. Use development skills to deliver innovative solutions that help our clients improve the services they provide. Leverage new technologies that can be applied to solve challenging business problems with a cloud first and agile mindset.
+  
+  
+**Must have skills :**
+Generative AI
+  
+  
+**Good to have skills :**
+NA
+  
+  
+**Minimum 7.5 Year(s) Of Experience Is Required**
+**Educational Qualification :**
+15 years full time education
+  
+  
+Summary:
+  
+  
+As a Full Stack Engineer, a typical day involves designing, building, and refining comprehensive system features that span from the user interface to the backend infrastructure. This role requires actively engaging in the entire development lifecycle, ensuring seamless integration and functionality. The engineer collaborates with various teams to implement innovative solutions that enhance client services, while embracing modern technologies and agile methodologies to address complex business challenges in a cloud-centric environment.
+  
+  
+Roles & Responsibilities:
+  
+  
+
+* Expected to perform independently and become an SME.
+* Required active participation/contribution in team discussions.
+* Contribute in providing solutions to work related problems.
+* Collaborate with cross-functional teams to ensure alignment of project goals and deliverables.
+* Continuously evaluate and improve system performance and scalability.
+* Assist junior team members by sharing knowledge and providing guidance.
+* Maintain clear and thorough documentation of development processes and solutions.
+
+Professional & Technical Skills:
+  
+  
+
+* Must To Have Skills: Proficiency in Generative AI.
+* Experience with designing and implementing scalable backend services and APIs.
+* Strong understanding of cloud computing platforms and deployment strategies.
+* Familiarity with frontend technologies and frameworks to create responsive user interfaces.
+* Ability to troubleshoot and optimize complex systems for performance and reliability.
+* Knowledge of agile development practices and continuous integration/continuous deployment pipelines.
+
+Additional Information:
+  
+  
+
+* The candidate should have minimum 3 years of experience in Generative AI.
+* This position is based at our Pune office.
+* A 15 years full time education is required.

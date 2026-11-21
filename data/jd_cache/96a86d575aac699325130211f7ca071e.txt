@@ -1,0 +1,40 @@
+**About Us**  
+**Incorporated in 2006, We are an 18 year old recruitment and staffing company, we are a provider of manpower for some of the fortune 500 companies for junior/ Middle/ Executive talent.**
+
+**About Client**  
+**Hiring for One of the Most Prestigious Multinational Corporations!**
+
+**Job Description**
+
+**Job Title :AIML Engineer**
+
+**Qualification** **:** **Any Graduate or Above**
+
+**Relevant Experience** **:5+years**
+
+**Required Technical Skills:**
+
+* **GCP**
+* **Python**
+* **Vertex AI**
+* **AI evaluation Metrics**
+* **Agentic AI**
+* **LLM Tuning**
+* **Google ADK**
+* **RAG**
+* **Agent Development & Deployment experience**
+* **Strong in TensorFlow, PyTorch, scikit-learn,BigQuery ML, Feature Store, Cloud Run/ GKE,FastAPI.**
+
+**Location** **:Pan India**
+
+**CTC Range** **: 35-40LPA**
+
+**Mode of Interview** **: Virtual**
+
+**Joel.**
+
+**IT Staff.**
+
+**Black and White Business solutions PVT Ltd Bangalore, Karnataka, INDIA.**
+
+**8067432472 I joel.manivasan@blackwhite.in I www.blackwhite.in**

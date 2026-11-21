@@ -1,0 +1,70 @@
+**Role**
+
+**Drive Location** : Bangalore, Chennai, Pune & Hyderabad.
+
+**Drive Date :** 31st Oct
+
+**Exp- 5- 11Years**
+
+  
+
+**JD :**
+
+**Forward Deployed Engineer (AI, Hyperscaler Cloud & DevOps)**
+
+**Role Summary**
+
+We are seeking a hands-on **Forward Deployed Engineer (FDE)** with expertise in **Generative AI, Hyperscaler Cloud Platforms, DevOps, and Platform Engineering**. The role involves designing, deploying, integrating, and operationalizing AI agents and cloud-native solutions across enterprise environments while ensuring reliability, scalability, security, and operational excellence.
+
+**Key Responsibilities**
+
+* Design, develop, and deploy AI/GenAI agents using Agentic AI frameworks and LLM technologies.
+* Build and operationalize agent workflows for automation, incident response, RCA, deployment validation, and reliability engineering.
+* Deploy and manage AI solutions across **hyperscaler cloud platforms (Azure, AWS, GCP)** and Kubernetes environments.
+* Integrate agents with CI/CD pipelines, observability tools, ITSM platforms, code repositories, and enterprise systems.
+* Develop reusable APIs, connectors, prompt templates, and automation frameworks.
+* Implement AI governance controls including guardrails, access controls, audit logging, monitoring, cost optimization, and rollback mechanisms.
+* Own deployment, troubleshooting, observability, and continuous improvement of AI agent platforms.
+* Collaborate with DevOps, SRE, Security, Platform, and Engineering teams to deliver production-ready solutions.
+
+**Required Skills & Experience**
+
+* 5+ years of experience in Software Engineering, Cloud Engineering, DevOps, SRE, AI/ML Engineering, or related roles.
+* Strong programming skills in **Python** with experience building AI/GenAI applications.
+* Hands-on experience with **LangChain, LangGraph**, Agentic AI frameworks, and LLM technologies.
+* Experience deploying AI/GenAI solutions in production environments.
+* Strong understanding of:
+
++ Prompt Engineering
++ RAG
++ Vector Databases
++ Tool Calling
++ Agent Orchestration
++ Structured Outputs
+
+* Strong experience with one or more **Hyperscalers: Azure, AWS, or GCP**.
+* Hands-on experience with:
+
++ Kubernetes (AKS/EKS/GKE)
++ Docker
++ Terraform
++ GitHub Actions / Azure DevOps / Jenkins
++ CI/CD and Infrastructure as Code (IaC)
+
+* Experience with observability and monitoring tools such as Grafana, Prometheus, OpenTelemetry, Splunk, Dynatrace, or Datadog.
+* Understanding of DevOps, SRE, cloud reliability, security, and operational best practices.
+
+**Preferred Skills**
+
+* Multi-cloud architecture and deployment experience across Azure, AWS, and GCP.
+* Experience with AI Reliability Engineering, LLMOps, MCP, Agent Gateways, and Responsible AI practices.
+* Exposure to .NET or Java application development.
+* Experience working in enterprise or regulated environments.
+* Certifications in Azure, AWS, GCP, Kubernetes, AI Engineering, or DevOps.
+
+**Behavioral Attributes**
+
+* Strong ownership mindset with a "get things done" attitude.
+* Excellent problem-solving and multitasking abilities.
+* Ability to work directly with client and platform teams.
+* Curious, adaptable, and eager to learn emerging AI and hyperscaler technologies. **& responsibilities**

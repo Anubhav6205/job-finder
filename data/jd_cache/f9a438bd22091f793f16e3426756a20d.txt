@@ -1,0 +1,25 @@
+**Java Spring Boot + Agentic AI Developer | 5-12 Years**
+
+  
+
+**Experience:** 5-12 Years
+
+**Education:** BE/BTech/MCA/MS in Computer Science or related field.
+
+**Location:** Pune, Chennai, Bengaluru, Hyderabad
+
+  
+
+We are looking for a skilled **Java Developer** with expertise in **Spring Boot, Microservices, and Agentic AI**. The candidate should have experience building scalable enterprise applications and developing AI-driven solutions using **LLMs, RAG, LangChain/LangGraph, CrewAI, AutoGen, or similar frameworks**.
+
+  
+
+**Key Skills:**
+
+* **Java 8/11/17, Spring Boot, Microservices**
+* REST APIs, Kafka/RabbitMQ
+* **Agentic AI, Generative AI,** Multi-Agent Systems
+* LangChain, LangGraph, CrewAI, AutoGen
+* RAG, Vector Databases (Pinecone, ChromaDB, FAISS)
+* OpenAI, Azure OpenAI, AWS Bedrock, Gemini, Llama
+* Docker, Kubernetes, CI/CD, AWS/Azure/GCP

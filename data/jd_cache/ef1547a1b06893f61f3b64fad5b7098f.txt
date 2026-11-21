@@ -1,0 +1,32 @@
+**About the Role**  
+We are looking for an AI Engineer with 7+ years of experience, strong Python skills, and a Java engineering background to design, build, and deploy agentic AI solutions. You will combine solid software engineering foundations from Java with hands on Python AI development, building AI agents and LLM powered applications that integrate with enterprise systems and run reliably in production.
+
+  
+
+**Key Responsibilities**
+
+* Design and build AI agents including multi step reasoning, tool calling, memory management, and orchestration using LangChain, LangGraph, or equivalent frameworks.
+* Develop LLM powered applications and RAG pipelines in Python, integrating vector databases and enterprise data sources.
+* Build and expose REST APIs using FastAPI or Flask to serve AI capabilities to downstream applications.
+* Integrate AI agents with enterprise Java services and microservices, exposing existing capabilities as tools for agents.
+* Implement guardrails, evaluation, and observability for agent behaviour to ensure safe, accurate, and reliable outputs.
+* Apply prompt engineering and optimisation techniques to improve LLM performance and consistency.
+* Deploy AI solutions on AWS or Azure using Docker and Kubernetes with CI/CD automation.
+* Implement monitoring for model and agent performance, including drift detection and cost tracking.
+* Write unit and integration tests for AI applications using Pytest and evaluation frameworks.
+* Collaborate with architects, data engineers, product owners, and engineering teams in Agile delivery.
+* Mentor junior engineers on AI development and engineering best practices.
+
+  
+
+**What Were Looking For**
+
+* 7+ years of software engineering experience with strong Python proficiency and a Java background.
+* Hands on experience building AI agents, including tool calling, orchestration, and RAG, in real projects.
+* Strong experience with LangChain, LangGraph, or similar agent frameworks.
+* Good understanding of LLMs, prompt engineering, embeddings, and vector databases.
+* Solid REST API development skills using FastAPI, Flask, or Spring Boot.
+* Good AWS or Azure cloud experience for deploying AI applications.
+* Experience with Docker, Kubernetes, and CI/CD pipelines.
+* Strong software engineering fundamentals including design patterns, testing, and clean architecture.
+* Good communication and collaboration skills across technical and non technical teams.

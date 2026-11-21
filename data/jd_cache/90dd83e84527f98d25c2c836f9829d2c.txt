@@ -1,0 +1,90 @@
+**Senior Software Engineer – AI Chat Platform (Go, LLM Integrations)**
+
+**Build production generative AI that schools trust, in Go, on AWS, with OpenAI and Gemini.**
+
+**Location:** Pune, India (Hybrid – 2 days onsite)  
+**Experience:** 8+ years  
+**Reports to:** Engineering Manager  
+**Employment:** Full-time, direct hire  
+**Stack:** Go · LLM APIs (OpenAI, Gemini/Vertex) · WebSockets · PostgreSQL + pgvector · AWS
+
+**THE ROLE**
+
+You'll build and own core parts of Securly AI Chat, a production generative AI assistant used every school day by K–12 students, teachers and admins. The work is mostly backend in Go: real-time chat streaming, integrations with multiple LLM providers, privacy and access controls, and the AWS services that run it all. You'll own features end to end, from design through production support.
+
+AI Chat has two sides. One is Securly's own AI assistant built for students. The other gives schools visibility and control over third-party AI tools like ChatGPT and Gemini through our browser extension. Both are managed from a single policy editor and reviewed through transcripts and an AI transparency dashboard.
+
+This is a senior, hands-on engineering role in Pune Engineering, reporting to the Engineering Manager.
+
+**WHAT YOU'LL BUILD**
+
+* **Multi-provider LLM engine** — primary and fallback providers, plus per-policy model selection, so a school can run different models for staff and students.
+* **Real-time chat** — Go services that stream responses over WebSockets, handle reconnects cleanly, resume conversations, and stay fast on tablets.
+* **Safety and privacy layers** — PII masking before data leaves our systems, safety and deflection logic, role-based access, and audit logging for sensitive data.
+* **Third-party AI monitoring** — backend services that extend coverage of popular generative AI tools used in classrooms.
+* **Knowledge and memory** — retrieval with PostgreSQL and pgvector, and real-time knowledge sources that go beyond Wikipedia.
+* **Compliance-ready features** — capabilities that meet emerging standards for generative AI in education, including the UK Department for Education's product safety expectations.
+* **Platform health** — observability through structured logging, tests, accurate API docs, and steady paydown of tech debt.
+
+**WHAT YOU'LL BRING**
+
+You've built and run Go services in production, and you've shipped at least one feature powered by an LLM API that real users depend on.
+
+**Must-Have**
+
+* **Go in production** — 8+ years of software engineering, with recent hands-on experience building and operating backend services in Go.
+* **LLM integration** — you've integrated OpenAI, Gemini/Vertex, Anthropic or a similar provider into a shipped product, including streaming responses, prompts, errors and timeouts.
+* **Real-time APIs** — WebSockets or server-sent events in production, including connection lifecycle, reconnect and backoff, and authentication.
+* **PostgreSQL** — schema design, migrations and query performance on a live system.
+* **Secure, authenticated cloud services** — OIDC/SSO, sessions, CSRF protection and role-based access, deployed and debugged on AWS (ECS, RDS, Secrets Manager) or a similar platform.
+
+**Strongly Preferred**
+
+* **Vector search** — embeddings and pgvector or similar.
+* **AI safety** — safety filters, prompt evaluation or guardrails.
+* **Go and data tooling** — Chi, Gorilla or similar Go HTTP stacks; Liquibase or Flyway.
+
+**Nice to Have**
+
+* WebSockets at scale: fan-out, idle timeouts, proxies and load balancers
+* Audit logging for sensitive data
+* EdTech or student data privacy (COPPA, FERPA) experience
+* Some exposure to Angular or TypeScript
+
+**WHAT YOU'LL GAIN**
+
+* **Production generative AI engineering** on a live product used by students and school personnel, one of the most in-demand skill sets in software today.
+* **Multi-provider LLM architecture experience** — routing, fallback, safety, memory and retrieval, built and run in production, not in a demo.
+* **End-to-end ownership** of features from API design to production support, with your design decisions shaping the platform.
+* **Depth in AI safety and privacy**, an area where regulation and expectations are growing fast worldwide.
+* **Close work with a Distinguished Engineer** on architecture, and a path toward technical leadership across AI Chat.
+
+**COMPENSATION & BENEFITS**
+
+Competitive compensation, based on experience.
+
+* Comprehensive health insurance (employee, spouse, children, and parents)
+* Accidental and term life insurance
+* Learning and development reimbursement
+* Paid time off, plus 10+ public holidays per year
+* Retirement benefits (EPF and gratuity)
+* Parental leave (as per statutory norms)
+* Structured onboarding and ongoing coaching
+
+**WHY SECURLY**
+
+The AI assistant you build is used in classrooms, and schools trust it to be safe. Securly's technology has been credited with helping save 2,400+ student lives, and Pune engineering is where core products like this get built, not a satellite team.
+
+Securly is the market leader in AI-powered student safety and wellness, trusted by 20M+ students across 20,000+ schools. Since launching the first cloud-based K-12 web filter in 2013, we've combined AI and human insight to help schools spot and respond to bullying, self-harm, and violence. TIME named us one of America's Top EdTech Companies 2026, and we're a GSV 150 honoree and an EdTech Top 40 "Most Used Product."
+
+Our people-first culture shows in the numbers (Source: Securly Qualtrics Employee Survey, 2025; WSA Global Benchmark):
+
+* **82%** employee engagement, vs. a 73% global benchmark
+* **94%** of employees are proud to work here
+* **91%** rate manager effectiveness above benchmark
+
+**EQUAL OPPORTUNITY EMPLOYER**
+
+Securly is an Equal Opportunity Employer committed to a diverse, inclusive workplace.
+
+#LI-Hybrid #LI-DO1

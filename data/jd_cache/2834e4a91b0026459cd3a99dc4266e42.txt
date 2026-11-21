@@ -1,0 +1,27 @@
+We are looking for a hands-on **Intelligent Automation Developer** to join a cross-functional team delivering a Proof of Concept focused on end-to-end automation.
+
+You will design and implement automation workflows using the UiPath Platform, combining RPA, orchestration (Maestro), and AI/agentic capabilities. The solution may evolve to include LLM-based agents, document understanding, and workflow orchestration as the scope matures.
+
+  
+
+**Responsibilities**
+
+* Design and implement automation workflows using UiPath (Studio, Maestro, Orchestrator)
+* Build end-to-end process automations combining RPA bots, API/service integrations, and AI/LLM-driven agentic components
+* Configure process orchestration and state management using Maestro (or equivalent workflow layer)
+* Integrate with external systems (SAP, APIs, internal services, etc.)
+* Implement human-in-the-loop steps where required (validation, approvals, exception handling)
+* Collaborate closely with Business Analysts and Architects to iterate rapidly during POC
+* Support testing, deployments, and demo readiness
+* Document workflows, logic, and architecture to enable future scaling into production
+
+**Requirements**
+
+* 5+ years of hands-on experience with UiPath Platform (Studio, Orchestrator)
+* Experience with workflow orchestration concepts (e.g., Maestro, BPMN-like thinking)
+* Understanding of agentic automation / LLM integration patterns
+* Experience integrating APIs, web services, and enterprise systems
+* Familiarity with UiPath Document Understanding and/or AI Center is a plus
+* Ability to work in fast-paced, iterative POC environments
+* Strong problem-solving mindset with a focus on business outcomes
+* English proficiency at an Upper-Intermediate level (B2) or higher

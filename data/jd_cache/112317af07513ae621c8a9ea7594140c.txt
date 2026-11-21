@@ -1,0 +1,52 @@
+**Role:**
+Agentic AI & Python Developer
+
+**Experience:**
+5-16 Years
+
+**Location:**
+PAN India / Hybrid
+
+**Job Type:**
+Full-Time
+
+**Job Summary**
+
+We are looking for experienced
+**Agentic AI & Python Developers**
+to design, develop, and deploy AI-driven applications using Large Language Models (LLMs), Agentic AI frameworks, and Python. The ideal candidate should have strong expertise in building autonomous AI agents, workflow automation, RAG solutions, prompt engineering, and integrating AI systems with enterprise applications.
+
+**Mandatory Skills**
+
+* Python Development
+* Agentic AI Frameworks (LangGraph, CrewAI, AutoGen, Semantic Kernel, LangChain)
+* Generative AI & LLMs (GPT, Claude, Gemini, Llama)
+* RAG (Retrieval Augmented Generation)
+* Prompt Engineering
+* Vector Databases (Pinecone, ChromaDB, Weaviate, FAISS)
+* REST APIs & Microservices
+* SQL / NoSQL Databases
+* Git, CI/CD
+
+**Responsibilities**
+
+* Design and develop Agentic AI solutions for enterprise use cases.
+* Build autonomous and multi-agent workflows using LangGraph, CrewAI, AutoGen, or similar frameworks.
+* Develop RAG-based applications using vector databases and LLMs.
+* Create scalable APIs and backend services using Python, FastAPI, or Flask.
+* Integrate AI agents with enterprise systems, databases, and third-party applications.
+* Optimize prompts, agent workflows, and model performance.
+* Implement monitoring, evaluation, security, and governance for AI applications.
+* Collaborate with stakeholders to translate business requirements into AI-driven solutions.
+* Participate in architecture, design, code reviews, deployment, and production support.
+
+**Preferred Experience**
+
+* 5+ years of Python development experience.
+* Hands-on experience building GenAI or Agentic AI applications.
+* Experience with LLM orchestration, RAG pipelines, and vector databases.
+* Strong understanding of software engineering best practices and cloud-native development.
+
+**Education**
+
+* BE / BTech / ME / MTech / MCA / BCA in Computer Science, Information Technology, or related field.

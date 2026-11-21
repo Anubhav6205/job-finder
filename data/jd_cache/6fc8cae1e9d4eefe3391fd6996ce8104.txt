@@ -1,0 +1,37 @@
+**The Opportunity:**
+
+In our datadriven organization, we rely on accurate, timely, and highquality process insights to improve operational performance and enable informed decisionmaking. As a Celonis CoE Value Engineer, you will support the enablement of these insights by helping build and maintain data pipelines, assisting with process data modeling, contributing to action flow development, and supporting the integration of information from core business systems into the Celonis platform. You will work closely with crossfunctional teamsincluding IT, Process Excellence, Operations, and senior Value Engineersto help ensure Celonis serves as a trusted analytical foundation for continuous improvement. In this role, you will support technical enablement of process intelligence use cases with some independence, while receiving guidance from senior team members on more complex initiatives, gaining hands-on experience across data ingestion, transformation, validation, and action flow orchestration.
+
+**How you''ll make an impact:**
+
+* Build and maintain ETL pipelines to extract, transform, and load data from ERP, CRM, and other enterprise systems into Celonis, with support from senior engineers on complex scenarios.
+* Develop data models within Celonis that reflect business processes, contributing to process mining and rootcause analysis efforts.
+* Design and build action flows within Celonis to automate business processes, applying reusable orchestration patterns.
+* Work alongside IT and application owners to integrate data from SAP, Oracle, databases, and other platforms into Celonis.
+* Monitor the performance of Celonis data models, pipelines, and action flows, identifying issues and supporting optimization efforts.
+* Maintain data validation and cleansing processes to support highquality, trustworthy data for analytics.
+* Support the application of AI/ML techniques (e.g., anomaly detection, predictive insights), with guidance from senior engineers on more advanced use cases.
+* Partner with business analysts, value engineers, and process owners to understand process requirements and translate them into data models and action flows.
+* Create and maintain technical documentation for data pipelines, transformation logic, and Celonis data models.
+* Stay current on advancements in Celonis EMS, data engineering practices, and process intelligence technologies, and actively seek growth opportunities.
+* Support the development of dashboards, action flows, and automations within Celonis.
+* Responsible for ensuring compliance with applicable external and internal regulations, procedures, and guidelines.
+* Living Hitachi Energy''s core values of safety and integrity, which means taking responsibility for your own actions while caring for your colleagues and the business.
+
+**Your Background:**
+
+* Bachelor''s degree in Computer Science, Information Systems, Engineering, or a related field.
+* 2-4 years of experience as a Data Engineer, with growing proficiency in ETL, data modeling, and data pipeline development.
+* Some handson experience with Celonis (data integration, modeling, building views, or action flows) is a plus; willingness to build deeper expertise is essential.
+* Working proficiency in SQL and experience with relational database systems.
+* Experience with scripting languages such as Python or JavaScript for automation and data transformation.
+* Exposure to applying AI/ML techniques (e.g., predictive modeling, anomaly detection, NLP, or recommendation systems) to data or process analytics is a plus.
+* Solid understanding of data warehousing, ETL tools, and enterprise data flows.
+* Familiarity with cloud environments and data orchestration concepts is a plus.
+* Strong analytical skills and attention to detail in data validation and troubleshooting.
+* Good communication and collaboration skills, with demonstrated ability to work effectively with crossfunctional teams.
+* Ability to manage multiple tasks and prioritize effectively, with support from senior team members as needed.
+* Passion for process improvement, data integrity, and highquality analytics.
+* Willingness to continuously learn evolving Celonis, AI/ML, and data engineering capabilities.
+* Proficiency in both spoken written English language is required.
+* Demonstrates effective use of AI and digital tools to enhance problem-solving, decision-making, and productivity, while applying sound judgment, ensuring accuracy and compliance, and maintaining accountability for outcomes

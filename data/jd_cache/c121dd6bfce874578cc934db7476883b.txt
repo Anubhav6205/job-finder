@@ -1,0 +1,124 @@
+**Company Description**
+
+NIQ is the world’s leading consumer intelligence company, delivering the most complete understanding of consumer buying behavior and revealing new pathways to growth. In 2023, NIQ combined with GfK, bringing together the two industry leaders with unparalleled global reach. With a holistic retail read and the most comprehensive consumer insights—delivered with advanced analytics through state-of-the-art platforms—NIQ delivers the Full View™. NIQ is an Advent International portfolio company with operations in 100+ markets, covering more than 90% of the world’s population.
+
+ **Job Description**
+
+We are seeking a Senior Engineer to help accelerate AI adoption across the organization through the design, development, and deployment of practical AI solutions. This role is ideal for a highly technical engineer with experience in Generative AI, AI agents, cloud-native development, and data engineering who enjoys solving complex business problems with emerging technologies.
+
+The successful candidate will partner with business and engineering teams to identify opportunities, prototype solutions, productionize AI applications, and create reusable capabilities that enable broader organizational adoption.
+
+**Key Responsibilities**
+
+**AI Solution Development**
+
+* Design, build, and deploy AI-powered applications leveraging Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), AI agents, and workflow automation.
+* Develop production-grade AI services that integrate with enterprise systems, APIs, datasets, and business processes.
+* Translate business requirements into scalable AI solutions that deliver measurable outcomes.
+* Rapidly prototype emerging AI capabilities and validate their practical enterprise value.
+
+**Agentic AI & Automation**
+
+* Build and maintain agentic workflows using MCP, LangGraph, Semantic Kernel, LangChain, AutoGen, CrewAI, or similar frameworks.
+* Integrate AI solutions with internal and external tools, services, and knowledge sources.
+* Design AI agents that can reason, orchestrate tasks, retrieve information, and automate business workflows.
+* Implement guardrails, evaluation frameworks, and observability to ensure reliable and safe operation.
+
+**AI Enablement & Reusability**
+
+* Develop reusable accelerators, templates, components, and frameworks to streamline AI development across teams.
+* Contribute to internal standards, best practices, and reference implementations for AI engineering.
+* Share learnings and mentor engineers adopting AI technologies.
+* Help establish repeatable patterns that reduce delivery effort and improve solution quality.
+
+**Technical Leadership**
+
+* Provide technical guidance to project teams implementing AI solutions.
+* Participate in architecture reviews and technology evaluations.
+* Drive engineering excellence through code reviews, best practices, automation, and operational rigor.
+* Collaborate with architects, security teams, product managers, and business stakeholders.
+
+**Governance & Responsible AI**
+
+* Ensure AI solutions comply with enterprise security, privacy, and governance standards.
+* Follow established AI risk management and compliance guidelines.
+* Contribute to responsible AI practices including model evaluation, monitoring, and performance measurement.
+
+**Required Qualifications**
+
+**AI & GenAI**
+
+* Hands-on experience developing Generative AI applications using modern LLM ecosystems.
+* Strong understanding of:
+  + Prompt engineering
+  + RAG architectures
+  + Vector databases
+  + Embeddings
+  + Agentic systems
+  + LLM evaluation techniques
+* Experience working with Azure OpenAI, OpenAI, Anthropic, Gemini, or open-source models.
+* Demonstrated experience moving AI solutions from prototype to production.
+
+**Software Engineering**
+
+* Strong Python development skills with experience building scalable applications and services.
+* Experience developing APIs, microservices, and distributed systems.
+* Understanding of software engineering best practices including testing, CI/CD, observability, and performance optimization.
+* Experience building cloud-native applications.
+
+**Cloud & Platform**
+
+* Strong experience with Azure or AWS cloud platforms.
+* Familiarity with containers, Kubernetes, serverless technologies, and cloud-native architectures.
+* Experience deploying and operating AI workloads in enterprise environments.
+
+**Data Engineering**
+
+* Experience building and maintaining ETL/ELT data pipelines.
+* Understanding of data modeling, data integration, and analytics workflows.
+* Ability to work with structured and unstructured data sources.
+
+  
+**Qualifications**
+
+**Preferred Qualifications**
+
+* Experience with MCP (Model Context Protocol) and agent frameworks.
+* Familiarity with LLMOps and AI application monitoring.
+* Experience with vector databases such as Pinecone, Weaviate, Azure AI Search, Chroma, or Elasticsearch.
+* Background in analytics, media measurement, customer intelligence, or marketing technology platforms.
+* Experience contributing to architectural decisions and technical roadmaps.
+
+**Success Measures**
+
+* Deliver production-ready AI solutions that demonstrate measurable business value.
+* Successfully productionize AI use cases beyond proof-of-concept stages.
+* Create reusable assets and accelerators adopted by multiple teams.
+* Improve developer productivity and solution delivery speed through AI-driven automation.
+* Contribute to the organization's AI engineering capabilities and technical best practices.
+
+  
+**Additional Information**
+
+**Our Benefits**
+
+* Flexible working environment
+* Volunteer time off
+* LinkedIn Learning
+* Employee-Assistance-Program (EAP)
+
+NIQ may utilize artificial intelligence (AI) tools at various stages of the recruitment process, including résumé screening, candidate assessments, interview scheduling, job matching, communication support, and certain administrative tasks that help streamline workflows. These tools are intended to improve efficiency and support fair and consistent evaluation based on job-related criteria. All use of AI is governed by NIQ’s principles of fairness, transparency, human oversight, and inclusion. Final hiring decisions are made exclusively by humans. NIQ regularly reviews its AI tools to help mitigate bias and ensure compliance with applicable laws and regulations. If you have questions, require accommodations, or wish to request human review were permitted by law, please contact your local HR representative. For more information, please visit NIQ’s AI Safety Policies and Guiding Principles: https://nielseniq.com/global/en/info/niqs-ai-safety-policies/
+
+**About NIQ**
+
+NIQ is the world’s leading consumer intelligence company, delivering the most complete understanding of consumer buying behavior and revealing new pathways to growth. In 2023, NIQ combined with GfK, bringing together the two industry leaders with unparalleled global reach. With a holistic retail read and the most comprehensive consumer insights—delivered with advanced analytics through state-of-the-art platforms—NIQ delivers the Full View™. NIQ is an Advent International portfolio company with operations in 100+ markets, covering more than 90% of the world’s population.
+
+For more information, visit NIQ.com
+
+Want to keep up with our latest updates?
+
+Follow us on: LinkedIn | Instagram | Twitter | Facebook
+
+**Our commitment to Diversity, Equity, and Inclusion**
+
+At NIQ, we are steadfast in our commitment to fostering an inclusive workplace that mirrors the rich diversity of the communities and markets we serve. We believe that embracing a wide range of perspectives drives innovation and excellence. All employment decisions at NIQ are made without regard to race, color, religion, sex (including pregnancy, sexual orientation, or gender identity), national origin, age, disability, genetic information, marital status, veteran status, or any other characteristic protected by applicable laws. We invite individuals who share our dedication to inclusivity and equity to join us in making a meaningful impact. To learn more about our ongoing efforts in diversity and inclusion, please visit the https://nielseniq.com/global/en/news-center/diversity-inclusion

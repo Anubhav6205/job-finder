@@ -1,0 +1,43 @@
+**DESCRIPTION**
+---------------
+
+About the Organization: Amazon is a US-based multinational electronic commerce company headquartered in Seattle, Washington. Amazon.com started as an online bookstore, but soon diversified into many other categories, with a vision to be earth's most customer-centric company & to build a place where people can come to find and discover anything they might want to buy online.  
+  
+About the role: Amazon's Global Finance Services (GFS) team is a fast-paced, team-focused, dynamic environment and delivering great experiences for our customers is top priority. GFS is seeking a Business Intelligence Engineer to support our Amazon FinOps services.  
+  
+As a Data Engineer, you will play a key role in transforming the way GFS teanms access and analyse the data. You will work to advance 3 Year Data Infrastructure Modernisation strategy and play a key role in adopting and expanding a unified data access platform and scalable governance and observability frameworks that follow modern data architecture and cloud-first designs.  
+  
+Your responsibilities will include supporting and migrating data analytics use cases of a targeted customer group and new features implementations within the central platform: component design, implementation using NAWS services that follow best engineering practices, user acceptance testing, launch, adoption and post-launch support. You will work on system design and integrate new components to established architecture. You will be engaged into cross-team collaboration by building reusable design patterns and components and adopting designs adopted by others. You will contribute to “buy” vs “build” decision by evaluating latest product and features releases for NAWS and internal products, perform gap analysis and define feasibility of their adoption and the list of blockers.  
+  
+The ideal candidate possess a track record of creating efficient AWS-based data solutions; data models for both relational databases and Glue/Athena/EMR stack; developing solution documentation, project plans, user guides and other project documentation. We are looking into individual contributor inspired to become data systems architects. Track of production level deliverables leveraging GenAI is big plus.  
+  
+Key job responsibilities  
+
+* Elevate and optimize existing solutions while driving strategic migration. Conduct thorough impact assessments to identify opportunities for transformative re-architecture or migration to central platforms. Your insights will shape the technology roadmap, ensuring we make progress towards deprecation goals while providing best customer service;
+* Design, review and implement data solutions that support WW Operations Finance standardisation and automation initiatives using AWS technologies and internally built tools, including Spark/EMR, Redshift, Athena, DynamoDB, Lambda, S3, Glue, Lake Formation, etc;
+* Support data solutions adoption by both, finance and technical teams; identify and remove adoption blockers;
+* Ensure the speed of delivery and high-quality: iteratively improve development process and adopt mechanisms for optimisation of the development and support;
+* Contribute into engineering excellence by reviewing design and code created by others;
+* Contribute to delivery execution, planning, operational excellence, retrospectives, problem identification, and solution proposals;
+* Collaborate with finance analysts, engineers, product and program managers and external teams to influence and optimize the value of the delivery in data platform;
+* Create technical and customer-facing documentation on the products within the platform.
+
+  
+A day in the life  
+You work with the Engineering, Product, BI and Operations teams to elevate existing data platforms and implement best-of-class data solutions for WW Operations Finance organization. You solve unstructured customer pain points with technical solutions, you are focused on users productivity when working with the data. You participate in discussions with stakeholders to provide updates on project progress, gather feedback, and align on priorities. Utilizing AWS CDK and various AWS services, you design, execute, and deploy solutions. Your broader focus is on system architecture rather than individual pipelines. You regularly review your designs with Principal Engineer, incorporate gathered insights. Conscious of your impact on customers and infrastructure, you establish efficient development and change management processes to guarantee speed, quality and scalability of delivered solution.
+
+**BASIC QUALIFICATIONS**
+------------------------
+
+* 5+ years of data engineering experience
+* Experience with data modeling, warehousing and building ETL pipelines
+* Experience with SQL
+
+**PREFERRED QUALIFICATIONS**
+----------------------------
+
+* Experience with AWS technologies like Redshift, S3, AWS Glue, EMR, Kinesis, FireHose, Lambda, and IAM roles and permissions
+* Experience with non-relational databases / data stores (object storage, document or key-value stores, graph databases, column-family databases)
+
+  
+Our inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how-we-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner.

@@ -1,0 +1,48 @@
+**Role & responsibilities**
+
+  
+
+**Were Hiring: Senior/Lead AI Engineer**
+
+Looking to work on cutting-edge **GenAI, LLMs, and Agentic AI systems**? This is your chance to build and scale next-gen AI solutions at an enterprise level.
+
+**Role:** Senior / Lead AI Engineer
+
+**Location:** Pune, Bangalore, Hyderabad , Chennai, Coimbatore  
+ **Experience:** 6+ years in AI/GenAI
+
+  
+
+**What Youll Do:**
+
+* Build & deploy **LLMs, GenAI, and Agentic AI solutions**
+* Design and lead **multi-agent systems**
+* Architect and implement **RAG pipelines**
+* Optimize AI models for performance and scalability
+* Integrate AI solutions with **cloud platforms, APIs, and backend systems**
+* Drive **CI/CD deployments** and AI engineering best practices
+* Ensure **AI governance, ethics, and AgentOps**
+
+**Skills Were Looking For:**
+
+* Strong **Python** expertise
+* Experience with **LangChain, LangGraph**
+* Hands-on with enterprise AI frameworks like **AgentBricks, AWS AgentCore, Microsoft Foundry, Gemini Agent Studio, Snowflake Cortex Agents, Azure AI**
+* Exposure to **AWS Bedrock, Databricks Mosaic AI, Microsoft Foundry, Gemini Enterprise, Snowflake Cortex**
+* Familiarity with **Docker, Kubernetes, CI/CD pipelines**
+
+  
+
+**Nice to Have:**
+
+* Background in **Data Engineering / Data Science**
+* Experience working on **data-driven projects (2+ years)**
+
+**Soft Skills Matter:**
+
+* Strong communication skills
+* Ability to collaborate across teams and drive delivery
+
+  
+
+If you're passionate about building **scalable AI systems** and shaping the future of enterprise AI, we'd love to connect!

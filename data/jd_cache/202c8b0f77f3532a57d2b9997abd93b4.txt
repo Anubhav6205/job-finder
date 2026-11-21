@@ -1,0 +1,232 @@
+**Job Details**
+---------------
+
+Location:
+
+Hyderabad, Telangāna, IN
+
+Category:
+
+Information Technology
+
+Employment Type:
+
+Full time
+
+Job Ref:
+
+R2627506-333
+
+IND Lead Software Engineer - GCC026
+
+We’re determined to make a difference and are proud to be an insurance company that goes well beyond coverages and policies. Working here means having every opportunity to achieve your goals – and to help others accomplish theirs, too. Join our team as we help shape the future.
+
+AWS - Cloud Engineer
+
+6-9 Years
+
+*Customer Experience Platform Engineering*
+
+Role Summary
+
+We are seeking an AWS Cloud Engineer to design, build, integrate, and support cloud-native customer experience capabilities within an Amazon Connect-powered contact center ecosystem. This role uses AWS services, APIs, serverless computing, event-driven architecture, and Infrastructure as Code to extend Amazon Connect and deliver seamless experiences across voice, chat, email, messaging, self-service, agent workflows, analytics, and enterprise systems. The ideal candidate combines hands-on AWS engineering expertise with experience in contact center technologies, customer journey design, and the operational needs of a large-scale customer experience platform. We operate with an AI-first engineering mindset and expect engineers to use AI-assisted practices responsibly to improve speed, quality, and innovation.
+
+Technical Skills Framework
+
+Primary skills are the tools and capabilities used by the team to perform the role. Each definition describes the core skill and its application within the Amazon Connect contact center ecosystem. Comparable skillsets represent adjacent experience that may transfer and accelerate onboarding, but are not technically aligned to the team’s current way of working.
+
+Primary Skills
+
+Skill
+
+Definition
+
+Comparable skillset
+
+Lambda
+
+Build scalable serverless applications, APIs, routing extensions, workflow services, and event-driven integrations that enhance Amazon Connect and support customer and agent experiences.
+
+Azure Functions; Google Cloud Functions
+
+TypeScript
+
+Develop maintainable, strongly typed services and integrations that support customer journeys, contact center workflows, and enterprise connectivity.
+
+Python; JavaScript
+
+AWS Services
+
+Engineer cloud-native capabilities using S3, DynamoDB, KMS, EventBridge, IAM, SQS, SNS, Secrets Manager, CloudWatch, and related services to support interaction processing, notifications, orchestration, analytics, and secure integration with Amazon Connect.
+
+Comparable Azure or Google Cloud services
+
+CDK
+
+Implement Infrastructure as Code using AWS CDK to automate consistent, secure deployment and management of Amazon Connect supporting services and customer experience capabilities.
+
+CloudFormation; Terraform
+
+API Gateway
+
+Design, secure, and manage REST and HTTP APIs that connect Amazon Connect, agent experiences, enterprise systems, and third-party contact center technologies.
+
+APIGEE; APIC
+
+Secondary Skills
+
+Skill
+
+Definition
+
+Comparable skillset
+
+Flows
+
+Understand Amazon Connect contact flow design, customer journeys, routing strategies, integration points, and troubleshooting so cloud services work effectively within end-to-end contact center experiences.
+
+Genesys Architect; NICE Studio; Five9 Studio; Cisco CVP
+
+Connect Desktop
+
+Understand Amazon Connect agent desktop configuration, routing profiles, agent workflows, and operational processes so cloud-native capabilities integrate seamlessly into the agent experience.
+
+Genesys Cloud administration; NICE CXone administration; Five9 administration
+
+Key Responsibilities
+
+Customer Experience Platform Engineering
+
+* Design and develop cloud-native capabilities that extend Amazon Connect functionality and improve customer and agent experiences.
+
+* Build services that enable customer self-service, routing enhancements, agent productivity, interaction processing, workflow orchestration, notifications, authentication, analytics, and experience optimization.
+
+* Partner with Connect Engineers, Product Owners, architects, and business stakeholders to implement end-to-end customer journeys using Amazon Connect and supporting AWS services.
+
+* Translate contact center and customer experience needs into scalable, reusable, and supportable technical capabilities.
+
+Contact Center Ecosystem Integration
+
+* Develop APIs, event-driven services, and integration patterns that connect Amazon Connect with enterprise systems and third-party contact center technologies.
+
+* Build integrations supporting voice, chat, email, messaging, customer authentication, outbound communications, workforce processes, analytics, and customer engagement capabilities.
+
+* Integrate contact center workflows with customer, policy, claims, knowledge, workforce, communication, reporting, and other enterprise platforms.
+
+* Contribute to migration and modernization initiatives that improve customer experience, operational efficiency, and platform scalability.
+
+Cloud-Native Application Development
+
+* Design, develop, test, and support serverless applications, APIs, microservices, and reusable platform services using Lambda, TypeScript, and related AWS technologies.
+
+* Use event-driven and asynchronous patterns to process contact events, coordinate workflows, and decouple Amazon Connect from downstream systems.
+
+* Design for resilience, scalability, performance, recoverability, security, and cost efficiency across the customer interaction lifecycle.
+
+Infrastructure as Code and DevSecOps
+
+* Implement Amazon Connect supporting infrastructure and AWS services using CDK and repeatable deployment patterns.
+
+* Build and maintain CI/CD automation, testing, quality gates, security scanning, and environment promotion processes.
+
+* Apply least-privilege access, encryption, secrets management, logging, monitoring, and enterprise cloud governance standards.
+
+API and Integration Engineering
+
+* Design, secure, version, document, and operate APIs used by contact flows, agent applications, customer channels, and enterprise systems.
+
+* Apply authentication, authorization, throttling, error handling, observability, and governance standards.
+
+* Evaluate integration alternatives and document architectural decisions and tradeoffs based on customer experience, operational, and technical requirements.
+
+Platform Operations and Optimization
+
+* Monitor production services and end-to-end contact center integrations, respond to incidents, and restore customer and agent capabilities.
+
+* Use telemetry to identify customer journey failures, integration issues, performance constraints, and improvement opportunities.
+
+* Perform root cause analysis and implement preventative improvements that increase reliability, recoverability, and operational supportability.
+
+* Optimize cloud consumption while protecting customer experience, platform performance, and service resilience.
+
+AI-First Engineering
+
+* Use AI-assisted engineering tools to accelerate coding, testing, troubleshooting, documentation, and knowledge sharing.
+
+* Validate AI-generated outputs for accuracy, security, performance, maintainability, and compliance.
+
+* Identify opportunities to apply AI and automation to routing, self-service, agent support, analytics, and engineering productivity.
+
+Agile Delivery and Product Ownership
+
+* Collaborate with Product Owners, Connect Engineers, architects, analysts, and Agile team members to refine requirements and user stories.
+
+* Participate in planning, stand-ups, refinement, retrospectives, and demonstrations.
+
+* Deliver working, production-ready customer experience capabilities aligned with sprint and program commitments.
+
+* Use customer feedback, operational insights, and platform telemetry to continuously improve solutions.
+
+Quality, Security, and Operational Excellence
+
+* Develop and maintain automated unit, integration, contract, and regression tests appropriate to contact center services and integrations.
+
+* Participate in code and design reviews and follow established engineering standards.
+
+* Apply secure coding, privacy, data protection, cloud security, and enterprise compliance requirements throughout the solution lifecycle.
+
+* Demonstrate end-to-end ownership from design through production support and continuous improvement.
+
+Required Experience
+
+* Hands-on experience building cloud-native applications, integrations, or platform services using AWS.
+
+* Experience with contact center technologies or customer experience platforms such as Amazon Connect, Genesys Cloud, NICE CXone, Five9, Cisco, or comparable platforms.
+
+* Experience integrating contact center channels, routing, agent workflows, customer self-service, or interaction data with enterprise applications and services.
+
+* Experience with Lambda, TypeScript or a comparable development language, API design, event-driven architecture, and Infrastructure as Code.
+
+* Experience supporting production services through monitoring, troubleshooting, incident response, and root cause analysis.
+
+Professional Skills
+
+* Strong analytical, systems-thinking, and problem-solving skills
+
+* Ability to understand customer journeys and translate contact center needs into cloud-native solutions
+
+* Clear communication and effective collaboration across product, operations, architecture, Connect engineering, and enterprise technology teams
+
+* Ability to work effectively in a fast-paced Agile environment
+
+* End-to-end ownership from design through production support and continuous improvement
+
+Preferred Qualifications
+
+* Direct experience integrating AWS services with Amazon Connect
+
+* Experience building capabilities for voice, chat, email, messaging, self-service, agent desktop, workforce, or conversation analytics use cases
+
+* Experience with contact center migration or large-scale customer experience platform transformation
+
+* Experience with event-driven architectures and asynchronous integration patterns
+
+* Experience with Jenkins, AWS CodePipeline, CodeBuild, CodeDeploy, CloudWatch, Splunk, or comparable delivery and observability platforms
+
+* AWS Developer, Solutions Architect, or relevant Amazon Connect certification
+
+Success Profile
+
+* Delivers cloud-native capabilities that measurably improve customer and agent experiences.
+
+* Builds scalable, secure, and resilient integrations that extend Amazon Connect.
+
+* Demonstrates understanding of customer journeys, contact center operations, and the consequences of service failures.
+
+* Creates reusable AWS services and patterns that accelerate delivery across the Customer Experience Platform.
+
+* Balances customer experience, delivery speed, operational reliability, security, cost, and long-term architectural integrity.
+
+* Uses AI-assisted engineering practices responsibly to improve productivity, quality, and innovation.
+
+* Creates momentum by sharing knowledge, challenging assumptions, and partnering across Connect, cloud, product, and operations teams.

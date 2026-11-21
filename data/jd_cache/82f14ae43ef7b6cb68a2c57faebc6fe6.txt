@@ -1,0 +1,104 @@
+**We are looking for MLOps experienced candidates who**
+
+1. Demonstrated experience in Cloud Operations (AWS/GCP/Azure) specifically for scaling analytical workloads, managing data lakes, and optimizing model inference costs.
+2. Experience in Model Serving & Lifecycle Management: Manage model versioning, artifact registration, endpoint provisioning, autoscaling, and traffic splitting for online prediction, alongside orchestrating offline/batch scoring at massive scale.
+
+**MLOps Engineer** - Bangalore
+
+Data analytics team to build the operational infrastructure that powers the nations financial ecosystem You will act as the critical operational bridge connecting data science discovery with customer facing high throughput fulfillment
+
+platforms for both real time online inference and large scale batch scoring
+
+What youll do
+
+1 Cloud Native MLOps Architecture Architect and manage MLOps infrastructure in cloud platform GCP utilizing managed ML engines to build automated pipelines for model training validation and deployment
+
+2 Model Serving Lifecycle Management Manage model versioning artifact registration endpoint provisioning autoscaling and traffic splitting for online prediction alongside orchestrating offlinebatch scoring at massive scale
+
+3 Infrastructure Compute IaC Deploy scale and manage model container pods using managed Kubernetes eg GKE EKS AKS and service meshes Write and
+
+maintain modular Infrastructure as Code IaC scripts such as Terraform for
+
+repeatable provisioning across NPE UAT and PRD envir onments
+
+4 CICD Deployment Automation Build declarative CICD pipelines using GitHub
+
+Actions Jenkins or similar integrating automated validation drift detection gates
+
+testing suites multi stage secure Dockerfiles and multi environment promotion
+
+strategies bluegreen or canary
+
+5 Enterprise Security Governance Implement strict financial grade security
+
+including secure SDLC scanning SASTDAST containerhost vulnerability scanning
+
+data encryption CMEK and adherence to least privilege IAM access within strict
+
+VPC boundaries
+
+6 Big Data Wrangling Architect complex data pipelines using PySpark or SQL to
+
+clean aggregate and engineer features from terabytes of structured and
+
+unstructured credit bureau data
+
+7 SRE Production Operations Establish real time monitoring and alerting for
+
+model performance track Service Level Objectives SLOs and latency percentiles
+
+and drive incident response root cause analysis RCA and runbook developmen t
+
+What experience do you need
+
+1 Masters or bachelors degree in a quantitative field eg Statistics Mathematics
+
+Computer Science Economics or Data Science
+
+2 3 to 6 years of proven experience in MLOps Machine Learning Engineering or
+
+DevOps specifically within the Financial Se rvices or Fintech domain
+
+3 Minimum 3 year of experience working within a cloud environment AWS Azure
+
+or Google Cloud Platform
+
+4 Proficiency in Python Pyspark and advanced SQL for data extraction and
+
+manipulation alongside major ML libraries Scikit learn XGBoost PyTorch
+
+TensorFlow to evaluate operational model behavior
+
+5 Hands on experience with Big Data frameworks specifically Hadoop Spark or Hive
+
+to manage large scale datasets
+
+6 Deep expertise in containerization Docker Kubernetes and orchestrating CICD
+
+deployment pipelines
+
+What could set you apart
+
+1 Demonstrated experience in Cloud Operations AWSGCPAzure specifically for
+
+scaling analytical workloads managing data lakes and optimizing model inference
+
+costs
+
+2 Expert level hands on coding skills in Python and PySpark for distributed
+
+computing c ombined with complex SQL optimization and the ability to visualize
+
+insights using BI tools
+
+3 A track record of leading multiple projects through the Real Time Model
+
+Development Journey from initial data discovery and hypothesis testing to
+
+production deployment and post launch monitoring
+
+4 Advanced understanding of Model Risk Management MRM frameworks
+
+automated model certification and deploying ML systems under strict regulatory
+
+and compliance standards FCRA global banking standards

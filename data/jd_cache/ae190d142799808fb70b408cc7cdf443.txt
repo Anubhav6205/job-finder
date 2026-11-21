@@ -1,0 +1,12 @@
+**Roles and Responsibilities :**
+
+* Design, develop, test, and maintain complex software applications using C++, Java, Python, and other programming languages.
+* Collaborate with cross-functional teams to identify requirements and implement solutions for CAE (Computer-Aided Engineering) projects.
+* Develop high-performance simulations using ANSYS, HyperMesh, OptiStruct, Nastran tools to analyze mechanical behavior of industrial equipment and machinery.
+* Troubleshoot issues related to software performance optimization and debugging.
+
+**Job Requirements :**
+
+* 3-9 years of experience in IT Services & Consulting industry with expertise in CAE software development.
+* Strong proficiency in programming languages such as C++, Java, Python; knowledge of OOPS concepts is essential.
+* Experience working on large-scale projects involving complex algorithms and data structures; familiarity with HyperWorks platform is an added advantage.

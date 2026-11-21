@@ -1,0 +1,82 @@
+**Job Information**
+-------------------
+
+* Date Opened 11/20/2026
+* Industry Technology
+* Job Type Full time
+* Years of Experience 6-10
+* City Shaikpet
+* State/Province Telangana
+* Country India
+* Zip/Postal Code 500081
+
+**About Us**
+------------
+
+Founded in 2015, RADcube is a leading technology consulting and software development firm headquartered in Carmel, Indiana. The company specializes in transforming enterprise ideas into real-world innovations by leveraging emerging technologies such as Artificial Intelligence, Blockchain, and Cloud Computing.
+  
+  
+With nearly a decade of industry experience, RADcube serves diverse sectors, including healthcare, finance, government, and manufacturing. Their core service portfolio includes:
+  
+  
+Digital Transformation and strategy consulting.
+  
+Custom Software Development tailored to specific business needs.
+  
+Advanced Data Analytics and AI-driven platforms.  
+Cybersecurity and risk management.
+  
+  
+Recognized for its innovation-led culture, RADcube operates RADlabs, an R&D hub focused on high-impact solutions like Responsible AI and Intelligent Automation. The firm is committed to a human-centric approach, ensuring cutting-edge technology delivers measurable business outcomes and long-term success for global clients.  
+  
+The company’s commitment to innovation has earned significant industry honors:
+  
+  
+2026 TechPoint Mira Awards Finalist: Named a finalist for Tech Company of the Year, recognizing high-growth pioneers that demonstrate extraordinary leadership.  
+  
+Public Sector Excellence: Awarded the Utah NASPO Cloud & Software Solutions Contract, solidifying their role as a trusted partner for large-scale government digital initiatives and more.
+
+**Job Description**
+-------------------
+
+**Senior Data Engineer**
+
+**AWS Glue / Databricks**
+
+**LOCATION: Hyderabad, India**
+
+**EXPERIENCE: 6–10 years (preferred)**
+
+  
+
+**ROLE OVERVIEW**
+
+Build and operationalize robust data engineering pipelines using AWS Glue, PySpark and Delta Lake to create governed, high-quality enterprise datasets.
+
+  
+
+**KEY RESPONSIBILITIES**
+
+* Develop AWS Glue / PySpark transformations from Raw to Refined datasets in Amazon S3.
+* Implement schema enforcement, type conversion, PII tokenization, deduplication and merges.
+* Develop Delta Lake pipelines and, when required, Gold datasets and Redshift loads.
+* Orchestrate jobs using Airflow or AWS Step Functions with completeness and failure checks.
+* Register datasets in Unity Catalog and support governance, metadata and consumer access.
+* Perform reconciliation, performance tuning, unit testing and production troubleshooting.
+* Prepare CI/CD artifacts, deployment configuration, runbooks and technical documentation.
+
+### **Requirements**
+
+**REQUIRED SKILLS**
+
+* Python, PySpark, Spark SQL and strong SQL
+* AWS Glue, Amazon S3, Delta Lake and Databricks
+* ETL/ELT, data modelling and data-quality validation
+* Airflow or AWS Step Functions and failure recovery
+Git, CI/CD, data reconciliation and production support  
+
+  
+
+**PREFERRED EXPERIENCE**
+
+Unity Catalog, Amazon Redshift, Immuta, ServiceNow integration and regulated-data experience.

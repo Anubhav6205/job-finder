@@ -1,0 +1,148 @@
+Job Description
+  
+  
+R426988 Reliability Engineer-R2
+  
+  
+**The Opportunity:**  
+
+* Based in Hyderabad, join a global healthcare biopharma company and be part of a 130- year legacy of success backed by ethical integrity, forward momentum, and an inspiring mission to achieve new milestones in global healthcare.
+* Be part of an organisation driven by digital technology and data-backed approaches that support a diversified portfolio of prescription medicines, vaccines, and animal health products.
+* Drive innovation and execution excellence. Be a part of a team with passion for using data, analytics, and insights to drive decision-making, and which creates custom software, allowing us to tackle some of the worlds greatest health threats.
+
+Our Technology Centers focus on creating a space where teams can come together to deliver business solutions that save and improve lives. An integral part of our company’s IT operating model, Tech Centers are globally distributed locations where each IT division has employees to enable our digital transformation journey and drive business outcomes. These locations, in addition to the other sites, are essential to supporting our business and strategy.
+  
+  
+A focused group of leaders in each Tech Center helps to ensure we can manage and improve each location, from investing in growth, success, and well-being of our people, to making sure colleagues from each IT division feel a sense of belonging to managing critical emergencies. And together, we must leverage the strength of our team Reliability Engineer.
+  
+  
+At our company, we aspire to be the premier research-intensive biopharmaceutical company. Were at the forefront of research to deliver innovative health solutions that advance the prevention and treatment of diseases in people and animals. Reliability matters because the technology behind our business needs to be there when it matters most. As a Reliability Engineer, you will help make our critical technology
+  
+services more reliable, resilient, observable, and easier to operate. Working as part of our Enterprise SRE team, you will combine engineering, observability, automation, and emerging AI capabilities to detect problems earlier, accelerate recovery, reduce operational effort, and continuously improve how our services perform. Join our team and use the power of leading-edge science to save and improve lives around the world.
+  
+  
+Responsibilities
+  
+  
+
+* Apply SRE principles to boost the availability, resilience, performance, and recoverability of our services.
+* Support the implementation and measurement of Service Level Indicators (SLIs), Service Level Objectives (SLOs), and other key service-health metrics.
+* Analyze service behavior, identify failure patterns, and pinpoint reliability risks and improvement opportunities.
+* Participate in resilience, failover, recovery, and production-readiness activities.
+* Partner with application, platform, and infrastructure teams to implement reliability improvements.
+* Use observability platforms to analyze metrics, logs, traces, events, and service topology.
+* Build and enhance dashboards, alerts, and service-health views.
+* Correlate telemetry across applications, infrastructure, cloud, network, and shared platforms to support end-to-end troubleshooting.
+* Identify gaps in telemetry, monitoring, and alerting, and collaborate with engineering teams to enhance observability.
+* Utilize modern telemetry and instrumentation approaches such as OpenTelemetry.
+* Harness AI, Generative AI, and AIOps capabilities to support operational analysis, anomaly detection, event correlation, troubleshooting, and knowledge retrieval.
+* Apply AI-assisted techniques to speed up incident investigation and identify potential causes and solutions.
+* Develop AI-assisted operational workflows and automation to boost reliability and reduce manual effort.
+* Validate AI-generated insights against telemetry and authoritative operational data before implementing recommendations.
+* Ensure appropriate safeguards and human oversight when AI is used in production operations.
+* Engage in technical investigation and recovery of production incidents.
+* Use telemetry, dependency information, and engineering analysis to diagnose service failures.
+* Contribute to root-cause analysis, post-incident reviews, and corrective and preventive actions.
+* Identify recurring reliability issues and help implement engineering solutions to prevent recurrence.
+* Validate that remediation actions have led to measurable reliability improvements.
+* Create scripts, tools, and automated workflows that enhance operational efficiency and reliability.
+* Automate repetitive detection, diagnostic, remediation, and recovery tasks where feasible.
+* Integrate systems and operational platforms using APIs and automation frameworks.
+* Identify operational toil and replace repeated manual activities with sustainable engineering solutions.
+* Contribute reusable automation, runbooks, and engineering patterns that can be applied across services.
+
+Qualifications
+  
+  
+Required
+  
+  
+
+* Bachelors degree in Computer Science, Engineering, Information Technology, or a related field, or equivalent practical experience.
+* Foundational experience in software engineering, cloud, infrastructure, systems engineering, production operations, or a related technical area.
+* Proficiency in at least one programming or scripting language such as Python, PowerShell, Java, or JavaScript.
+* Understanding of the fundamentals of application, infrastructure, cloud, and networking.
+* Knowledgeable in monitoring, logging, alerting, and troubleshooting basics.
+* Strong analytical and problem-solving skills.
+* Effective collaboration skills across engineering and operational teams.
+* Interest in deepening expertise in SRE, observability, automation, and AI-enabled operations.
+
+Preferred
+  
+  
+
+* Experience or exposure to observability technologies such as Dynatrace, Splunk, Grafana, Prometheus, or equivalent.
+* Familiarity with OpenTelemetry and modern application instrumentation.
+* Experience with cloud platforms such as AWS or Microsoft Azure.
+* Knowledge of Kubernetes and container technologies.
+* Experience with Infrastructure as Code and automation technologies such as Terraform or Ansible.
+* Familiarity with ServiceNow or enterprise IT Service Management platforms.
+* Understanding of CI/CD and modern software delivery practices.
+* Knowledge of SRE concepts including SLIs, SLOs, error budgets, incident management, and post-incident reviews.
+* Experience with AI/ML, Generative AI, AIOps, or AI-assisted operational tooling.
+
+**Who we are:**  
+We are known as Merck Co., Inc., Rahway, New Jersey, USA in the United States and Canada and MSD everywhere else. For more than a century, we have been bringing forward medicines and vaccines for many of the worlds most challenging diseases. Today, our company continues to be at the forefront of research to deliver innovative health solutions and advance the prevention and treatment of diseases that threaten people and animals around the world.
+  
+  
+**What we look for:**  
+Imagine getting up in the morning for a job as important as helping to save and improve lives around the world. Here, you have that opportunity. You can put your empathy, creativity, digital mastery, or scientific genius to work in collaboration with a diverse group of colleagues who pursue and bring hope to countless people who are battling some of the most challenging diseases of our time. Our team is constantly evolving, so if you are among the intellectually curious, join us—and start making your impact today.
+  
+  
+**Additional location(s) Compensation Information:**  
+**Required Skills:**  
+AI Ops, AI Ops, Amazon Web Services (AWS), Computer Science, Data Engineering, Data Visualization, Design Applications, Dynatrace APM, Generative AI, Incident Investigations, Information Technology (IT), IT Service Management Tools, Kubernetes, Microsoft Azure, Reliability Engineering, Reliability Improvement, Service Level Management, Service-Level Objective (SLO), ServiceNow Platform, Software Configurations, Software Development, Software Development Life Cycle (SDLC), Solution Architecture, SRE Observability, System Designs {+ 4 more}
+  
+  
+**Preferred Skills:**  
+Current Employees applyHERE
+  
+  
+Current Contingent Workers applyHERE
+  
+  
+**Secondary Language(s) Job Description:**  
+#MSDHYDIT
+  
+  
+Search Firm Representatives Please Read Carefully
+  
+Merck Co., Inc., Rahway, NJ, USA, also known as Merck Sharp Dohme LLC, Rahway, NJ, USA, does not accept unsolicited assistance from search firms for employment opportunities. All CVs / resumes submitted by search firms to any employee at our company without a valid written search agreement in place for this position will be deemed the sole property of our company. No fee will be paid in the event a candidate is hired by our company as a result of an agency referral where no pre-existing agreement is in place. Where agency agreements are in place, introductions are position specific. Please, no phone calls or emails.
+  
+  
+**Employee Status:**  
+Regular
+  
+  
+**Relocation:**  
+Domestic
+  
+  
+**VISA Sponsorship:**  
+No
+  
+  
+**Travel Requirements:**  
+No Travel Required
+  
+  
+**Flexible Work Arrangements:**  
+Not Applicable
+  
+  
+**Shift:**  
+Not Indicated
+  
+  
+**Valid Driving License:**  
+No
+  
+  
+**Hazardous Material(s):**  
+n/a
+  
+  
+**Job Posting End Date:**  
+11/27/2026\*A job posting is effective until 11:59:59PM on the dayBEFORE the listed job posting end date. Please ensure you apply to a job posting no later than the dayBEFORE the job posting end date.
+  
+**Requisition ID:** R426988

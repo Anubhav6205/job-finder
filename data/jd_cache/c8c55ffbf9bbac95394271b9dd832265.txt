@@ -1,0 +1,58 @@
+We are looking for an experienced and commercially minded **AI Product Owner** to help shape, build and scale Sandhata's AI products and solutions.
+
+  
+
+This role sits at the intersection of **customer needs, business strategy, AI technology and engineering delivery**. You will take ownership of the product lifecycle, from identifying market and customer problems through product definition, prioritisation, development, launch, adoption and continuous improvement.
+
+You will work closely with the **Principal Enterprise AI Architect and AI engineering teams** to translate product vision and customer requirements into clear, prioritised and achievable product capabilities.
+
+This is not simply a backlog-management role. We are looking for someone who can **understand customers, challenge requirements, define compelling AI propositions, make prioritisation decisions and take accountability for product outcomes**.
+
+  
+
+**What You'll Do**
+
+* **Own product vision and roadmap**, translating Sandhata's AI strategy into clear product priorities, capabilities, releases and measurable outcomes.
+* **Understand customer and market problems** through discovery sessions, stakeholder engagement, competitor analysis and continuous customer feedback.
+* **Define product requirements** including epics, features, user stories, acceptance criteria, workflows and non-functional requirements.
+* **Own and prioritise the product backlog**, balancing customer value, strategic objectives, technical dependencies, delivery effort and commercial opportunity.
+* **Work closely with AI Architecture and Engineering**, ensuring business requirements are translated into viable, scalable and secure product capabilities.
+* **Lead product discovery and validation**, turning ideas into prototypes, MVPs, PoCs/PoVs and ultimately production-ready products.
+* **Define product success measures**, including adoption, customer value, usage, quality, commercial impact and other relevant KPIs/OKRs.
+* **Own release priorities and product readiness**, ensuring capabilities meet agreed acceptance criteria and deliver the intended customer outcome.
+* **Drive product adoption**, working with Sales/GTM, Marketing, Delivery and customer teams on positioning, demonstrations, onboarding and feedback.
+* **Engage directly with customers and senior stakeholders**, presenting product capabilities, capturing requirements and helping shape strategic product direction.
+* **Monitor the AI and competitive landscape**, identifying opportunities created by Generative AI, Agentic AI and emerging enterprise technologies.
+* **Balance innovation with practicality**, making informed decisions across customer value, technical complexity, cost, risk and time-to-market.
+* **Maintain strong product governance**, ensuring decisions, priorities, requirements, dependencies and outcomes are clearly documented and communicated.
+* **Champion continuous improvement**, using customer feedback, usage data and delivery learnings to evolve the product roadmap.
+
+  
+
+**Core Experience & Expertise**
+
+* **7+ years of overall technology/product experience**, including at least **3+ years as a Product Owner, Product Manager or equivalent**.
+* Demonstrable experience owning **B2B enterprise software, SaaS, digital platforms or technology products** from concept through delivery and adoption.
+* Strong understanding of **Agile product development**, including epics, features, user stories, acceptance criteria, backlog prioritisation, sprint planning and release management.
+* Experience working closely with **software engineering, architecture, UX/UI and delivery teams**.
+* Strong capability in **product discovery, requirements analysis, stakeholder management and prioritisation**.
+* Ability to translate complex customer and business requirements into **clear and actionable product requirements**.
+* Working knowledge of **Generative AI, LLMs, RAG, Agentic AI and enterprise AI use cases**. Deep AI engineering expertise is not required, but the Product Owner must be sufficiently technically fluent to work credibly with AI architects and engineers.
+* Experience using tools such as **Jira, Confluence and/or Azure DevOps** for product planning and delivery.
+* Strong analytical ability with experience defining and monitoring **product KPIs, adoption metrics and business outcomes**.
+* Excellent communication and presentation skills with the ability to engage **customers, engineers, senior stakeholders and commercial teams**.
+* Commercial & Product Mindset
+
+  
+
+**Good to Have**
+
+* Experience with **enterprise AI, Generative AI or Agentic AI products**.
+* Experience with **B2B SaaS or enterprise platform products**.
+* Experience taking products from **idea/MVP through launch, adoption and scale**.
+* Exposure to **Responsible AI, AI governance, security and data privacy**.
+* Experience working with cloud platforms such as **Microsoft Azure, AWS or Google Cloud**.
+* Experience working with enterprise customers in **Telecommunications, Financial Services, Insurance or Healthcare**.
+* Product Owner/Product Management certification such as **PSPO, CSPO or SAFe Product Owner/Product Manager**.
+* Experience supporting **product demonstrations, proposals, client workshops and pre-sales activities**.
+* Experience defining **pricing, packaging or commercial propositions** for technology products would be advantageous

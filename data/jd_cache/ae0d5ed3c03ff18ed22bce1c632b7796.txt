@@ -1,0 +1,153 @@
+Req Id: 4641
+
+Posting Start Date: 11/3/26
+
+Job Description:
+
+Software Developer I/II
+
+About the opportunity
+
+* The organisation we deliver outcome-based cloud solutions that help customers modernise applications, launch new products, and run complex cloud environments. RackAI is our strategic platform for bringing secure, scalable, cloud-native AI capabilities to customers and internal teams alike.
+
+* We're looking for an expert Software Developer III to join the PVC Product Software Engineering team and help design and evolve the core of RackAI. You'll pair deep Go and Kubernetes expertise with genuine architectural leadership — and you'll help set the standard for how a modern engineering team builds software in the age of AI. It's a hands-on senior role: strategic enough to shape direction, close enough to the code to lead by example.
+
+* Put simply: we build AI, and we build with AI. If you want to work at the intersection of cloud-native platform engineering and applied AI — and help define an AI-first engineering culture — this is the seat.
+
+Why
+
+* You'll help shape the future of AI-powered products at the organisation — building with modern cloud-native technology, solving hard problems at scale, and setting the standard for how engineering teams work in an AI-first world.
+
+What you'll do
+
+* Design and develop highly scalable backend services in Go (Golang).
+
+* Build Kubernetes-native applications — operators, controllers, and platform services — using controller-runtime and kubebuilder.
+
+* Define and evolve the RackAI platform architecture for growth, reliability, security, and operational excellence.
+
+* Develop the APIs, automation frameworks, and platform capabilities that power AI-enabled products.
+
+* Champion cloud-native best practices: observability, resiliency, and operational readiness.
+
+Lead an AI-first engineering culture
+
+* Make AI-assisted engineering the default way of working — champion an AI-driven, AI-first approach across the team.
+
+* Embed AI development tooling — Claude Code, Kiro, Codex, or GitHub Copilot — across the lifecycle, from design and coding through testing, review, and documentation.
+
+* Set the standards and guardrails for responsible, effective use of AI coding assistants — code quality, security, licensing, and human-in-the-loop review.
+
+* Turn AI augmentation into measurable gains in velocity and quality through prompt engineering and agentic workflows.
+
+* Coach engineers to get real leverage from AI tooling, and continually assess what to adopt next.
+
+Engineer the platform and infrastructure
+
+* Design and optimise Kubernetes deployments across multiple environments.
+
+* Automate provisioning, deployment, scaling, and lifecycle management.
+
+* Partner with Platform Engineering to raise developer productivity and platform reliability.
+
+* Ensure solutions meet security, compliance, and operational requirements.
+
+Lead and mentor
+
+* Provide technical leadership across multiple engineering teams.
+
+* Lead architectural reviews and design discussions, and set coding standards and patterns.
+
+* Mentor Software Developers I–III and grow engineering capability across the group.
+
+* Evaluate emerging technologies and recommend strategic investments.
+
+Collaborate across the organisation
+
+* Work closely with Product, Architecture, Data Science, SRE, and Security.
+
+* Translate business needs into scalable technical solutions.
+
+* Communicate architectural decisions and technical strategy to stakeholders.
+
+* Contribute to roadmap planning and long-term platform evolution.
+
+What you'll bring
+
+* Core software engineering
+
+* Expert-level Go (Golang) development.
+
+* Kubernetes expertise — architecture, operations, and application development.
+
+* Proven experience with distributed systems and microservices architectures.
+
+* Strong command of RESTful APIs, event-driven systems, and service-oriented architecture.
+
+* Hands-on with container technologies such as Docker and OCI-compliant runtimes.
+
+* Solid grounding in software design patterns, CI/CD, DevOps, Git-based workflows, and secure coding practices.
+
+Experience
+
+* 2 to 3 years in software development, including 1 or 2-years writing production Go.
+
+* Demonstrable experience building Kubernetes operators or controllers with controller-runtime or kubebuilder.
+
+* A track record of delivering production-grade cloud-native applications.
+
+* Experience leading complex technical projects end to end, and mentoring engineers to a higher standard.
+
+AI-assisted development
+
+* Hands-on experience with AI coding assistants such as Claude Code, Kiro, Codex, and GitHub Copilot, integrated effectively into day-to-day engineering is a plus.
+
+* A genuine commitment to working within — and helping to shape — an AI-first development culture.
+
+AI and machine learning
+
+* Practical understanding of modern Generative AI and Large Language Models (LLMs).
+
+* Familiarity with open-source foundation models such as Llama, Mistral, Gemma, Qwen, or DeepSeek.
+
+* Understanding of AI inference concepts, including model serving, latency, throughput, batching, performance improvements, optimizations, benchmarking of model inference?.
+
+* Knowledge of model fine-tuning techniques, including supervised fine-tuning (SFT), LoRA, and parameter-efficient fine-tuning (PEFT).
+
+* Understanding of Retrieval-Augmented Generation (RAG), vector databases, embeddings, and semantic search.
+
+* Experience integrating AI models into production applications using APIs or self-hosted inference platforms.
+
+Nice to have but not Mandatory
+
+* Experience building AI/ML platforms or AI-enabled enterprise products.
+
+* Advanced work with CRDs and operator patterns.
+
+* Cloud platforms — AWS preferred; Azure or Google Cloud also welcome.
+
+* Service mesh technologies and platform-engineering concepts.
+
+* Observability stacks such as OpenTelemetry, Prometheus, Grafana, or similar.
+
+* Contributions to open-source projects.
+
+How we'll measure success
+
+* You'll know you're succeeding when you:
+
+* Deliver scalable, reliable platform capabilities that accelerate RackAI innovation.
+
+* Lift developer productivity through automation, platform improvements, and AI-augmented workflows.
+
+* Influence architectural direction across the RackAI ecosystem.
+
+* Drive measurable gains in platform performance, scalability, and reliability.
+
+* Raise the engineering bar of the teams around you through mentorship and leadership.
+
+* Keep a steady flow of innovation going, balanced with operational excellence.
+
+Technology you'll work with
+
+* Go (Golang) · Kubernetes · Docker · GitHub · CI/CD · AWS (preferred) · APIs & microservices · Observability tooling.

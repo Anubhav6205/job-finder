@@ -1,0 +1,39 @@
+We are looking for a **Lead / Senior AI Native Engineer - Java** to design, build, and scale agentic AI pipelines and enterprise Java systems, combining deep software engineering expertise with hands-on experience in multi-agent orchestration, MCP servers, and AI-native development practices.
+
+  
+
+**Responsibilities**
+
+* Design, develop, and maintain scalable Java applications using Spring Boot and microservices architecture, owning features end-to-end with a high degree of autonomy
+* Build and deploy MCP servers that expose Java services, databases, or internal tools to LLM-based agents, enabling agents to inspect, generate, and validate against live enterprise systems
+* Build and extend the Agentic Workflow pipeline itself: orchestrator agents, producer agents, validator agents, and the skills that parameterize them, across the discovery, architecture design, and forward-engineering phases
+* Onboard new client codebases, business domains, and target technology stacks onto the workflow by authoring technology adapters, stack-specific implementation skills, and section/validator skill pairs, without forking the core pipeline
+* Design and implement agentic SDLC loops: automated specification drafting, AI-driven code generation, intelligent test creation, CI/CD integration, and deployment validation, each gated by deterministic scoring, dimension floors, and critical-issue auto-reject rules
+* Integrate agentic pipelines with enterprise tools and platforms via MCP connectors or REST/event driven APIs
+* Build React/Angular/JS frontends for modernized systems, reproducing legacy UI fidelity from wireframes and design tokens where the engagement requires 1:1 behavioral replication
+* Use AI coding assistants and frontier LLMs across the full development lifecycle every day, critically evaluating AI outputs for correctness, security, and edge cases before committing
+* Bring an AI-first mindset to automate repetitive engineering tasks, measure outcomes rather than activity, and identify AI leverage opportunities within the delivery area
+* Contribute to the team's shared library of prompt templates, reusable agent patterns, skills, and MCP connectors so the next client, domain, or stack onboards faster than the last
+* Conduct code and architecture reviews, and mentor Junior and Mid-level engineers in Java best practices and AI-native engineering methods
+* Maintain strong automated test coverage and healthy CI/CD pipeline practices, and actively track frontier developments to bring relevant changes back to the team within weeks
+
+**Requirements**
+
+* 6+ years of hands-on Java development in production environments, with strong proficiency in Spring Boot, Spring MVC, Spring Security, and RESTful API design
+* Working proficiency in React, Angular, or modern JS/TypeScript frameworks for production UI delivery
+* Solid experience with microservices and event-driven patterns such as Kafka or RabbitMQ
+* Cloud platform experience with AWS, GCP, or Azure, including containerization with Docker and Kubernetes
+* Working knowledge of relational databases (PostgreSQL, MySQL) and NoSQL databases (MongoDB, Redis)
+* Familiarity with CI/CD pipelines (Jenkins, GitHub Actions, GitLab CI) and DevOps engineering practices
+* Active daily use of AI coding assistants (GitHub Copilot, Cursor, Claude Code, or equivalent) and frontier LLMs
+* Hands-on experience building and deploying at least one MCP server exposing APIs, tools, or data sources to an LLM agent
+* Demonstrated experience designing or implementing a multi-agent pipeline with distinct agent roles, explicit handoffs, and a pass/fail or scored quality gate between steps
+* Experience authoring reusable, versioned skills or playbooks that encode domain/engineering judgment for agents to load
+* Ability to integrate agentic pipelines with enterprise systems via MCP or REST/event APIs
+* Capability to reverse-engineer requirements and domain models from legacy or unfamiliar codebases using AI-assisted analysis and translate them faithfully into a new target stack
+* Practical context management skills, including prompt/context window structuring, retrieval and chunking strategies, and multi-step agent memory management
+* Experience implementing AI guardrails such as input/output validation, PII redaction, hallucination and scope-of-action checks, and human-in-the-loop approval gates
+* Working knowledge of tokenomics, including token usage/cost estimation, model selection trade-offs, and designing agent workflows within latency/cost budgets
+* AI/LLM security awareness, including prompt-injection defense, secure handling of secrets/credentials, and least-privilege scoping for agent actions
+* Strong critical evaluation skills for AI-generated code, identifying correctness issues, security gaps, and performance problems
+* Genuine learning agility, with the ability to describe how engineering practice has evolved in the last 6–12 months due to new AI tools or model capabilities

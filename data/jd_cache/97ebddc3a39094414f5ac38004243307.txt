@@ -1,0 +1,42 @@
+We are seeking a highly skilled and experienced **Lead Palantir Data Software Engineer** to join our dynamic team and lead transformative data projects within the Insurance domain.
+
+This role is ideal for professionals who excel at addressing complex big data challenges, leveraging cutting-edge technologies like Palantir Foundry, and building scalable analytics solutions to empower critical business decision-making.
+
+  
+
+**Responsibilities**
+
+* Design and manage complex data pipelines and analytics solutions to address business challenges in the Insurance domain
+* Develop scalable workflows using Python and PySpark to handle large datasets efficiently
+* Optimize querying and data manipulation through expertise in SQL, with a preference for Spark SQL
+* Architect advanced data warehousing solutions, focusing on ELT techniques and distributed computing systems
+* Collaborate with stakeholders to align data solutions with organizational goals and requirements
+* Apply Agile and Scrum methodologies to drive iterative development processes and deliver results effectively
+* Integrate and leverage Palantir Foundry to support advanced data transformation and visualization needs
+* Analyze, troubleshoot, and resolve technical issues to ensure data solution reliability and scalability
+* Mentor team members, fostering a culture of technical growth and innovation
+* Communicate complex technical concepts clearly and professionally to diverse audiences
+* Support and enhance cross-functional collaboration in a global, multicultural team environment
+
+**Requirements**
+
+* Bachelor's degree or equivalent in Computer Science, Data Science, or related field
+* 9-12 years of IT experience, including at least 5 years focused on large-scale distributed computing systems
+* At least 6 months of hands-on development experience with Palantir Foundry
+* Proficiency in Python and PySpark for building and optimizing data pipelines
+* Expertise in SQL, including Spark SQL, for advanced querying and data manipulation
+* Strong knowledge of data warehousing principles and ELT techniques
+* Background in Agile and Scrum methodologies to manage and execute projects
+* Strong analytical and problem-solving skills for complex data challenges
+* Capability to work autonomously and manage workloads effectively
+* Proven ability to communicate technical solutions through written and verbal means
+* Flexibility to collaborate in a global and multicultural environment
+* English language proficiency at an Upper-Intermediate level (B2) or higher
+
+**Nice to have**
+
+* Background in the Insurance domain or experience in Finance functions across industries
+* Familiarity with front-end technologies like HTML, CSS, and JavaScript
+* Experience with Gradle for build automation
+* Showcase of leading cross-functional or globally distributed teams
+* Understanding of machine learning principles for data-driven insights

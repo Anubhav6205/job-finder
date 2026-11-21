@@ -1,0 +1,71 @@
+At Bristol Myers Squibb, our employees often ask, “Who are you working for?”—a question that fuels collaboration, accountability, and urgency in our work. Our purpose-driven culture inspires us to discover, develop, and deliver innovative medicines to prevail over serious diseases. We offer uniquely interesting and meaningful work, opportunities for growth, and a supportive environment that values inclusion, wellbeing, flexibility, and comprehensive benefits. This is work that transforms the lives of patients, and the careers of those who do it.
+  
+  
+**Key Responsibilities**
+
+* Design, build, and deploy custom Copilot agents using Microsoft Copilot Studio and Azure AI Foundry.
+* Architect and implement AI solutions that integrate enterprise data, applications, and workflows across Microsoft 365, SharePoint, and Power Platform.
+* Develop custom connectors, grounding data pipelines, and AI orchestration logic to extend Copilot capabilities.
+* Leverage Azure OpenAI, Azure Cognitive Search, and Azure AI Services to deliver retrieval-augmented generation (RAG) based agent solutions.
+* Build and optimize prompt flows, semantic memory, and contextual grounding for AI agents.
+* Understand and implement agent-to-agent communication frameworks such as A2A and MCP
+* Collaborate with business teams to identify use cases and translate them into scalable AI applications.
+* Develop proofs of concept (POCs) and AI prototypes that demonstrate business value.
+* Ensure compliance with Responsible AI, data security, and governance standards.
+* Monitor, evaluate, and continuously improve the performance, accuracy, and usability of Copilot agents and AI solutions.
+* Partner with Microsoft platform owners, data engineers, and solution architects to operationalize and scale AI initiatives.
+
+**Qualifications & Experience**
+
+* Bachelor’s degree in computer science, AI/ML, Engineering, or related discipline
+* 3–5 years of experience in AI solution development, Microsoft Cloud engineering, or automation platforms.
+* Proven experience with:
+
++ Microsoft Copilot Studio (Power Virtual Agents, conversational design, orchestration).
++ Azure AI Foundry and Azure OpenAI (model deployment, prompt optimization, content grounding).
++ Azure Cognitive Services (Search, Language, Vision, Speech, etc.).
++ Microsoft Graph, SharePoint REST APIs, and Teams integrations.
++ Power Platform (Power Automate, Power Apps, Power BI, Dataverse).
+
+* Strong understanding of AI architecture patterns, including RAG, prompt chaining, and function calling.
+* Understand and implement agent-to-agent communication frameworks such as A2A and MCP
+* Experience with Python, C#, React or TypeScript for building integrations and APIs.
+* Familiarity with vector databases and semantic search technologies.
+* Excellent analytical, problem-solving, and communication skills.
+* Ability to collaborate with business stakeholders to translate needs into AI-powered Copilot experiences.
+* Experience building Copilot extensions, Graph connectors, and custom copilots for enterprise workflows.
+* Knowledge of Responsible AI principles, prompt evaluation, and AI governance frameworks.
+* Familiarity with MLOps, Azure AI Studio, Azure Dev Ops and model lifecycle management.
+
+We hire for skills and capabilities, not just credentials – if this role excites you, but doesn’t perfectly match your resume, we encourage you to apply anyway.
+  
+  
+**How We Work**
+Where you work matters – because collaboration, innovation and patient impact happen in many settings. Our roles are structured across four work models: site-essential, site-by-design, field-based and remote-by-design. The model assigned to this role is based on its core responsibilities. Learn more at https://careers.bms.com/ways-of-working.
+  
+  
+**Supporting People With Disabilities**
+BMS is dedicated to ensuring that people with disabilities can excel through a transparent recruitment process, reasonable workplace accommodations/adjustments and ongoing support in their roles. Applicants can request a reasonable workplace accommodation/adjustment prior to accepting a job offer. If you require reasonable accommodations/adjustments in completing this application, or in any part of the recruitment process, direct your inquiries to adastaffingsupport@bms.com. Visit careers.bms.com/eeo-accessibility to access our complete Equal Employment Opportunity statement.
+  
+  
+**Candidate Rights**
+BMS will consider qualified applicants with arrest and conviction records, pursuant to applicable laws in your area.
+  
+  
+For roles based in Los Angeles County only: If you live in or expect to work from Los Angeles County if hired for this position, please visit this page for important additional information: https://careers.bms.com/california-residents/
+  
+  
+For roles based in Washington State only: If you live in or expect to work from Washington State if hired for this position, please visit this page for important information about the Washington Fair Chance Act.
+  
+  
+**Data Protection**
+We will never request payments, financial information, or social security numbers during our application or recruitment process. Learn more about protecting yourself at https://careers.bms.com/fraud-protection.
+  
+  
+Any data processed in connection with role applications will be treated in accordance with applicable data privacy policies and regulations.
+  
+  
+If this posting is missing required information required by local law or incorrect, contact BMS at TAEnablement@bms.com with the Job Title and Requisition number. Do not send application-related inquiries to this email. To check your application status, please login to your Candidate Home Account.
+  
+  
+R1600993 : Copilot AI Engineer

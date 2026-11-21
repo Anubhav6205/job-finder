@@ -1,0 +1,16 @@
+**Company Description**
+NexaCare Talent Mobility specializes in connecting Indian nurses, physiotherapists, and other healthcare professionals with career opportunities in Germany. The organization provides end-to-end support, including eligibility assessment, documentation assistance, and interview preparation. NexaCare also offers placement support and guidance on German language training to help candidates successfully transition to international roles. By focusing on comprehensive career mobility services, NexaCare enables healthcare professionals to build sustainable and rewarding careers abroad.
+  
+**Role Description**
+The Artificial Intelligence Engineer will design, develop, and implement AI solutions that enhance NexaCare’s talent mobility processes and digital platforms. Day-to-day responsibilities include building and training models for pattern recognition, working with neural networks, and applying natural language processing (NLP) to analyze documents and communication data. The role involves collaborating with product, operations, and engineering teams to integrate AI features into software systems, optimizing algorithms for performance, and maintaining scalable, secure AI services. The engineer will also monitor model performance, run experiments, and document technical designs and workflows. This is a full-time, on-site role based in Bengaluru South.
+  
+**Qualifications**
+
+* Strong foundation in Computer Science and Software Development, including data structures, algorithms, and software engineering best practices.
+* Hands-on experience with Pattern Recognition and Neural Networks, including model design, training, evaluation, and optimization.
+* Practical knowledge of Natural Language Processing (NLP), with experience applying NLP techniques to real-world text and document analysis tasks.
+* Proficiency in one or more programming languages commonly used in AI (e.g., Python, Java) and familiarity with AI/ML frameworks (e.g., TensorFlow, PyTorch, scikit-learn).
+* Bachelor’s or Master’s degree in Computer Science, Artificial Intelligence, Data Science, or a related field, or equivalent practical experience.
+* Ability to work collaboratively with cross-functional teams, communicate complex technical concepts clearly, and document solutions effectively.
+* Experience building production-grade AI systems, working with cloud platforms, and following secure, ethical AI practices is highly beneficial.
+* Interest in healthcare and international talent mobility domains, with a willingness to learn about regulatory and operational requirements.

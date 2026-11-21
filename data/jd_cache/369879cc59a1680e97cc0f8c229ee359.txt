@@ -1,0 +1,78 @@
+**About Target**  
+As a Fortune 50 company with more than 400,000 team members worldwide, Target is an iconic brand and one of America’s leading retailers. Joining Target means promoting a culture of mutual care and respect while striving to make a meaningful and positive impact for our guests, team members, and communities. Becoming a Target team member means joining a community that values diverse voices, encourages authenticity, and lifts each other up.  
+  
+**About Target in India**  
+At Target, we have a timeless purpose and a proven strategy. Some of the best minds from different backgrounds come together to redefine retail in an inclusive learning environment that values people and delivers world-class outcomes. This winning formula is especially apparent in Bengaluru, where Target in India operates as a fully integrated part of Target’s global team, with more than 5,000 team members supporting Target’s global strategy and operations.  
+  
+**Pyramid Overview**  
+A role with Target Data Science & Engineering offers the opportunity to develop, deploy, and operate state-of-the-art algorithmic systems that use data at scale to automate, personalize, and optimize business decisions. Our teams apply machine learning, statistics, operations research, simulation, optimization, and AI engineering to solve complex retail problems across Marketing, Personalization, Supply Chain, Merchandising, Finance, Network Security, and Guest Experience.You will work with Target’s rich data ecosystem and partner with product, engineering, analytics, and business teams to create scalable decisioning systems that deliver measurable business and guest impact.  
+  
+**Team Overview**  
+The **MarTech** team, **Calibrate,** owns and evolves Target’s promotion segmentation and offer optimization engine. The team powers personalized offers and offer depths for Target Circle guests across the retail assortment. We build machine learning, causal inference, optimization, simulation, and Generative AI capabilities to decide which guests should receive which offers, at what value, through which channels, and under what business constraints.  
+The team is responsible not only for model development, but also for production deployment, monitoring, experimentation, performance measurement, and continuous improvement. Our work sits at the intersection of Marketing Science, personalization, decision optimization, and enterprise-scale AI platforms.  
+  
+**Position Overview**  
+As a **Senior Data Scientist**, you will be a hands-on technical contributor and problem solver responsible for designing, developing, deploying, and improving scalable data science solutions for retail promotion optimization. You will work across machine learning, operations research, experimentation, and AI engineering / MLOps to build models and decision engines that drive incremental sales, improve redemption, optimize offer investment, and enhance guest relevance.  
+You will collaborate closely with product managers, engineers, data scientists, analysts, and Marketing business partners to translate ambiguous business problems into well-defined analytical, algorithmic, and engineering solutions. You will contribute to the full lifecycle of data science products: opportunity sizing, data exploration, model development, optimization formulation, offline evaluation, production deployment, monitoring, and iterative improvement.  
+You will also mentor junior team members, uphold high standards for scientific rigor and engineering quality, and help shape reusable frameworks for experimentation, simulation, model operations, and decision intelligence.  
+  
+**Role Overview**
+
+* Develop a deep understanding of Target’s promotion ecosystem, guest behavior, Marketing objectives, offer funding, incremental sales, redemption, and business constraints.
+* Translate business problems in promotion personalization and offer optimization into data science, machine learning, causal inference, simulation, and mathematical optimization problems.
+* Analyze large-scale structured and unstructured datasets to identify guest, item, offer, channel, and campaign patterns that can improve model performance and business outcomes.
+* Design, build, and evaluate machine learning models for segmentation, propensity, redemption prediction, incremental response, offer ranking, personalization, and guest-level decisioning.
+* Develop optimization-based solutions using linear programming, mixed-integer programming, constrained optimization, stochastic optimization, simulation, and heuristic approaches to allocate offers under business, budget, inventory, guest experience, and operational constraints.
+* Apply experimentation, causal inference, uplift modeling, and statistical measurement techniques to estimate incremental impact, validate model decisions, and guide business trade-offs.
+* Build and productionalize scalable data science pipelines using Python, SQL, Spark, Hadoop/Hive, and modern ML frameworks.
+* Partner with engineering teams to deploy models and decisioning modules into production systems with strong attention to reliability, scalability, latency, observability, and maintainability.
+* Contribute to AI engineering and MLOps capabilities, including feature pipelines, model versioning, automated training, batch and real-time scoring, model monitoring, drift detection, alerting, retraining workflows, and performance dashboards.
+* Use Generative AI and advanced AI techniques where appropriate to accelerate experimentation, improve decision support, enhance model development workflows, or create scalable business-facing tools.
+* Develop and maintain simulation frameworks to test promotion strategies, compare scenarios, evaluate business constraints, and understand downstream impact before production rollout.
+* Troubleshoot issues in data pipelines, model outputs, optimization results, and production systems; identify root causes and implement durable fixes.
+* Create clear documentation, model evaluation summaries, experiment readouts, and technical narratives that help stakeholders understand model behavior, trade-offs, risks, and business impact.
+* Collaborate across geographies and time zones with data scientists, engineers, product managers, analysts, and business partners.
+* Mentor junior data scientists and analysts by reviewing approaches, improving code quality, strengthening analytical rigor, and helping them connect data science methods to business outcomes.
+* Stay current with developments in machine learning, operations research, Generative AI, experimentation, and MLOps, and apply relevant techniques to Target’s retail challenges.
+
+**About You**
+
+* Bachelor’s, Master’s, or PhD in Computer Science, Statistics, Mathematics, Operations Research, Industrial Engineering, Economics, Physics, Applied Sciences, or a related quantitative field.
+* 4+ years of relevant experience in data science, applied machine learning, operations research, optimization, AI engineering, or advanced analytics.
+* Hands-on experience applying machine learning techniques to solve business problems, preferably in retail, e-commerce, Marketing, personalization, promotions, pricing, supply chain, advertising, or customer decisioning.
+* Strong foundation in supervised and unsupervised learning, probability, statistics, experimental design, model evaluation, and data analysis.
+* Experience with one or more areas of operations research, such as linear programming, mixed-integer programming, constrained optimization, simulation, stochastic processes, heuristic optimization, or decision science.
+* Experience building and deploying models or algorithmic systems that create measurable business impact in production environments.
+* Strong programming skills in Python and SQL, with experience working with large-scale data platforms such as Spark, Hadoop, Hive, or cloud-based distributed data environments.
+* Experience with ML frameworks and libraries such as scikit-learn, XGBoost, TensorFlow, PyTorch, OR-Tools, Pyomo, Gurobi, CPLEX, or similar tools.
+* Working knowledge of MLOps and production ML practices, including model versioning, automated pipelines, testing, monitoring, reproducibility, CI/CD, observability, and model governance.
+* Ability to clean, transform, join, and analyze large datasets and convert complex data into actionable insights and production-ready features.
+* Strong software engineering discipline, including modular code design, testing, code reviews, documentation, source control, and collaborative development practices.
+* Ability to balance scientific rigor with practical business delivery, making thoughtful trade-offs between model complexity, explainability, scalability, and operational feasibility.
+* Strong analytical thinking, structured problem-solving, and data visualization skills.
+* Ability to communicate complex technical concepts clearly to technical and non-technical audiences.
+* Self-driven, curious, and results-oriented, with the ability to operate in ambiguous problem spaces and deliver against tight timelines.
+* Strong collaboration skills and the ability to work effectively across teams, functions, geographies, and time zones.
+
+**Preferred Qualifications**
+
+* Experience in Marketing science, promotion optimization, personalization, recommender systems, pricing, retail media, customer targeting, or offer decisioning.
+* Experience with causal inference, uplift modeling, incrementality measurement, A/B testing, multi-armed bandits, or reinforcement learning.
+* Experience designing optimization solutions that account for real-world business constraints such as budget, eligibility, inventory, guest experience, campaign objectives, fairness, or operational capacity.
+* Experience building reusable simulation, experimentation, or decisioning frameworks.
+* Experience with cloud platforms, containerization, workflow orchestration, feature stores, model registries, or real-time inference systems.
+* Exposure to Generative AI, LLMs, prompt engineering, retrieval-augmented generation, agents, or AI-assisted analytics / decision support.
+* Experience mentoring junior team members or leading technical workstreams.
+
+**Know More About Us here:**
+
+* **Life at Target**- https://india.target.com/
+* **Benefits**- https://india.target.com/life-at-target/workplace/benefits
+* **Culture-** https://india.target.com/life-at-target/belonging
+
+**Know More About Us here:**
+
+* **Life at Target**: https://india.target.com/
+* **Benefits**: https://india.target.com/life-at-target/workplace/benefits
+* **Culture**: https://india.target.com/life-at-target/belonging
+* **Target** **Tech**: https://tech.target.com/

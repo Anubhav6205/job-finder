@@ -1,0 +1,97 @@
+[{"Salary":"Up to 50 K (Per Month)", "Remote\_Job" : false, "Posting\_Title" : "Azure Engineer (Tier 1)", "Is\_Locked":false,"City": "Pune City","Industry":"IT Services","
+
+**Job Title: Azure L1 Engineer    
+
+**Location: Pune    
+
+**Department: Cloud Infrastructure Services    
+
+**Experience: 0 \- 2 Years    
+
+**Reporting To: Azure L2 Engineer \/ Azure Architect    
+
+**About the Role   
+
+We are looking for a motivated Azure L1 Engineer to join our Cloud Infrastructure Services team. The ideal candidate should have a strong understanding of Azure fundamentals and basic hands\-on experience with Azure services.  
+
+The role involves providing first\-level support for Azure environments, monitoring cloud resources, performing routine operational tasks, troubleshooting common Azure issues, and assisting the L2 team in Azure migration, disaster recovery (DR), and managed services projects. This is an excellent opportunity for candidates looking to build a career in Microsoft Azure Cloud Operations.  
+
+**Key Responsibilities  
+
+**1. Azure Infrastructure Management   
+
+* Provision, configure, and manage Azure Virtual Machines (Windows\/Linux).
+* Create and manage Resource Groups, Storage Accounts, Virtual Networks (VNets), Subnets, and Network Security Groups (NSGs).
+* Perform VM lifecycle operations such as start, stop, restart, resize, and deallocation.
+* Manage managed disks, snapshots, and basic storage operations.
+* Assist in Azure resource deployments and post\-deployment validation.
+* Support Azure migration activities under the guidance of the L2 team.  
+
+  **2. Monitoring Operations   
+  + Monitor Azure resources using Azure Monitor, Service Health, and Activity Logs.
+  + Configure and manage basic Azure Monitor alerts and Action Groups.
+  + Perform routine infrastructure health checks and daily operational activities.
+  + Monitor resource utilization and identify potential issues proactively.
+  + Escalate incidents to L2 teams with complete technical findings.  
+
+    **3. Managed Services Support   
+    - Provide first\-level support for Azure incidents and service requests.
+    - Troubleshoot common issues related to Virtual Machines, networking, storage, and App Services.
+    - Perform routine patching, scheduled maintenance, and operational tasks.
+    - Monitor Azure Backup jobs and perform basic restore validation.
+    - Follow defined SOPs, runbooks, and escalation procedures.
+    - Ensure incidents and requests are resolved within agreed SLA timelines.  
+
+      **4. Identity Security   
+      * Create and manage Microsoft Entra ID users and groups.
+      * Assign Azure RBAC roles.
+      * Support Multi\-Factor Authentication (MFA).
+      * Assist in managing Azure Key Vault secrets.
+      * Review Microsoft Defender for Cloud recommendations and escalate security findings.
+      * Follow organizational security and compliance standards.  
+
+        **5. Networking   
+        + Create and manage Virtual Networks, Subnets, and NSGs.
+        + Configure Public and Private IP addresses.
+        + Assist with VNet Peering and VPN connectivity.
+        + Perform basic network troubleshooting for VM and application connectivity.
+        + Utilize Azure Network Watcher for connectivity diagnostics.  
+
+          **6. Documentation Collaboration   
+          - Update technical documentation, SOPs, and operational runbooks.
+          - Document troubleshooting steps and resolutions.
+          - Maintain knowledge base articles.
+          - Communicate incident updates and technical findings to internal teams.
+          - Collaborate with Azure L2 Engineers during project implementation and issue resolution.  
+
+            **Required Skills Experience  
+
+            **Technical Skills   
+            * Basic understanding of Microsoft Azure (IaaS and core PaaS services).
+            * Knowledge of Azure Virtual Machines, Storage Accounts, Virtual Networks, NSGs, and Resource Groups.
+            * Basic understanding of Microsoft Entra ID, Azure RBAC, and Identity Management.
+            * Familiarity with Azure Monitor, Azure Backup, and Azure App Services.
+            * Basic understanding of Azure Key Vault and Microsoft Defender for Cloud.
+            * Understanding of networking fundamentals, including TCP\/IP, DNS, RDP, SSH, VPN, Public\/Private IPs, and NSGs.
+            * Basic knowledge of Azure CLI or PowerShell will be an added advantage.
+            * Familiarity with Windows Server administration and basic Linux administration.  
+
+              **Additional Preferred Skills   
+              + Experience working in a Managed Services Provider (MSP) environment will be an added advantage.
+              + Familiarity with ITSM processes, including Incident, Service Request, Change, and Problem Management.
+              + Hands\-on experience with Jira Service Management, Zoho Desk, or ServiceNow will be an added advantage.
+              + Understanding of SLA\-driven support operations and ticket lifecycle management.
+              + Good documentation and ticket management practices.  
+
+                **Soft Skills   
+                - Strong troubleshooting and analytical skills.
+                - Excellent communication and interpersonal skills.
+                - Customer\-focused approach with a service\-oriented mindset.
+                - Ability to work in a fast\-paced support environment.
+                - Self\-motivated with a willingness to learn new Azure technologies.
+                - Ability to work collaboratively within cross\-functional teams.
+                - Preferred Certifications (Optional but Advantageous)**********************************
+
+  
+  
+ Disclaimer: This job posting has been aggregated from external source. Role details, content, and availability are subject to change. Applicants are advised to confirm the latest information directly on the company website before applying.

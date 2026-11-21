@@ -1,0 +1,116 @@
+Job Description
+
+**About Persistent**
+
+  
+
+We are an AI-led, platform-driven Digital Engineering and Enterprise Modernization partner, combining deep technical expertise and industry experience to help our clients anticipate what’s next. Our offerings and proven solutions create a unique competitive advantage for our clients by giving them the power to see beyond and rise above. We work with many industry-leading organizations across the world, including 18 of the Fortune 50 companies, 7 of the 10 top US banks, 9 of the 10 technology companies, and numerous innovators across the healthcare ecosystem.
+
+  
+
+Our disruptor’s mindset, commitment to client success, and agility to thrive in the dynamic environment have enabled us to sustain our growth momentum. Persistent has been recognized across top industry platforms for innovation, leadership, and inclusion. We have delivered 26 sequential quarters of growth with $487.6M in Q2 FY27 revenue, up 7.8% Q-o-Q and 20.0% Y-o-Y. Our 29,500+ global team members, located in 21 countries, have been instrumental in helping the market leaders transform their industries. We received five awards at the ISG (Information Services Group) Provider Lens™ Awards 2026 and, for the second year in a row, were awarded the Growth Honor of the Year at the Everest Group Elevate 2026.
+
+  
+
+**About Position:**
+
+  
+
+We are seeking a highly skilled Senior React/AI Software Engineer with 5 to 8 years of experience in modern web application development and AI-powered solutions. The ideal candidate will have strong expertise in React, JavaScript/TypeScript, API integrations, and hands-on experience building applications powered by Large Language Models (LLMs). You will be responsible for developing intelligent user-facing applications, integrating AI capabilities into enterprise platforms, and leveraging modern AI-assisted development tools to accelerate innovation and productivity.
+
+  
+
+* **Role: Senior React Developer**
+* **Location: All Persistent Locations**
+* **Experience: 5 to 8 Years**
+* **Job Type: Full-Time Employment**
+  
+
+**What You'll Do:**
+
+  
+
+* Design, develop, and maintain modern web applications using React.js and TypeScript.
+* Build responsive, scalable, and reusable user interface components following modern front-end architecture principles.
+* Integrate front-end applications with backend APIs, microservices, and enterprise platforms.
+* Develop AI-enabled applications leveraging Large Language Models (LLMs) and Generative AI services.
+* Design and optimize prompts, model interactions, and AI workflows for enterprise use cases.
+* Implement intelligent features such as AI assistants, conversational interfaces, knowledge search, document processing, and content generation.
+* Manage application-to-LLM interactions, model inputs, outputs, context handling, and response processing.
+* Utilize AI-assisted development tools such as GitHub Copilot, Visual Studio Copilot, Claude Code, and similar productivity platforms.
+* Collaborate with product owners, UX designers, backend developers, architects, and AI engineers to deliver business solutions.
+* Participate in solution design, architecture discussions, code reviews, debugging, and performance optimization.
+* Develop and maintain automated tests and ensure high code quality standards.
+* Follow Agile development methodologies and contribute to continuous improvement initiatives.
+* Stay updated with emerging AI technologies, frameworks, and front-end development trends.
+  
+
+**Expertise You'll Bring:**
+
+  
+
+* 5 to 8 years of professional software development experience.
+* Strong hands-on experience with React.js development.
+* Advanced proficiency in JavaScript (ES6+) and/or TypeScript.
+* Experience integrating front-end applications with backend APIs and enterprise services.
+* Practical experience building and deploying AI-enabled applications using Large Language Models (LLMs).
+* Hands-on experience with prompt engineering, prompt optimization, and model interaction workflows.
+* Experience managing application-to-LLM communication, context management, and AI response handling.
+* Strong understanding of modern front-end application architecture and design patterns.
+* Experience with software testing, debugging, code reviews, and performance optimization.
+* Practical experience using AI-assisted software development tools such as GitHub Copilot, Visual Studio Copilot, Claude Code, Cursor, or equivalent platforms.
+* Strong understanding of Git and modern source control practices.
+* Excellent analytical, problem-solving, and communication skills.
+* Experience working in Agile/Scrum development environments.
+  
+
+**Benefits:**
+
+  
+
+* Competitive salary and benefits package
+* Culture focused on talent development with quarterly growth opportunities and company-sponsored higher education and certifications
+* Opportunity to work with cutting-edge technologies
+* Employee engagement initiatives such as project parties, flexible work hours, and Long Service awards
+* Annual health check-ups
+* Insurance coverage: group term life, personal accident, and Mediclaim hospitalization for self, spouse, two children, and parents
+  
+
+**Values-Driven, People-Centric & Inclusive Work Environment:**
+
+  
+
+Persistent is dedicated to fostering diversity and inclusion in the workplace. We invite applications from all qualified individuals, including those with disabilities, and regardless of gender or gender preference. We welcome diverse candidates from all backgrounds.
+
+  
+
+* We support hybrid work and flexible hours to fit diverse lifestyles.
+* Our office is accessibility-friendly, with ergonomic setups and assistive technologies to support employees with physical disabilities.
+* If you are a person with disabilities and have specific requirements, please inform us during the application process or at any time during your employment
+  
+
+**Let's unleash your full potential at Persistent -** **persistent.com/careers**
+
+  
+
+***“Persistent is an Equal Opportunity Employer and prohibits discrimination and harassment of any kind.”***
+
+1
+
+Open Positions
+
+React,JavaScript,Databricks
+
+Skills Required
+
+PUNE
+
+Location
+
+React,JavaScript,Databricks
+
+Desirable Skills
+
+191740
+
+Job Code

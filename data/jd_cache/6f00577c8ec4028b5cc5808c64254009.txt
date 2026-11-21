@@ -1,0 +1,35 @@
+We are seeking a skilled **Senior Palantir Data Software Engineer** to join our team and contribute to a complex Data Transformation project within the Insurance domain.
+
+In this role, you will have the opportunity to design and implement advanced data pipelines and analytics solutions, leveraging cutting-edge Big Data and Machine Learning technologies to solve emerging challenges and support critical business decision-making.
+
+  
+
+**Responsibilities**
+
+* Design and implement robust data pipelines using Palantir Foundry to enable data-driven decision-making
+* Optimize and maintain ETL processes utilizing Python, PySpark, and SQL to transform large-scale datasets efficiently
+* Apply data warehousing concepts and ELT techniques to develop scalable data solutions
+* Collaborate with cross-functional teams in a Scrum/Agile environment to deliver high-quality solutions
+* Perform data analysis and debugging to identify and resolve issues in complex data pipelines
+* Bridge technical and business knowledge to ensure alignment of data solutions with Insurance domain objectives
+* Document processes, workflows, and functionality to ensure transparency and ease of future updates
+* Stay updated on industry trends and emerging technologies for potential adoption
+* Participate in global, culturally diverse team interactions with effective communication
+
+**Requirements**
+
+* Bachelor's degree or equivalent in Computer Science, Data Science, or a related field
+* At least 5 years of experience with a focus on large-scale distributed computing systems
+* Hands-on development experience with Palantir Foundry
+* Proficiency in Python, PySpark, and SQL (Spark SQL preferred) for developing and optimizing complex data pipelines
+* Extensive knowledge of data warehousing concepts and ELT techniques, and understanding of Insurance domain is highly desirable
+* Experience with Scrum and Agile methodologies for project delivery
+* Showcase of strong analytical thinking and the ability to address intricate challenges
+* Self-motivated with good time management skills, capable of owning tasks from inception to delivery
+* Strong interpersonal and verbal/written communication skills, including clarity in complex contexts
+* Upper-Intermediate (B2) or higher proficiency in English
+
+**Nice to have**
+
+* Background in the Insurance domain, Financial Industry, or finance-related functions in other industries
+* Familiarity with front-end technologies like HTML, CSS, JavaScript, and build tools like Gradle

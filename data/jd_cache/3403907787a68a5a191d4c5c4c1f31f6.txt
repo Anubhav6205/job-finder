@@ -1,0 +1,49 @@
+Job Description – Applied AI Engineer
+
+**Company:** GWC Data.AI  
+**Experience:** 4+ Years  
+**Location:** Bengaluru – Work from Office  
+**Employment Type:** Full-time
+
+Role Overview
+
+We are looking for an experienced Applied AI Engineer with strong expertise in Agentic AI, AI architecture, and building production-ready intelligent systems.
+
+Key Responsibilities
+
+* Design and develop Agentic AI and multi-agent workflows.
+* Build intelligent AI agents with tool calling, routing, and orchestration.
+* Develop backend services and APIs using Python and FastAPI.
+* Implement LLM-based solutions using LangGraph, Claude, and OpenAI SDK.
+* Integrate AI agents with enterprise applications, APIs, and MCP.
+* Ensure scalability, performance, and reliability of AI solutions.
+
+Required Skills
+
+* 4+ years of experience in software development / AI engineering.
+* Strong Python programming and FastAPI experience.
+* Hands-on experience with LangGraph, Claude, or OpenAI SDK.
+* Strong understanding of Agentic AI, LLMs, and multi-agent systems.
+* Experience with MCP, tool calling, and workflow orchestration.
+* Knowledge of RAG, vector databases, and cloud platforms is an added advantage.
+
+Pay: ₹475,000.00 - ₹1,770,000.00 per year
+
+Benefits:
+
+* Paid sick time
+
+Application Question(s):
+
+* Notice Period Duration?
+
+Experience:
+
+* AI Development: 4 years (Preferred)
+* Cloud AI Deployment: 3 years (Preferred)
+* Python: 3 years (Preferred)
+* Agentic AI: 2 years (Preferred)
+* LLM, Langchain: 2 years (Preferred)
+* Prompt engineering: 2 years (Preferred)
+
+Work Location: In person

@@ -1,0 +1,220 @@
+Prompt Engineer – Generative AI  
+Role Purpose  
+Centrica is looking for an experienced Prompt Engineer – Generative AI to design, develop, evaluate and optimise prompt based solutions using Large Language Models (LLMs) and Generative AI.  
+The role will work closely with product, engineering, data and business teams to translate real business problems into effective AI experiences and workflows.  
+The Prompt Engineer will take ownership of prompt design, prompt optimisation, evaluation, testing and guardrails, helping move Generative AI use cases from experimentation and proof of concept into reliable, secure and scalable production solutions.  
+The role requires a combination of strong analytical capability, understanding of LLM behaviour, hands on prompt engineering, experimentation, evaluation and sufficient technical knowledge to work effectively with AI engineers and software development teams.  
+Key Responsibilities  
+1. Prompt Engineering & Optimisation  
+  
+. Design, develop and optimise prompts for Large Language Models and Generative AI applications.  
+. Create reusable prompt templates and prompt patterns for different business use cases.  
+. Apply techniques including: Zero shot prompting Few shot prompting Structured prompting Contextual prompting Role/task based prompting Tool/function oriented prompting  
+. Experiment systematically with different prompt structures, instructions and context.  
+. Improve output accuracy, consistency, relevance and reliability.  
+. Reduce hallucinations and undesirable model behaviour.  
+. Optimise prompts considering quality, latency and token/cost efficiency.  
+  
+2. Generative AI Solution Development  
+  
+. Work with AI and software engineers to build Generative AI solutions that deliver measurable business value.  
+. Translate business requirements into effective LLM based interactions and workflows.  
+. Support use cases such as: Enterprise knowledge assistants Customer/service agent assistance Document summarisation and analysis Information extraction Classification Content generation Question answering Workflow automation Decision support applications  
+. Help move Generative AI capabilities from experimentation into production ready solutions.  
+  
+3. LLM Evaluation & Testing  
+  
+. Develop systematic approaches for evaluating prompt and model performance.  
+. Define evaluation criteria covering: Accuracy Relevance Completeness Consistency Groundedness Hallucination Safety Response quality  
+. Build representative evaluation datasets and test scenarios.  
+. Conduct comparative testing across prompts, models and configurations.  
+. Perform regression testing following prompt or model changes.  
+. Analyse failure patterns and identify opportunities for improvement.  
+. Establish measurable acceptance criteria before prompts are promoted into production.  
+  
+4. Retrieval Augmented Generation (RAG)  
+  
+. Work with engineering teams to design prompts for Retrieval Augmented Generation (RAG) solutions.  
+. Optimise how retrieved enterprise context is supplied to LLMs.  
+. Design system and user prompts that encourage grounded responses based on approved information.  
+. Support optimisation of retrieval and generation workflows.  
+. Evaluate whether responses are properly grounded in retrieved source material.  
+. Help identify whether poor results originate from retrieval, context, prompt design or the underlying model.  
+  
+5. Prompt Libraries & Reusable Patterns  
+  
+. Develop and maintain a governed library of reusable prompt templates.  
+. Define standard patterns for common Generative AI use cases.  
+. Maintain appropriate prompt documentation and version history.  
+. Ensure prompt changes can be tested, reviewed and traced.  
+. Promote reuse rather than duplication across AI solutions.  
+. Capture lessons learned and effective prompting practices for wider engineering teams.  
+  
+6. Responsible AI, Safety & Guardrails  
+  
+. Ensure prompt based solutions comply with Centrica's security, privacy, governance and responsible AI requirements.  
+. Design appropriate safeguards against: Prompt injection Jailbreak attempts Hallucination Sensitive information disclosure Harmful or inappropriate outputs Unintended model behaviour  
+. Define system level instructions and constraints for production AI applications.  
+. Work with Security, Data and AI Governance stakeholders to identify and mitigate risks.  
+. Support testing for bias, safety, privacy and explainability.  
+. Ensure human oversight is incorporated where appropriate.  
+  
+7. Business Requirement Translation  
+  
+. Work directly with business and product stakeholders to understand problems that could benefit from Generative AI.  
+. Translate business requirements into clear AI tasks and prompt strategies.  
+. Facilitate discovery and experimentation sessions with users.  
+. Understand user journeys and determine where AI can genuinely improve outcomes.  
+. Challenge use cases where Generative AI may not be the appropriate solution.  
+. Convert user feedback into measurable prompt and solution improvements.  
+  
+8. AI Experimentation  
+  
+. Experiment with different Large Language Models and model configurations.  
+. Compare models based on: Output quality Accuracy Reasoning capability Latency Cost Security Context window requirements  
+. Conduct controlled experiments to determine the most effective approach for each use case.  
+. Document findings and provide evidence based recommendations.  
+. Stay current with developments in LLMs, Generative AI and prompt engineering techniques.  
+  
+9. Production AI & Monitoring  
+  
+. Work with AI engineering teams to integrate prompts into production applications and services.  
+. Ensure prompts are version controlled and deployed through appropriate engineering processes.  
+. Define monitoring requirements for prompt/model performance.  
+. Analyse production feedback and failure patterns.  
+. Support continuous improvement of live Generative AI services.  
+. Identify prompt/model drift or degradation.  
+. Contribute to incident investigation where AI behaviour affects production services.  
+  
+10. Collaboration with AI Engineering  
+Work closely with:  
+  
+. AI / ML Engineers  
+. Software Engineers  
+. Data Engineers  
+. Data Scientists  
+. Product Managers / Product Owners  
+. UX / Conversation Designers  
+. Solution Architects  
+. Security teams  
+. Data Governance teams  
+. Business SMEs  
+  
+Ensure prompt design is integrated into the overall engineering lifecycle rather than treated as an isolated activity.  
+11. Documentation & Governance  
+  
+. Document prompt purpose, design decisions and expected behaviour.  
+. Maintain prompt versions and associated evaluation results.  
+. Document known limitations and failure scenarios.  
+. Define appropriate usage guidance.  
+. Support governance reviews for production AI solutions.  
+. Ensure sufficient traceability between business requirements, prompt versions, testing and production releases.  
+  
+Mandatory Skills & Experience  
+The successful candidate should have hands on experience with:  
+  
+. Large Language Models (LLMs)  
+. Generative AI  
+. Prompt engineering and prompt optimisation  
+. System/user prompt design  
+. Structured prompting and few shot techniques  
+. LLM evaluation and testing  
+. Hallucination and groundedness evaluation  
+. Responsible AI and AI safety  
+. Working with LLM APIs / managed foundation model platforms  
+. RAG concepts and prompt design  
+. Python or equivalent scripting capability  
+. API based AI integration  
+. Git / source control practices  
+  
+The candidate should also demonstrate:  
+  
+. Strong analytical and problem solving skills.  
+. Ability to design structured experiments and interpret results.  
+. Ability to translate business problems into AI use cases.  
+. Strong written communication and language skills.  
+. Understanding of data privacy and security.  
+. Experience collaborating with software and AI engineering teams.  
+. Strong attention to detail and quality.  
+  
+Desirable Technical Skills  
+Experience with the following would be advantageous:  
+  
+. Python  
+. SQL  
+. Azure OpenAI / AWS Bedrock or equivalent managed AI platforms  
+. OpenAI compatible APIs  
+. LangChain / LangGraph or equivalent orchestration frameworks  
+. Vector databases  
+. Embeddings and semantic search  
+. RAG architectures  
+. Agentic AI / tool calling  
+. REST APIs  
+. CI/CD  
+. Docker / containers  
+. Cloud native AI deployment  
+. Prompt/model observability  
+. Automated LLM evaluation frameworks  
+  
+Responsible AI Knowledge  
+Candidates should understand the risks associated with enterprise Generative AI, including:  
+  
+. Hallucination  
+. Prompt injection  
+. Data leakage  
+. Bias  
+. Toxic or inappropriate output  
+. Privacy  
+. Explainability  
+. Model reliability  
+. Human oversight  
+  
+They should be able to incorporate appropriate controls into prompt and solution design rather than treating responsible AI as a post development activity.  
+Key Competencies  
+Prompt EngineeringAble to systematically design and optimise prompts rather than relying on trial and error prompting.  
+Analytical ThinkingAble to define measurable evaluation criteria and use evidence to improve AI behaviour.  
+Generative AI UnderstandingUnderstands LLM capabilities, limitations and common failure modes.  
+Business Problem SolvingCan translate ambiguous business requirements into clearly defined AI tasks and workflows.  
+Engineering MindsetTreats prompts as production artefacts requiring versioning, testing, monitoring and controlled deployment.  
+Responsible AIUnderstands security, privacy, bias, hallucination and governance considerations associated with enterprise AI.  
+CollaborationWorks effectively across Product, Engineering, Data, Security and business teams.  
+Expected Outcomes  
+The Prompt Engineer will help Centrica to:  
+  
+. Improve the quality and reliability of Generative AI solutions.  
+. Accelerate movement from AI experimentation into production.  
+. Establish reusable enterprise prompt patterns and standards.  
+. Reduce hallucinations and unreliable AI behaviour.  
+. Establish measurable evaluation frameworks for LLM applications.  
+. Improve grounding of enterprise AI through effective RAG prompting.  
+. Strengthen responsible AI controls.  
+. Improve user experience and adoption of AI solutions.  
+. Reduce repetitive manual work through effective AI automation.  
+. Deliver measurable customer and business value from Generative AI.  
+  
+Candidate Profile  
+The ideal candidate is not simply someone who is good at writing prompts in ChatGPT.  
+We are looking for someone who understands how to engineer reliable LLM behaviour in an enterprise environment and can answer questions such as:  
+How do we measure whether this prompt is actually better? How do we prevent hallucinations? How do we ground the answer in enterprise data? How do we protect against prompt injection? How do we version and regression test prompts? How do we monitor quality after deployment?  
+The strongest candidate would combine:  
+Prompt Engineering + LLMs + Evaluation + RAG + Python + Responsible AI + Production Engineering Awareness  
+with the ability to work closely with business stakeholders and translate real Centrica use cases into effective AI solutions.
+
+**Your future duties and responsibilities**
+
+**Required qualifications to be successful in this role**
+
+**Together, as owners, let’s turn meaningful insights into action.**  
+  
+Life at CGI is rooted in ownership, teamwork, respect and belonging. Here, you’ll reach your full potential because…  
+  
+You are invited to be an owner from day 1 as we work together to bring our Dream to life. That’s why we call ourselves CGI Partners rather than employees. We benefit from our collective success and actively shape our company’s strategy and direction.  
+  
+Your work creates value. You’ll develop innovative solutions and build relationships with teammates and clients while accessing global capabilities to scale your ideas, embrace new opportunities, and benefit from expansive industry and technology expertise.  
+  
+You’ll shape your career by joining a company built to grow and last. You’ll be supported by leaders who care about your health and well-being and provide you with opportunities to deepen your skills and broaden your horizons.
+  
+  
+That same commitment to fairness extends to how we use technology. To support our recruitment team, AI tools may be used to help assess applications though they never replace human judgement. All hiring decisions remain entirely in the hands of our recruitment professionals.  
+  
+Come join our team—one of the largest IT and business consulting services firms in the world.

@@ -1,0 +1,114 @@
+**Job Summary**
+---------------
+
+VOLVO FG  
+"Description:
+
+The Opportunity  
+Dev Team Assistant (DTA) has successfully completed its pilot phase and is now preparing for enterprise-wide rollout across Volvo Group. We are looking for a Senior AI Engineer who enjoys balancing hands-on development with architectural thinking and wants to help scale an enterprise AI platform used across Volvo Group.  
+This is an opportunity to work hands-on with modern GenAI technologies, agent systems, RAG architectures, and influence the strategy for a product that will make a real difference for development teams across the organization.
+
+About the Product and Team  
+Dev Team Assistant (DTA) is an AI-powered assistant helping development teams quickly find answers, guidance, and resources grounded in Volvo Group knowledge. DTA serves as the orchestration layer for a growing ecosystem of AI assistants, making scalability, routing, observability, and user experience key challenges moving forward.  
+As adoption grows, our focus is on expanding our ecosystem of AI assistants, improving routing and orchestration, enhancing response quality and performance and continuously improving user experience.  
+The team consists of three developers and a Digital Product Owner working closely together in an agile and highly collaborative environment. We value transparency, curiosity, and a culture where everyone shares knowledge and supports each other.  
+  
+What You’ll Do  
+
+* Design and implement AI-powered capabilities within DTA
+* Develop and improve agent-based workflows and orchestration patterns
+* Improve platform performance, reliability, and scalability
+* Take ownership of key technical decisions and help shape the long-term AI architecture for DTA.
+* Integrate new assistants and AI services into the platform
+* Contribute to DevSecOps practices and engineering excellence
+* Act as a senior technical contributor and sparring partner within the team
+* Thrive in a team where everyone's voice is heard, initiative is encouraged, and collaboration comes naturally.
+
+What We’re Looking For  
+Several years of professional software engineering experience, with strong Python skills and experience building production-grade AI solutions.
+
+Required:  
+
+* Python skills.
+* Experience with several of the following:
+* LLM applications
+* RAG architectures
+* agent-based systems.
+* LangGraph and/or LangChain,
+* Evaluation and optimization of AI assistants
+* Azure OpenAI
+* FastAPI
+* Azure Web Apps
+* Communicative, proactive, and transparent in your work.
+* Comfortable navigating emerging technologies and solving problems where there is no established playbook.
+
+Nice to have:  
+
+* Frontend experience with React and TypeScript is preferred.
+* Good understanding of DevOps: pipelines, CI/CD, test automation, application security, cloud, network, Terraform.
+* Solid experience with Microsoft Azure in a controlled environment."
+
+**Key Responsibilities**
+------------------------
+
+"Description:
+
+The Opportunity  
+Dev Team Assistant (DTA) has successfully completed its pilot phase and is now preparing for enterprise-wide rollout across Volvo Group. We are looking for a Senior AI Engineer who enjoys balancing hands-on development with architectural thinking and wants to help scale an enterprise AI platform used across Volvo Group.  
+This is an opportunity to work hands-on with modern GenAI technologies, agent systems, RAG architectures, and influence the strategy for a product that will make a real difference for development teams across the organization.
+
+About the Product and Team  
+Dev Team Assistant (DTA) is an AI-powered assistant helping development teams quickly find answers, guidance, and resources grounded in Volvo Group knowledge. DTA serves as the orchestration layer for a growing ecosystem of AI assistants, making scalability, routing, observability, and user experience key challenges moving forward.  
+As adoption grows, our focus is on expanding our ecosystem of AI assistants, improving routing and orchestration, enhancing response quality and performance and continuously improving user experience.  
+The team consists of three developers and a Digital Product Owner working closely together in an agile and highly collaborative environment. We value transparency, curiosity, and a culture where everyone shares knowledge and supports each other.  
+  
+What You’ll Do  
+
+* Design and implement AI-powered capabilities within DTA
+* Develop and improve agent-based workflows and orchestration patterns
+* Improve platform performance, reliability, and scalability
+* Take ownership of key technical decisions and help shape the long-term AI architecture for DTA.
+* Integrate new assistants and AI services into the platform
+* Contribute to DevSecOps practices and engineering excellence
+* Act as a senior technical contributor and sparring partner within the team
+* Thrive in a team where everyone's voice is heard, initiative is encouraged, and collaboration comes naturally.
+
+What We’re Looking For  
+Several years of professional software engineering experience, with strong Python skills and experience building production-grade AI solutions.
+
+Required:  
+
+* Python skills.
+* Experience with several of the following:
+* LLM applications
+* RAG architectures
+* agent-based systems.
+* LangGraph and/or LangChain,
+* Evaluation and optimization of AI assistants
+* Azure OpenAI
+* FastAPI
+* Azure Web Apps
+* Communicative, proactive, and transparent in your work.
+* Comfortable navigating emerging technologies and solving problems where there is no established playbook.
+
+Nice to have:  
+
+* Frontend experience with React and TypeScript is preferred.
+* Good understanding of DevOps: pipelines, CI/CD, test automation, application security, cloud, network, Terraform.
+* Solid experience with Microsoft Azure in a controlled environment."
+
+**Skill Requirements**
+----------------------
+
+**Must Have Skill**
+-------------------
+
+Azure OpenAI Service,Python,Large Language Models (LLMs)
+
+**Good to Have Skill**
+----------------------
+
+TypeScript,Devops
+
+**Other Requirements**
+----------------------

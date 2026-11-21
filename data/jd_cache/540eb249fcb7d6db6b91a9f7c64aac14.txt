@@ -1,0 +1,27 @@
+**Role Overview**
+
+  
+
+The Senior C# Full Stack Developer will design and deliver secure, scalable full-stack applications using C#, .NET Core, ASP.NET Core, Web API, Angular, and cloud platforms. The role requires strong back-end engineering expertise, hands-on Angular front-end development, sound software design fundamentals, and the ability to lead effectively in a fast-paced environment with high-quality standards.
+
+  
+
+**Must-Have Skills**
+
+* 7+ years of hands-on software development experience.
+* Strong proficiency in C#, .NET Core, ASP.NET Core, Web API, object-oriented programming, service-oriented architecture, and commonly used design patterns.
+* Strong hands-on experience with Angular for front-end development, including components, services, routing, reactive forms, RxJS, REST API integration, and responsive user-interface development.
+* Hands-on cloud development experience with AWS/ Microsoft Azure .
+* Good working knowledge of SQL and Microsoft SQL Server.
+* Good understanding of test-driven development (TDD) and SAFe practices.
+* Good understanding of SOLID principles and software design patterns.
+* Strong debugging and problem-solving skills.
+* Deep understanding of security technologies, including access control, attack-surface analysis, encryption, identity management, and federation systems in Azure.
+* Ability to perform effectively in a fast-paced, informal environment where change is frequent and quality expectations are high.
+* Strong communication and team leadership capabilities.
+
+  
+
+**Nice-to-Have Skill**
+
+* Experience implementing CI/CD pipelines using Azure DevOps.

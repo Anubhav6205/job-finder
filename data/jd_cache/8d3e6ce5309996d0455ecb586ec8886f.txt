@@ -1,0 +1,23 @@
+Required Skills:
+
+* Python
+
+* AI/ML
+
+* Cloud Platform
+
+* MLOps
+
+* Data Engineering
+
+  
+
+Nice to Have:
+
+* REST APIs
+
+* Containerization
+
+  
+
+Designation | Senior AI Engineer Qualification | BE Experience (in years) | 5 Job Description | Python Developer with Cloud experience and expertise Skill Set Required | Python , AWS , Azure

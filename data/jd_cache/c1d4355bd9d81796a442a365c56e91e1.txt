@@ -1,0 +1,73 @@
+**Job Summary**
+---------------
+
+**Role Summary**  
+We are looking for a hands-on Technical Lead to drive architecture, delivery, and engineering quality for an enterprise AI workflow automation platform.  
+The platform combines a multi-agent backend (FastAPI, LangChain/LangGraph), Azure cloud services (Cosmos DB, Key Vault), and an Excel Add-in frontend (Office.js/TypeScript) to automate complex planning and decision-support workflows.
+
+You will lead end-to-end technical execution across backend, frontend, and data integration layers, while mentoring engineers and setting strong standards for reliability, performance, and secure development.
+
+**Key Responsibilities**
+------------------------
+
+* Own technical architecture and roadmap for the multi-agent orchestration platform.
+* Lead design and implementation across Python/FastAPI services, agent orchestration, and Office.js frontend integration.
+* Drive API contract quality, service reliability, and inter-agent communication patterns.
+* Ensure production-grade engineering practices: observability, structured logging, error handling, retries, and performance tuning.
+* Guide Cosmos DB schema evolution, data consistency, and query efficiency.
+* Enforce secure secret management with Azure Key Vault and enterprise security standards.
+* Define and uphold coding standards, review quality gates, and test strategy (unit, integration, E2E).
+* Collaborate with product and business stakeholders to translate requirements into scalable technical solutions.
+* Mentor engineers, improve team velocity, and build a culture of high ownership and technical excellence.
+* Support release planning, incident triage, root-cause analysis, and continuous improvement.
+
+**Required Qualifications**
+---------------------------
+
+* 4+ years in software engineering, with 2+ years in a Technical Lead or Staff-level role.
+* Strong hands-on experience with Python and FastAPI in production systems.
+* Proven experience designing distributed or multi-service architectures.
+* Experience with LLM/agent frameworks (LangChain, LangGraph, or similar).
+* Strong cloud experience on Azure, including Cosmos DB and Key Vault.
+* Experience with API-first design, versioning, and backward compatibility management.
+* Solid frontend collaboration skills, ideally with TypeScript and Office.js or comparable web app frameworks.
+* Strong grounding in CI/CD, automated testing, and production observability.
+* Excellent communication skills and ability to align engineering with business outcomes.
+* **Skill set needed to lead this project:** strong multi-agent orchestration design, including tool-calling workflows, agent state management, and failure recovery strategies.
+
+**Preferred Qualifications**
+----------------------------
+
+* Experience in enterprise workflow automation domains.
+* Experience with Excel Add-ins, Webpack-based frontend builds, or plugin-style enterprise tools.
+* Familiarity with vector search, retrieval pipelines, and prompt/agent evaluation workflows.
+* Experience leading modernization initiatives and technical documentation governance.
+
+**Key Responsibilities**
+------------------------
+
+1. To be responsible for providing technical guidance / solutions ;define, advocate, and implement best practices and coding standards for the team.
+  
+2. To develop and guide the team members in enhancing their technical capabilities and increasing productivity
+  
+3. To ensure process compliance in the assigned module| and participate in technical discussions/review as a technical consultant for feasibility study (technical alternatives, best packages, supporting architecture best practices, technical risks, breakdown into components, estimations).
+  
+4. To prepare and submit status reports for minimizing exposure and risks on the project or closure of escalations.
+
+**Skill Requirements**
+----------------------
+
+null
+
+**Must Have Skill**
+-------------------
+
+Gen AI,Agentic AI
+
+**Good to Have Skill**
+----------------------
+
+**Other Requirements**
+----------------------
+
+null

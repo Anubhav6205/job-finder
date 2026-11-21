@@ -1,0 +1,15 @@
+**Responsibilities**
+
+Design and implement advanced Generative AI models to solve complex problems. - Collaborate with cross-functional teams to integrate AI solutions into existing systems. - Conduct research and stay updated with the latest advancements in NLP and AI technologies. - Develop scalable and efficient AI algorithms to enhance product offerings. - Mentor junior team members and share knowledge to foster a culture of learning. Good to have skills: Machine Learning, Data Analysis, Deep Learning, Python Programming, Cloud Computing
+
+**Technical and Professional Requirements:**
+
+* Primary skills: Machine Learning->Generative AI-> Agentic AI-> Large Language Models-> NLP-> Artificial Intelligence
+
+**Preferred Skills:**
+
+Technology->AI-Data science->Machine Learning
+
+Technology->AI-Generative AI->Generative AI - Basic
+
+Technology->AI-Agentic AI->Agent Engineering

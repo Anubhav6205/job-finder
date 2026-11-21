@@ -1,0 +1,82 @@
+**This role is for one of our clients**
+
+Industry: Software Development
+
+Seniority level: Associate Level
+
+  
+
+Min Experience: 2+ years  
+Location: Bengaluru, Karnataka, India  
+JobType: full-time
+
+We are looking for a skilled and customer-focused Application Support Engineer to provide technical and functional support for software applications. The role involves managing customer-reported issues, troubleshooting application-related problems, identifying effective solutions, and ensuring timely resolution of technical queries.
+
+The ideal candidate should have experience in Application Support, Product Support, or Customer Support, along with strong problem-solving and communication skills. The individual will work closely with internal technical teams to investigate complex issues, ensure smooth application functioning, and deliver a high-quality support experience to international clients.
+
+**Requirements**
+----------------
+
+**Key Responsibilities**
+------------------------
+
+* Take ownership of customer-reported issues and ensure they are resolved within defined timelines.
+* Research, diagnose, troubleshoot, and identify appropriate solutions for application and system-related problems.
+* Understand the application from both functional and technical perspectives to provide effective support.
+* Follow established procedures to escalate unresolved or complex issues to the appropriate internal teams.
+* Refer to internal knowledge bases, technical documentation, and external resources to identify accurate solutions.
+* Ensure all customer issues, incidents, and resolutions are properly logged and tracked.
+* Prioritize and manage multiple open support requests while maintaining service quality.
+* Prepare accurate and timely reports on support activities, issue status, and resolutions.
+* Document technical knowledge, troubleshooting steps, and solutions through internal notes, knowledge articles, and user manuals.
+* Coordinate with relevant teams to investigate recurring issues and improve the overall support process.
+
+**Required Skills & Qualifications**
+------------------------------------
+
+* Prior experience as an Application Support Engineer, Product Support Engineer, or Customer Support Engineer.
+* Strong understanding of application support processes and troubleshooting methodologies.
+* Ability to quickly learn and gain expertise in organization-specific software applications.
+* Strong analytical and complex problem-solving abilities.
+* Excellent written and verbal communication skills.
+* Ability to diagnose, investigate, and resolve application-related issues.
+* Familiarity with support workflows, issue tracking, and escalation procedures.
+* Ability to manage multiple support tickets and prioritize tasks effectively.
+* Willingness to work in rotational shifts.
+
+**Must-Have Skills**
+--------------------
+
+* Application Support
+* Product Support
+* Customer Support
+* Application troubleshooting and issue resolution
+* Technical problem-solving and customer communication
+
+**Good-to-Have Skills**
+-----------------------
+
+* Hands-on experience with Postman for API testing and troubleshooting.
+* Familiarity with ticketing and support management tools.
+* Basic understanding of Internet of Things (IoT), connected devices, and software integrations.
+* Exposure to L3-level support and handling complex technical issues.
+* Experience supporting international clients.
+
+**Role Highlights**
+-------------------
+
+* Opportunity to gain hands-on experience with chat-based support and ticketing platforms.
+* Exposure to L3-level application and product support.
+* Practical experience using Postman and troubleshooting application-related issues.
+* Opportunity to work with international clients and collaborate with cross-functional technical teams.
+
+**Key Competencies**
+--------------------
+
+* Customer-centric approach and ownership of issues.
+* Strong attention to detail and analytical thinking.
+* Effective communication and stakeholder coordination.
+* Ability to work independently and collaboratively.
+* Adaptability to rotational shifts and dynamic support environments.
+
+We may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses and identifying potential inconsistencies or verification signals in application materials based on available information. These tools assist our recruitment team but do not replace human judgment. Final hiring decisions are ultimately made by humans. If you would like more information about how your data is processed, please contact us.

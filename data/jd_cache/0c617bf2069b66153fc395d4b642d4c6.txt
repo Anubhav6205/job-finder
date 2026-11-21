@@ -1,0 +1,115 @@
+Machine Learning Engineer - Voice Agents (SDE2)
+
+Exp. Required: 3 to 5 years
+
+**About the Opportunity:**
+
+We are building and scaling a production-grade conversational AI platform that delivers real-time, personalised experiences across chat and voice. Our AI agents are already in production, and we are expanding voice capabilities, multilingual support, personalisation, and reliability to support a growing user base.
+
+**What You Will Do:**
+
+1. Scale Conversational AI in Production
+
+• Own and scale live conversational AI pipelines, optimising reliability, latency, and response quality as traffic grows.
+
+• Extend multi-turn conversations, context management, memory, and agentic workflows for high concurrency.
+
+• Improve grounding, consistency, and relevance under real production loads.
+
+2. Build and Scale Voice AI
+
+• Build and scale real-time voice AI systems and conversational interfaces.
+
+• Work on streaming ASR, TTS, turn-taking, and low-latency voice interaction.
+
+• Unify chat and voice experiences through shared context and memory.
+
+3. LLM and RAG Systems at Scale
+
+• Build retrieval systems over domain knowledge, structured data, and user context using LLMs, embeddings, vector search, RAG, and tool calling.
+
+• Improve chunking, retrieval, metadata filtering, reranking, and relevance as data and traffic grow.
+
+• Evaluate open-source and proprietary models for product and deployment needs.
+
+4. LLM Orchestration and Optimisation
+
+• Design production model orchestration and routing based on task requirements, quality, latency, and cost.
+
+• Build robust fallbacks, structured outputs, and model-specific workflows.
+
+• Own token consumption, inference latency, and infrastructure cost as key operational metrics.
+
+5. Personalisation and Memory
+
+• Build AI systems that leverage user profiles, conversation history, preferences, goals, and contextual signals.
+
+• Extend long-term memory and personalisation systems as the platform scales.
+
+• Improve recommendations, ranking, and relevance for individual users.
+
+6. Domain Intelligence and Recommendations
+
+• Combine structured domain data, deterministic business logic, retrieval, ML models, and LLM reasoning.
+
+• Develop reliable personalised insights and recommendation workflows.
+
+• Integrate domain-specific computation and data into conversational experiences.
+
+7. Evaluation and Quality in Production
+
+• Build evaluation datasets and automated tests covering chat and voice AI.
+
+• Measure response quality, retrieval relevance, grounding, hallucination, consistency, and personalisation.
+
+• Use production feedback and offline evaluations to detect regressions and improve quality.
+
+8. Production ML Engineering and Reliability
+
+• Build and own ML/AI services from development through deployment and scaling.
+
+• Work with Python, APIs, Docker, AWS, databases, caching, queues, and vector databases.
+
+• Own service latency, reliability, scalability, debugging, and incident prevention.
+
+**What We Are Looking For:**
+
+• 3-5 years of experience in Machine Learning, Applied ML, NLP, or GenAI engineering.
+
+• Strong Python and software engineering fundamentals.
+
+• Hands-on experience with LLMs, RAG, embeddings, vector search, or conversational AI, ideally deployed in production.
+
+• Experience scaling production ML/AI services, including real-time or low-latency systems.
+
+• Sound ML fundamentals, model evaluation, and experimentation practices.
+
+• Experience with FastAPI or Flask, Docker, and cloud platforms such as AWS.
+
+• Strong system-design skills across caching, databases, performance, and reliability.
+
+• Ability to own projects end-to-end: design, implementation, evaluation, deployment, and scale.
+
+**Good to Have:**
+
+• LangChain, LangGraph, LlamaIndex, or comparable agent frameworks.
+
+• Qdrant, Pinecone, FAISS, Chroma, or other vector search systems.
+
+• Redis, PostgreSQL, S3, Kafka, RabbitMQ, or similar infrastructure.
+
+• Hugging Face, open-source LLMs, vLLM, or model serving.
+
+• Voice AI exposure: ASR, TTS, streaming audio, or real-time speech pipelines.
+
+• Hindi or other Indic-language NLP, or multilingual AI systems.
+
+• Recommendation, ranking, and personalisation systems.
+
+• Fine-tuning, LoRA, PEFT, distillation, or reinforcement-learning-based optimisation.
+
+• LLM observability and evaluation tools such as Langfuse, LangSmith, or Phoenix.
+
+**What You Will Get to Work On:**
+
+You will work on production LLMs, RAG, conversational AI, voice AI, personalisation, memory, recommendations, evaluation, and model serving. You will help evolve systems already serving users into a reliable, multilingual, real-timeAI platform with high-quality personalised interactions.

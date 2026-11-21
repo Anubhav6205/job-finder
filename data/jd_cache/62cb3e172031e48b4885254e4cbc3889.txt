@@ -1,0 +1,27 @@
+Oracle Database Patch Delivery Team is responsible for delivering software patches and updates across multiple products, components, releases, and platforms. The team also develops automation solutions to streamline patch creation, testing, and delivery, investigates failures in automated systems, and builds AI-driven tools to improve engineering efficiency.
+
+  
+
+Develop, package, test, and deliver software patches and updates across multiple products, releases, and platforms.
+
+Design and implement automation solutions for software patch creation, validation, testing, and delivery.
+
+Investigate failures in automated build and patching systems, identify root causes, and implement fixes.
+
+Build and maintain Jenkins CI/CD pipelines and supporting automation scripts.
+
+Troubleshoot technical issues across Linux, Unix and Windows environments.
+
+Collaborate with Development, Testing, and Release Management teams to resolve issues and improve delivery processes.
+
+Document technical solutions, automation workflows, and operational procedures.
+
+Design and develop AI-powered tools to analyze logs, troubleshoot failures, answer technical questions, and predict delivery timelines.
+
+Design and develop AI agents and Agentic AI workflows to automate engineering and operational tasks.
+
+Develop and maintain Retrieval-Augmented Generation (RAG) solutions using internal documentation and knowledge sources.
+
+Integrate databases, documents, APIs, and internal systems into AI and automation workflows.
+
+Develop techniques to evaluate the accuracy and effectiveness of LLM-based solutions.

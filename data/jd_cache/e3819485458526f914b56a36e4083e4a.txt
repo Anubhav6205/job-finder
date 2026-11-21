@@ -1,0 +1,13 @@
+**Roles and Responsibilities :**
+
+* Design, develop, and deploy large language models using cloud-based platforms such as AWS or GCP.
+* Collaborate with cross-functional teams to integrate AI solutions into existing systems and applications.
+* Develop and maintain high-quality code in Python, ensuring scalability, performance, and reliability.
+* Troubleshoot complex issues related to natural language processing (NLP) algorithms and data pipelines.
+
+**Job Requirements :**
+
+* 5-10 years of experience in developing AI-powered applications using Python programming language.
+* Strong understanding of cloud computing concepts on AWS or GCP platforms.
+* Proficiency in designing and implementing NLP workflows using various libraries such as TensorFlow or PyTorch.
+* Experience with retrieval augmented generation techniques for improving text summarization capabilities.

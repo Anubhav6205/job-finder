@@ -1,0 +1,71 @@
+LRR Technologies is currently hiring talented professionals to work with Kidde Global Solutions. Kidde Global Solutions is a world leader in fire and life safety solutions tailored for complex commercial
+
+facilities and homes.
+
+  
+
+**Role:**
+
+  
+
+* Design and develop production-ready Generative AI, RAG, AI Agents, workflow automation, and enterprise AI solutions.
+* uild end-to-end AI workflows using Python, LLMs, APIs, enterprise tools, and automation frameworks.
+
+  
+
+**Responsibilities:**
+
+  
+
+* Develop AI Agents, RAG systems, and LLM-powered applications.
+* Build AI workflows and business process automation.
+* Implement tool/function calling, agent orchestration, memory, and human-in-the-loop workflows.
+* Develop enterprise connectors and integrations.
+* Integrate Outlook, Teams, SharePoint, Jira, Git, Slack, databases, and REST APIs.
+* Build Python APIs and backend services.
+* Implement AI testing, evaluation, monitoring, and observability.
+* Work with architects and engineering teams to deliver scalable production solutions.
+
+  
+
+**Required Skills:**
+
+  
+
+* Programming: Python, FastAPI, REST APIs, Async Programming, OOP, Git, Unit Testing.
+* AI/LLM: Generative AI, LLMs, Prompt Engineering, Function Calling, Tool Calling.
+* RAG: Embeddings, Vector Databases, Semantic/Hybrid Search, Reranking, Document Processing.
+* Agents: AI Agents, Agentic Workflows, Planning, Reasoning, Memory, Tool Execution.
+* Frameworks: LangGraph, LangChain, LlamaIndex, Semantic Kernel, AutoGen, CrewAI.
+* LLMs: OpenAI, Azure OpenAI, Anthropic, Gemini, Open-Source LLMs.
+* Integration: Microsoft Graph, Microsoft 365, Outlook, Teams, SharePoint, Jira, Git, Slack, REST APIs,
+* OAuth2, Webhooks, MCP.
+* Infrastructure: Docker, CI/CD, Cloud/Private AI, Ollama, llama.cpp, vLLM.
+
+  
+
+**Experience:** 5+ years software engineering with hands-on production AI/GenAI experience.
+
+  
+
+**Education:** Bachelors/Masters in Computer Science, Engineering, AI, Data Science, IT, or equivalent.
+
+  
+
+**Ideal Candidate:**
+
+  
+
+Hands-on engineer capable of building Data RAG LLM Agent Tool Workflow Automation solutions.
+
+  
+
+**Perks and Benefits:**
+
+  
+
+The position will pay quite well - Rs. 27.5 - 30 lakh per annum is the band, and the final amount may be even higher depending on your experience and expertise.
+
+If made an offer, you will need to join in 4 weeks.
+
+This is the opportunity of a lifetime for people looking to specialize in highly coveted niche futuristic skills, and to work in a top multinational company with excellent employee-first initiatives. We look forward to your application.

@@ -1,0 +1,56 @@
+**Project Role :**
+Custom Software Engineer
+  
+  
+**Project Role Description :**
+Develop custom software solutions to design, code, and enhance components across systems or applications. Use modern frameworks and agile practices to deliver scalable, high-performing solutions tailored to specific business needs.
+  
+  
+**Must have skills :**
+Machine Learning (ML)
+  
+  
+**Good to have skills :**
+NA
+  
+  
+**Minimum 5 Year(s) Of Experience Is Required**
+**Educational Qualification :**
+15 years full time education
+  
+  
+Summary:
+  
+  
+As a Custom Software Engineer, a typical day involves creating tailored software solutions by designing, coding, and improving various components within systems or applications. The role requires working closely with teams to apply modern development frameworks and agile methodologies, ensuring that the software delivered is scalable, efficient, and aligned with unique business requirements. This position demands continuous collaboration and adaptation to evolving project needs, fostering innovation and quality in every stage of the software development lifecycle.
+  
+  
+Roles & Responsibilities:
+  
+  
+
+* Expected to perform independently and become an SME.
+* Required active participation/contribution in team discussions.
+* Contribute in providing solutions to work related problems.
+* Collaborate with cross-functional teams to gather and analyze requirements for custom software development.
+* Assist in documenting technical specifications and maintaining code quality standards.
+* Support junior team members by sharing knowledge and providing guidance on best practices.
+
+Professional & Technical Skills:
+  
+  
+
+* Must To Have Skills: Proficiency in Machine Learning (ML).
+* Experience with designing and implementing machine learning models and algorithms.
+* Strong understanding of data preprocessing, feature engineering, and model evaluation techniques.
+* Familiarity with programming languages commonly used in machine learning such as Python or R.
+* Ability to work with large datasets and apply statistical methods to extract meaningful insights.
+* Knowledge of software development lifecycle and agile methodologies in the context of machine learning projects.
+
+Additional Information:
+  
+  
+
+* The candidate should have minimum 3 years of experience in Machine Learning (ML).
+* This position is based at our Pune office.
+* A 15 years full time education is required.

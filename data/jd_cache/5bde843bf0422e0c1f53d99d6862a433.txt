@@ -1,0 +1,26 @@
+**Role & responsibilities**
+
+**Roles & Responsibilities GenAI Engineer**
+
+* Develop and deploy GenAI/LLM-based applications using Python.
+* Build ML pipelines for model training, fine-tuning, and retraining.
+* Develop RAG and Agentic AI solutions using LangChain and LangGraph.
+* Optimize LLM performance, latency, and inference.
+* Work with Hugging Face, PyTorch/TensorFlow, vLLM, and DeepSpeed.
+* Deploy scalable AI solutions using Docker, Kubernetes, and cloud platforms.
+* Manage model lifecycle, monitoring, and LLMOps using MLflow.
+
+  
+
+**Preferred candidate profile**
+
+  
+
+* 58 years of overall IT experience with strong hands-on GenAI/LLM experience.
+* Strong Python programming and ML/DL framework knowledge.
+* Hands-on experience with Hugging Face, LangChain, and LangGraph.
+* Experience in LLM fine-tuning, RAG, and Agentic AI.
+* Knowledge of vLLM, DeepSpeed, GPU architecture, and distributed training.
+* Experience with Docker, Kubernetes, MLflow, and cloud AI platforms.
+* Strong understanding of model deployment, inference optimization, and LLMOps.
+* B.Tech / MCA / BCA / M.Tech qualification preferred.

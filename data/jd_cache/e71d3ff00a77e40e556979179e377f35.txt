@@ -1,0 +1,16 @@
+Design and develop enterprise-grade Generative AI solutions using Python and modern AI frameworks.
+  
+  
+
+* Build AI applications using LLMs, embeddings, prompts, function calling, tool usage, and agentic AI patterns.
+* Implement Retrieval-Augmented Generation (RAG) pipelines for enterprise knowledge retrieval and generation use cases.
+* Design end-to-end AI solutions covering:
+* Data ingestion o Data processing o Retrieval o Generation o Evaluation
+* Work with Agentic AI frameworks such as CrewAI, LangChain, LangGraph, LlamaIndex, AutoGen, and Langfuse.
+* Apply prompt engineering strategies to improve LLM accuracy, reliability, and usability.
+* Evaluate the suitability of fine-tuning vs RAG based on business and technical requirements.
+* Support LLM fine-tuning workflows including instruction tuning and supervised fine-tuning.
+* Manage data preparation for fine-tuning, including train/validation splits, data quality checks, and contamination prevention.
+* Deploy AI workloads on cloud platforms such as Azure, AWS, or GCP.
+* Containerize AI applications using Docker and work with basic Kubernetes concepts.
+* Apply model engineering best practices for scalable, reliable, and production-ready AI systems.

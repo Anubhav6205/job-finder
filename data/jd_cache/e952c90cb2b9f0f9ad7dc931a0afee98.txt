@@ -1,0 +1,68 @@
+***Job Title –**
+AI/ML Engineer
+**Company**
+: Toro Technology Center India*
+**Who Are We?**
+The Toro Company is a homegrown, Minnesota-based company that has been in business since 1914. We pride ourselves on providing world-class equipment to help maintain the environment that we love, while putting an emphasis on giving back to the communities that surround us. From residential lawns and gardens to Golf Clubs and sports grounds we are a company with a global footprint and a passion for helping people beautify whatever landscape they may be in. With 100+ years of operation under our belt and an average employee tenure of 15 years, come find out what makes The Toro Company the best place to build a career.
+  
+  
+**Responsibilities**
+**What Will You Do?**
+In order to grow and build a successful career with The Toro Company, you will be responsible for:
+  
+  
+
+* Design, develop, test, and deploy AI and machine learning solutions for predictive analytics, classification, recommendation, anomaly detection, forecasting, and other business use cases.
+* Validate, optimize, and continuously improve models through feature engineering, experimentation, performance analysis, tuning, and evaluation to support production readiness and business outcomes.
+* Build Generative AI, RAG, and agentic AI solutions, including conversational assistants, ML models, intelligent search, and multi-step intelligent workflows.
+* Develop and optimize models, prompts, embeddings, retrieval strategies, and AI architecture based on accuracy, quality, latency, cost, security, explainability, scalability, and business value.
+* Design scalable, secure, and maintainable AI services, APIs, data and feature pipelines, and enterprise application integrations using strong software engineering practices, including source control, code review, automated testing, and technical documentation.
+* Implement MLOps and GenAIOps practices, including CI/CD, model and prompt versioning, experiment tracking, automated deployment, rollback, and lifecycle management.
+* Establish production monitoring and evaluation to track model performance, data and prediction drift, groundedness, bias, data quality, reliability, safety, usage, cost, and operational health, with appropriate alerting and retraining or remediation workflows.
+* Implement Responsible AI, security, and governance controls, including risk assessments, human-in-the-loop oversight, access controls, data protection, traceability, and safeguards against hallucination, prompt injection, and data leakage.
+* Troubleshoot production AI solutions, perform root-cause analysis, and continuously improve reliability, scalability, performance, and operational supportability.
+* Translate business opportunities into well-defined AI problem statements, success measures, solution designs, and delivery plans, collaborating with Business, Data Science and Engineering, Architecture, Security, Legal, Compliance, and Governance teams to deliver production-ready solutions aligned with enterprise standards.
+
+**What Do You Need?**
+To be considered for this role, an individual should meet the following minimal requirements:
+  
+  
+**Minimum Qualifications**
+
+* Bachelor’s degree in Data Science, Machine Learning, Statistics, Computer Science, Engineering, Applied Mathematics, or a related quantitative field.
+* 4+ years of experience in Machine Learning, Data Science, AI Engineering, or advanced analytics.
+* Hands-on experience developing, deploying, optimizing, and monitoring production machine learning solutions.
+* Experience building Generative AI and agentic AI applications using RAG, vector search, embeddings, tool calling, structured outputs, and AI evaluation frameworks.
+* Strong programming skills in Python, R, Spark, Scala, and/or SQL.
+* Solid understanding of supervised and unsupervised machine learning techniques, including neural networks, XGBoost, gradient boosting, random forests, and related algorithms.
+* Experience working with structured and unstructured data, feature engineering, information retrieval, and data preparation.
+* Strong analytical, problem-solving, communication, and cross-functional collaboration skills.
+
+**Preferred Qualifications -**
+
+* Master’s or PhD in a relevant quantitative or technical discipline.
+* Experience with advanced analytics, predictive modeling, machine learning, statistical analysis, and data visualization.
+* Advanced knowledge of Python, R, Spark, SQL, MLOps, GenAIOps, and agentic AI workflows.
+* Experience designing and operating production Generative AI solutions using RAG, embeddings, vector search, semantic search, orchestration frameworks, tool calling, and AI evaluation methodologies.
+* Experience with platforms such as Snowflake Cortex, Microsoft Foundry, Azure ML, Azure AI Search, Databricks, OpenAI Agents SDK, and Claude Agents SDK.
+* Familiarity with Snowflake, Microsoft Fabric, dbt, Azure DevOps, MLflow, Docker, Kubernetes, and Infrastructure-as-Code practices.
+* Knowledge of identity and access management, Responsible AI, governance, privacy, security, model risk management, observability, monitoring, cost optimization, and incident management for enterprise AI solutions.
+
+**What Can We Give You?**
+**Benefits**
+At The Toro Company, we are always working to make sure our employees know just how valued they are. In addition to a competitive salary, an affordable and top tier medical insurance plan and many other great benefits – The Toro company offers employees a variety of perks, including:
+  
+  
+
+* Dress for your day – We know you’re more productive when you’re comfortable, which is why TTC employees are encouraged to take advantage of our casual, corporate environment.
+* Location – Conveniently located in Baner, Pune. We are centrally located for most commuters!
+* Food – Take advantage of our café, which serves both breakfast and lunch. You can grab a snack and coffee at any time during your day.
+* Wellness – The Toro Company offers complimentary use of our onsite fitness facility to employees. In addition to physical well-being, TTC offers a variety of mental health and financial health resources to all employees.
+* Volunteerism – The Toro Company is proud to provide employees 20 hours of paid time to volunteer in the community.
+* Flexible Work Arrangements – This team is currently implementing a hybrid work schedule. The opportunity to collaborate in the office and work from home part-time has promoted team building and flexibility.
+* Competitive Salary – The pay range takes into account skills, experience, education and location. Cash compensation is one piece of our competitive total rewards package. Eligibility and award amounts are determined by company policy and performance metrics.
+
+At The Toro Company, we are committed to fostering a secure and trustworthy recruitment process for our applicants. Recruitment fraud is a potential threat to job seekers, so please be aware that throughout our recruitment process, you’ll never be required to pay any fees or disclose personal financial details when applying to TTC opportunities.
+  
+  
+We are proud to be an Equal Opportunity Employer and consider qualified applicants without regard to race, color, religion, sex (including pregnancy and related needs and conditions, gender identity and sexual orientation), parental status, national origin, age, disability, genetic information (including family medical history), political affiliation, military service, or other non-merit based factors. We are committed to creating an inclusive environment for all employee

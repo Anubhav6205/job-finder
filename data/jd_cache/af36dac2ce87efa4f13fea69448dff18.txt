@@ -1,0 +1,157 @@
+Tätigkeitsbereich:IT/Telekommunikation
+
+Fachabteilung:Data Insights
+
+Gesellschaft:Mercedes-Benz Research and Development India Private Limited
+
+Standort:Mercedes-Benz Research and Development India Private Limited, Bangalore
+
+Startdatum:01.01.2027
+
+Veröffentlichungsdatum:20.11.2026
+
+Stellennummer:MER0004AL6
+
+Arbeitszeit:Vollzeit
+
+Aufgaben
+
+Job Description: AI/ML Engineer (AWS)
+
+About the role
+
+We’re looking for an AI/ML engineer to design, build and run AI-powered applications on AWS. This includes large language model (LLM) applications, AI agents, retrieval-augmented generation (RAG), and classic machine learning. You’ll take ideas from prototype to production, with a focus on reliability, security, cost and measurable quality. The role is hired at two levels.
+
+Responsibilities
+
+* Design and build LLM applications: prompt design, RAG pipelines, tool or function calling, and multi-step agents.
+* Build and deploy models and AI services on AWS: Amazon Bedrock, SageMaker, Lambda, API Gateway, ECS/EKS, Step Functions, DynamoDB, S3 and OpenSearch.
+* Set up evaluation: offline test sets, LLM-as-judge, regression checks, and tracking of quality, latency and cost.
+* Add observability and tracing for AI workloads, for example OpenTelemetry, CloudWatch, LangFuse or similar.
+* Build in safety from the start: guardrails, prompt-injection defences, access control, human approval for risky actions, and handling of personal data.
+* Write production-quality, tested code and maintain CI/CD and infrastructure as code (Terraform or CDK).
+* Work with product, platform and security teams; write clear design documents and runbooks.
+* Keep up with the field and assess new models, frameworks and AWS services.
+
+Requirements
+
+AI/ML Engineer (about 3–6 years)
+
+* Strong Python; solid software engineering (testing, code review, APIs, Git).
+* Hands-on experience shipping at least one LLM or ML system to production.
+* Practical AWS experience: Bedrock and/or SageMaker, Lambda, IAM, VPC basics, and serverless or container deployment.
+* Experience with RAG and vector search (OpenSearch, pgvector or similar) and embeddings.
+* Experience with agent or orchestration frameworks (for example LangGraph, LangChain, LlamaIndex, Strands, Bedrock Agents) and protocols such as MCP.
+* Understanding of evaluation methods, model limits, hallucination, and cost and latency trade-offs.
+* Infrastructure as code (Terraform or CDK) and CI/CD.
+* Security awareness: OAuth/OIDC, least-privilege IAM, secrets management.
+
+* Good Python and ML fundamentals (supervised learning, model evaluation, basic statistics).
+* A degree in CS, Data Science or a related field, or equivalent practical experience.
+* Hands-on project work with LLM APIs, RAG or ML models (internships, open source or personal projects count).
+* Familiarity with core AWS services; an AWS certification is a plus.
+* Eagerness to learn production engineering practices: testing, monitoring and security.
+
+Nice to have
+
+* AWS certifications: Machine Learning Engineer – Associate, AI Practitioner, Solutions Architect. Fine-tuning or adapting models (LoRA, distillation) and MLOps tools (MLflow, SageMaker Pipelines).
+* Experience with multi-agent systems, agent-to-agent (A2A) communication, or policy engines.
+* Docker, Kubernetes (EKS) and Linux.
+* Experience with responsible-AI practices and governance.
+
+What we look for
+
+* Clear thinking and plain communication with technical and non-technical colleagues.
+* Ownership: builds, measures and improves things end to end.
+* Judgement about when AI is, and isn’t, the right tool.
+
+Qualifikationen
+
+Job Description: AI/ML Engineer
+
+About the role
+
+We’re looking for an AI/ML engineer to design, build and run AI-powered applications on AWS. This includes large language model (LLM) applications, AI agents, retrieval-augmented generation (RAG), and classic machine learning. You’ll take ideas from prototype to production, with a focus on reliability, security, cost and measurable quality. The role is hired at two levels.
+
+Responsibilities
+
+* Design and build LLM applications: prompt design, RAG pipelines, tool or function calling, and multi-step agents.
+* Build and deploy models and AI services on AWS: Amazon Bedrock, SageMaker, Lambda, API Gateway, ECS/EKS, Step Functions, DynamoDB, S3 and OpenSearch.
+* Set up evaluation: offline test sets, LLM-as-judge, regression checks, and tracking of quality, latency and cost.
+* Add observability and tracing for AI workloads, for example OpenTelemetry, CloudWatch, LangFuse or similar.
+* Build in safety from the start: guardrails, prompt-injection defences, access control, human approval for risky actions, and handling of personal data.
+* Write production-quality, tested code and maintain CI/CD and infrastructure as code (Terraform or CDK).
+* Work with product, platform and security teams; write clear design documents and runbooks.
+* Keep up with the field and assess new models, frameworks and AWS services.
+
+Requirements
+
+AI/ML Engineer (about 3–6 years)
+
+* Strong Python; solid software engineering (testing, code review, APIs, Git).
+* Hands-on experience shipping at least one LLM or ML system to production.
+* Practical AWS experience: Bedrock and/or SageMaker, Lambda, IAM, VPC basics, and serverless or container deployment.
+* Experience with RAG and vector search (OpenSearch, pgvector or similar) and embeddings.
+* Experience with agent or orchestration frameworks (for example LangGraph, LangChain, LlamaIndex, Strands, Bedrock Agents) and protocols such as MCP.
+* Understanding of evaluation methods, model limits, hallucination, and cost and latency trade-offs.
+* Infrastructure as code (Terraform or CDK) and CI/CD.
+* Security awareness: OAuth/OIDC, least-privilege IAM, secrets management.
+
+* Good Python and ML fundamentals (supervised learning, model evaluation, basic statistics).
+* A degree in CS, Data Science or a related field, or equivalent practical experience.
+* Hands-on project work with LLM APIs, RAG or ML models (internships, open source or personal projects count).
+* Familiarity with core AWS services; an AWS certification is a plus.
+* Eagerness to learn production engineering practices: testing, monitoring and security.
+
+Nice to have
+
+* AWS certifications: Machine Learning Engineer – Associate, AI Practitioner, Solutions Architect. Fine-tuning or adapting models (LoRA, distillation) and MLOps tools (MLflow, SageMaker Pipelines).
+* Experience with multi-agent systems, agent-to-agent (A2A) communication, or policy engines.
+* Docker, Kubernetes (EKS) and Linux.
+* Experience with responsible-AI practices and governance.
+
+What we look for
+
+* Clear thinking and plain communication with technical and non-technical colleagues.
+* Ownership: builds, measures and improves things end to end.
+* Judgement about when AI is, and isn’t, the right tool.
+
+Benefits
+
+Mitarbeiterrabatte möglich
+
+Gesundheitsmaßnahmen
+
+Mitarbeiterhandy möglich
+
+Essenszulagen
+
+Betriebliche Altersversorgung
+
+Hybrides Arbeiten möglich
+
+Mobilitätsangebote
+
+Mitarbeiter Events
+
+Coaching
+
+Flexible Arbeitszeit möglich
+
+Parkplatz
+
+Betriebsarzt
+
+Gute Anbindung
+
+Barrierefreiheit
+
+Kinderbetreuung
+
+Kantine, Café
+
+Kontakt Mercedes-Benz Research and Development India Private Limited
+
+Brigade Tech Gardens, Katha No. 119560037 BengaluruDetails zum Standort
+
+Jacob Cyril E-Mail: jacob.cyril@mercedes-benz.com

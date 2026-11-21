@@ -1,0 +1,143 @@
+**ZEISS in India**
+
+ZEISS in India is headquartered in Bengaluru and present in the fields of Industrial Quality Solutions, Research Microscopy Solutions, Medical Technology, Vision Care and Sports & Cine Optics.
+
+ZEISS India has 3 production facilities, R&D center, Global IT services and about 40 Sales & Service offices in almost all Tier I and Tier II cities in India. With 2200+ employees and continued investments over 25 years in India, ZEISS’ success story in India is continuing at a rapid pace.
+
+Further information at ZEISS India .
+
+### **Your role in ZEISS as an AI Engineer:**
+
+ZEISS is accelerating AI adoption as Central IT evolves toward an AI-driven, value-oriented technology organization. Within Central IT, this role will develop, implement, and enable reusable AI-agent products and capabilities across the Central Development Platform Team and the Central Test Team. The AI Engineer will turn development and testing use cases into production-ready, governed AI solutions that improve engineering productivity, quality, automation, and platform value.
+
+In this role you will be responsible for the engineering lifecycle of agentic AI solutions for software development and quality engineering: from use-case discovery and architecture through implementation, integration, evaluation, deployment, observability, and adoption. The role connects AI engineering with platform engineering and software quality, creating reusable products rather than isolated proofs of concept.
+
+**Key Responsibilities**
+========================
+
+**AI Agent Product Engineering (Development platforms + central test team)**
+----------------------------------------------------------------------------
+
+* Design and implement production-grade AI agents and reusable workflows using LLMs, tool calling, prompt/context engineering, RAG, APIs, and structured outputs.
+
+* Build secure Python services, connectors, retrieval capabilities, templates, and guardrails that integrate with approved engineering tools, repositories, pipelines, and knowledge sources.
+
+* Develop AI agents and solutions for requirements, coding, documentation, engineering knowledge retrieval, developer support, and workflow automation.
+
+* Develop AI agents and accelerators for test planning, design, automation, test data, impact analysis, prioritization, defect insights, and quality reporting.
+
+* Integrate solutions with test frameworks and delivery pipelines, and establish evaluations for groundedness, factual consistency, robustness, latency, security, and response quality.
+
+* Integrate reusable AI services into development platforms and CI/CD workflows, providing scalable, observable, secure, and cost-aware self-service experiences.
+
+* Apply responsible-AI, data-protection, access-control, prompt-injection, auditability, and human-oversight guardrails while optimizing reliability and cost.
+
+* Partner with development, testing, platform, architecture, security, and product stakeholders to identify valuable use cases, industrialize successful solutions, enable adoption, and maximize reuse.
+
+* Implement monitoring and observability for AI agents to continuously improve reliability and performance.
+
+* Evolve successful AI use cases from prototypes into reusable, scalable platform products.
+
+* Measure the value and adoption of AI solutions through productivity, quality, automation, and usage outcomes.
+
+* Support in enabling development and test teams through reusable patterns, documentation, coaching, and self-service capabilities.
+
+**Qualifications & Skills**
+===========================
+
+* 2+ years in software engineering, AI/ML, quality engineering, test automation, data, including hands-on delivery responsibility
+
+* Degree in Computer Science, Software Engineering, AI/Data Science, Information Technology, or a comparable qualification.
+
+* Hands-on Python and API/service development experience, with a strong understanding of software architecture, the SDLC, cloud, containers, Git, CI/CD, and observability.
+
+* Practical experience with GenAI/LLM solutions, including prompt engineering, RAG, embeddings, agent workflows, tool calling, structured outputs, and AI evaluation.
+
+* Understanding of development platforms and quality engineering, including automated testing, API testing, test automation, and quality gates.
+
+* Experience with relevant AI frameworks or cloud AI services, vector/semantic search, internal developer platforms, or testing tools is advantageous.
+
+* Strong analytical, product, documentation, and collaboration skills, with professional proficiency in English.
+
+**Success Measures**
+====================
+
+* Reusable AI-agent products are adopted across development and testing workflows.
+
+* AI capabilities measurably improve productivity, delivery flow, quality, automation, or user experience.
+
+* AI services meet agreed reliability, security, evaluation, observability, and governance standards.
+
+* Common building blocks and enablement reduce duplication and accelerate new use cases.
+
+**Location –** Bangalore India
+
+### **Your role in ZEISS as an AI Engineer:**
+
+ZEISS is accelerating AI adoption as Central IT evolves toward an AI-driven, value-oriented technology organization. Within Central IT, this role will develop, implement, and enable reusable AI-agent products and capabilities across the Central Development Platform Team and the Central Test Team. The AI Engineer will turn development and testing use cases into production-ready, governed AI solutions that improve engineering productivity, quality, automation, and platform value.
+
+In this role you will be responsible for the engineering lifecycle of agentic AI solutions for software development and quality engineering: from use-case discovery and architecture through implementation, integration, evaluation, deployment, observability, and adoption. The role connects AI engineering with platform engineering and software quality, creating reusable products rather than isolated proofs of concept.
+
+**Key Responsibilities**
+========================
+
+**AI Agent Product Engineering (Development platforms + central test team)**
+----------------------------------------------------------------------------
+
+* Design and implement production-grade AI agents and reusable workflows using LLMs, tool calling, prompt/context engineering, RAG, APIs, and structured outputs.
+
+* Build secure Python services, connectors, retrieval capabilities, templates, and guardrails that integrate with approved engineering tools, repositories, pipelines, and knowledge sources.
+
+* Develop AI agents and solutions for requirements, coding, documentation, engineering knowledge retrieval, developer support, and workflow automation.
+
+* Develop AI agents and accelerators for test planning, design, automation, test data, impact analysis, prioritization, defect insights, and quality reporting.
+
+* Integrate solutions with test frameworks and delivery pipelines, and establish evaluations for groundedness, factual consistency, robustness, latency, security, and response quality.
+
+* Integrate reusable AI services into development platforms and CI/CD workflows, providing scalable, observable, secure, and cost-aware self-service experiences.
+
+* Apply responsible-AI, data-protection, access-control, prompt-injection, auditability, and human-oversight guardrails while optimizing reliability and cost.
+
+* Partner with development, testing, platform, architecture, security, and product stakeholders to identify valuable use cases, industrialize successful solutions, enable adoption, and maximize reuse.
+
+* Implement monitoring and observability for AI agents to continuously improve reliability and performance.
+
+* Evolve successful AI use cases from prototypes into reusable, scalable platform products.
+
+* Measure the value and adoption of AI solutions through productivity, quality, automation, and usage outcomes.
+
+* Support in enabling development and test teams through reusable patterns, documentation, coaching, and self-service capabilities.
+
+**Qualifications & Skills**
+===========================
+
+* 2+ years in software engineering, AI/ML, quality engineering, test automation, data, including hands-on delivery responsibility
+
+* Degree in Computer Science, Software Engineering, AI/Data Science, Information Technology, or a comparable qualification.
+
+* Hands-on Python and API/service development experience, with a strong understanding of software architecture, the SDLC, cloud, containers, Git, CI/CD, and observability.
+
+* Practical experience with GenAI/LLM solutions, including prompt engineering, RAG, embeddings, agent workflows, tool calling, structured outputs, and AI evaluation.
+
+* Understanding of development platforms and quality engineering, including automated testing, API testing, test automation, and quality gates.
+
+* Experience with relevant AI frameworks or cloud AI services, vector/semantic search, internal developer platforms, or testing tools is advantageous.
+
+* Strong analytical, product, documentation, and collaboration skills, with professional proficiency in English.
+
+**Success Measures**
+====================
+
+* Reusable AI-agent products are adopted across development and testing workflows.
+
+* AI capabilities measurably improve productivity, delivery flow, quality, automation, or user experience.
+
+* AI services meet agreed reliability, security, evaluation, observability, and governance standards.
+
+* Common building blocks and enablement reduce duplication and accelerate new use cases.
+
+**Location –** Bangalore India
+
+Your ZEISS Recruiting Team:
+
+Saptarshi Chowdhury

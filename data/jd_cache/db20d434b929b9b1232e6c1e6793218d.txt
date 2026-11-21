@@ -1,0 +1,38 @@
+**Job Opening – GenAI Engineer**  
+**Experience:** 5+ Years  
+**Location:** Hyderabad Preferred  
+**Employment Type:** Full-Time
+
+**Job Description**  
+We are looking for an experienced **GenAI Engineer** to design, develop, and evaluate AI personas, intelligent agents, reusable AI skills, and RAG-based solutions. The candidate will focus on AI-driven automation across the Software Testing Life Cycle (STLC), LLM benchmarking, and finance-related AI use cases.
+
+**Key Responsibilities**
+
+* Design and develop AI personas, agents, and RAG solutions.
+* Build reusable AI skills and automated workflows.
+* Benchmark LLMs and AI systems for accuracy, relevance, reliability, latency, and cost.
+* Implement AI-assisted solutions across the STLC.
+* Develop AI solutions for accounting-error detection and financial-close validation.
+* Collaborate with NetSuite and finance domain experts.
+
+**Required Skills**
+
+* Strong proficiency in Python and Generative AI.
+* Hands-on experience with LLMs, RAG, and Agentic AI frameworks (LangChain, LangGraph, CrewAI).
+* Experience in LLM evaluation and benchmarking.
+* Understanding of STLC and test automation.
+* Knowledge of APIs, vector databases, and cloud AI platforms.
+* NetSuite or finance-domain experience is an added advantage.
+
+Pay: From ₹1,300,000.00 per year
+
+Experience:
+
+* Gen AI: 2 years (Preferred)
+* IT: 5 years (Required)
+
+Location:
+
+* Hyderabad, Telangana (Required)
+
+Work Location: Hybrid remote in Hyderabad, Telangana

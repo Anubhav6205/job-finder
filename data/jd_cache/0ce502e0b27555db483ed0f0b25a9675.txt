@@ -1,0 +1,56 @@
+**Job Role** **:**
+
+Looking for an AI Engineer with 5+ years of experience in software/AI engineering, with strong hands-on expertise in Generative AI, LLMs and Agentic AI. The candidate should have experience designing and developing production-ready AI solutions, including RAG pipelines, multi-agent workflows, enterprise automation, API/MCP integrations, and AI evaluation frameworks. Strong Python programming skills and the ability to build, deploy and optimize scalable, secure AI applications are essential.
+
+**Responsibilities** **:**
+
+Design, develop and deploy enterprise-grade AI agents and multi-agent workflows to automate complex business processes.
+
+Build LLM-powered applications using agentic frameworks such as LangGraph, LangChain, AutoGen and CrewAI.
+
+Develop RAG pipelines integrating enterprise knowledge sources such as SharePoint, Confluence, databases, PDFs and technical documentation.
+
+Implement agent planning, reasoning, tool calling, workflow orchestration and human-in-the-loop mechanisms.
+
+Develop integrations with enterprise applications using REST APIs, MCP servers, webhooks and SDKs.
+
+Implement AI guardrails, access controls and security mechanisms to ensure safe and reliable agent execution.
+
+Build evaluation frameworks to measure response accuracy, retrieval quality, hallucinations and task completion.
+
+Deploy and manage scalable AI solutions using cloud platforms, Docker, Kubernetes and CI/CD pipelines.
+
+Implement monitoring, logging and observability to track agent performance, failures, latency and operational costs.
+
+Continuously optimize AI workflows for reliability, scalability, performance and cost efficiency.
+
+  
+  
+
+**Required skills** **:**
+
+Python, GenAI/LLMs, Agentic AI, LangGraph/LangChain, RAG, Multi-Agent Workflows, REST APIs, MCP.
+
+Vector Databases, Prompt Engineering, AI Evaluation & Guardrails, FastAPI, Docker, Kubernetes, CI/CD, AWS/Azure/GCP, LLMOps & Observability.
+
+We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, sex, gender, gender expression, sexual orientation, age, marital status, veteran status, or disability status.
+
+  
+
+Job Snapshot
+
+Updated Date
+
+20-11-2026
+
+Job ID
+
+J\_6419
+
+Location
+
+Bengaluru, Karnataka, India
+
+Employment Type
+
+Permanent

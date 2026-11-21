@@ -1,0 +1,33 @@
+**Key Responsibilities**
+
+  
+
+* **Client Analytics & Insights:** Design and execute deep-dive analyses on client behavior, engagement, churn, and lifetime value (LTV) to drive data-backed business strategies.
+* **Machine Learning Modeling:** Build, validate, and deploy predictive and prescriptive ML models (e.g., churn prediction, propensity modeling, customer segmentation, recommendation engines).
+* **Generative AI Integration:** Design and implement Gen AI solutions (e.g., RAG pipelines, LLM-powered sentiment analysis, automated client insight summarization) to enhance client-facing tools and internal workflows.
+* **Data Extraction & Engineering:** Query, clean, and transform large, complex structured and unstructured datasets using SQL and Python.
+* **Stakeholder Collaboration:** Partner closely with Client Success, Product, and Sales teams to translate ambiguous business problems into analytical frameworks and present actionable findings to executive leadership.
+* **Mentorship & Best Practices:** Mentor junior data scientists and analysts, promoting best practices in code quality, model governance, and experimentation (A/B testing).
+
+  
+
+**Required Qualifications**
+
+  
+
+* **Experience:** 5+ years of hands-on experience in Data Science, Advanced Analytics, or a related quantitative field, preferably with a focus on customer/client analytics.
+* **Programming & Querying:** Expert-level proficiency in **SQL** (complex joins, window functions, query optimization) and **Python** (Pandas, NumPy, Scikit-learn, PyTorch/TensorFlow).
+* **Machine Learning:** Strong foundation in statistical modeling, supervised/unsupervised learning, time-series forecasting, and experimental design (A/B testing).
+* **Generative AI Experience:** Practical, hands-on experience working with Large Language Models (LLMs), prompt engineering, embeddings, vector databases, or frameworks like LangChain/LlamaIndex.
+* **Business Acumen:** Proven track record of translating complex analytical outputs into clear, compelling narratives and measurable business impact.
+* **Education:** Bachelors or Masters degree in Computer Science, Statistics, Mathematics, Economics, Engineering, or a related quantitative discipline.
+
+  
+
+**Preferred Qualifications (Nice to Have)**
+
+  
+
+* **Cloud & Big Data:** Hands-on experience with **Databricks**, Apache Spark (PySpark), and cloud data ecosystems (AWS, Azure, or GCP).
+* **Visualization:** Experience with BI tools such as Tableau, Power BI, or Looker to build self-serve client dashboards.
+* **MLOps:** Familiarity with CI/CD pipelines, MLflow, Docker, and deploying models into production environments.

@@ -1,0 +1,86 @@
+Job Description Summary  
+You will design, build and operate production grade AI agents that talk to real customers. Working on Amazon Bedrock and AgentCore Runtime, you will own the reasoning, retrieval, tooling and guardrails behind services handling millions of conversations. This is applied AI engineering, taking systems from prototype to reliable, evaluated, governed production, not research.  
+  
+Client , Technology is a core driver of how we deliver our strategy. You'll join a team modernising our platforms, strengthening cyber and operational resilience, and advancing a product led way of working that brings engineers, data specialists and business experts together to deliver meaningful outcomes at pace.  
+We're scaling automation and AI from proof of concept into real, end to end change, improving customer journeys, reducing cost to serve, accelerating delivery, and building the digital foundations that underpin everything from energy trading and risk to field operations and critical infrastructure.  
+If you want to work on complex, high impact problems using modern engineering practices, and help build reusable platforms that will shape how Client operates over the next decade, this is the place to do it.  
+  
+An opportunity to play your part. You will join the Channel Platforms team, which owns Client 's customer conversation estate across voice, chat and email. Our agents are already live: a pay as you go voice assistant built on a real time speech to speech model, a multi channel customer facing agent spanning voice, chat and WhatsApp, and a standalone agentic webchat service running on AgentCore Runtime.  
+  
+As a Senior Applied AI Engineer you will own the intelligence layer of these products. That means the agent's reasoning and orchestration, the tools it can call, the knowledge it retrieves, the guardrails that constrain it, and the evaluation that proves it works. You will decide what good looks like and then build the measurement to show whether we are hitting it.  
+This is a role for someone who has taken generative AI past the demo stage. Our problems are the hard ones that show up after launch: grounding answers in the right source, keeping voice latency low enough to feel natural, handing off to a human at the right moment, and proving to a governance board that the system behaves safely at scale.  
+You do not need a contact centre background. If you are a strong engineer who has built real agentic systems on Bedrock or a comparable platform, we will teach you the domain.  
+Location: UK based hybrid role, occasional travel to site.  
+Day to day  
+  
+. Design and build agentic services on Amazon Bedrock and AgentCore Runtime, including multi step orchestration, state and memory management, and graceful handling of failure and ambiguity.  
+. Build and own the tool layer that agents act through, exposing business capability such as account lookup, billing and identity as reliable, well described actions with sensible error semantics.  
+. Build retrieval augmented generation over Bedrock Knowledge Bases, taking ownership of content preparation, chunking, embedding strategy, retrieval quality and answer grounding.  
+. Treat prompts as engineering artefacts. Version them, test them, and understand precisely what changed when behaviour shifts.  
+. Build the evaluation harness. Define what accuracy, containment and safe behaviour mean for each product, assemble regression sets, and make it possible to ship a prompt or model change with evidence rather than optimism.  
+. Implement guardrails and safety controls, including PII handling, out of scope refusal, jailbreak resistance and clean escalation to a human advisor.  
+. Engineer for latency and cost. Streaming, model selection and routing, caching and token budgets all matter, and in voice they matter in real time where a pause of a few hundred milliseconds is felt by the customer.  
+. Instrument agent behaviour end to end so that tool failures, retrieval misses and abandoned conversations are visible in Datadog and QuickSight, not discovered through complaints.  
+. Support live AI services in production, investigating incidents and diagnosing non deterministic behaviour, then closing the loop with permanent fixes.  
+. Make and document build versus buy calls, writing Architecture Decision Records and taking designs through our AI governance board and change control process.  
+. Track how the generative AI landscape is moving and bring the parts that deliver clear benefit into the roadmap, with an honest read on the risk as well as the upside.  
+  
+What we need from you  
+Essential:  
+  
+. Substantial software engineering experience, with strong Python. You write production code, not just notebooks.  
+. Demonstrable delivery of LLM or agentic systems into production for real users, and the scar tissue that comes with it. We will ask what broke and what you changed.  
+. Hands on experience with tool and function calling, multi step agent orchestration, and managing conversational state across turns.  
+. Production experience with retrieval augmented generation, including retrieval quality evaluation and answer grounding, not just wiring up a vector store.  
+. A rigorous approach to evaluation. You have built or owned an eval harness, defined the metrics that mattered, and used them to make release decisions.  
+. Experience deploying and operating AI services in the cloud using serverless or container based architectures, infrastructure as code such as Terraform, and CI/CD.  
+. Practical application of responsible AI, covering data privacy, guardrails, bias, explainability and human in the loop design, in an environment with real compliance obligations.  
+. Ability to debug systems that are non deterministic by nature, and the patience to reason about behaviour statistically rather than case by case.  
+. Strong collaboration and communication skills. You can explain to a product owner why the agent got something wrong, and to a governance board why the controls are sufficient.  
+. Degree in Computer Science, Engineering or a related discipline, or equivalent practical experience.  
+  
+Desirable:  
+  
+. Amazon Bedrock specifically, including AgentCore Runtime, Bedrock Knowledge Bases and Bedrock Guardrails. If your experience is on another foundation model platform, that transfers.  
+. Voice AI experience, including speech to speech models, real time streaming, barge in and turn taking, or ASR and TTS pipelines.  
+. Any contact centre exposure, including Amazon Connect. A bonus rather than an expectation.  
+. Familiarity with agent interoperability standards such as the Model Context Protocol.  
+. Experience with fine tuning, distillation or model routing where it materially improved cost or latency.  
+. Delivery in a regulated industry, including working with vulnerable customer requirements or comparable obligations.  
+. AWS certification at Associate level or above.
+
+**Your future duties and responsibilities**
+
+Core Competencies & Technical Skills (AI and emerging technology)  
+  
+. Designs, integrates and operates AI enabled solutions within enterprise environments, including prompt driven workflows, retrieval augmented systems and AI agents.  
+. Applies structured evaluation, testing and monitoring practices to ensure AI outputs are reliable, secure and compliant with organisational guardrails.  
+. Prepares and manages data used in AI workflows and takes responsibility for the responsible lifecycle of AI features from experimentation through deployment and continuous improvement.  
+  
+. Demonstrates the safe and responsible use of AI tools, with clear knowledge of when AI use is appropriate and strong awareness of accuracy, bias and compliance. Bringing the ability to design and reuse prompt templates to support consistent, high quality workflow outputs, and skilled in using AI to triage, classify and analyse information within Client policy guardrails.  
+. Strong ability to recognise higher risk scenarios and escalate to governance or security as needed. Alongside this, showing proficiency in enterprise AI copilots, knowledge assistants and AI enhanced productivity tools.
+
+**Required qualifications to be successful in this role**
+
+Core Behaviours  
+  
+. Take Ownership  
+. Work as One Team  
+. Develop a Growth Mindset  
+. Strive to Innovate  
+. Champion Customers
+
+**Together, as owners, let’s turn meaningful insights into action.**  
+  
+Life at CGI is rooted in ownership, teamwork, respect and belonging. Here, you’ll reach your full potential because…  
+  
+You are invited to be an owner from day 1 as we work together to bring our Dream to life. That’s why we call ourselves CGI Partners rather than employees. We benefit from our collective success and actively shape our company’s strategy and direction.  
+  
+Your work creates value. You’ll develop innovative solutions and build relationships with teammates and clients while accessing global capabilities to scale your ideas, embrace new opportunities, and benefit from expansive industry and technology expertise.  
+  
+You’ll shape your career by joining a company built to grow and last. You’ll be supported by leaders who care about your health and well-being and provide you with opportunities to deepen your skills and broaden your horizons.
+  
+  
+That same commitment to fairness extends to how we use technology. To support our recruitment team, AI tools may be used to help assess applications though they never replace human judgement. All hiring decisions remain entirely in the hands of our recruitment professionals.  
+  
+Come join our team—one of the largest IT and business consulting services firms in the world.

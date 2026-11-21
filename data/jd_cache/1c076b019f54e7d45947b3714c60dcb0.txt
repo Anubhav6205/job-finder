@@ -1,0 +1,28 @@
+**Job Summary:**  
+ We are looking for a skilled GenAI Engineer with expertise in Python, LLMs, RAG, LangChain/LlamaIndex, Data Engineering, and Cloud technologies. The ideal candidate will design and develop scalable AI solutions leveraging Generative AI and modern data platforms.
+
+  
+
+**Key Responsibilities:**
+
+* Develop and deploy GenAI and LLM-based applications.
+* Build RAG pipelines using LangChain and LlamaIndex.
+* Design ETL workflows and data engineering solutions.
+* Integrate and optimize Vector Databases for AI use cases.
+* Implement MLOps/LLMOps practices for model deployment and monitoring.
+* Collaborate with cross-functional teams to deliver AI-driven solutions.
+
+  
+
+**Required Skills:**
+
+* Python
+* Generative AI (GenAI)
+* Large Language Models (LLMs)
+* RAG (Retrieval-Augmented Generation)
+* LangChain / LlamaIndex
+* SQL
+* Data Engineering & ETL
+* Vector Databases (Pinecone, FAISS, ChromaDB, Milvus, etc.)
+* AWS, Azure, or GCP
+* MLOps / LLMOps

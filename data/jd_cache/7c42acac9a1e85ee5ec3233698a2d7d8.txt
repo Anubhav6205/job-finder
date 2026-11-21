@@ -1,0 +1,65 @@
+Category: Digital & IT
+
+Location:
+Bangalore, Karnataka, IN
+
+**Department:** System Management
+  
+**Company:** Novo Global Business Services (GBS)  
+  
+**Your impact begins here**
+
+As AI Engineer, you will build the AI applications and agent workflows that help People & Organisation (P&O) become a Tech + AI first function. You will turn approved designs into working, secure and reliable tools, from retrieval grounded in P&O content to integrations with HR platforms. Your work will help colleagues get accurate answers and complete HR tasks faster, with the right controls and approvals in place.
+
+  
+
+**What you’ll bring**
+
+* A Bachelor’s degree in Computer Science, AI or a related discipline, or equivalent practical experience.
+* 8+ years of hands-on Python development, including API integration, debugging and automated testing.
+* 2+ years of hands-on AI engineering with ChatGPT Enterprise and Databricks-based data retrieval, building secure, scalable AI applications that meet business needs and enterprise standards.
+* Working knowledge of retrieval-augmented generation (RAG), document processing, embeddings and vector or hybrid search.
+* Experience creating agent evaluation test cases, running automated tests and analysing results to improve quality and reliability.
+* Working knowledge of authentication, authorisation, secrets management and secure handling of sensitive data.
+* Experience with CI/CD pipelines and deploying applications in cloud environments.
+* The ability to use logs, traces and monitoring tools to investigate incidents and diagnose technical issues.
+* Clear communication, structured problem-solving and the ability to work independently on assigned tasks while escalating at the right time.
+
+**Useful, but not essential:**
+
+* Experience with HR transformation, People Services or Talent Acquisition.
+* Delivery experience with SAP SuccessFactors, SAP Joule or ServiceNow.
+* Up-to-date knowledge of existing and emerging HR platforms, enterprise technologies and cloud technologies.
+  
+
+**What you’ll do**
+
+You will work within defined architecture and engineering standards, under the technical guidance of the Lead AI Engineer or AI Solution Architect, to take AI applications from build to reliable day-to-day operation.
+
+* Build agent workflows: develop and configure agent instructions, tool integrations, workflow logic and human approval steps against approved technical designs.
+* Implement retrieval and HR system integrations: build document ingestion, indexing, search and source attribution so responses are grounded in approved P&O content, and develop and maintain the APIs and connectors that let agents retrieve information and carry out authorised actions across HR platforms.
+* Test and secure what you build: create test cases and run automated evaluations covering response accuracy, task completion, tool use and adherence to access and approval controls. Apply authentication, authorisation and data-handling requirements so retrieval and agent actions respect source-system permissions.
+* Release and monitor: prepare and deploy changes through established CI/CD pipelines, complete release checks and support rollback when needed. Review dashboards, logs, traces and alerts to spot failures, quality issues, latency and unexpected usage or cost.
+* Resolve incidents and improve reliability: diagnose application, retrieval, integration and workflow issues, implement fixes and escalate complex problems to the Lead AI Engineer or platform teams. Turn evaluation results, incidents and user feedback into enhancements and reusable code.
+* Keep operations clear: maintain technical documentation, configurations, test evidence and support runbooks so the solutions you build can run reliably and be handed over with confidence.
+  
+
+**Who you’ll work with**
+
+You will join the AI & Workforce Transformation team within People, Organisation & Corporate Affairs, where colleagues help create an engaging, inclusive workplace and attract and develop the talent needed to support Novo’s purpose.
+
+Your closest partner will be the Lead AI Engineer or AI Solution Architect, who provides technical guidance and sets the architecture and engineering standards you work within. You will also work with platform teams and with P&O colleagues who use the tools you build, so feedback reaches you quickly and you can turn it into improvements.
+
+  
+
+**What you can expect here**
+
+You will work at the forefront of AI and technology, building tools that P&O colleagues use in real working routines. You will be trusted to own your assigned work, supported to perform at your best, and encouraged to make your voice heard on how solutions are built and improved. You will grow your skills through hands-on delivery across agent workflows, retrieval, integration, evaluation and production operations, alongside colleagues who share your curiosity and ambition.
+
+  
+
+**Start now**
+
+Your impact begins today. If you are ready to build AI that makes HR work clearer, faster and more reliable for colleagues across Novo, apply for the AI Engineer role by 4 December 2026. Applications are reviewed on an ongoing basis, so we encourage you to apply as soon as possible.
+
+We commit to an inclusive recruitment process and equality of opportunity for all our job applicants.

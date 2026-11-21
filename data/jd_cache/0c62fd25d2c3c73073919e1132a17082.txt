@@ -1,0 +1,112 @@
+**Greetings from Coforge!**
+
+  
+
+Coforge is looking for **Android Mobile App Developer** with **7-12 years** experience in Android, Java, Kotlin, Android SDK, JNI, NDK, TFLite, BLE, Wi-Fi, Bluetooth, NFC, WCAG.
+
+  
+
+**Important Note :** We are looking for an immediate joiner for this role! If you're on a 30/60/90-day notice period, this opportunity may not be the right fit at the moment. We truly appreciate your understanding!
+
+  
+
+**Please find the below detailed job description and the company profile for your better understanding.**
+
+  
+
+**Position: Android Mobile App Developer**
+
+**Experience: 7-12 years**
+
+**Job Location: Bangalore**
+
+**Position Type: Full time**
+
+**Qualification: Any graduate**
+
+**Work Mode: Hybrid**
+
+  
+
+**Job Summary:**
+
+We are looking for an experienced Android Developer with strong hands-on experience in designing, developing, and maintaining native Android applications using Java and/or Kotlin.
+
+The ideal candidate should have exposure to JNI, Android NDK, TensorFlow Lite (TFLite) model integration, and wireless connectivity technologies such as BLE, Wi-Fi, Bluetooth, and NFC. The candidate should also have a good understanding of Android UI/UX principles, WCAG accessibility compliance, application performance optimization, and clean architecture practices.
+
+  
+  
+
+**Mandatory Skill:**
+
+* Android applications using Java and/or Kotlin.
+* Familiarity with JNI (Java Native Interface) and NDK (Native Development Kit).
+* Familiarity with integration of TFLite based models and development around their APIs.
+* Familiarity with using BLE/WIFI/Bluetooth/NFC connectivity option.
+* Experience in the WCAG compliance development
+* Strong knowledge of Android UI design principles, patterns, and best practices.
+* Understanding of Googles Android design principles and interface guidelines**.**
+* Experienced in developing Android apps, working in large agile TDD teams.
+* Strong knowledge of Android SDK, different versions of Android, and how to deal with different screen sizes.
+* Familiarity with RESTful APIs to connect Android applications to back-end services.
+* Experience with offline storage, threading, and performance tuning.
+* Ability to design applications around natural user interfaces, such as touch”.
+* Knowledge of the open-source Android ecosystem and the libraries available for common tasks.
+* A knack for benchmarking and optimization.
+* Familiarity with clean code and architecture principles.
+* Proficient understanding of code versioning tools, such as Git.
+
+  
+
+**Key Responsibilities**
+
+* Design, develop, build, and maintain native Android applications using Java and/or Kotlin.
+* Develop scalable and high-performance mobile applications following Android development best practices.
+* Work with JNI (Java Native Interface) and Android NDK for native code integration.
+* Integrate TensorFlow Lite (TFLite)-based machine learning models and work with associated APIs.
+* Implement connectivity features using BLE, Wi-Fi, Bluetooth, and NFC.
+* Ensure Android applications comply with WCAG accessibility standards.
+* Develop user-friendly interfaces following Google's Android design principles and guidelines.
+* Work with Android SDK and ensure compatibility across different Android versions and screen sizes.
+* Integrate RESTful APIs to connect Android applications with backend services.
+* Participate in Agile development activities and follow Test-Driven Development (TDD) practices.
+* Collaborate with cross-functional teams to deliver quality Android applications.
+
+  
+  
+
+**Why Coforge?**
+
+Coforge is a global digital services and solutions provider that leverages emerging technologies and deep domain expertise to deliver real-world business impact for our clients. We’ve emerged as the 7*th largest Indian IT services firm*.
+
+  
+
+**Who We Are:** Coforge is devoted to making the world a better place for clients, for our communities and for our people.
+
+**What We Do:** We help businesses transform into intelligent, high-growth enterprises through capabilities in Generative AI, Cloud, Data & Analytics, Low-Code Platforms, Intelligent Automation and Cybersecurity.
+
+Coforge specializes in Data Governance, Digital Transformation, and Disruptive Technologies, helping clients to capitalize on their potential efficiencies.
+
+Coforge has been an instrumental partner in the digital transformation journey of clients across a broad spectrum of industries: Health Tech, Fin Tech, Hi-Tech, Security, Digital Payments, Education Publication, Travel, Real Estate, Supply Chain and Logistics and Emerging Technologies.
+
+  
+
+Coforge operate across 25 countries, with 30 global delivery centers, and a thriving global workforce of 40,000+ employees. Our international network ensures that clients receive seamless access to the complete range of our services and expert knowledge and skills of professionals globally.
+
+Coforge has been recognized as a Great Place to Work certified organisation.
+
+  
+
+Coforge was recognized at the ET Edge Best Organisations for Women 2026.
+
+**Interview Levels: 3-Technical Interviews**
+
+Regards**,**
+
+**Ravisankar P**
+
+Talent Acquisition - Coforge
+
++91 9994599336
+
+ravi.sankar@coforge.com

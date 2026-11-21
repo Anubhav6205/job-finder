@@ -1,0 +1,57 @@
+Act as the main technical contact for business stakeholders on your projects: understand their processes and needs, gather and clarify requirements and manage expectations.
+
+Provide rough effort estimations and align approach, priorities and design with the team before implementation.
+
+Communicate architecture decisions, trade-offs, risks and progress clearly to technical and business audiences.
+
+Solution design & delivery
+
+Design, develop and deliver enterprise-grade GenAI, RAG and AI agent solutions from architecture to production deployment.
+
+Build secure, scalable and cost-efficient solutions on Azure AI platforms, using Python for back-end development and customization.
+
+Integrate AI capabilities with SAP, Microsoft 365, SharePoint, Power Platform, APIs and other business systems.
+
+Deploy, test and operate AI solutions in production and continuously improve their performance and reliability.
+
+Architecture, standards & governance
+
+Define solution architectures, technical standards, reusable frameworks and engineering best practices.
+
+Ensure Responsible AI, security, compliance and governance requirements are met throughout the solution lifecycle.
+
+Collaboration & enablement
+
+Collaborate with global, cross-functional teams and contribute actively to joint decisions.
+
+Mentor engineers and share knowledge to strengthen AI capabilities across the organization.
+
+Your Profile
+
+Technical skills and soft skills are equally important for this role and are weighted equally in our selection process. The ideal candidate meets the required technical skills, the soft skills and the qualifications below – strength in one area does not compensate for gaps in another.
+
+Required Technical Skills
+
+Area Skills
+
+AI & GenAI engineering Generative AI and Large Language Models (LLMs); Retrieval-Augmented Generation (RAG), vector databases and retrieval concepts; design and development of AI agents; prompt engineering and evaluation
+
+Python & integration Strong Python skills for back-end development and customization of AI solutions; REST APIs and system integration; clean, testable, maintainable code
+
+Azure AI platform Strong hands-on expertise in Azure OpenAI, Azure AI Search and Azure AI Foundry. Our focus is on the Microsoft technology stack – experience limited to other cloud platforms is not sufficient.
+
+Cloud & DevOps Azure cloud services, Azure Functions, Azure DevOps; CI/CD pipelines (solid intermediate level); deployment, testing and lifecycle management of AI solutions in production
+
+Security & Responsible AI Secure solution design, data protection, Responsible AI principles and AI governance requirements
+
+Bachelor’s or master’s degree in Computer Science, Artificial Intelligence, Information Technology or a comparable field.
+
+5–8 years of professional software development experience, including 2–3 years of hands-on experience with Generative AI.
+
+Proven hands-on experience in implementing, deploying and operating AI use cases in production – not only in designing them.
+
+Track record of integrating AI into business processes in an enterprise environment.
+
+Experience working in international, cross-functional and distributed teams.
+
+Fluent English, written and spoken.

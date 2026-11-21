@@ -1,0 +1,174 @@
+Job Title: Aitificial Intelligence Governance Expert
+
+Hiring Manager : Naveen Pochiraju
+
+Job Level: L3-1
+
+Location: Hyderabad
+
+  
+  
+  
+
+**About the Job:**
+
+  
+
+You are a dynamic AI Governance Expert interested in challenging the status quo to ensure development and impact of Sanofi's AI solutions for the patients of tomorrow.
+
+You are an influencer and leader who has deployed DSC/AI/ML solutions applying state of-the art algorithms with technically robust lifecycle management. You have a keen eye for improvement opportunities and a demonstrated ability to deliver AI/ML solutions while working across different technologies and in a cross-functional environment.
+
+  
+  
+
+**About you:**
+
+  
+
+We are seeking an experienced AI Governance expert to coordinate our artificial intelligence initiatives. This role involves leading and coordinate the development and deployment of AI solutions, guiding a team of talented data scientists and engineers, and collaborating with cross-functional teams to drive innovation and deliver cutting[1]edge AI projects.
+
+  
+  
+
+**Job Highlights & main responsibilities:**
+
+* Coordinate and manage our AI team in developing innovative AI solutions aligned with business objectives.
+
+* Ensure regulatory, data privacy and other best practices for AI and GenAI projects.
+
+* Ensure AI systems comply with privacy laws, data protection regulations, and industry best practices.
+
+* Develop and deliver training programs to educate employees on AI governance principles, policies, and best practices.
+
+* Identify and assess potential risks associated with AI technologies and recommend mitigation strategies.
+
+* Implement risk management frameworks to monitor and address biases, security vulnerabilities, and ethical concerns in AI models.
+
+* Collaborate with internal and external stakeholders, including data scientists, legal teams, ethicists, and regulatory bodies, to align AI initiatives with governance standards.
+
+* Serve as a point of contact for AI governance-related queries and issues.
+
+* Conduct regular audits of AI systems to ensure compliance with established governance policies.
+
+* Document and report on governance activities, compliance status, and any incidents or breaches.
+
+* Stay updated on emerging trends and advancements in AI governance and disseminate knowledge across the organization.
+
+* Analyzing existing operations to identify risks and redundancies.
+
+* Work with business stakeholders, developers, engineers, and MLOps to deliver AI/ML solutions.
+
+  
+  
+
+**Key Requirements & Qualifications:**
+
+  
+
+* Degree or master’s degree in mathematics, computer science, engineering, physics, statistics, economics, or a related quantitative discipline with strong coding skills, OR Master’s Degree in relevant domain with 5+ years of analytical experience.
+
+* Understanding of AI technologies, machine learning algorithms, and data science principles.
+
+* In-depth knowledge of legal and ethical issues related to AI, including privacy, bias, and accountability.
+
+* Excellent analytical, problem-solving, and risk assessment skills.
+
+* Strong communication and interpersonal skills, with the ability to engage and influence stakeholders at all levels.
+
+* Proficiency in conducting audits and preparing compliance reports.
+
+* Minimum of 5+ years of experience in AI governance, data privacy, compliance, or a related field.
+
+* Proven track record of developing and implementing governance frameworks and policies.
+
+* Experience with various enterprise-level Application Programming Interfaces (APIs).
+
+* Hands-on experience in Generative AI projects using state-of-the art
+
+technologies: LangChain, Pinecone, Claude, ChatGPT, AI Frameworks and others.
+
+* Strong experience defining and developing AI solutions from end-to-end perspective.
+
+* Experience leveraging AI agents like LangChain, AutoGPT or similar in corporate environments.
+
+* Hands-on AI/ML modeling experience of complex datasets combined with strong understanding of theoretical foundations of AI/ML.
+
+* Experience developing deployable code and deploying models in product[1]focused development under an agile environment.
+
+* Comfortable working in cloud and high-performance computing environments (e.g. AWS, GCP, Databricks, Apache Spark)
+
+* Excellent written and verbal communication, business analysis, data visualization and data storytelling skills
+
+* A demonstrated ability to work and collaborate in a team environment.
+
+* Proven track record of successfully leading AI projects from conception to
+
+deployment.
+
+* Nice to have: Experience in life sciences and healthcare and experience in a complex global organization.
+
+  
+  
+
+**Other skills and competencies:**
+
+  
+
+* Advanced Microsoft Office (PowerPoint, Word, Excel) skills.
+
+* Strong English skills both written and spoken. Spain and French are a plus.
+
+* Analytical mind and flexible, pro-active and result driven attitude.
+
+* Ability to be highly productive and effective in remote working conditions.
+
+* Ability to find compromises: balance between pushing for change and bringing people along.
+
+* Team player.
+
+* Goal-focused.
+
+* Proactive worker
+
+* Passion for improving and challenging the status quo: a strong educator and digital evangelist.
+
+* Learning mindset, eager to learn.
+
+* Enthusiasm and professionalism.
+
+* Strong self-motivation.
+
+* Ability to handle different tasks in a fast-paced environment.
+
+* Ability to work in an International and multi-cultural global team, based on transparency, constructive feedback, mutual respect and Integrity.
+
+  
+  
+
+***Why us?***
+
+At Opella, you will enjoy doing challenging, purposeful work, empowered to develop consumer brands with passion and creativity. This is your chance to grow new skills and be part of a bold, collaborative, and inclusive culture where people can thrive and be at their best every day.
+
+  
+
+**We Are Challengers.**
+
+  
+
+We are dedicated to making self-care as simple as it should be. That starts with our culture. We are challengers by nature, and this is how we do things:
+
+  
+
+**All In Together:** We keep each other honest and have each other's backs.
+
+**Courageous:** We break boundaries and take thoughtful risks with creativity.
+
+**Outcome-Obsessed:** We are personally accountable, driving sustainable impact and results with integrity.
+
+**Radically Simple:** We strive to make things simple for us and simple for consumers, as it should be.
+
+  
+
+Join us on our mission. Health. In your hands.
+
+www.opella.com/en/careers

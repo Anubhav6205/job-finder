@@ -1,0 +1,16 @@
+Primary Skills (Must Have):
+
+* Python Programming: Advanced proficiency, including asynchronous programming, data structures and object-oriented design.
+* Large Language Models (LLMs): In-depth understanding and practical experience with LLMs such as OpenAI GPT-3/4, Anthropic Claude, Meta Llama or similar; familiarity with Small Language Models (SLMs).
+* RAG Architectures: Knowledge RAG, Graph RAG, hybrid retrieval systems and context-aware retrieval pipelines.
+* LangChain & LangGraph: Hands-on experience building, deploying and maintaining applications using RAG, LangChain and LangGraph.
+* Graph-Based Workflow Design: Ability to architect, implement and debug complex, stateful, branching conversational flows using LangGraph.
+* Agentic Frameworks & Evaluation: Ability to develop workflow automation using an agentic framework, with familiarity with evaluation techniques and tools for agentic applications.
+* Prompt Engineering: Expertise in designing, testing and optimizing prompts for generative models.
+* API Development & Integration: Experience integrating external APIs, tools, microservices and data sources into AI-driven workflows (FastAPI).
+* Machine Learning Libraries: Familiarity with PyTorch, TensorFlow, Hugging Face Transformers or similar.
+
+Secondary Skills (Good to Have):
+
+* Data Engineering: Basic knowledge of PySpark and Databricks is a plus.
+* Azure Cloud experience.

@@ -1,0 +1,22 @@
+**Contract To Hire :**
+
+**Location : Pan India**
+
+**Work Mode : Hybrid**
+
+**Experience : 6 + years**
+
+  
+
+* QA Automation
+* Rest API
+* Selenium
+* Gen AI
+
+Python or Java Scripting
+
+* Hands-on experience designing and developing AI-enabled QA automation platforms supporting web, API, mobile, and enterprise application testing.
+* Experience implementing GenAI solutions for test scenario generation, test case generation, automation script creation, test data generation, intelligent regression selection, failure analysis, defect triage, and test reporting.
+* Experience building agentic AI workflows, where AI agents can analyze requirements, generate tests, trigger automation, analyze execution results, and recommend next actions.
+* Hands-on experience with LLMs, prompt engineering, RAG, embeddings, vector databases, function/tool calling, and structured LLM outputs.
+* Strong development experience in Python or Java

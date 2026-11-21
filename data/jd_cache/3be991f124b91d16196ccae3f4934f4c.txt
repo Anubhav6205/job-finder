@@ -1,0 +1,93 @@
+Closing date for applications: 24/11/2026
+
+Location Bangalore, India
+
+Job typePermanent | Contract typeFull Time
+
+#R-00287527
+
+  
+
+**Job description**
+-------------------
+
+This role is based in India and as such all normal working days must be carried out in India.
+
+Join us as a Machine Learning Engineer - ECH
+
+* In this role, you’ll be driving and embedding the deployment, automation, maintenance and monitoring of machine learning models and algorithms
+* Day-to-day, you’ll make sure that models and algorithms work effectively in a production environment while promoting data literacy education with business stakeholders
+* If you see opportunities where others see challenges, you’ll find that this solutions-driven role will be your chance to solve new problems and enjoy excellent career development
+* We're offering this role at vice president level
+  
+
+  
+
+**What you’ll do**
+------------------
+
+  
+  
+
+Your daily responsibilities will include you collaborating with colleagues to design and develop advanced machine learning products which power our group for our customers. You’ll also codify and automate complex machine learning model productions, including pipeline optimisation.
+
+  
+  
+
+We’ll expect you to transform advanced data science prototypes and apply machine learning algorithms and tools. You’ll also plan, manage, and deliver larger or complex projects, involving a variety of colleagues and teams across our business.
+
+  
+  
+
+You’ll also be responsible for:
+
+  
+  
+
+* Understanding the complex requirements and needs of business stakeholders, developing good relationships and how machine learning solutions can support our business strategy
+* Working with colleagues to productionise machine learning models, including pipeline design and development and testing and deployment, so the original intent is carried over to production
+* Creating frameworks to ensure robust monitoring of machine learning models within a production environment, making sure they deliver quality and performance
+* Understanding and addressing any shortfalls, for instance, through retraining
+* Leading direct reports and wider teams in an Agile way within multi-disciplinary data and analytics teams to achieve agreed project and Scrum outcomes
+  
+
+  
+
+**The skills you’ll need**
+--------------------------
+
+  
+  
+
+To be successful in this role, you’ll need to have a good academic background in a STEM discipline, such as Mathematics, Physics, Engineering or Computer Science. You’ll also have the ability to use data to solve business problems, from hypotheses through to resolution.
+
+  
+  
+
+We’ll look to you to have experience with machine learning on large datasets, as well as experience building, testing, supporting, and deploying advanced machine learning models into a production environment using modern CI/CD tools, including git, TeamCity and CodeDeploy.
+
+  
+  
+
+You’ll also need:
+
+  
+  
+
+* Hands on experience on designing, developing and productionising scalable **Machine Learning, Generative AI and Agentic AI solutions**, including intelligent agents, model serving, orchestration and tool integration on AWS
+* Experience in developing reusable AI engineering capabilities, implementing robust evaluation, guardrails, observability and performance optimisation
+* Experience using programming and scripting languages, including Python and Bash
+* An understanding of synthesising, translating and visualising data and insights for key stakeholders
+* Financial services knowledge and the ability to identify wider business impact and risk opportunities and to make connections across key outputs and processes
+* Good communication skills with the ability to proactively engage with a wide range of stakeholders
+
+**Welcome to our Bangalore hub**
+--------------------------------
+
+Located at Taurus 4, Bagmane Constellation Business Park, our new office stands as a state-of-the-art hub for innovation and collaboration.
+
+### **Key facts:**
+
+* A 30 acre campus
+* Space for 6,000 colleagues
+* Opened in 2025

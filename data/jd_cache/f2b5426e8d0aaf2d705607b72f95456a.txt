@@ -1,0 +1,134 @@
+»
+
+**Date:** 20 Nov 2026
+
+**Location:** Bengaluru, KA, IN, 560038
+
+**Company:** Hero Motocorp
+
+**Function**
+------------
+
+Emerging Mobility Business Unit
+
+**Pay Band**
+------------
+
+M3 to M5
+
+**Role**
+--------
+
+As a Lead - Connected & Digital Engineering, you will be a part of the Emerging Mobility Buisness Unit and will report to the Head - Connected and Digital Platforms.
+  
+In this role, we are seeking a visionary and execution-focused Engineering Manager to lead the design, scalability, reliability and end-to-end operations of our next-generation Connected Platform built on AWS Cloud. This platform is responsible for ingesting high-volume telemetry from millions of connected devices and vehicles, processing real-time data streams, and exposing robust APIs for our expanding partner ecosystems.
+  
+You will transition from a traditional siloed engineering focus to leading a comprehensive, cross-disciplinary engineering organization. You will have full ownership over a multi-layered platform spanning everything from on-device firmware up to consumer-facing interfaces and cloud infrastructure.
+
+**A purpose driven role for you**
+---------------------------------
+
+Your key responsibilities will include, but not limited to:
+  
+1. Engineering Leadership & People Management -
+  
+Lead, mentor, and scale a multi-disciplinary engineering team across SDK, Backend, Frontend, web developers , Data, DevOps and Firmware.
+  
+Cultivate a culture of engineering excellence, continuous learning, accountability, and psychological safety.
+  
+Conduct performance evaluations, map out career growth paths, and define success metrics for individual engineering leads.
+  
+2. Architecture & Technical Strategy -
+  
+Propose, define, and implement the optimum, consolidated, and scalable Solution Architecture across the cloud and edge ecosystems.
+  
+Act as the internal Subject Matter Expert (SME) for all things related to Telematics-Cloud connectivity, hardware constraints, and cellular protocols.
+  
+Participate in high-level hardware platform architecture evaluations to ensure seamless alignment with cloud ingestion capabilities.
+  
+Architect the Control Tower framework to aggregate data from disparate sources (IoT, Supply Chain, ERP) into a unified, actionable interface.
+  
+Enforce modern design patterns, code reviews, technical documentation, and rigorous testing methodologies across all sub-teams.
+  
+3. Delivery, Roadmap & Governance -
+  
+Collaborate with cross-functional teams (CFT) and business users to construct the platform roadmap and prioritize features optimized for both internal combustion engine (ICE) and electric vehicles (EV).
+  
+Establish strict project governance protocols across development cycles for both EV and ICE product lines.
+  
+Build data-driven business cases for architectural upgrades and present technical milestones clearly to executive stakeholders.
+  
+Lead the evaluation, benchmarking, and shortlisting of third-party Solution Integrators (SIs), establishing clear success criteria for proof-of-concepts (PoCs).
+  
+Establish real-time KPIs that inform the business cases for future architectural upgrades.
+
+**A Day in the life**
+---------------------
+
+In this role, we are seeking a visionary and execution-focused Engineering Manager to lead the design, scalability, reliability and end-to-end operations of our next-generation Connected Platform built on AWS Cloud. This platform is responsible for ingesting high-volume telemetry from millions of connected devices and vehicles, processing real-time data streams, and exposing robust APIs for our expanding partner ecosystems.
+  
+You will transition from a traditional siloed engineering focus to leading a comprehensive, cross-disciplinary engineering organization. You will have full ownership over a multi-layered platform spanning everything from on-device firmware up to consumer-facing interfaces and cloud infrastructure.
+
+**Academic Qualification & Experience**
+---------------------------------------
+
+Bachelor’s or Master’s degree in Computer Science, Electrical Engineering, Electronics & Communication, or a closely related technical field.
+  
+
+* 10–15 years of proven experience across platform engineering, cloud architecture, or connected IoT/Telematics ecosystems.
+* 3+ years in a formal engineering management role, successfully leading cross-functional teams.
+
+**Technical Skills/Knowledge**
+------------------------------
+
+* Cloud Native Architecture: Deep, expert-level knowledge of AWS cloud infrastructure and managed services optimized for massive-scale distributed systems.
+* Frontend Development skills: Good Knowledge in HTML,CSS and Javascript including frameworks like React/Angular.
+* Experience managing systems that successfully ingest, process, and scale telemetry from millions of active edge devices. Good overview of ERP systems / CRM / DMS etc
+* IoT & Protocols: Hands-on mastery of IoT protocols and network connectivity stacks, including MQTT, WebSockets, BLE (Bluetooth Low Energy), 4G/5G cellular systems, HTTP, and TCP/IP.
+* Software Development & Frameworks: Strong engineering foundation with past or present proficiency in Java, Kotlin, or Python alongside modern frameworks like Spring Boot.
+* Security & Cryptography: Deep familiarity with enterprise cybersecurity concepts, including Public Key Infrastructure (PKI), symmetric/asymmetric encryption, secure boot mechanisms, API security frameworks (OAuth2, OIDC), and key management systems.
+* Hardware & Mobile Ecosystems: High-level understanding of hardware platform architecture and constraints, as well as mobile application lifecycles (iOS/Android) for resilient SDK operations.
+* Data Management: Proficiency designing high-throughput data layers utilizing NoSQL databases (e.g., DynamoDB, MongoDB) and relational engines (e.g., Postgres, MySQL).
+* Domain Context: Strong comprehension of Fleet Management platforms and large-scale streaming data analytics.
+* AI/ML & Data Engineering Tools(Preferred): Strong familiarity with AI/ML modeling frameworks, feature stores, and MLOps tools (e.g., AWS SageMaker, MLflow, TensorFlow, PyTorch) alongside real-time data streaming engines.
+
+**Behavioural Skills**
+----------------------
+
+- Has a passion for building great teams - proven ability to develop, motivate and champion talent beyond own organization
+  
+
+* Innovate for Growth: Technology Evangelist. Always thinking about how to make improvements; able to implement changes that map to business strategy. Stays abreast of cutting edge technology trends
+* Lead & Adapt to Change: Thrives in a changing, dynamic environment and can drive operational efficiencies that map to changing needs
+
+**What will it be like to work for Hero**
+-----------------------------------------
+
+As the **world’s largest** manufacturer of motorcycles and scooters for the last **22 years**, Hero is where you will get to work with the brightest innovators, passionate about being the best in what they do. You will become a part of India’s proudest legacy, a brand that is celebrated by **110 million Indians** and is now taking over the world with its manufacturing superpower. If you are someone who dreams big and goes after their dreams with absolute conviction, Hero is your place to be. At Hero, we are building a cutting-edge future of mobility, pushing frontiers of innovation and aiming for the very best. **Choose to be with the best, choose to be your best.**
+
+**About Hero**
+--------------
+
+Headquartered in New Delhi (India), Hero MotoCorp is the **world's largest** manufacturer of motorcycles and scooters for 22 consecutive years. We are at the forefront of developing modern, technologically superior and eco-friendly mobility solutions for its millions of customers around the world.
+
+Hero MotoCorp has rapidly transformed into a true multinational organization with a presence in **47 countries** across Asia, Africa, Latin America and the Middle East.
+
+We have achieved the coveted milestone of **110 million cumulative production** and sales since inception. Aligned with its Vision **“Be the Future of Mobility”**, Hero MotoCorp plans to achieve its next **100 million sales by 2030.**
+
+We have a globally benchmarked manufacturing and Research & Development (R&D) ecosystem that is spread across global geographies. Its R&D facilities are located in India and Germany - the Centre of Innovation and Technology (CIT) at Jaipur, India, and the Tech Centre Germany (TCG), near Munich. Hero MotoCorp’s eight ‘green’ manufacturing facilities are spread across India (6), Colombia (1) and Bangladesh (1).
+
+Hero MotoCorp is the pre-eminent leader in the Indian two-wheeler market. It is the only motorcycle manufacturing company listed in Dow Jones Sustainability Index.
+
+In 2022, Hero MotoCorp launched a separate brand for emerging mobility solutions, including Electric Vehicles (EV) - **VIDA**, Powered by Hero. VIDA has commenced sales of VIDA V1 – its first EV – in India and plans to launch the product in global markets.
+
+We are one of the largest global corporate promoters of multiple sporting disciplines. Hero is globally associated with golf, football, field hockey, cricket and motorsports. Hero MotoSports Team Rally is one of India’s flag-bearers in global rally racing. The iconic golfer Tiger Woods is Hero MotoCorp’s Global Corporate Partner.
+
+Read more about us.
+
+Be with the best. Be your best. Catch-up on all our latest openings.
+
+Recruitment assessments – We at Hero are equal opportunity employer and committed to a policy of treating all its employees and job applications equally. Some of our roles use assessments to help us understand how suitable you are for the role you've applied to. If you are invited to take an assessment, this is great news. It means your application has progressed to an important stage of our recruitment process.
+
+**Job Segment:** Cloud, Developer, R&D Engineer, Electrical Engineering, Engineer, Technology, Engineering
+
+»

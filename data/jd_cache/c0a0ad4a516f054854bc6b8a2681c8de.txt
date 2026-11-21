@@ -1,0 +1,33 @@
+**Project Role :** AI Native Software Engineer  
+**Project Role Description :** Build and ship production-ready software using AI as a core part of the engineering lifecycle. Apply AI-native practices to develop and validate solutions, maintain quality and compliance, and continuously improve how software is built and operated.  
+**Must have skills :** Java Full Stack Development  
+**Good to have skills :** NA  
+Minimum **5** year(s) of experience is required  
+**Educational Qualification :** 15 years full time education
+
+AgentAI-Ready Full-Stack Developer  
+Role Summary  
+ AI Powered Tech Talent   
+Build full-stack enterprise applications using AgentAI tools for accelerated coding, testing, and integration. Deliver immediate organizational value through productivity uplift and reduced reliance on scarce AI-native talent. AI Powered Tech Talent.  
+Key Responsibilities  
+ Hands-on Development   
+o Use AgentAI copilots and LLM tools for rapid coding, debugging, and documentation.  
+o Develop front-end and back-end components with seamless integration.  
+o Integrate pre-built AI services and APIs into applications implement RAG-based features where relevant.  
+ Quality & Speed   
+o Combine AI-assisted productivity with engineering best practices to deliver robust, scalable solutions.  
+ Collaboration   
+o Work closely with architects and AI-native specialists to ensure seamless integration and adoption.  
+Must-Have Qualifications  
+ Strong foundation in enterprise engineering, SDLC, and domain workflows.  
+ Experience using AI-assisted development tools (copilots, LLM-based coding assistants).  
+ Practical knowledge of AI concepts and limitations focus on integration, not model training.  
+ Ability to accelerate delivery without compromising quality.  
+Programming & Full-Stack Skills  
+ Backend (any 1 or more) : Java (Spring Boot), .NET (C#), Python  
+ Frontend: React / Angular / Vue.js, TypeScript / JavaScript  
+ Additional: SQL/NoSQL, REST/GraphQL APIs, cloud-native development, CI/CD pipelines.
+
+Additional Information:   
+- The candidate should have minimum 5 years of experience in Java Full Stack Development.  
+- A 15 years full time education is required.

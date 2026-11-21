@@ -1,0 +1,86 @@
+**Discover your future at Citi**
+--------------------------------
+
+Working at Citi is far more than just a job. A career with us means joining a team of approximately 219,000 dedicated people from around the globe. At Citi, you’ll have the opportunity to grow your career, give back to your community and make a real impact.
+
+**Job Overview**
+----------------
+
+We are seeking a high-caliber **Senior Full Stack Engineer with a strong React/UI focus** to build modern, data-intensive web applications for **Vendor Master Central (VMC)**—Citi's enterprise platform for managing global vendor contracts, market data services, and financial metadata.
+
+In this role, you will take ownership of the frontend experience, crafting high-performance data grids, dynamic curation workflows, and intuitive data management tools. You will also collaborate on backend REST services in Java/Spring Boot and leverage cutting-edge GenAI tooling (such as Devin, Cursor, and Copilot) to accelerate delivery.
+
+  
+  
+
+**Key Responsibilities**
+------------------------
+
+* **Frontend Engineering:** Architect and build responsive, accessible, and high-performance SPAs using **React**, **TypeScript**, and modern component design.
+* **Complex Data UI:** Develop fast, interactive data tables (virtualized scrolling, multi-column filtering, dynamic column selection, inline curation, and Excel upload/export).
+* **Backend & API Integration:** Design and integrate clean RESTful APIs using **Java (21 / 25)** and **Spring Boot**, ensuring secure, reliable data exchange.
+* **AI-Accelerated Delivery:** Actively utilize AI development tools (Devin, GitHub Copilot, Cursor) for rapid prototyping, component generation, unit testing, and refactoring.
+* **Quality & Performance:** Implement robust automated testing (Jest, React Testing Library, Cypress/Playwright) and optimize client-side rendering performance.
+* **Collaboration & Standards:** Partner closely with product managers, UX designers, and backend engineers in an agile squad, promoting clean architecture and modern engineering standards.
+
+**Technical Skills:**
+---------------------
+
+* **Frontend Mastery:** 5+ years of hands-on experience building complex web applications with **React**, **TypeScript**, modern JavaScript (ES6+), and CSS/Tailwind.
+* **State & Data Handling:** Strong experience with client-side state management (Redux Toolkit, Zustand, or TanStack Query) and data grid libraries (AG Grid, TanStack Table, etc.).
+* **Backend Knowledge:** Solid working knowledge of **Java** and **Spring Boot** for building and consuming RESTful microservices.
+* **File & Data Formats:** Experience implementing client-side/server-side Excel processing (e.g., SheetJS) and structured data validation.
+* **DevOps & Tooling:** Familiarity with modern build tools (Vite, Webpack), Git, CI/CD pipelines, and containerization (Docker, OpenShift).
+* **AI Tooling:** Enthusiasm for and practical experience with AI-assisted software development tools (Copilot, Cursor, Devin).
+
+**Professional Qualifications:**
+--------------------------------
+
+* 5–8 years of relevant software engineering experience.
+* Strong problem-solving skills with the ability to work autonomously and drive technical solutions.
+* Bachelor’s/University degree in Computer Science, Engineering, or equivalent practical experience.
+  
+
+  
+  
+
+This job description provides a high-level review of the types of work performed. Other job-related duties may be assigned as required.
+
+-
+
+**Job Family Group:**
+---------------------
+
+Technology
+
+-
+
+**Job Family:**
+---------------
+
+Applications Development
+
+-
+
+**Time Type:**
+--------------
+
+Full time
+
+-
+
+**Most Relevant Skills**
+------------------------
+
+Please see the requirements listed above.
+
+-
+
+**Other Relevant Skills**
+-------------------------
+
+For complementary skills, please see above and/or contact the recruiter.
+
+-
+
+*Citi is an equal opportunity employer, and qualified candidates will receive consideration without regard to their race, color, religion, sex, sexual orientation, gender identity, national origin, disability, status as a protected veteran, or any other characteristic protected by law.*

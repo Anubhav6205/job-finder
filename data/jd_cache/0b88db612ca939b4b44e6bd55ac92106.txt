@@ -1,0 +1,24 @@
+**Role & responsibilities**
+
+  
+
+**Java Full Stack Developer (Java + Angular)**
+
+Primary Skills:
+
+* **Java**
+* **Angular**
+* AI/ML Integration (Preferred)
+
+Technical Skill Set:
+
+* Core Java   Advanced concepts, performance optimization, functional programming, multithreading
+* Spring Framework – Spring, Spring Boot, Spring REST APIs
+* Messaging Systems – MQ (IBM MQ)
+* Kafka – Event-driven architecture, producers/consumers, stream processing
+* API Development – RESTful services, microservices architecture
+* Frontend – Angular 10, TypeScript, UI component development
+
+**AI Exposure** – Hands-on or conceptual knowledge of integrating AI/ML services or frameworks
+
+**Good To have**: Java Version 17 and Angular 10.

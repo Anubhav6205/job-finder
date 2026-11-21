@@ -1,0 +1,64 @@
+**What you’ll do:**
+-------------------
+
+Eaton is seeking a hands-on AI Agent & Automation Lead to join the AI Enablement, Literacy & Adoption team within AI & Data Governance, part of Eaton's AI & Data Management organization, based in Pune, India. This is primarily an new engineering role, with front-line enablement and training coordination as a secondary focus. The Lead will design, build and run the agents, workflow automations and standard services that let Eaton's AI adoption program scale.
+
+The role has a dual focus. First, it owns day-to-day AI adoption service delivery: license provisioning, reclaim, transfers, waitlist and consumption credit management for enterprise AI assistants, one intake for leadership and business requests, adoption and consumption reporting, and in-region (IST) office hours and training operations. Second, it owns and delivers the enablement teams automation roadmap, so manual effort goes down measurably every quarter. The Lead will also be the first owner of the enterprise skills and agents library, collecting, reviewing, tagging and publishing reusable skills, prompts and agents into Eaton's AI governance technologies every sprint, and will coach employees, AI Ambassadors and AI focal points on agent development.
+
+Essential responsibilities include:
+
+Run - AI adoption service delivery  
+
+* Own day-to-day AI adoption operations for Microsoft 365 Copilot, Copilot Cowork and other enterprise AI assistants, including license provisioning, reclaim, transfers, waitlist and consumption credit-tier management, so routine licensing and service operations no longer depend on leadership, the specialists or front-line training coordination.
+* Run the ServiceNow request service end to end (catalog, approval routing to managers, AI focal points and Finance, fulfillment, notifications and status) and make it the single front door, so requests stop arriving by email, chat and direct message.
+* Build and run one intake, triage and prioritization process for leadership and business requests, with clear service levels, escalation paths and reporting. Point requesters to existing skills, agents and assets before anything new is built.
+
+Copilot effectiveness - agents and automation  
+
+* Design, build, test, deploy and support agents and workflow automations that answer and fulfill requests arriving through Teams, email and ServiceNow, using Microsoft Copilot Studio, Power Automate, Microsoft 365 Copilot extensibility and Azure AI Foundry.
+* Build and tune support agents grounded in help articles, policies and training content, so most routine questions about AI tools are answered without a person and the rest hand off cleanly to second-line support.
+* Build agents and automations for the team's own operations, such as status reporting generated from Jira, meeting preparation and recaps, and release-note drafts from vendor product roadmaps.
+
+Skills and agents library  
+
+* Act as the first owner of the enterprise skills and agents library: set up standard work to collect, review, tag and publish reusable skills, prompts and agents into Eaton's AI governance technologies every sprint.
+* Build agent-assisted intake and tagging so submissions from AI Ambassadors, business units and IT teams arrive described, classified and ready for review.
+* Define reusable patterns and templates so one-off leadership builds become repeatable, shareable solutions, such as executive briefing skills, function playbooks and report-generation skills.
+
+**Qualifications:**
+-------------------
+
+* Bachelor's degree in Computer Science, Information Technology, Engineering, Data Science or a related field. Equivalent relevant experience may be considered. Microsoft certifications (for example Power Platform, Copilot Studio or Azure AI Engineer) or ServiceNow certifications are a plus.
+* 7+ years of IT experience, including 4+ years hands-on building workflow automations, bots, agents or low-code solutions in an enterprise environment, 2+ years running or supporting IT or digital workplace services in a multinational organization (service intake, licensing or service-level management), and recent hands-on delivery of generative AI or agent solutions into production. Experience leading cross-functional technical delivery, design reviews, production support and service improvement is required. Experience should demonstrate independent judgment across complex, enterprise-scale work rather than direct people-management responsibility.
+
+**Skills:**
+-----------
+
+* Hands-on development with Microsoft Copilot Studio, Microsoft 365 Copilot extensibility (agents, connectors, plugins) and Copilot Cowork.
+* Power Automate (cloud flows), Power Apps and Dataverse; solution lifecycle management and environment governance.
+* Azure AI Foundry for pro-code agents, model selection and evaluation; working knowledge of multi-model and multi-agent patterns, including Model Context Protocol (MCP) and agent-to-agent connectivity.
+* Microsoft Agent 365 and agent lifecycle governance: inventory, permissions, monitoring and retirement.
+* Microsoft 365 administration concepts: license assignment and reclaim, Microsoft Entra ID groups, Teams, SharePoint, Exchange and Microsoft Graph APIs.
+* ServiceNow catalog, workflow and integration patterns.
+* Jira for backlog and status reporting; learning management system integration for training validation.
+* Scripting and programming in Python, PowerShell or both; REST APIs and JSON.
+* Prompt engineering, retrieval-augmented generation and agent design patterns; evaluating agent quality and safety.
+* Knowledge management for agents: grounding sources, knowledge articles and keeping content current.
+* Reporting and analytics with Power BI and Excel, including Copilot usage and adoption data.
+* AI consumption and cost management (FinOps): usage data, license and credit models, and cost-to-value reporting.
+* Working knowledge of data governance, cybersecurity, privacy and responsible AI.
+* Automation engineering: requirements translation, process decomposition, orchestration, exception handling, testing, deployment, observability and production support.
+* Technical leadership: solution design reviews, reusable patterns, engineering standards, platform selection and guidance to architects, developers, testers, DevOps and cybersecurity partners.
+* IT service management: request fulfillment, incident, problem, change, knowledge and service-level practices for globally operated AI services.
+* Solution architecture fundamentals: secure, scalable, resilient, cost-effective and performance-efficient design aligned to enterprise standards.
+* Clear, confident communicator who writes and speaks plainly to every audience, from frontline employees to senior executives, and turns technical work into short updates, demos and stories that drive decisions and adoption.
+* Global, cross-regional coordinator who works across Asia, Europe and the Americas, plans around time zones, and builds trust with colleagues and partners across cultures.
+* Builder mindset: would rather automate a problem than add a meeting, and ships practical solutions quickly.
+* Strong ownership of service outcomes, with the discipline to run standard work, track metrics and report progress and risks.
+* Coach and teacher who builds others' skills in agent development.
+* Sets priorities and says no constructively when requests compete; manages stakeholders across time zones.
+* Works well with vendors and partners while holding them to agreed expectations.
+* Continuous-improvement and Lean mindset; collaborates inclusively and treats feedback as fuel.
+* Comfortable with ambiguity in a fast-moving AI market; forms a point of view and moves.
+* Demonstrates expert individual-contributor leadership through influence, technical judgment, mentoring and cross-functional coordination without formal direct reports.
+* Uses structured problem solving to decompose ambiguous requests, identify root causes, evaluate trade-offs and convert repeat work into standard services or automation.

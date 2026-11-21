@@ -1,0 +1,27 @@
+We are delivering a Proof of Concept for end-to-end automation and are looking for a Middle UI Path Software Engineer to build solutions on the UiPath Platform. You will develop orchestrated workflows using Maestro, Studio, and Orchestrator and connect RPA with APIs and AI or agentic patterns, with potential expansion to LLM-based agents and document understanding. Bring your delivery mindset and apply now
+
+  
+
+**Responsibilities**
+
+* Develop and maintain UiPath automations using Studio, Orchestrator, and Maestro
+* Assemble end-to-end automations that blend RPA bots, API or service integrations, and AI or LLM-driven agentic components
+* Configure orchestration and state management through Maestro or an equivalent workflow layer
+* Connect automations to SAP, APIs, and internal services
+* Implement human-in-the-loop steps for validation, approvals, and exception handling as required
+* Partner with Business Analysts and Architects to iterate rapidly during the POC
+* Help execute testing, support deployments, and prepare materials for demos
+* Produce documentation of workflows, logic, and architecture to support scaling toward production
+
+**Requirements**
+
+* Proven 2-4 years of hands-on development on the UiPath Platform with Studio and Orchestrator
+* Deep understanding of orchestration approaches such as Maestro and BPMN-style thinking
+* Familiarity with agentic automation concepts and LLM integration patterns
+* Experience connecting to APIs, web services, and enterprise systems
+* Comfort working in fast-moving, iterative POC settings
+* Demonstrated problem-solving ability focused on achieving business outcomes
+
+**Nice to have**
+
+* Nice to have experience with UiPath Document Understanding and or AI Center

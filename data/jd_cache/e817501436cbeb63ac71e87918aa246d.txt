@@ -1,0 +1,51 @@
+**DESCRIPTION**
+---------------
+
+Amazon Customer Service supports customers around the world through one of the world’s largest and most diverse customer service workforces. As AI fundamentally changes how customer service work is performed, it also creates an opportunity to reinvent how associates learn, develop their capabilities, receive coaching, and continuously improve.  
+  
+The Associate Development team is building the next generation of learning, coaching and performance experiences for Amazon Customer Service Associates. We are looking for a Software Development Engineer to help build these systems from the ground up.  
+This is a highly greenfield opportunity. Rather than digitizing traditional training and coaching processes, we are rethinking how associate development should work in an AI-native world. What does an associate need to learn before doing a job? What can they learn through experience? What should AI provide in the flow of work? How can we understand an associate’s evolving capabilities and use that understanding to personalize development? How can generative AI help provide timely, relevant and effective coaching at the scale of a global workforce?  
+Imagine systems that continuously learn from an associate’s experience and outcomes, identify where they would benefit from development, and deliver personalized learning or AI-powered coaching. The outcomes of those interventions can then become new evidence about the associate, creating a closed loop that gets smarter over time.  
+  
+As an SDE on this team, you will help define and build the technical foundations that make this possible. You will work on problems spanning generative AI, personalization, intelligent recommendations, learning and coaching systems, experimentation, data and distributed systems. You will have the opportunity to influence architecture at an early stage rather than inherit a predetermined technical solution.  
+You will partner closely with Product, Science, UX and engineering teams across Amazon to turn ambiguous customer problems into scalable technical solutions. The systems you build have the potential to shape how Customer Service Associates around the world develop and succeed at work.  
+  
+This is an opportunity for an engineer who enjoys zero-to-one problems, emerging AI technologies, large-scale systems and building products with direct human impact.  
+  
+Key job responsibilities  
+
+* Design and build scalable services and experiences that power personalized learning, coaching and associate development across Amazon Customer Service.
+* Build AI-powered coaching capabilities, including applications of generative AI that can understand context, generate relevant guidance and adapt experiences to individual associate needs.
+* Develop systems that connect signals about associate capability and performance with the right development intervention at the right time.
+* Help create closed-loop systems that measure the outcomes of learning and coaching interventions and use that evidence to continuously improve future recommendations.
+* Work with Product and Science partners to translate emerging models and experimentation into reliable production systems.
+* Make foundational architectural decisions for a greenfield product space while determining where existing Amazon capabilities can be reused or evolved.
+* Design APIs, data models and integration patterns that allow Associate Development capabilities to interact with associate context, workflow and other Customer Service systems.
+* Build mechanisms for experimentation, measurement and observability so we can understand whether the experiences we create actually improve associate and customer outcomes.
+* Deliver secure, reliable and globally scalable systems while maintaining a high bar for operational excellence.
+
+  
+A day in the life  
+You might start the day working with a scientist on how an AI coaching experience can use an associate’s recent performance context to generate more useful coaching. Later, you could whiteboard an architecture for measuring whether that coaching actually changed future performance, review an API contract with another CS platform team, and prototype a new generative-AI capability.  
+Because the space is early, you won’t simply be executing against a fully specified roadmap. You will help answer fundamental technical questions, prototype alternatives, make architecture decisions, and turn successful experiments into production systems capable of serving associates globally.  
+  
+About the team  
+The Associate Experience (AE) team is building the future of work for Amazon Customer Service Associates. Our vision is to create a trusted Customer Service experience by enabling associates to succeed as the role evolves toward complex and non-deterministic problem solving.  
+Within AE, the Associate Development team is reinventing how associates learn, develop and improve, moving beyond one-size-fits-all training and coaching towards, personalized development powered by AI.  
+Engineers joining the team will shape foundational architecture, drive technology choices, and build AI-powered products from the ground up for one of the world's largest customer service workforces.
+
+**BASIC QUALIFICATIONS**
+------------------------
+
+* 3+ years of non-internship professional software development experience
+* 2+ years of non-internship design or architecture (design patterns, reliability and scaling) of new and existing systems experience
+* Experience programming with at least one software programming language
+
+**PREFERRED QUALIFICATIONS**
+----------------------------
+
+* 3+ years of full software development life cycle, including coding standards, code reviews, source control management, build processes, testing, and operations experience
+* Bachelor's degree in computer science or equivalent
+
+  
+Our inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how-we-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner.

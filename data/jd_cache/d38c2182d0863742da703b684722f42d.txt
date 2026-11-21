@@ -1,0 +1,58 @@
+**Req ID:**
+398127
+  
+  
+NTT DATA strives to hire exceptional, innovative and passionate individuals who want to grow with us. If you want to be part of an inclusive, adaptable, and forward-thinking organization, apply now.
+  
+  
+We are currently seeking a GenAI Sr. Developer to join our team in Bangalore, Karnātaka (IN-KA), India (IN).
+  
+  
+Key Responsibilities:
+  
+  
+
+* Develop, and implement AI/ML and Generative AI solutions across various domains, including prediction systems, recommendation engines, text analytics, computer vision, chatbots, and content intelligence platforms.
+* Build and deploy advanced ML models using frameworks such as TensorFlow, PyTorch, Keras, Spacy, and scikit-learn.
+* Apply deep knowledge of statistics, machine learning, NLP, and generative models including GANs and transformers.
+* Work with RAG (Retrieval-Augmented Generation) techniques.
+* Collaborate with cross-functional teams to design and implement end-to-end AI pipelines, from data ingestion to model deployment and monitoring.
+* Support the development of GenAI use cases, prototypes, and POCs tailored to specific industry requirements.
+* Communicate technical concepts clearly and effectively with both technical and non-technical stakeholders.
+* Engage with clients to understand business needs and deliver customized AI/ML solutions that drive value.
+* Stay current with trends and advancements in AI, GenAI, LLMs, and related fields.
+* Contribute to the development of frameworks, capabilities, and features for NTT DATA’s global GenAI platform and TechHub.
+
+Minimum Qualifications:
+  
+  
+
+* Masters in AI from a reputed College / University
+* Demonstrated using Python and relevant packages for ML and data science in multiple real projects that is not limited to their own personal development environment.
+* Strong fundamentals in building GenAI solutions, preferably using Agentic frameworks.
+* Deep knowledge in all of the following areas:
+* Predictive Analytics
+* Machine Learning and Deep Learning
+* Generative AI
+* Agentic systems
+* ML Ops / AI Infrastructure
+* Strong understanding of LLM technologies, embedding models, cloud-based AI services, and AI/ML operations.
+* Hands-on experience with cloud-based AI platforms, including Azure OpenAI, Google Vertex Gen AI, and AWS AI services.
+
+Soft Skills:
+  
+  
+
+* Strong problem-solving skills and critical thinking.
+* Effective communicator capable of translating complex AI topics to stakeholders.
+* Self-driven, collaborative, and adaptable to fast-paced environments.
+
+**About NTT DATA**
+NTT DATA is a $30 billion business and technology services leader, serving 75% of the Fortune Global 100. We are committed to accelerating client success and positively impacting society through responsible innovation. We are one of the world's leading AI and digital infrastructure providers, with unmatched capabilities in enterprise-scale AI, cloud, security, connectivity, data centers and application services. our consulting and Industry solutions help organizations and society move confidently and sustainably into the digital future. As a Global Top Employer, we have experts in more than 50 countries. We also offer clients access to a robust ecosystem of innovation centers as well as established and start-up partners. NTT DATA is a part of NTT Group, which invests over $3 billion each year in R&D.
+  
+  
+Whenever possible, we hire locally to NTT DATA offices or client sites. This ensures we can provide timely and effective support tailored to each client’s needs. While many positions offer remote or hybrid work options, these arrangements are subject to change based on client requirements. For employees near an NTT DATA office or client site, in-office attendance may be required for meetings or events, depending on business needs. At NTT DATA, we are committed to staying flexible and meeting the evolving needs of both our clients and employees. NTT DATA recruiters will never ask for payment or banking information and will only use @nttdata.com, @nttdatafed.com and @talent.nttdataservices.com email addresses. If you are requested to provide payment or disclose banking information, please submit a contact us form, https://us.nttdata.com/en/contact-us.
+  
+  
+***NTT DATA endeavors to make https://us.nttdata.com accessible to any and all users. If you would like to contact us regarding the accessibility of our website or need assistance completing the application process, please contact us at https://us.nttdata.com/en/contact-us.***
+***This contact information is for accommodation requests only and cannot be used to inquire about the status of applications. NTT DATA is an equal opportunity employer. Qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability or protected veteran status. For our EEO Policy Statement, please click here. If you'd like more information on your EEO rights under the law, please click here. For Pay Transparency information, please click here.***

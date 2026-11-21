@@ -1,0 +1,30 @@
+* Develop and implement Generative AI / AI solutions on Google Cloud Platform
+* Work with cross-functional teams to design and deliver AI-powered products and services
+* Work on developing, versioning and executing Python code
+* Deploy models as endpoints in Dev Environment
+* Must Have Skills
+* Solid understanding of python
+* Experience with deep learning frameworks such as TensorFlow, PyTorch, or JAX
+* Experience with natural language processing (NLP) and machine learning (ML)
+* Experience on Cloud storage, compute engine, VertexAI, Cloud Function, Pub/Sub, Vertex AI etc
+* Hands on experience with Generative AI support in Vertex, specifically handson experience with Generative AI models like Gemini, vertex Search etc
+* Familiarity with Prompt Design and prompt tuning for Generative AI models
+* Ability to work on Vector Data Stores, custom embeddings and generate insights based on embeddings
+* Exposure and familiarity in developing endpoints and frameworks like Flask or FastAPI
+* Exposure and familiarity in using BigQuery (Basic understanding)
+* Hands-on experience with using LangChain - Chain of Thoughts, tools, simple and sequential chain
+* Strong communication and teamwork skills
+
+**Good to Have Skills**
+
+* Excellent problem-solving and analytical skills
+* Prior experience with developing conversational apps/chatbots
+* Prior experience of working in Media domain & recommendation systems
+
+**Qualifications and Prior Experience**
+
+* 6+ years of experience in AI development
+* Experience with Google Cloud Platform specifically delivering an AI solution on VertexAI platform
+* Experience in developing and deploying AI Solutions
+* Experience with Bert and Transformer models
+* Experience with Agile development

@@ -1,0 +1,29 @@
+Date: Nov 20, 2026
+
+Job Requisition Id: 67136
+
+Location:
+Pune, IN
+
+**Required Skills/Experience**
+
+* 5 to 7 years of software development experience in full-stack development.
+* 5 to 7 years of Hands-on experience in **NodeJs** and **ReactJS**
+* 5 to 7 years of Hands-on experience in **AWS** (Lambda, ECS, EC2, API gateway, Event Bridge, CloudWatch)
+* Hands-on of experience REST APIs, **backend integration, and web application architecture**.
+* Proficient in SQL and NoSQL databases like **DynamoDB**
+* Hands on in Terraform to manage and provision cloud resources
+* Excellent problem-solving skills to identify, troubleshoot, and resolve complex technical issues.
+* Experience in working with continuous integration tools (GitHub)
+* Good Knowledge in CI/CD and DevOps concepts
+  
+
+**Desired Skills/Experience**
+
+* Good knowledge of AI Agents and Generative AI
+* Certifications in AWS
+  
+
+**Education Details**
+
+* 4 Years engineering education such as B.E./B.Tech or equivalent

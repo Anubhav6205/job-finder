@@ -1,0 +1,30 @@
+We are seeking a **Lead / Senior Pricing Audit Specialist** to lead deep-dive investigations into systemic pricing defects, root-cause analyses, and cross-functional process breakdowns. This role serves as a domain expert within the audit organization, collaborating with Product, Engineering, and Machine Learning Engineering teams to track defect remediation until fixes are permanently deployed in production, while frequently handling the most complex, ambiguous, and business-critical audit matters.
+
+  
+
+**Responsibilities**
+
+* Lead investigations involving significant pricing issues, customer-impacting defects, operational failures, automation risks, and audit escalations
+* Perform deep-dive analysis to identify underlying drivers of recurring defects and determine whether controls are functioning as intended
+* Collaborate with Operations, Product, Engineering, Analytics, MLE, and Business teams to validate findings and understand root causes
+* Provide guidance to junior auditors and help standardize audit methodologies across multiple workflows
+* Contribute to the development of defect taxonomies, investigation frameworks, and escalation standards
+* Present findings to senior stakeholders and help translate complex observations into actionable recommendations
+
+**Requirements**
+
+* 5 to 10 years of experience in audit, operational excellence, risk management, or complex analytics
+* Strong investigative and analytical skills
+* Experience conducting root-cause analysis
+* Experience in handling complex operational issues
+* Background in operational quality auditing, including quality audits, process audits, or quality assurance
+* Experience in e-commerce operations or related operational processes
+* Understanding of operational risk controls and identifying process gaps
+* Skills in analyzing issues, investigating discrepancies, and identifying root causes
+* Capability to independently evaluate process quality and compliance
+* Experience analyzing operational performance data and metrics
+
+**Nice to have**
+
+* Proficiency in SQL
+* Familiarity with Power BI, Tableau, and other reporting or BI tools

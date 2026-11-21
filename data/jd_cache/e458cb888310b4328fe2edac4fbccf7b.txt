@@ -1,0 +1,31 @@
+**WE ARE HIRING | AI/ML + FULL-STACK ENGINEER | Pune**
+
+Ready to build the future of AI-powered engineering solutions?
+
+**We are** looking for a talented **AI/ML + Full-Stack Engineer** to join our Client.
+
+**Position:** AI/ML + Full-Stack Engineer  
+ **Experience:** 23 Years  
+ **Openings:** 1  
+ **Employment Type:** Full-Time  
+ **Work Schedule:** **Night Shift (IST)**  
+ **Specialization:** MEP Intelligence & Client Customizations
+
+**Key Technical Skills:**  
+Python, FastAPI / Flask  
+React.js, Next.js & TypeScript  
+Computer Vision & OpenCV  
+YOLO / Object Detection  
+PyTorch / TensorFlow  
+Paddle OCR / Tesseract  
+CAD/BIM, ezdxf & Shapely  
+PostgreSQL / MySQL  
+Docker & Git
+
+**What We're Looking For:**  
+Candidates with hands-on experience in AI/ML model development, Computer Vision, OCR, document processing, and Full-Stack application development.
+
+**Take the next step in your technology career and work on innovative AI-powered engineering solutions!**
+
+**Interested candidates:** Apply now or share your updated resume.  
+**sarath@vaanvee.com** | sarath: +91-7337558665

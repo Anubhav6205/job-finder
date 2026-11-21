@@ -1,0 +1,73 @@
+We're seeking a Lead Software Engineer at Vice President level to join our AI Security Enablement team within **Cyber** to lead the engineering of cybersecurity controls that secure the Firm's use of Artificial Intelligence and Generative AI technologies.
+
+  
+
+About Super department: **Cyber**
+
+  
+
+The Cybersecurity organization's mission is to create an agile, adaptable organization with the skills and expertise needed to defend against increasingly sophisticated adversaries. This will be achieved by maintaining sound capabilities to identify and protect our assets, proactively assessing threats and vulnerabilities and detecting events, ensuring resiliency through our ability to respond to and recover from incidents and building awareness and increase vigilance while continually developing our cyber workforce.
+
+  
+
+This is a hands-on technical leadership role with responsibility for designing, developing, and operating enterprise security platforms. You will help shape the technical roadmap, lead complex engineering initiatives, and guide engineers in delivering secure, scalable, and resilient solutions.
+  
+You will partner with technology, cybersecurity, architecture, infrastructure, and risk stakeholders to translate emerging AI threats and business requirements into practical security capabilities. The role requires strong software engineering expertise, sound architectural judgment, and the ability to take initiatives from evaluation and design through production deployment and ongoing operation.
+
+In the Technology division, we leverage innovation to build the connections and capabilities that power our Firm, enabling our clients and colleagues to redefine markets and shape the future of our communities.
+  
+Since 1935, Morgan Stanley has been a global leader in financial services, continually evolving and innovating to better serve our clients and communities in more than 40 countries around the world.
+
+**What you will do in the role**
+
+Lead the architecture, technical roadmap, and delivery of enterprise AI security platforms within AI Security Enablement.
+
+Provide hands-on Python engineering leadership, mentor engineers, and establish secure coding, testing, and code review practices.
+
+Develop controls for Generative AI and agentic applications, including content inspection, policy enforcement, and secure tool use.
+
+Evaluate AI security technologies and vendors, lead proofs of concept, and recommend integration approaches.
+
+  
+  
+
+Own platform scalability, performance, resilience, production readiness, and technical incident resolution.
+
+Partner with technology, cybersecurity, infrastructure, and risk stakeholders to translate requirements, manage dependencies, and remediate control gaps.
+
+  
+
+**What you will bring to the role**
+
+12–15+ years of software engineering experience, with proven technical leadership, mentoring, stakeholder communication, and delivery of complex enterprise platforms.
+
+Strong Python, distributed systems, asynchronous programming, and RESTful API expertise, supported by Git, CI/CD, automated testing, and observability experience.
+
+Hands-on LLM API integration experience and an understanding of RAG, embeddings, AI agents, tool calling, and model evaluation.
+
+Strong knowledge of secure coding, threat modeling, access controls, data protection, and AI threats, including prompt injection and data exfiltration.
+
+Experience with cloud platforms, preferably Microsoft Azure, Docker and Kubernetes, SQL databases, and production troubleshooting.
+
+At least 8 years' relevant experience would generally be expected to find the
+
+  
+  
+
+Skills required for this role.
+
+Relevant cybersecurity certifications, such as CISSP, CCSP, CSSLP, or equivalent, would be beneficial.
+
+  
+
+**WHAT YOU CAN EXPECT FROM MORGAN STANLEY:**
+
+At Morgan Stanley, we raise, manage and allocate capital for our clients – helping them reach their goals. We do it in a way that’s differentiated – and we’ve done that for 90 years. Our values - putting clients first, doing the right thing, leading with exceptional ideas, committing to diversity and inclusion, and giving back - aren’t just beliefs, they guide the decisions we make every day to do what's best for our clients, communities and more than 80,000 employees in 1,200 offices across 42 countries. At Morgan Stanley, you’ll find an opportunity to work alongside the best and the brightest, in an environment where you are supported and empowered. Our teams are relentless collaborators and creative thinkers, fueled by their diverse backgrounds and experiences. We are proud to support our employees and their families at every point along their work-life journey, offering some of the most attractive and comprehensive employee benefits and perks in the industry. There’s also ample opportunity to move about the business for those who show passion and grit in their work.
+
+To learn more about our offices across the globe, please copy and paste https://www.morganstanley.com/about-us/global-offices into your browser.
+
+Morgan Stanley is an equal opportunity employer committed to building and maintaining a workforce that is diverse in experience and background. Our recruiting efforts reflect our strong commitment to a culture of inclusion, where individuals are hired, developed, and advanced based on their skills and talents.
+
+Our workforce reflects a broad cross-section of the global communities in which we operate, bringing a variety of backgrounds, talents, perspectives, and experiences.
+
+For more information, please visit: https://www.morganstanley.com/people-opportunities/eeo .

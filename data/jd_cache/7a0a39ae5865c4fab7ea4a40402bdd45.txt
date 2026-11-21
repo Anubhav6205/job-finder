@@ -1,0 +1,26 @@
+We are seeking a talented **Senior Software Engineer/ Software Engineer with strong Java and Spring Boot expertise** to join our team. In this role, you will take ownership of end-to-end software delivery while guiding a technical team, collaborating with stakeholders, and driving high-quality, iterative releases in an Agile environment.
+
+  
+
+**Responsibilities**
+
+* Work on the maintenance and development of new features
+* Collaborate closely with Product Owners (POs), Clients, and PMs to understand requirements and translate them into technical tasks
+* Ensure project stability by resolving technical challenges and maintaining high levels of customer satisfaction
+* Drive development within an Agile methodology to ensure timely and iterative delivery
+* Take ownership of end-to-end delivery of software solutions while guiding a technical team
+
+**Requirements**
+
+* Bachelor's or Master's degree in Computer Science, Engineering, Information Systems, or a related STEM field
+* 4+ years of software development, testing, and implementation experience
+* Proficiency in Java and SQL
+* Expertise in Spring Boot and microservices deployment
+* Familiarity with GitHub Actions and CI/CD practices supporting a 20+ releases/month cadence
+* English proficiency at an Upper-Intermediate level (B2) or higher
+
+**Nice to have**
+
+* Knowledge of Redis and RabbitMQ
+* Background in deploying dockerized microservices
+* Experience with AWS and Azure

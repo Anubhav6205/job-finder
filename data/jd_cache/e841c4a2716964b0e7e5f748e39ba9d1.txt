@@ -1,0 +1,116 @@
+Job Description
+
+**Job Summary**
+
+We are looking for a GenAI Developer – Snowflake with 4–6 years of experience in Data/ML Engineering or Software Development, including 1–2 years of hands-on GenAI/LLM experience. The candidate will design and develop production-ready GenAI solutions using Snowflake Cortex AI, Cortex Search, Cortex Analyst, Python and RAG frameworks.
+
+The role involves building chatbots, copilots, document Q&A and summarisation solutions; implementing RAG pipelines; prompt engineering; LLM evaluation; and integrating AI solutions through APIs and Streamlit. Strong knowledge of Python, Snowflake, embeddings, vector/hybrid search and AI security/governance is required.
+
+**Key Responsibilities**
+
+* Gen AI Solution Development • Design and build GenAI applications on Snowflake Cortex AI, including chatbots, copilots, summarisation tools and document Q&A.
+* Use Cortex AI Functions (AISQL) such as AI\_COMPLETE, AI\_CLASSIFY, AI\_EXTRACT, AI\_SENTIMENT, AI\_FILTER, AI\_AGG and AI\_EMBED to enrich and analyse structured and unstructured data at scale.
+* Build RAG pipelines with Cortex Search, covering document parsing (AI\_PARSE\_DOCUMENT), chunking strategy, embeddings, hybrid search and re-ranking.
+* Develop natural-language-to-SQL experiences with Cortex Analyst, including authoring and tuning semantic models and semantic views.
+* Build and configure Cortex Agents and Snowflake Intelligence agents that orchestrate across Cortex Search, Cortex Analyst and custom tools.
+* Integrate Cortex capabilities into applications through the Cortex REST API, Python SDK and Streamlit in Snowflake.
+
+**Data Engineering and Pipelines**
+
+* Work with data engineers on data models, data quality and incremental refresh of AI outputs.
+
+**Quality, Cost and Governance**
+
+* Write and version prompts, and choose the right model (for example Claude, Llama, Mistral, OpenAI or Snowflake Arctic) for accuracy, latency and cost.
+
+* Set up evaluation for LLM outputs, including groundedness, relevance, hallucination checks and regression test sets, using tools such as Snowflake AI Observability or TruLens.
+
+* Apply Cortex AI Guardrails, PII redaction (AI\_REDACT), role-based access control, masking policies and row access policies so that AI applications respect data security.
+
+* Monitor credit consumption and query performance, and tune warehouses, batch sizes and model choice to keep costs predictable.
+
+**Delivery and Collaboration**
+
+* Translate business problems into GenAI use cases with clear success metrics.
+
+* Run proofs of concept, then harden them into production releases with CI/CD, documentation and runbooks.
+
+* Present solutions and results to technical and business stakeholders.
+* Mentor junior developers and share reusable patterns across the team.
+
+**Required Skills and Experience**
+
+* 4 to 6 years of total experience in ML engineering or backend development.
+
+* At least 1 to 2 years of hands-on GenAI or LLM work, with one or more solutions taken to production.
+
+* Practical experience with Snowflake Cortex AI: AISQL functions, Cortex Search and Cortex Analyst at a minimum. Cortex Agents experience is a strong plus.
+
+* Strong Python skills, including Snowpark, pandas and REST API integration.
+
+* Solid grasp of RAG: chunking, embeddings, vector and hybrid search, re-ranking and context window management.
+
+* Prompt engineering skills: structured outputs (JSON), few-shot prompting, system prompts and prompt versioning.
+
+* Experience evaluating LLM output quality and fixing hallucination, retrieval and grounding issues.
+
+* Working knowledge of Snowflake security and governance: RBAC, masking policies and secure data sharing.
+
+• Experience with Git and CI/CD for data or AI workloads (GitHub Actions, Azure DevOps, Jenkins or similar). • Clear written and verbal communication, and comfort working directly with business users.
+
+**Good to Have**
+
+* Snowflake certifications: SnowPro Core, SnowPro Advanced (Data Engineer or Architect), or the SnowPro Specialty GenAI certification.
+
+* Experience with Document AI, Cortex Fine-tuning, Snowflake ML (Model Registry, Feature Store) or Snowpark Container Services.
+
+* Familiarity with Cortex Code, Openflow, Snowflake Notebooks or the Snowflake MCP server.
+
+* Exposure to other GenAI stacks such as LangChain, LlamaIndex, Azure OpenAI, AWS Bedrock or Google Vertex AI.
+
+* Experience with dbt, Airflow or similar orchestration tools.
+
+* Front-end skills for AI applications: Streamlit, React or similar.
+
+* Domain knowledge in financial services, insurance, healthcare, retail or life sciences.
+
+* Client-facing consulting or pre-sales experience, including building demos and estimating effort.
+
+**Education**
+
+Bachelor's or Master's degree in Computer Science, Information Technology, Data Science, Engineering or a related field. Equivalent hands-on experience will also be considered.
+
+  
+  
+
+**Disclaimer:** The following job description serves as an informative reference for the tasks you may be required to perform. However, it does not constitute an integral component of your employment agreement and is subject to periodic modifications to align with evolving circumstances.
+
+**Please Note**:We appreciate the accuracy and authenticity of the information you provide, as it plays a key role in your candidacy. As part of the Background Verification Process, we may verify your employment, education, and other details. Please ensure all information is factual and submitted on time. For any assistance, your recruiter is available to support you
+
+  
+
+Job Snapshot
+
+Updated Date
+
+20-11-2026
+
+Job ID
+
+JOB-0000004785
+
+Department
+
+CIDA-05-1
+
+Location
+
+Bangalore, Karnataka, India
+
+Experience
+
+4 - 7 Years
+
+Employee Type
+
+Permanent

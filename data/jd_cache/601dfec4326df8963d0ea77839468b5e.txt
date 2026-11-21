@@ -1,0 +1,30 @@
+**Job Responsibilities**
+
+* Practical experience of implementing Server Actions, timers, asynchronous processes and event-driven architectures in OutSystems Developer Cloud (ODC).
+* Hands on experience in integrating with external databases, REST/SOAP webservices and modern API-first / microservices-based architectures.
+* Extensive experience in working with Service Studio / ODC Studio, Integration Studio, LifeTime, Service Center, Architecture Dashboard, Forge and Community.
+* Experience in deploying OutSystems applications using CI/CD pipelines, environment management and DevOps practices across cloud platforms.
+* Experience in developing scalable microservices, domain-driven design and cloud-native architectures with OutSystems.
+* Experience in handling security vulnerabilities such as SQL Injection, XSS, authentication, authorization and enterprise-grade DevSecOps practices.
+* Experience in leveraging AI-assisted development (OutSystems Mentor / AI agents) for application design, generation, optimization and lifecycle automation.
+* Experience in building and orchestrating AI-enabled applications and agentic workflows integrated with enterprise systems.
+* Experience in web technologies such as HTML, CSS, JavaScript, XML, SOAP, JSON, SQL, Web Services and extending platform using C#/.NET where required.
+* Responsibilities include defining technical architecture, system analysis, detailed design and implementation while ensuring scalability, performance and governance.
+* Working closely with cross-functional teams, stakeholders and clients to translate business requirements into scalable technical solutions.
+* Define design specifications, reusable components, coding standards and provide effort estimates.
+* Lead development teams, perform code reviews and ensure adherence to best practices and platform guidelines.
+* Perform the role of OutSystems Technical Lead and execute end-to-end technical leadership responsibilities, including contributing to architectural blueprints; making design decisions; translating architecture into application components and explaining the approach to the development team; removing technical blockers; conducting code reviews; defining and maintaining coding standards; managing the code base and resolving merge conflicts; assisting teams with the implementation of critical user stories; providing SIT and UAT support; and leading the deployment of both web and mobile applications.
+* Developing applications per design specifications with focus on reusability, performance and maintainability.
+* Implementing automated testing strategies, quality checks and monitoring using platform governance tools.
+* Supporting and maintaining applications after implementation, including troubleshooting, root cause analysis and continuous optimization.
+
+**Skills & Experiences**
+
+* Minimum 1012 years of IT industry experience in systems analysis, design and development with strong exposure to enterprise application architecture, digital transformation, AI-enabled solutions, and legacy modernization.
+* E2E implementation experience of OutSystems solutions for Web, Reactive, Mobile, PWA and AI-enabled applications across public cloud, private cloud and hybrid infrastructure environments.
+* Design experience in integrating OutSystems platform with external Enterprise systems such as SAP, CRM, cloud services, data platforms and AI/ML services.
+* Strong understanding of modern SDLC practices, including Agile, DevOps, CI/CD, application lifecycle management, governance and observability within OutSystems platform.
+* **Hands-on OutSystems mobile application development and OutSystems Developer Cloud (ODC) experience are mandatory.**
+* Hands-on experience with OutSystems Developer Cloud (ODC), reactive applications, performance tuning, scalability optimization and security best practices.
+* Experience in leveraging AI-assisted development (Mentor, Agent Workbench, Generative UI, AI-driven workflows) to accelerate delivery and improve quality.
+* Mobile Developer Specialist / Professional Developer / Architecture Specialist (ODC) certifications or equivalent OutSystems certifications in one or more areas mentioned above are mandatory.

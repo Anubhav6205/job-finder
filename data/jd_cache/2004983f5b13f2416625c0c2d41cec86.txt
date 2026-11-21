@@ -1,0 +1,63 @@
+Role Overview
+
+We are seeking a GenAI Engineer who can design develop and deploy enterprisegrade Generative AI solutions including RetrievalAugmented Generation RAG pipelines and LLM based applications on Azure This role combines handson development with best practices for LLMOps to ensure scalability reliability and production readiness The ideal candidate will have strong technical expertise in Python Azure AI services and modern GenAI frameworks along with the ability to collaborate across teams to deliver impactful solutions
+
+Experience Requirements
+
+· 7 years of overall experience in core IT and software development
+
+· 3 years of handson experience with Azure Cloud with AI technologies
+
+· 2 years of experience in Generative AI RAG LLMs Azure OpenAI LangChainLangGraph and related technologies in building AI Agents
+
+Key Responsibilities
+
+· Design develop and deploy GenAI solutions using Microsoft and Azure technologies
+
+· Build RAG pipelines and agentic workflows using LangChain and LangGraph
+
+· Develop scalable APIs and services to integrate LLMs into enterprise applications
+
+· Implement prompt engineering model evaluation and optimization techniques
+
+· Collaborate with crossfunctional teams to translate business needs into AI solutions
+
+· Ensure production reliability through performance tuning and observability
+
+· Document technical designs workflows and best practices
+
+MustHave Skills
+
+· Strong proficiency in Python and GenAI frameworks
+
+· Expertise in Azure services Azure OpenAI Azure AI Search Azure Functions APIM Cosmos DB and Azure Storage
+
+· Handson experience with RAG pipelines and LLM integration
+
+· Knowledge of prompt engineering and model evaluation techniques
+
+NicetoHave Skills
+
+· Working knowledge of React and JavaScript for AIpowered interfaces
+
+· Exposure to structured output validation and finetuning
+
+· Familiarity with CICD pipelines and LLMOps practices
+
+Preferred Certifications
+
+· Microsoft Certified Azure AI Engineer AI10
+
+Pay: Up to ₹1,200,000.00 per year
+
+Application Question(s):
+
+* What is your current CTC?
+* How many years of exp you have as a Gen Ai engineer?
+* How many years of hands-on experience do you have building RAG or LLM applications (Azure OpenAI, LangChain or LangGraph)?
+* How many years of experience do you have with Azure services such as Azure AI Search, Functions, APIM and Cosmos DB?
+* Our budget for this role is 12LPA, are you comfortable with it ?
+* Are you an immediate joiner?
+* Have you been interviewed by Deltacubes Before?
+
+Work Location: In person

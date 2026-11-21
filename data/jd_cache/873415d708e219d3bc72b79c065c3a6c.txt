@@ -1,0 +1,39 @@
+**About this Role:**
+
+We are looking for a skilled Software Development Engineer in Test (SDET) to join our team. This is a hands-on role for a developer who is passionate about quality, with a strong focus on using cutting-edge tools to automate and optimize our testing processes. You'll play a key role in our engineering team, combining a developer's mindset with a strong focus on quality assurance, leveraging the power of Generative AI to enhance our QA workflows.
+
+  
+
+**Role & responsibilities**
+
+  
+
+* Design and build automated tests, including unit and integration tests, directly within our core codebase using .NET/C# or Java.
+* Enhance and maintain our separate UI automation framework, which is built with Playwright and TypeScript.
+* Leverage containerization technologies like Docker to create robust, reproducible test environments that eliminate dependencies on shared infrastructure.
+* Actively leverage Generative AI tools to radically transform QA workflows, from generating test cases and data to optimizing automation scripts and creating comprehensive test reports.
+* Collaborate with cross-functional teams to understand software requirements and develop comprehensive automation test plans.
+* Integrate automated test suites into our CI/CD pipelines to ensure seamless and continuous quality checks.
+* Identify and report defects with detailed steps to reproduce, and participate in code reviews to ensure high-quality software.
+* Stay current with industry trends in QA, automation, and AI-powered testing solutions.
+
+  
+
+**Preferred candidate profile**
+
+  
+
+* Bachelors degree in Computer Science, Engineering, or a related field.
+* 5+ years of professional experience in a software development or test automation role.
+* Strong programming skills in .NET/C# or Java.
+* Experience with web UI automation, specifically with Playwright and TypeScript/JavaScript.
+* Experience with API testing tools such as Postman, Fiddler, or Swagger.
+* Experience with containerization, particularly Docker, and using it for test automation.
+* Demonstrated experience in leveraging GenAI tools for test-related tasks and a passion for exploring new AI-driven QA solutions.
+* Experience with testing frameworks like NUnit, JUnit, or TestNG.
+* Familiarity with CI/CD tools such as Jenkins.
+* Proficiency with source control (Git) and test management tools like JIRA or TestRail.
+* A strong understanding of software development methodologies (Agile, Scrum).
+* Experience with cloud-based testing solutions (e.g., BrowserStack).
+* Familiarity with performance testing tools (e.g., JMeter).
+* Understanding of the eCommerce domain.

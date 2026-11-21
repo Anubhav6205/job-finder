@@ -1,0 +1,95 @@
+About the Role
+
+We are looking for a highly skilled engineer to build the core of our AI products. You will design and ship production-grade AI agents, multi-agent systems, RAG pipelines and automated workflows that solve real business problems. This is a hands-on, high-ownership role for someone who has already built agentic systems and wants to push them further.
+
+Key Responsibilities
+
+AI Agents & Chatbots
+
+Design, build and deploy AI agents and conversational chatbots for WhatsApp, web and voice channels
+
+Architect multi-agent systems where specialised agents collaborate, hand off tasks, use tools and make decisions
+
+Build agents with tool/function calling, memory, planning and reasoning, and reliable fallback and human-handoff logic
+
+Handle multilingual conversations (English, Hindi, Kannada, Tamil and more)
+
+RAG Systems
+
+Build and optimise Retrieval-Augmented Generation pipelines: document ingestion, chunking, embeddings, vector search, re-ranking and grounded answers
+
+Work with vector databases and improve retrieval accuracy, latency and cost
+
+Reduce hallucinations and evaluate answer quality with structured testing and evaluation frameworks
+
+Workflow Automation
+
+Design and build end-to-end automated workflows covering lead capture, follow-ups, scoring, appointment booking, invoicing and CRM updates
+
+Integrate the WhatsApp Business API, Google Calendar/Workspace, payment gateways, telephony and CRM tools
+
+Build with orchestration and automation tools (n8n, Make, Zapier) as well as custom code where needed
+
+Core Engineering
+
+Develop scalable backend services, APIs, webhooks and web applications
+
+Design databases, queues and event-driven systems that stay reliable under production load
+
+Own deployment, monitoring, logging, security and cost optimisation of AI systems
+
+Write clean, tested, documented code, conduct code reviews and mentor junior developers
+
+Requirements
+
+[2-5] years of software development experience, with proven hands-on work building AI agents or LLM-based applications in production
+
+Strong experience building multi-agent systems and agentic workflows (LangGraph, CrewAI, AutoGen, OpenAI Agents SDK or similar)
+
+Deep, practical experience building RAG systems end to end, including embeddings, vector databases (Pinecone, Qdrant, Weaviate, pgvector, Chroma or similar), chunking strategies and re-ranking
+
+Strong command of LLM APIs (OpenAI, Anthropic, Gemini or open-source models), prompt engineering, tool/function calling and structured outputs
+
+Experience building production chatbots on WhatsApp or other messaging platforms
+
+Hands-on experience with workflow automation (n8n, Make, Zapier or custom orchestration)
+
+Strong backend skills in Python and/or Node.js/TypeScript, including REST APIs, webhooks and async processing
+
+Working knowledge of SQL/NoSQL databases (PostgreSQL, MongoDB, Redis), Git, Docker and cloud platforms (AWS, GCP or Azure)
+
+Solid understanding of system design, security and scalability
+
+Ability to work independently, debug complex AI behaviour and deliver quickly
+
+Good to Have
+
+Experience with the WhatsApp Business API, voice agents, speech-to-text and text-to-speech
+
+Experience with Indic-language and multilingual AI
+
+Frontend skills with React or Next.js
+
+Experience with LLM evaluation, observability and guardrails (LangSmith, Langfuse or similar)
+
+Knowledge of fine-tuning, open-source models or self-hosted LLMs
+
+Experience building CRMs, SaaS or multi-tenant platforms
+
+A strong GitHub portfolio, open-source work or live AI projects
+
+What We Offer
+
+Core ownership of real AI products used by real businesses
+
+Work with cutting-edge agentic AI technology, with freedom to experiment
+
+A small, fast-moving, in-house team where your work ships quickly
+
+Competitive salary and strong growth opportunities
+
+Learning-focused, collaborative culture
+
+Pay: ₹475,000.00 - ₹1,770,000.00 per year
+
+Work Location: In person

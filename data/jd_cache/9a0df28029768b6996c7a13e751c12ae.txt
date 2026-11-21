@@ -1,0 +1,75 @@
+**Job Information**
+-------------------
+
+* Date Opened 11/20/2026
+* Industry Technology
+* Job Type Full time
+* Years of Experience 4-7
+* City Shaikpet
+* State/Province Telangana
+* Country India
+* Zip/Postal Code 500081
+
+**About Us**
+------------
+
+Founded in 2015, RADcube is a leading technology consulting and software development firm headquartered in Carmel, Indiana. The company specializes in transforming enterprise ideas into real-world innovations by leveraging emerging technologies such as Artificial Intelligence, Blockchain, and Cloud Computing.
+  
+  
+With nearly a decade of industry experience, RADcube serves diverse sectors, including healthcare, finance, government, and manufacturing. Their core service portfolio includes:
+  
+  
+Digital Transformation and strategy consulting.
+  
+Custom Software Development tailored to specific business needs.
+  
+Advanced Data Analytics and AI-driven platforms.  
+Cybersecurity and risk management.
+  
+  
+Recognized for its innovation-led culture, RADcube operates RADlabs, an R&D hub focused on high-impact solutions like Responsible AI and Intelligent Automation. The firm is committed to a human-centric approach, ensuring cutting-edge technology delivers measurable business outcomes and long-term success for global clients.  
+  
+The company’s commitment to innovation has earned significant industry honors:
+  
+  
+2026 TechPoint Mira Awards Finalist: Named a finalist for Tech Company of the Year, recognizing high-growth pioneers that demonstrate extraordinary leadership.  
+  
+Public Sector Excellence: Awarded the Utah NASPO Cloud & Software Solutions Contract, solidifying their role as a trusted partner for large-scale government digital initiatives and more.
+
+**Job Description**
+-------------------
+
+**QA Engineer**
+
+**ETL / Data Engineering**
+
+**LOCATION: Hyderabad, India**
+
+**EXPERIENCE: 4–7 years (preferred)**
+
+**ROLE OVERVIEW**
+
+Ensure accuracy, reliability and security of enterprise data pipelines through strong SQL-based ETL testing and test automation.
+
+**KEY RESPONSIBILITIES**
+
+* Create test plans for Raw, Refined and analytical data processing layers.
+* Reconcile row counts, mappings, data values and transformation results using SQL.
+* Test schema handling, merge logic, deduplication and repeatable pipeline runs.
+* Validate PII tokenization, access control, orchestration and failure scenarios.
+* Automate data checks and execute integration, regression and end-to-end tests.
+* Support QA/UAT cycles, defect tracking, evidence capture and release validation.
+
+### **Requirements**
+
+**REQUIRED SKILLS**
+
+* Strong SQL and ETL/data validation testing
+* Python scripting for test automation
+* AWS Glue, Spark or Databricks testing exposure
+* Data reconciliation, integration and regression testing
+* Defect management, CI/CD and test reporting
+
+**PREFERRED EXPERIENCE**
+
+Delta Lake, Unity Catalog, Redshift and regulated-data platform testing

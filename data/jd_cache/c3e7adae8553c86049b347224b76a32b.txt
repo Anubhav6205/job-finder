@@ -1,0 +1,36 @@
+We are seeking a **Senior Software Engineer** with expertise in **Java** Fullstack development who is skilled in **Angular** and other cutting-edge technologies to design, build, and maintain high-quality software solutions.
+
+This role involves working on scalable microservices-based architectures, ensuring seamless integration between front-end and back-end systems, and driving technical excellence in our processes.
+
+This role is perfect for someone passionate about creating reliable, scalable software solutions while leveraging fullstack expertise to meet complex technical challenges.
+
+#LI-DNP
+
+  
+
+**Responsibilities**
+
+* Develop and maintain full-stack applications using Java 8, Spring Boot and Angular
+* Build, test, and deploy microservices and REST APIs while ensuring system scalability and reliability
+* Collaborate with cross-functional teams to gather requirements and deliver innovative solutions
+* Implement front-end components with HTML, CSS, and JavaScript, ensuring responsiveness and accessibility
+* Optimize application performance through effective coding strategies and debugging
+* Create and maintain CI/CD pipelines for efficient software deployment
+* Ensure proper version control and manage source code using tools like Git
+* Conduct automated testing using JUnit to ensure software quality
+* Troubleshoot technical issues in development and production environments
+* Stay updated with industry trends and integrate best practices in software design
+
+**Requirements**
+
+* 5 to 9 years of experience in software engineering with a strong grasp of modern software development practices
+* At least 4 years of experience in Java development
+* Proficiency in Java 8, Spring and Spring Boot for back-end development
+* Expertise in front-end technologies including Angular, JavaScript, HTML and CSS
+* Understanding of REST APIs, PostgreSQL and Oracle database systems
+* Capability to work with microservices architectures and cloud-based applications
+* Familiarity with CI/CD pipelines and common web development tools like Git and package managers
+* Background in resolving technical challenges during design, development, and production phases
+* Showcase of attention to detail and strong problem-solving skills
+* Excellent communication skills to convey technical concepts and collaborate effectively
+* English level of minimum B2 (Upper-Intermediate)

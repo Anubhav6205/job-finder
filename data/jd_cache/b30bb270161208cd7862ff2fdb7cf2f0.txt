@@ -1,0 +1,61 @@
+**ML ENGINEER / DATA SCIENTIST**
+
+  
+
+**Role Overview**
+
+Develop machine learning solutions by preparing and analysing data, building predictive models and evaluating model performance to solve business problems.
+
+  
+
+**Key Responsibilities**
+
+* Collect, clean, transform and analyse structured datasets.
+* Perform exploratory data analysis (EDA) and identify patterns, trends and useful features.
+* Develop, train, validate and evaluate machine learning models.
+* Apply appropriate algorithms for classification, regression, forecasting or related use cases.
+* Use model evaluation metrics and validation techniques to assess performance.
+* Collaborate with engineering teams to integrate models into applications and workflows.
+* Document experiments, results and model improvements.
+
+  
+
+**Required Skills and Qualifications**
+
+* Strong Python programming skills.
+* Hands-on experience with Pandas and NumPy.
+* Understanding of statistics, data analysis and exploratory data analysis.
+* Practical knowledge of machine learning algorithms and model evaluation.
+* Experience with scikit-learn.
+* Exposure to XGBoost or LightGBM.
+* Good problem-solving skills and familiarity with Git.
+
+  
+
+**Preferred Qualifications**
+
+* Experience deploying models, working with real-world datasets, feature engineering or cloud-based ML workflows.
+
+Candidates should be comfortable working from the Hyderabad office.
+
+  
+
+If you are interested in any of these opportunities and feel that your experience, technical skills, and project expertise align with the role requirements, please share your updated resume along with the following details: to **tejaswinir@yupptv.com**
+
+  
+
+* **Total Experience:**
+* **Role Applying For:**
+* **Current CTC:**
+* **Expected CTC:**
+* **Notice Period:**
+* **Current Location:** Are you currently based in Hyderabad?
+* **Projects Handled:** Briefly mention the projects you have worked on and the technologies/technical skills used in those projects.
+
+  
+
+Looking forward to hearing from you.
+
+  
+
+Thanks!

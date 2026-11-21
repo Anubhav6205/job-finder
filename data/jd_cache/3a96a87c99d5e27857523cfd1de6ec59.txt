@@ -1,0 +1,55 @@
+**Project Role :**
+AI / ML Engineer
+  
+  
+**Project Role Description :**
+Develops applications and systems that utilize AI tools, Cloud AI services, with proper cloud or on-prem application pipeline with production ready quality. Be able to apply GenAI models as part of the solution. Could also include but not limited to deep learning, neural networks, chatbots, image processing.
+  
+  
+**Must have skills :**
+Generative AI
+  
+  
+**Good to have skills :**
+NA
+  
+  
+**Minimum 3 Year(s) Of Experience Is Required**
+**Educational Qualification :**
+15 years full time education
+  
+  
+Summary:
+  
+  
+As an AI / ML Engineer, a typical day involves designing and building advanced applications and systems that leverage artificial intelligence technologies. This role requires integrating cloud-based or on-premises pipelines to ensure solutions are production-ready and scalable. The work often includes applying generative artificial intelligence models to solve complex problems, as well as exploring areas such as deep learning, neural networks, conversational agents, and image analysis. Collaboration with cross-functional teams to refine and enhance these intelligent systems is a key part of daily activities, ensuring innovative and efficient outcomes.
+  
+  
+Roles & Responsibilities:
+  
+  
+
+* Expected to perform independently and become an SME.
+* Required active participation/contribution in team discussions.
+* Contribute in providing solutions to work related problems.
+* Collaborate with team members to continuously improve system performance and reliability.
+* Assist in documenting technical designs and development processes to support knowledge sharing.
+* Support junior team members by providing guidance and sharing best practices.
+
+Professional & Technical Skills:
+  
+  
+
+* Must To Have Skills: Proficiency in Generative AI.
+* Experience with designing and deploying AI models in cloud or on-premises environments.
+* Strong understanding of deep learning frameworks and neural network architectures.
+* Familiarity with building and optimizing AI-driven applications including chatbots and image processing solutions.
+* Ability to develop scalable and production-quality AI pipelines.
+
+Additional Information:
+  
+  
+
+* The candidate should have minimum 3 years of experience in Generative AI.
+* This position is based at our Hyderabad office.
+* A 15 years full time education is required.

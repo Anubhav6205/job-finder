@@ -1,0 +1,120 @@
+Job Description
+
+**About Persistent**
+
+  
+
+We are an AI-led, platform-driven Digital Engineering and Enterprise Modernization partner, combining deep technical expertise and industry experience to help our clients anticipate what’s next. Our offerings and proven solutions create a unique competitive advantage for our clients by giving them the power to see beyond and rise above. We work with many industry-leading organizations across the world, including 18 of the Fortune 50 companies, 7 of the 10 top US banks, 9 of the 10 technology companies, and numerous innovators across the healthcare ecosystem.
+
+  
+
+Our disruptor’s mindset, commitment to client success, and agility to thrive in the dynamic environment have enabled us to sustain our growth momentum. Persistent has been recognized across top industry platforms for innovation, leadership, and inclusion. We have delivered 26 sequential quarters of growth with $487.6M in Q2 FY27 revenue, up 7.8% Q-o-Q and 20.0% Y-o-Y. Our 29,500+ global team members, located in 21 countries, have been instrumental in helping the market leaders transform their industries. We received five awards at the ISG (Information Services Group) Provider Lens™ Awards 2026 and, for the second year in a row, were awarded the Growth Honor of the Year at the Everest Group Elevate 2026.
+
+  
+
+**About Position:**
+
+  
+
+We are seeking an experienced Senior Full Stack Developer – Agentic AI with 8 to 12 years of experience to design, develop, and deploy next-generation AI-powered enterprise applications. The ideal candidate will possess strong full-stack engineering expertise combined with hands-on experience in Generative AI, Agentic AI frameworks, and cloud-native technologies. You will play a key role in building intelligent applications, integrating Large Language Models (LLMs), implementing advanced RAG solutions, and delivering scalable AI-driven business platforms.
+
+  
+
+* **Role: Senior Full Stack Developer – Agentic AI**
+* **Location: Pune**
+* **Experience: 8 to 12 Years**
+* **Job Type: Full-Time Employment**
+  
+
+**What You'll Do:**
+
+  
+
+* Design, develop, and maintain enterprise-grade full-stack applications using Java, Spring Boot, React, or Angular.
+* Build and integrate Agentic AI solutions into business applications and workflows.
+* Develop scalable APIs and microservices for AI-enabled products and platforms.
+* Implement LLM-powered features, prompt engineering techniques, and intelligent automation capabilities.
+* Design and optimize Retrieval-Augmented Generation (RAG) pipelines using vector databases and embeddings.
+* Develop secure, scalable, and resilient cloud-native applications on AWS.
+* Build and deploy containerized applications using Docker and Kubernetes.
+* Create automated testing frameworks across unit, integration, and API testing layers.
+* Collaborate with product, architecture, and business teams to translate requirements into technical solutions.
+* Implement CI/CD pipelines and engineering best practices for continuous delivery.
+* Monitor application performance, reliability, security, and cost optimization.
+* Contribute to AI governance, responsible AI practices, and enterprise compliance standards.
+  
+
+**Expertise You'll Bring:**
+
+  
+
+* 8 to 12 years of software development experience in enterprise application development.
+* Strong proficiency in Java, Spring Boot, Microservices, and REST API development.
+* Extensive experience with React or Angular and TypeScript for modern frontend development.
+* Hands-on experience with relational and NoSQL databases.
+* Strong expertise in Agentic AI architectures and intelligent workflow automation.
+* Experience integrating Large Language Models (LLMs) into enterprise applications.
+* Deep understanding of prompt engineering, context management, and AI orchestration frameworks.
+* Experience with LangChain, LangGraph, Spring AI, Strands, or similar AI agent frameworks.
+* Strong knowledge of Retrieval-Augmented Generation (RAG), vector databases, embeddings, and retrieval optimization techniques.
+* Experience implementing LLM evaluation frameworks, guardrails, monitoring, and governance controls.
+* Knowledge of MLOps/LLMOps practices including model versioning, prompt management, evaluation automation, and observability.
+* Strong hands-on experience with AWS cloud services.
+* Expertise in Docker, Kubernetes, microservices architecture, and cloud-native deployments.
+* Experience with CI/CD pipelines, DevSecOps practices, and secure software delivery.
+* Understanding of observability, resilience engineering, and performance optimization.
+* Experience with event-driven architectures and enterprise integration patterns.
+* Excellent problem-solving, communication, and stakeholder management skills.
+* Ability to mentor junior engineers and lead technical initiatives.
+  
+
+**Benefits:**
+
+  
+
+* Competitive salary and benefits package
+* Culture focused on talent development with quarterly growth opportunities and company-sponsored higher education and certifications
+* Opportunity to work with cutting-edge technologies
+* Employee engagement initiatives such as project parties, flexible work hours, and Long Service awards
+* Annual health check-ups
+* Insurance coverage: group term life, personal accident, and Mediclaim hospitalization for self, spouse, two children, and parents
+  
+
+**Values-Driven, People-Centric & Inclusive Work Environment:**
+
+  
+
+Persistent is dedicated to fostering diversity and inclusion in the workplace. We invite applications from all qualified individuals, including those with disabilities, and regardless of gender or gender preference. We welcome diverse candidates from all backgrounds.
+
+  
+
+* We support hybrid work and flexible hours to fit diverse lifestyles.
+* Our office is accessibility-friendly, with ergonomic setups and assistive technologies to support employees with physical disabilities.
+* If you are a person with disabilities and have specific requirements, please inform us during the application process or at any time during your employment
+  
+
+**Let's unleash your full potential at Persistent -** **persistent.com/careers**
+
+  
+
+***"Persistent is an Equal Opportunity Employer and prohibits discrimination and harassment of any kind."***
+
+1
+
+Open Positions
+
+Full Stack,GenAI Agents
+
+Skills Required
+
+PUNE
+
+Location
+
+Full Stack,GenAI Agents
+
+Desirable Skills
+
+189998
+
+Job Code

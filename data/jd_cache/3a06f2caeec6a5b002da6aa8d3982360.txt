@@ -1,0 +1,23 @@
+**Required**
+
+* 5+ years of experience in backend software engineering and production systems.
+* 5+ years of experience with Perl or PHP.
+* 5+ years of experience with relational databases such as PostgreSQL or MariaDB.
+* 5+ years of experience with billing and invoicing systems.
+* Strong understanding of backend architecture, application logic, APIs, and data-driven systems.
+* Experience building and supporting transaction-heavy systems such as cart, checkout, ordering, billing, or authentication platforms.
+* Strong SQL skills and experience working with relational data models.
+* Experience writing automated tests and validating production changes before deployment.
+* Ability to read and understand unfamiliar code and troubleshoot issues across multiple parts of a production system.
+* Experience participating in an on-call rotation and responding to production incidents.
+* Hands-on experience with AI-assisted engineering tools as part of day-to-day development work.
+* Clear written communication skills and the ability to work effectively in a remote, distributed team across multiple time zones.
+
+**Preferred**
+
+* Experience with payment, billing, invoicing, or financial system integrations.
+* Experience with authentication or identity-related systems.
+* Experience with complex customer transaction and order lifecycle workflows.
+* Experience in managed hosting, cloud platforms, SaaS, or another high-availability service environment.
+* Experience working with complex or legacy backend systems.
+* Experience mentoring engineers and reviewing backend design and code.

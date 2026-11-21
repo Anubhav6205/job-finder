@@ -1,0 +1,46 @@
+Summary
+  
+  
+AI & Data Platforms (AiDP) is IS&T's engine for AI-powered innovation. The team brings together data, application development, and machine learning — including generative AI — along with data services and customer success functions, to help IS&T build solutions more efficiently and streamline the adoption and embedding of generative AI across Apple. The Applied Machine Learning team within the AI & Data Platform organisation drives large-scale machine learning and GenAI workflows across Apple's enterprise ecosystem. Our platforms power real-time fraud decisioning in the critical path of customer transactions across Apple Retail, Online Store, Media, and Support, where reliability, scale, and low latency are fundamental.
+  
+  
+Description
+  
+  
+This role sits in the Reliability & Platform Engineering organization, but it is not a traditional operations role. You will write software that builds the platform: automation, deployment pipelines, developer tooling, and services running on Kubernetes and AWS. You will work alongside and be mentored by senior engineers, contributing across the full lifecycle from design to production
+  
+  
+Minimum Qualifications  
+  
+  
+
+* Bachelor’s degree in Computer Science, Computer Engineering, or a related technical discipline from a reputed, top-tier engineering institution.
+* 1-3 years of industry experience; internships, co-ops, research, and significant projects count
+* Strong programming skills in Python, with a solid understanding of software development fundamentals
+* Good understanding of data structures, algorithms, operating systems, and networking fundamentals.
+* Understanding of distributed systems concepts through coursework or projects
+* Familiarity with Linux and Git, along with exposure to containerisation, Kubernetes, or public cloud platforms such as AWS or Alibaba Cloud.
+* Good understanding of databases, including relational database concepts and the ability to write efficient SQL queries.
+* Strong analytical and problem-solving skills, a willingness to learn, and effective communication abilities.
+
+  
+  
+  
+Preferred Qualifications  
+  
+  
+
+* Internship or project experience with Kubernetes, AWS, Terraform, or CI/CD tools
+* Exposure to ML inference, GenAI, or LLM-based applications
+* Interest in or exposure to model serving frameworks
+* Familiarity with NoSQL databases such as Cassandra, Solr, OpenSearch
+* Basic familiarity with monitoring tools such as Prometheus or Grafana
+* Open-source contributions or personal projects applying AI to automation
+
+  
+  
+  
+
+At Apple, we believe accessibility is a fundamental human right. You’ll find that idea reflected in everything here — in our culture, our benefits and our digital tools. By welcoming as many perspectives as possible, we help you build a career where you feel like you belong.  
+  
+Learn about accessibility in Apple’s workplace

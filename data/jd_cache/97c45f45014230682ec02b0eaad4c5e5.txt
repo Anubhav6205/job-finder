@@ -1,0 +1,25 @@
+**Job Summary**
+We are looking for data scientists to join the PuTC Data Science team. The Data Scientists will be responsible for designing and executing undirected research and tackling open-ended data problems related to oil and gas domain using advanced techniques in AI (Artificial Intelligence), ML (Machine learning), DL (deep learning) etc. The data scientists will be working with very complex and large data sets. The individual will be responsible for collaborating with various cross functional teams and providing periodic updates through presentations and prototype demonstrations. The role will require working on multiple projects simultaneously.
+  
+  
+**Responsibilities**
+
+* Assimilate next-generation technologies for data-driven solutions in oil and gas domain
+* Generate innovative ideas, establish new research directions, and shape and execute on research projects
+* Apply engineering knowledge in developing data-driven algorithms and prototypes for classification, regression, anomaly detection, failure prediction, and optimization
+* Collaborate with business and engineering teams to implement robust and scalable industrial software solutions
+* Contribute to technical discussions and undertake reviews of different projects as an expert
+* Communicate ideas, plans, and results effectively to different stake holders
+* Participate in technical forums and other appropriate events and conferences
+
+**Qualifications And Requirements**
+
+* M.S/MTech/PhD in computer science, mathematics, physics, applied sciences, engineering or similar disciplines with demonstrated capability in field of algorithm development using General AI, Generative AI with 3-5 years of experience,
+* Deep understanding of Generative AI, deep learning algorithms and their applications to text analytics/NLP, computer vision etc
+* Strong background in retrieval augmented generation (RAG), agentic frameworks, etc. would be preferred.
+* Strong background in linear algebra, statistics, and probability
+* Strong background in Python programming
+* Hand-on experience in developing deep learning models using TensorFlow, Keras, Pytorch, etc. will be a plus
+* Experience in patents or publications at top-tier peer-reviewed conferences or journals
+
+SLB is an equal employment opportunity employer. Qualified applicants are considered without regard to race, color, religion, sex, national origin, age, disability, or other characteristics protected by law.

@@ -1,0 +1,67 @@
+***Job Title –*** *Platform Operations and FinOps Engineer – Cloud, Data & AI* ***Company****: Toro Technology Center India*
+
+  
+  
+
+**Who Are We?**
+
+The Toro Company is a homegrown, Minnesota-based company that has been in business since 1914. We pride ourselves on providing world-class equipment to help maintain the environment that we love, while putting an emphasis on giving back to the communities that surround us. From residential lawns and gardens to Golf Clubs and sports grounds we are a company with a global footprint and a passion for helping people beautify whatever landscape they may be in. With 100+ years of operation under our belt and an average employee tenure of 15 years, come find out what makes The Toro Company the best place to build a career.
+
+  
+  
+
+**What Will You Do?** In order to grow and build a successful career with The Toro Company, you will be responsible for:
+
+**Platform Administration**
+---------------------------
+
+* Administer, maintain, and optimize enterprise data platforms including **Snowflake, Fivetran, dbt, Microsoft Azure, and AI services**. Manage users, roles, permissions, authentication methods, networking policies, integrations, service identities, and environment configurations while ensuring security, governance, and operational stability across production and non-production environments.
+* Monitor platform health, performance, data pipelines, and deployment activities. Troubleshoot connectivity, ingestion, transformation, and infrastructure issues, partnering with engineering teams and vendors to resolve incidents and minimize business impact.
+* Support platform scalability and reliability through workload management, access controls, service monitoring, upgrade planning, and operational best practices while ensuring alignment with enterprise standards and compliance requirements.
+
+**FinOps & Cost Optimization**
+------------------------------
+
+* Drive cloud and data platform cost management across **Azure, Snowflake, Fivetran, dbt, and AI services** by analyzing consumption, tracking budgets, forecasting spend, and creating actionable cost and usage dashboards for stakeholders.
+* Partner with Finance, Procurement, and business teams to identify optimization opportunities, investigate cost anomalies, allocate shared expenses, and measure realized savings while maintaining agreed service levels.
+* Optimize infrastructure, licensing, storage, compute, and AI consumption through continuous monitoring, rightsizing, automation, and governance initiatives.
+
+**Reliability, Security & Automation**
+--------------------------------------
+
+* Own platform operations, monitoring, alert management, incident response, root cause analysis, and service reliability initiatives to ensure high system availability and performance.
+* Implement and enforce security best practices including least-privilege access, RBAC, SSO, MFA, credential rotation, access reviews, audit readiness, and compliance with organizational security standards.
+* Automate provisioning, access management, reporting, monitoring, and operational workflows using **Terraform, Python, PowerShell, Bash, APIs, Git, and CI/CD pipelines**, while maintaining documentation, runbooks, and disaster recovery procedures.
+
+**Required Qualifications**
+---------------------------
+
+* Bachelor's degree in Computer Science, IT, Engineering, or equivalent experience.
+* **5+ years** of experience in cloud operations, platform engineering, DevOps, data platforms, or database administration.
+* Strong experience with **Snowflake Administration** and **Microsoft Azure Operations**.
+* Hands-on experience with **Fivetran, dbt, SQL, Terraform, Git, CI/CD pipelines**, and scripting (Python/PowerShell/Bash).
+* Experience in cloud cost management, governance, monitoring, security, and performance optimization.
+* Strong communication and stakeholder management skills.
+
+**Preferred Qualifications**
+----------------------------
+
+* Experience with **Microsoft Foundry, Azure Machine Learning, Azure AI Search, Snowflake Cortex, MLOps, or GenAIOps**.
+* Experience building **Power BI** cost dashboards and managing FinOps practices.
+* Knowledge of SSO/SCIM, Infrastructure as Code, disaster recovery, SLOs, and platform automation.
+* Relevant certifications in **Azure, Snowflake, Terraform, or FinOps**.
+  
+
+  
+
+**What Can We Give You?**
+
+At The Toro Company, we are always working to make sure our employees know just how valued they are. In addition to a competitive salary, an affordable and top tier medical insurance plan many other great benefits - The Toro company offers employees , a variety of perks, including:
+
+***Dress for your day*** - We know you're more productive when you're comfortable, which is why TTC employees are encouraged to take advantage of our casual, corporate environment.
+
+***Location*** – Conveniently located **Baner, Pune** we are centrally located for most commuters!
+
+***Food*** - Take advantage of our café, which serves both breakfast and lunch. You can grab a snack and a coffee at any time during your day.
+
+***Wellness*** - The Toro Company offers complimentary use of our onsite fitness facility to employees. In addition to physical wellbeing, TTC offers a variety of mental health and financial health resources to all employees.

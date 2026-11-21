@@ -1,0 +1,410 @@
+**We're looking for a**
+
+**Senior Software Engineer**
+============================
+
+**This role is** **Hybrid, Hyderabad Office**  
+
+**Senior Software Engineer**
+
+Our Services Engineering team designs and builds technical solutions that solve real business challenges for our customers and help them get more value from their technology investments. The core work spans data and platform migration, system integrations and custom solution development: moving learning, talent and HR data from legacy or third-party systems, connecting systems across the customer's technology ecosystem, and building extensions, automations and tools tailored to each customer's needs. Building on this engineering foundation, our engagements are steadily extending into technical consulting and AI-enabled solutions as customers modernise how their people learn and work.
+
+Working with project teams, internal stakeholders and customer contacts, you build a clear understanding of data, systems and processes, then design, build and deliver technical solutions, migrations and integrations that run in production. As the practice evolves, you help shape how consulting and AI development become part of the value we deliver.
+
+As a Senior Software Engineer, you own migrations and customer engagements end to end, lead solution design decisions, and mentor other engineers on the team.
+
+**How the Role Is Evolving**
+----------------------------
+
+Migration and implementation work gives you deep knowledge of the Cornerstone platform, customer data and the business processes behind them. That knowledge is exactly what customers need when they look for advice on improving their learning programmes and adopting AI.
+
+As customers adopt AI, our engagements are naturally moving from migrating and integrating data to advising on how to use it and building AI agents and automations around it. You grow with this shift at the pace our customers set, bringing your migration and platform expertise into broader consulting and AI work over time.
+
+**Key Responsibilities**
+------------------------
+
+### **Solution building, migration and implementation**
+
+* Plan and lead migrations of learning, talent and HR data from legacy or third-party systems onto the Cornerstone platform, covering scoping, data mapping, transformation, validation and cutover.
+
+* Build repeatable migration tooling, scripts and ETL pipelines with SQL Server, Python and APIs, including reconciliation and audit checks that prove data arrived complete and correct.
+
+* Apply working knowledge of learning platform concepts, such as learning objects, curricula, enrolments, transcripts, certifications and compliance training, to configure and extend the platform for customer needs.
+
+* Manage migration risks, rollback plans and data quality issues with customers, and keep stakeholders informed through each phase.
+
+### **Integration and solution engineering**
+
+* Design, build and deploy integrations, extensions and supporting solutions on cloud platforms (Azure, AWS or GCP), using sound software design and solution architecture principles.
+
+* Own solution architecture for customer engagements and review designs and code from other engineers.
+
+* Build and maintain API integrations between the Cornerstone platform and customer systems, with attention to security, resilience and performance.
+
+* Write efficient SQL Server queries and data logic, and lead performance tuning across application and database layers.
+
+### **AI development and consulting**
+
+Building on your platform and data expertise, you help customers get more value from the Cornerstone platform through AI and automation.
+
+* Design and deliver AI agents and copilots with Microsoft Copilot Studio, Microsoft Foundry and Python, using models such as Azure OpenAI (GPT) and Anthropic Claude.
+
+* Define agent orchestration patterns: multi-agent hand-offs, tool and connector calls, grounding on enterprise data and human-in-the-loop checkpoints.
+
+* Set the prompt engineering and evaluation approach that keeps agents accurate, consistent and safe, and choose the right model for each use case.
+
+* Analyse customer business processes and identify where workflow automation and AI can remove manual effort or improve decisions.
+
+* Advise customers on AI adoption: identify high-value use cases, assess data and process readiness, and shape a practical roadmap.
+
+* Use AI to speed up and improve migration work, such as assisted data mapping, validation and documentation.
+
+### **Customer engagement**
+
+* Lead workshops with customers to gather and analyse migration and integration requirements, assess options and recommend the right approach.
+
+* Act as the trusted technical advisor on engagements, managing stakeholder expectations and setting technical direction.
+
+* Lead the investigation of complex customer issues across code, configuration, integrations and data, and drive them to resolution.
+
+* Build rapid prototypes and proofs of concept that let customers see value early and shape the final solution.
+
+* Present solution designs, demos and progress updates to technical and executive audiences.
+
+* Produce and review documentation: solution designs, runbooks, integration specifications and hand-over notes.
+
+* Mentor engineers, raise team standards, and feed field learning back into the product with product, support, consulting and customer success teams.
+
+**Skills and Competencies**
+---------------------------
+
+Expected proficiency: Advanced (handles complex scenarios and guides others) or Expert (sets direction and standards) for technical and professional skills, and Working (applies independently on typical tasks) for learning platform knowledge and for AI and automation skills.
+
+### **Technical skills**
+
+**Competency**
+
+**What it looks like in this role**
+
+**Expected level**
+
+**Agile Delivery**
+
+Leads delivery in sprints, plans and estimates for the team, and adapts plans to customer feedback
+
+Advanced
+
+  
+
+**API Integration**
+
+Designs REST and event-based integrations with secure authentication, error handling and resilience
+
+Advanced
+
+  
+
+**Cloud Platforms (Azure, AWS or GCP)**
+
+Designs and runs solutions across compute, serverless, integration, storage, secrets and AI services (for example Azure App Service, Functions, Logic Apps and Foundry; AWS Lambda and Bedrock; Google Cloud Run and Vertex AI)
+
+Advanced
+
+  
+
+**Data Migration**
+
+Plans and runs data and content migrations from legacy or third-party systems, covering data mapping, transformation, validation, reconciliation and cutover
+
+Expert
+
+  
+
+**DevOps**
+
+Sets up and improves Git workflows, CI/CD pipelines, automated testing and infrastructure as code
+
+Advanced
+
+  
+
+**Learning Platform Knowledge**
+
+Understands how a learning platform (LMS or LXP) works: courses, curricula, enrolments, transcripts, certifications, compliance training and reporting
+
+Working
+
+  
+
+**Performance Optimization**
+
+Profiles and tunes code, queries and integrations for speed and scale
+
+Advanced
+
+  
+
+**Software Design**
+
+Sets design patterns and code quality standards and reviews others' code
+
+Advanced
+
+  
+
+**Solution Architecture**
+
+Shapes how components, services and data fit together to meet requirements
+
+Advanced
+
+  
+
+**SQL Server**
+
+Designs and optimises queries, stored procedures and data models
+
+Advanced
+
+  
+
+**Troubleshooting**
+
+Diagnoses complex issues across application, integration, data and configuration layers
+
+Expert
+
+### **Professional and consulting skills**
+
+**Competency**
+
+**What it looks like in this role**
+
+**Expected level**
+
+**Cross-Functional Collaboration**
+
+Brings product, support, consulting and customer teams together toward one outcome
+
+Advanced
+
+  
+
+**Customer Issue Investigation**
+
+Leads resolution of complex customer-reported issues with clear communication
+
+Expert
+
+  
+
+**Documentation**
+
+Produces and reviews solution designs, runbooks, specifications and hand-over material
+
+Advanced
+
+  
+
+**Presentation Skills**
+
+Presents solutions and demos confidently to technical, business and executive audiences
+
+Advanced
+
+  
+
+**Problem Solving**
+
+Breaks down ambiguous problems and reaches practical, well-reasoned solutions
+
+Advanced
+
+  
+
+**Rapid Prototyping**
+
+Turns an idea into a working proof of concept quickly to validate value
+
+Advanced
+
+  
+
+**Solution Assessment**
+
+Evaluates options for fit, effort, risk and cost, and recommends an approach
+
+Advanced
+
+  
+
+**Stakeholder Management**
+
+Builds trust, manages expectations and keeps stakeholders aligned
+
+Advanced
+
+  
+
+**Technical Consulting**
+
+Advises customers on best-fit technical approaches and platform use
+
+Working
+
+### **AI and automation skills**
+
+**Competency**
+
+**What it looks like in this role**
+
+**Expected level**
+
+**Agent Orchestration**
+
+Designs reliable multi-step workflows across agents, tools and connectors
+
+Working
+
+  
+
+**AI Agent Development**
+
+Builds, tests and deploys AI agents grounded in enterprise data, using models such as Azure OpenAI and Anthropic Claude
+
+Working
+
+  
+
+**AI Consulting**
+
+Advises customers on AI use cases, data and process readiness, adoption roadmaps, expected value and responsible AI
+
+Working
+
+  
+
+**Business Process Analysis**
+
+Maps current processes and identifies where AI and automation add value
+
+Working
+
+  
+
+**Copilot Studio**
+
+Builds copilots with topics, actions, connectors, knowledge sources and agent flows
+
+Working
+
+  
+
+**Prompt Engineering**
+
+Designs, tests and refines prompts and instructions for accuracy and safety
+
+Working
+
+  
+
+**Python**
+
+Writes Python for AI services, data handling, scripting and automation
+
+Working
+
+  
+
+**Requirements Analysis**
+
+Turns business needs into clear, testable functional and technical requirements
+
+Working
+
+  
+
+**Solution Design**
+
+Designs end-to-end AI and automation solutions, including guardrails and evaluation
+
+Working
+
+  
+
+**Workflow Automation**
+
+Automates processes with Power Automate, Logic Apps and agent flows
+
+Working
+
+  
+
+**AI/ML Fundamentals**
+
+Understands large language models (such as GPT and Claude), embeddings, retrieval-augmented generation, model evaluation and responsible AI, and how to choose the right model for a task
+
+Working
+
+**Qualifications**
+------------------
+
+### **Required**
+
+* Bachelor's degree in Computer Science, Engineering or a related field, or equivalent practical experience.
+
+* 5 to 8 years of software development experience, with a track record of delivering migrations, integrations or implementations for customers.
+
+* Strong programming skills in C# or .NET and Python, with solid SQL Server experience.
+
+* Practical experience designing and building on a major cloud platform (Azure, AWS or GCP) and integrating systems through APIs.
+
+* Hands-on experience delivering data or platform migrations, including data mapping, ETL, validation and reconciliation.
+
+* Fair working knowledge of at least one learning platform (LMS or LXP) and its core concepts, such as courses, curricula, enrolments, transcripts and compliance tracking.
+
+* Interest in AI and automation, with some exposure to LLM-based tools or applications.
+
+* Comfort explaining technical options and trade-offs to customers and business stakeholders.
+
+* Clear written and spoken English, and confidence leading customer conversations.
+
+### **Preferred**
+
+* Experience with Microsoft Copilot Studio, Power Automate and the Power Platform.
+
+* Hands-on experience with Anthropic Claude (Claude API, Claude models in Microsoft Foundry or Copilot Studio, or Claude Code), and with Azure OpenAI, Semantic Kernel, Model Context Protocol (MCP) or similar agent frameworks and tooling.
+
+* Hands-on experience building at least one AI agent, copilot or LLM-based application, or advising customers on AI use cases and adoption.
+
+* Deeper experience with the Cornerstone platform, or with other HR technology, learning management or talent management platforms.
+
+* Relevant cloud certifications, such as Microsoft Azure Developer Associate (AZ-204), Azure AI Engineer Associate (AI-102) or Power Platform Developer (PL-400); AWS Certified Developer - Associate or AWS Certified Machine Learning Engineer - Associate; or Google Cloud Professional Cloud Developer or Professional Machine Learning Engineer.
+
+* Prior experience in a solutions engineering, implementation or data migration role; exposure to AI or technical consulting work is an added advantage.
+
+* Experience mentoring engineers or leading a small technical team.
+
+**What Success Looks Like**
+---------------------------
+
+In the first months, you become productive on the Cornerstone platform and our migration tooling, and take technical ownership of a customer migration through to successful cutover. Over time, you become the trusted technical lead customers ask for by name, improve how the team plans and delivers its work, and extend your impact into consulting and AI development while helping other engineers grow.
+
+**Working Model**
+-----------------
+
+This role is based in Hyderabad and works with customers and colleagues across regions, so some flexibility in working hours is expected to support overlap with customer time zones.
+
+Cornerstone OnDemand is an equal opportunity employer. We welcome applicants of all backgrounds and make hiring decisions based on skills, experience and business need.
+
+**#LI-Onsite**
+
+**Our Culture:**
+
+Spark Greatness. Shatter Boundaries. Share Success. Are you ready? Because here, right now – is where the future of work is happening. Where curious disruptors and change innovators like you are helping communities and customers enable everyone – anywhere – to learn, grow and advance. To be better tomorrow than they are today.
+
+**Who We Are:**
+
+At Cornerstone, we believe in AI that works in the service of people, amplifying their judgment to drive high-performing, future-ready organizations forward. Cornerstone Workforce AI™, the intelligence platform for workforce readiness, brings together workforce and labor market data into a proprietary Cornerstone People Graph™, translating signals into intelligence, targeting learning where it matters, developing critical skills, and surfacing hidden talent. Delivered as an open, enterprise platform across whatever application your people work in every day, Cornerstone Workforce AI is built for scale, security, and trust, with certified AI guardrails. As an industry leader, Cornerstone is helping approximately 7,000 organizations, 140M+ users, across 186 countries build continuous workforce readiness.
+
+Check us out on LinkedIn, Comparably, Glassdoor, and Facebook!

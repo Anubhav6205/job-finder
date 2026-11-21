@@ -1,0 +1,7 @@
+Rudder Analytics is looking for Lead Analytics Engineer, with 5-10 years of experience, preferably in the Analytics industry.  
+Please check https://bit.ly/3UzlM2z for job code DE-LA-01.  
+  
+
+**Required Candidate profile**
+
+Python, PySpark, SQL, Node, React; Airflow, dbt, Glue; Snowflake, BigQuery, Databricks, Vector DBs; AWS, GCP, Azure; LLMs, RAG, AI Agents; Tableau, Power BI; Docker, Terraform, CI/CD; REST APIs

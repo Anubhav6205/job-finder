@@ -1,0 +1,120 @@
+Job Description
+
+**About Persistent**
+
+  
+
+We are an AI-led, platform-driven Digital Engineering and Enterprise Modernization partner, combining deep technical expertise and industry experience to help our clients anticipate what’s next. Our offerings and proven solutions create a unique competitive advantage for our clients by giving them the power to see beyond and rise above. We work with many industry-leading organizations across the world, including 18 of the Fortune 50 companies, 7 of the 10 top US banks, 9 of the 10 technology companies, and numerous innovators across the healthcare ecosystem.
+
+  
+
+Our disruptor’s mindset, commitment to client success, and agility to thrive in the dynamic environment have enabled us to sustain our growth momentum. Persistent has been recognized across top industry platforms for innovation, leadership, and inclusion. We have delivered 26 sequential quarters of growth with $487.6M in Q2 FY27 revenue, up 7.8% Q-o-Q and 20.0% Y-o-Y. Our 29,500+ global team members, located in 21 countries, have been instrumental in helping the market leaders transform their industries. We received five awards at the ISG (Information Services Group) Provider Lens™ Awards 2026 and, for the second year in a row, were awarded the Growth Honor of the Year at the Everest Group Elevate 2026.
+
+  
+
+**About Position:**
+
+  
+
+We are seeking an experienced Azure Databricks Technical Lead Data Engineering to drive the design, development, and delivery of enterprise-scale data platforms on Microsoft Azure. The ideal candidate will have deep expertise in Python, PySpark, Azure Databricks, Unity Catalog, Azure data services, and modern data engineering practices. In this role, you will lead a team of data engineers, architect scalable data solutions, establish engineering standards, and ensure delivery of secure, high-performance, and governed data platforms that enable business intelligence, analytics, and advanced data-driven decision-making.
+
+  
+
+* **Role: Azure Databricks Technical Lead**
+* **Location: All Persistent Locations**
+* **Experience: 8 to 12 Years**
+* **Job Type: Full-Time Employment**
+  
+
+**What You'll Do:**
+
+  
+
+* Design and develop scalable data processing, transformation, and integration solutions using Python, PySpark, and Azure Databricks.
+* Build, optimize, and maintain production-grade batch and real-time data pipelines on Azure Databricks.
+* Implement enterprise data governance, data lineage, and access management solutions using Unity Catalog.
+* Design and develop integrations between Azure Databricks, Azure Data Lake Storage (ADLS Gen2), Azure SQL, and Cosmos DB.
+* Create metadata-driven frameworks and reusable engineering components to accelerate development and improve maintainability.
+* Develop reusable Python and PySpark libraries, utilities, and common data processing modules.
+* Implement robust monitoring, logging, alerting, error handling, and data quality validation mechanisms.
+* Optimize Spark workloads for performance, scalability, reliability, and cost efficiency.
+* Define and implement CI/CD pipelines for Databricks applications and data engineering workflows.
+* Establish secure authentication, authorization, and access control standards across Azure services.
+* Ensure compliance with enterprise data governance, security, and regulatory requirements.
+* Conduct code reviews, define development standards, and promote engineering best practices.
+* Troubleshoot and resolve complex production issues across data pipelines and platform components.
+* Lead technical discussions, architecture reviews, solution design workshops, and estimation activities.
+* Mentor and guide data engineers while fostering technical excellence and knowledge sharing.
+* Collaborate with architects, DevOps teams, application teams, analysts, and business stakeholders to deliver strategic data initiatives.
+  
+
+**Expertise You'll Bring:**
+
+  
+
+* 8 to 12 years of experience in Data Engineering, Big Data, Cloud Data Platforms, or Analytics Engineering.
+* Strong expertise in Python programming and advanced PySpark development.
+* Extensive hands-on experience with Azure Databricks and Apache Spark ecosystem.
+* Strong knowledge of Unity Catalog, data governance frameworks, and data security best practices.
+* Experience implementing solutions using Azure Data Lake Storage (ADLS Gen2), Azure SQL Database, and Azure Cosmos DB.
+* Proven experience designing metadata-driven data engineering frameworks and reusable platform components.
+* Strong understanding of data architecture, data modeling, ETL/ELT methodologies, and modern data platform design principles.
+* Experience developing and supporting real-time and streaming data pipelines.
+* Hands-on experience with CI/CD implementation for Databricks and cloud-native data platforms.
+* Strong understanding of Azure authentication mechanisms, role-based access control (RBAC), managed identities, and security best practices.
+* Experience with source control systems and version management practices, including SourceAnywhere and Git-based workflows.
+* Expertise in performance tuning, troubleshooting, resource optimization, and platform reliability engineering.
+* Strong understanding of Data Governance, Data Quality, Metadata Management, and Data Lineage concepts.
+* Proven ability to lead technical teams and mentor engineers across multiple projects.
+* Excellent analytical, problem-solving, stakeholder management, and communication skills.
+* Experience working in Agile and enterprise-scale delivery environments.
+  
+
+**Benefits:**
+
+  
+
+* Competitive salary and benefits package
+* Culture focused on talent development with quarterly growth opportunities and company-sponsored higher education and certifications
+* Opportunity to work with cutting-edge technologies
+* Employee engagement initiatives such as project parties, flexible work hours, and Long Service awards
+* Annual health check-ups
+* Insurance coverage: group term life, personal accident, and Mediclaim hospitalization for self, spouse, two children, and parents
+  
+
+**Values-Driven, People-Centric & Inclusive Work Environment:**
+
+Persistent is dedicated to fostering diversity and inclusion in the workplace. We invite applications from all qualified individuals, including those with disabilities, and regardless of gender or gender preference. We welcome diverse candidates from all backgrounds.
+
+  
+
+* We support hybrid work and flexible hours to fit diverse lifestyles.
+* Our office is accessibility-friendly, with ergonomic setups and assistive technologies to support employees with physical disabilities.
+* If you are a person with disabilities and have specific requirements, please inform us during the application process or at any time during your employment
+  
+
+**Let's unleash your full potential at Persistent -** **persistent.com/careers**
+
+  
+
+***“Persistent is an Equal Opportunity Employer and prohibits discrimination and harassment of any kind.”***
+
+1
+
+Open Positions
+
+Data Engineering
+
+Skills Required
+
+PUNE
+
+Location
+
+Data Engineering
+
+Desirable Skills
+
+190815
+
+Job Code

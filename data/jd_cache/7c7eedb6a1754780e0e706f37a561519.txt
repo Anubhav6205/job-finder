@@ -1,0 +1,95 @@
+### **About Omnidian**
+
+Omnidian, Inc. is a fast-growing Series C tech-enabled service company revolutionizing performance assurance for the distributed solar and energy storage industries. Omnidian is building a more sustainable future for the planet through our passionate teams, our innovative technology, and by creating an amazing customer experience.
+
+We are a certified B Corp that formed in the US in 2016 and have been growing globally since then. We expanded to Australia in 2022, acquired Solar Service Guys in Australia in 2025, and have opened up a new talent hub in India in 2026. Be part of the "First Wave" experience! You would be a founding member of our India team, helping us build a brand-new hub from the ground up.
+
+**The Job**
+-----------
+
+The Analytics Engineer will build and maintain the data pipelines behind Omnidian's performance and financial reporting. Our platform is moving away from API-driven workflows toward set-based, SQL-first pipelines, and this role sits at the center of that shift.
+
+This role is roughly 80% data and 20% backend engineering. Most of your time goes to SQL transformations and data modeling, done with software engineering habits: testing, versioning, code review, and clean deployments. The team is upstream of most of the company's data, so your work reaches Finance, Operations, Product, and leadership reporting.
+
+### **What You'll Do**
+
+At Omnidian we believe in trust and autonomy. How you create an impact is ultimately up to you. Here is an outline of some of the things you’ll be doing:
+
+**Pipeline Development & Migration (50%)**
+
+* Migrate existing pipelines and reports to our new reporting architecture with little or no noticeable impact to the people who rely on them.
+* Build simple, scalable data pipelines in SQL and Python that the next engineer can maintain long after you've moved on.
+* Write tests, version your work, and follow sound deployment practices.
+* Use AI coding assistants as a core part of daily development to ship pipelines, tests, and documentation faster, while owning and understanding every line you commit. Help set the team's standards for AI-assisted development: review practices, guardrails, and reusable prompts and workflows.
+
+**Platform Ownership & Optimization (30%)**
+
+* Learn the wider data platform on your own: where data lives, who consumes it, and how other teams' changes affect yours, including reading their pull requests.
+* Spot performance and cost problems in a design before they ship.
+* Recommend the simplest tool that solves the problem, and help retire tools that no longer fit.
+
+**Cross-Team Collaboration (20%)**
+
+* Work directly with Product, Operations, Finance, and Legal to understand their needs and find new places the team can help.
+* Communicate clearly in your own words, showing real understanding of the work.
+* Adapt as priorities shift, and keep momentum when plans change.
+
+### **Who You Are**
+
+* A hybrid of analytics and engineering: strong in data, comfortable with backend development. Not only a report writer, and not only an application developer.
+* Independent. You look for room to improve without being asked, keep up with what's happening across the department, and aren't afraid to suggest a simpler way of doing things.
+* A communicator beyond engineering. You engage in good faith with non-technical teams, and you know those relationships are where the most valuable work comes from.
+* Platform agnostic. You choose tools because they solve a real problem, not out of habit.
+* AI-forward and disciplined. AI is central to how you build, and you hold its output to the same bar as your own work: small, readable, tested changes you can explain line by line. Your written communication reflects your own understanding, not pasted AI output.
+* Calm under change. You stay productive and positive when plans shift.
+
+### **Experience You’ll Need**
+
+* 7+ years in a data engineering or analytics engineering role, building and supporting production data pipelines.
+* 7+ years of advanced SQL (window functions, CTEs, incremental models, query tuning) on a cloud warehouse or lakehouse: Databricks, Snowflake, BigQuery, Redshift, or equivalent.
+* 5+ years of Python for data work, including PySpark, pandas, or equivalent.
+* 3+ years of backend development in a typed language and framework, such as Java or Kotlin with Spring Boot, Python with type hints and FastAPI, TypeScript with Node, or equivalent.
+* Hands-on testing experience with pytest, JUnit, dbt tests, or equivalent. You write tests as part of the work, not after it.
+* Git-based development with pull request review and CI/CD (GitHub Actions, Bitbucket Pipelines, Jenkins, or equivalent), including versioned, repeatable deployments.
+* 1+ year of AI-assisted development as a daily practice, using Claude Code, Cursor, GitHub Copilot, or equivalent. You can show concrete examples where AI sped up delivery without lowering code quality.
+* Senior-level ownership: you've set technical direction for a pipeline or platform area, reviewed others' code, and mentored less experienced engineers.
+* Led at least two platform migrations end to end (for example a warehouse, ETL tool, or BI platform move) with minimal disruption to downstream users.
+* Practical platform administration: cluster and warehouse sizing, partitioning, query profiling, and cost monitoring. You can explain a time you prevented a performance or cost problem before it shipped.
+* Bachelor's degree in computer science, engineering, statistics, or a related field, or equivalent practical experience.
+
+### **Experience That’s a Plus**
+
+* Building with LLM APIs or agent tooling, such as MCP servers, text-to-SQL, or AI-powered data quality and reporting features.
+* Production experience with dbt (Core or Cloud) or Lakeflow Declarative Pipelines (formerly Delta Live Tables).
+* Databricks specifically: Delta Lake, Unity Catalog, and Databricks Workflows.
+* Data quality frameworks such as DQX, Great Expectations, Soda, or equivalent.
+* Orchestration with Airflow, Dagster, Databricks Workflows, or equivalent.
+* Ingestion from SaaS APIs and tools such as Fivetran, Airbyte, or custom connectors.
+* Business systems data, especially Salesforce and NetSuite.
+* BI tools such as Sigma, Tableau, Power BI, or Looker.
+* Infrastructure as code with Terraform or equivalent.
+* Experience in renewable energy, solar, or IoT and device telemetry data.
+
+### **Culture & Benefits**
+
+* We offer a competitive total compensation package bonuses and long-term stock options so you can share in the long-term value you help create as we shape the future together..
+* We offer a competitive benefits program for our employees and their dependents, including medical, dental, vision
+* We are a passionate, mission driven team that believes in collaboration, mutual respect and trust. For examples, come Discover our Story!
+
+$22,500 - $37,500 a year
+
+**Our Philosophy on Pay:** The range listed above reflects the starting base salary for most new hires in this role. However, your financial growth doesn't stop at the offer letter. We invest deeply in our people and reward results; annual merit increases can bring your total compensation above this initial range. Our goal is for you to continue growing within the pay band as you sharpen your skills and drive meaningful outcomes.
+
+* **Committed to Parity:** We eliminate the "negotiation tax" by placing candidates within the band based on verified professional experience and skill set, not bartering ability, and by giving our best offer up front. This is a core part of our mission to ensure gender pay equity and fairness across the board.
+* **Comprehensive Health Coverage:** Your well-being is our priority. We cover 100% of health insurance monthly premiums for employees and 50% for your dependents.
+* **Performance Bonus:** Exceptional work deserves exceptional rewards. You’ll be eligible for bonuses that reflect your contributions to our collective success.
+* **Equity Stake:** We offer stock options so you can share in the long-term value you help create as we shape the future together.
+* **Continuous Growth:** We are a learning organization. To support your evolution, we provide up to $500 in annual learning reimbursement for courses, certifications, or conferences.
+
+**Diversity and Inclusion**
+
+*We strongly believe that diversity of experience, perspectives, and background will lead to a better environment for our employees and a better product for our customers. We are committed to the principle of equal employment opportunity for all employees and to providing employees with a work environment free of discrimination and harassment. We value diversity and inclusion and are committed to ensuring our hiring and retention practices, as well as our office culture, reflects this value.*
+
+*We will ensure that individuals with disabilities are provided reasonable accommodation to participate in the job application or interview process, to perform essential job functions, and to receive other benefits and privileges of employment. Please contact us to request accommodation.*
+
+We may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses and identifying potential inconsistencies or verification signals in application materials based on available information. These tools assist our recruitment team but do not replace human judgment. Final hiring decisions are ultimately made by humans. If you would like more information about how your data is processed, please contact us.

@@ -1,0 +1,27 @@
+**Job Title** :Senior software Engineer
+
+**Location** :Bangalore
+
+**Role Summary** :
+
+An Azure data engineer designs, builds, and manages data pipelines and analytics systems on the Microsoft Azure cloud platform
+
+**Key responsibilities** :
+
+* **Data Pipeline Development:** Build and orchestrate robust ETL (Extract, Transform, Load) and ELT workflows using Azure Data Factory and Azure Databricks.
+* **Data Architecture & Storage:** Manage data lakes and data warehouses via Azure Data Lake Storage Gen2, Azure Synapse Analytics, and Microsoft Fabric components.
+* **Optimization & Performance:** Tune SQL queries, PySpark jobs, and data processing clusters for maximum efficiency and cost control.
+* **Security & Governance:** Implement role-based access control (RBAC), data encryption, masking, and compliance frameworks.
+* **Collaboration:** Partner with data scientists, BI analysts, and software engineers to operationalize data workflows and machine learning models.
+
+**Good to Have** :Azure data engineer
+
+**Interested Candidates share**  **Resume to** s.lakshmi@aaxeleron.com
+
+**Contact Number :7760268262**
+
+**Thanks**  **and Regards**
+
+Santhana Lakshmi.D
+
+IT Recruiter

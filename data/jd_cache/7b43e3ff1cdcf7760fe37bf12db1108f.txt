@@ -1,0 +1,102 @@
+**Company Overview**
+--------------------
+
+At Motorola Solutions, we believe that everything starts with our people. We’re a global close-knit community, united by the relentless pursuit to help keep people safer everywhere. We build and connect technologies to help protect people, property and places. Our solutions foster the collaboration that’s critical for safer communities, safer schools, safer hospitals, safer businesses, and ultimately, safer nations. Connect with a career that matters, and help us build a safer future.
+
+  
+
+**Department Overview**
+-----------------------
+
+Would you like to become a part of a company that uses the newest technology platforms in communications, software, video and services? Do you want to work with people who help save other people’s lives? Do you consider yourself to be a creative thinker and complex problem solver? If the answer is yes, join our rapidly expanding IT team.
+  
+Our IT organization isn’t just here to support our business. We’re here to reinvent it – by changing the way our customers, partners and employees interact with our company. To do that, we’re looking for people who bring great ideas and who make our partners’ ideas better. Intellectually curious advisors (not order takers) who focus on outcomes to creatively solve business problems. People who not only embrace change, but who accelerate it.
+
+**Job Description**
+-------------------
+
+  
+
+Analyze, develop, design, and maintain software for the organization’s products and systems. Perform system integration of software and hardware to maintain throughput and program consistency. Develop, validate, and test structures and user documentation. Possess a strong foundation in building AI-powered applications. Design, build, and deploy scalable web applications while seamlessly integrating Large Language Models (LLMs) and intelligent features into our core product. You will bridge the gap between robust traditional web architecture, critical database infrastructure, and cutting-edge generative AI capabilities.
+
+  
+  
+
+Scope of Responsibilities/Expectations
+
+* Install, configure and administer databases, including and not limited to, Oracle, MS SQL, and Open source technologies like MySQL, MongoDB, Postgresql, etc. hosted in AWS, OCI and On-Premises infrastructure
+* Strong knowledge for script programming (e.g bash, Python, JScript etc)
+* Develop prototypes and proof of concept solutions.
+* Prepare effort estimates, detailed execution plans, delivery schedules.
+* Develop & maintain documentation for assigned projects including install guide, troubleshooting guide, SOP, etc.
+* Track latest database solutions in the industry to drive technology refresh.
+* Provide support per project needs; investigate and troubleshoot issues; perform regular log analysis, security monitoring to identify any possible intrusions.
+Liaisons with the Infrastructure team, Application team, Architecture team, third parties, as necessary.  
+
+  
+
+Specific Knowledge/Skills
+
+  
+
+Technical Skills:
+
+* Experience in Open source database technologies like MySQL, MongoDB, PostgreSQL
+* Experience in database administration in cloud infrastructure (AWS/OCI/Azure)
+* Hands-on experience in managing AWS EC2/OCI VM.
+* Experience in Integrating open-source LLMs into our application architecture via APIs.
+* Experience in Retrieval-Augmented Generation (RAG) pipelines, managing data ingestion, chunking, embedding, and retrieval using Vector Databases.Optimize prompts to ensure AI outputs are accurate, secure, and aligned with business logic
+* Experience in standard operating procedures to perform pre and post-production support activities.
+* Experience in troubleshooting and documenting issues, gaps, and resolutions.
+Able to provide incident management expert-level support to the Operations team as needed.  
+
+  
+
+Soft Skills:
+
+* Manage project task execution independently and get all associated team members to deliver their tasks on time, both with and without direct authority.
+* Self-motivated, work independently or as part of a team, able to learn quickly, meet deadlines and demonstrate problem-solving skills.
+* Highly organized and thorough, with an ability to facilitate communication and scheduling among different levels of staf
+* Ability to perform under pressure, handling interruptions and changes without losing productivity and plan assignments and monitor performance according to priorities as demonstrated by regularly meeting established deadlines
+* Ability to provide consistent follow-through with the Team Manager and IT Project manager on issues/concerns to ensure appropriate visibility and escalation where needed.
+* Excellent verbal and written communication skills
+* Excellent interpersonal skills with the ability to interact with others in a consistently positive manner, exercising discretion and tact
+Excellent written communication skills with the ability to draft clear, concise specifications, documentation, and reports  
+
+  
+
+**Basic Requirements**
+----------------------
+
+* 3+ years of experience as an IT Software Engineer
+* Knowledge of Software Development Lifecycle tools and technologies
+* 3+ Years of experience with Python, JScript or equivalent
+* 2+ Years of Unix and Windows System Administration experience
+* Experience with microservices and container orchestration
+* BS/MS Degree in Computer Science and/or related field
+
+**Travel Requirements**
+-----------------------
+
+Under 10%
+
+**Relocation Provided**
+-----------------------
+
+None
+
+**Position Type**
+-----------------
+
+Experienced
+
+**Referral Payment Plan**
+-------------------------
+
+Yes
+
+***EEO Statement***
+
+Motorola Solutions is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion or belief, sex, sexual orientation, gender identity, national origin, disability, veteran status or any other legally-protected characteristic.
+
+We are proud of our people-first and community-focused culture, empowering every Motorolan to be their most authentic self and to do their best work to deliver on the promise of a safer world. If you’d like to join our team but feel that you don’t quite meet all of the preferred skills, we’d still love to hear why you think you’d be a great addition to our team.

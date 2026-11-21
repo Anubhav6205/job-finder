@@ -1,0 +1,23 @@
+**Key Skills:** Agentic AI, Vertex AI (Google), Agentic Workflows, AI Agents, Python, Gemini, Gen AI, MCP
+
+**Roles and Responsibilities:**
+
+* Design, build, and maintain AI agents and multi-agent systems for enterprise business processes.
+* Develop agentic workflows using Python, Google ADK, Gemini, and Vertex AI.
+* Integrate agents with Google Workspace services and enterprise applications.
+* Implement agent memory, session management, data storage, authentication, and access controls.
+* Deploy and monitor agent solutions on Google Cloud and support client implementation engagements.
+
+**Skills Required:**
+
+* 9 - 13 years of relevant software development and AI engineering experience.
+* Strong Python development experience and hands-on experience building agentic workflows and AI agents.
+* Experience with Google Gemini and Vertex AI for enterprise AI solution development.
+* Ability to design reliable, scalable agent systems with appropriate security and access controls.
+* Experience integrating AI solutions with APIs and enterprise platforms, and deploying applications in cloud environments.
+
+Good to Have:
+
+* Experience with generative AI (Gen AI) and Model Context Protocol (MCP).
+
+**Education:** Relevant bachelor's or master's degree preferred.

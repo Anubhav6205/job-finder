@@ -1,0 +1,32 @@
+Job Description – Senior AI Engineer
+
+**Experience:**
+8+ Years
+
+**Required Skills:**
+Python, Agentic AI, Generative AI, LangChain, LangGraph, AWS, NLP, MCP Server.
+
+**Job Summary:**
+
+We are looking for an experienced Senior AI Engineer with 8+ years of software development experience and strong expertise in Python, Generative AI, and Agentic AI.
+
+**Key Responsibilities:**
+
+* Design and develop AI-powered applications using Python.
+* Build Agentic AI and multi-agent systems.
+* Develop LLM-based applications using LangChain and LangGraph.
+* Implement RAG pipelines, prompt engineering, and NLP solutions.
+* Develop and integrate MCP servers and AI tools.
+* Work with LLMs such as OpenAI, Claude, and AWS Bedrock.
+* Deploy and manage scalable AI applications on AWS.
+* Integrate AI solutions with REST APIs and enterprise applications.
+
+**Required Qualifications:**
+
+* 8+ years of overall IT experience.
+* Strong Python programming experience.
+* Hands-on experience in Agentic AI and Generative AI.
+* Expertise in LangChain and LangGraph.
+* Experience with MCP servers, RAG, and vector databases.
+* Strong knowledge of AWS and NLP.
+* Experience building and deploying production-ready AI solutions.

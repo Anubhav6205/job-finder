@@ -1,0 +1,46 @@
+Job Description AI/ML Developer (Full Stack, LLM & Generative AI)
+
+Role Summary
+
+The AI/ML Developer (Full Stack) is a hands-on engineer within the First American Technology organization, focused primarily on building, customizing, and integrating Large Language Model (LLM)–based solutions. This role is ideal for a full stack developer with 3–5 years of experience who has transitioned into AI/ML and is passionate about Generative AI, prompt engineering, and creating custom GPT-based solutions.
+
+The individual will work closely with onshore leads, offshore teams, and business stakeholders to deliver AI-powered applications, while actively coding, experimenting, and supporting AI solutions in production.
+
+Primary Responsibilities – LLMs & Generative AI
+
+- Design, build, and maintain LLM-powered solutions including custom GPTs and domain-specific assistants.  
+ - Develop and optimize prompts, system instructions, and context strategies for accuracy and reliability.  
+ - Implement prompt chaining, tool calling, and basic agentic workflows.  
+ - Build and support Retrieval-Augmented Generation (RAG) pipelines using vector databases.  
+ - Evaluate, test, and improve LLM outputs using defined quality and safety criteria.  
+ - Apply responsible AI principles, safety guardrails, and governance standards in all implementations.
+
+Full Stack & Application Development
+
+- Develop full stack AI-enabled applications including backend services, APIs, and UI integrations.  
+ - Integrate LLM capabilities into existing enterprise applications.  
+ - Build reusable services and components to support AI features.  
+ - Debug and resolve application or AI-related issues impacting functionality or user experience.
+
+Cloud, DevOps & MLOps Support
+
+- Develop and deploy AI solutions on Azure and/or AWS.  
+ - Support CI/CD pipelines for application and AI workloads.  
+ - Assist with MLOps workflows including model versioning, deployment, and monitoring.  
+ - Ensure solutions are secure, reliable, and cost-aware in production environments.
+
+Required Skills & Experience
+
+- 3–5 years of overall software engineering experience.  
+ - Strong full stack development background.  
+ - Proficiency in Python and solid programming fundamentals.  
+ - Hands-on experience with LLMs, Generative AI, and prompt engineering.  
+ - Experience creating or customizing GPT-based solutions.  
+ - Familiarity with RAG architectures and vector databases.  
+ - Cloud experience with Azure and AWS.  
+ - Basic understanding of MLOps, DevOps, and production support practices.
+
+Education & Good to Have
+
+- Bachelor’s or Master’s degree in Computer Science, Engineering, or related field.  
+ - Frontend experience with modern frameworks is a plus.

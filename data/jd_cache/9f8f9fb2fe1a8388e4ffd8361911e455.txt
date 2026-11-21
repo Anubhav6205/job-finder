@@ -1,0 +1,72 @@
+**Industry Process Expert (Simulation Process Automation)**
+  
+Unlock your potential with Dassault Systèmes, a global leader in Scientific Software Engineering, as an Industry Process Expert (Simulation Process Automation) in Pune, India!
+  
+SIMULIA, the Dassault Systèmes brand for Realistic Simulation, is the world’s leading supplier of advanced simulation technology, helping engineers across industries predict real-world product behavior with precision and efficiency.
+  
+SIMULIA has an opening for an Industry Process Expert to join the MODSIM Automation Methods team. The role focuses on developing and deploying engineering automation solutions that integrate CAD, simulation, and digital engineering processes across the Dassault Systèmes portfolio.
+
+**Role Description & Responsibilities**
+  
+As a member of the SIMULIA MODSIM Automation Methods team, you will be responsible for developing, maintaining, and deploying automation solutions across the engineering lifecycle, from CAD organization through simulation execution and post-processing.
+  
+You will work closely with customers, industry teams, technical specialists, product development, and sales organisations to demonstrate and implement end-to-end engineering automation solutions.
+  
+Key Responsibilities
+  
+• Develop and maintain engineering automation solutions using Python, Java, and VB.
+  
+• Create automated workflows connecting CATIA V5, CATIA V6/3DEXPERIENCE, SIMULIA applications, and other engineering tools.
+  
+• Develop utilities and applications supporting geometry preparation, model validation, simulation setup, execution, and reporting.
+  
+• Support customization and integration of CAD, CAE, and PLM environments.
+  
+• Deliver proof-of-concepts (POCs), demonstrations, and customer deployments.
+  
+• Act as a trusted technical advisor to global field teams, technical account teams, industry specialists, and sales teams.
+  
+• Support customer adoption of engineering automation and digital transformation initiatives.
+  
+• Collaborate with product development teams to influence future solution capabilities and workflows.
+
+**Qualifications**
+  
+• Candidates with 0-2 years of experience in software development, CAD automation, engineering applications, or simulation process automation are especially encouraged to apply.
+  
+• Master's Degree in Mechanical Engineering, Aerospace Engineering, Computer Science, Computer Engineering, Applied Mechanics, Software Engineering, or a related discipline.
+  
+• Experience with simulation and CFD tools such as PowerFLOW, XFlow, Abaqus, ANSYS, STAR-CCM+, or similar CAE applications.
+  
+• Exposure to automation and application development using Python, VBA, or VB.NET.
+  
+• Experience developing software, applications, APIs, scripts, or automation frameworks for engineering environments.
+  
+• Experience automating or customising CAD workflows and engineering processes.
+  
+• Strong understanding of CAD modelling, assemblies, design processes, and engineering data management.
+  
+• Knowledge of object-oriented programming principles and software development best practices.
+  
+• Experience applying AI/ML solutions to engineering, CAD, simulation, or business process automation challenges.
+  
+• Strong verbal and written English communication skills, including customer-facing presentation experience.
+
+**What’s in it for you?**
+  
+• Design and implement scalable automation solutions for engineering and simulation processes
+  
+• Develop and optimise CAD-to-CAE workflows for global customers.
+  
+• Demonstrate the value of Dassault Systèmes solutions through end-to-end automated engineering processes
+  
+• Work with customers across automotive, aerospace, industrial equipment, transportation and high-tech industries
+  
+• Tackle complex engineering challenges that combine software development, CAD and simulation expertise
+  
+• Drive innovation through automation, productivity improvements and digital engineering best practices
+
+**Inclusion statement**
+-----------------------
+
+As a game-changer in sustainable technology and innovation, Dassault Systèmes is striving to build more inclusive and diverse teams across the globe. We believe that our people are our number one asset and we want all employees to feel empowered to bring their whole selves to work every day. It is our goal that our people feel a sense of pride and a passion for belonging. As a company leading change, it’s our responsibility to foster opportunities for all people to participate in a harmonized Workforce of the Future.

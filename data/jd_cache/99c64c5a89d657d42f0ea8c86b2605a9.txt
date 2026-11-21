@@ -1,0 +1,72 @@
+We are looking for a passionate and experienced **Senior Machine Learning Engineer** to join our growing team. The ideal candidate will have strong expertise in **Machine Learning, NLP, Generative AI, and Large Language Models (LLMs), with a keen interest in AI security, data protection, and Agentic AI.**
+
+  
+
+**Role**: **Senior Machine Learning Engineer, AI Governance & Security**
+
+  
+
+**Experience: 8 to 11 Years**
+
+  
+
+**Location: Pune**
+
+  
+
+**Key Responsibilities**
+
+* Design, develop, and implement ML/AI models for data classification, semantic understanding, sensitive data detection, and AI security.
+* Work with LLMs, SLMs, and frontier models, including fine-tuning, customization, evaluation, and performance optimization.
+* Develop intelligent capabilities for secure Retrieval-Augmented Generation (RAG), semantic search, and contextual access control.
+* Research and implement ML techniques to identify prompt injection attacks, malicious context, data exfiltration, and anomalous AI/agent behavior.
+* Build intelligent mechanisms for governing AI agents, tool calls, and autonomous actions.
+* Explore and experiment with emerging AI architectures, algorithms, and technologies.
+* Design and develop production-grade, scalable, reliable, and low-latency AI services for enterprise environments.
+* Optimize model performance, inference efficiency, accuracy, and resource utilization.
+* Collaborate with product, engineering, and research teams to translate AI research and prototypes into production-ready solutions.
+* Stay updated with advancements in Generative AI, AI security, LLM architectures, and Agentic AI.
+
+  
+
+**Required Qualifications**
+
+* Minimum 8+ years of hands-on experience in **Machine Learning, NLP, Artificial Intelligence, or related domains.**
+* Strong understanding of **Machine Learning algorithms, Deep Learning, Transformers, and modern LLM architectures.**
+* Hands-on experience working with **LLMs such as Llama**, **Mistral, Qwen, GPT, or equivalent models.**
+* Practical experience with LLM fine-tuning, embeddings, RAG pipelines, and model evaluation techniques.
+* Strong programming proficiency in **Python**.
+* Hands-on experience with **PyTorch and Hugging Face Transformers.**
+* Experience developing, deploying, and optimizing enterprise-grade AI/ML applications and services.
+* Strong problem-solving, analytical, and debugging skills.
+* Ability to work in a fast-paced startup environment and take ownership of technical deliverables.
+
+  
+
+**Preferred Qualifications**
+
+* Understanding of **Data Governance, Data Security,** Identity and Access Management (IAM), and data privacy principles.
+* Exposure to **AI Security, Adversarial Machine Learning,** prompt injection, and LLM security frameworks.
+* Experience working with **AI agents, Agentic AI architectures, and autonomous workflows.**
+* Experience developing secure RAG systems, semantic retrieval solutions, and contextual access control mechanisms.
+* Knowledge of techniques for detecting malicious prompts, sensitive data leakage, data exfiltration, and anomalous AI behavior.
+* Exposure to Knowledge Graphs, semantic search, and vector databases.
+* Familiarity with emerging AI architectures, frontier models, and advanced Generative AI technologies.
+
+  
+
+**Why Join Us?**
+
+  
+
+This is an opportunity to work on challenging and innovative problems at the intersection of Artificial Intelligence, Data Governance, and Cybersecurity.
+
+  
+
+**You will have the opportunity to:**
+
+* Build next-generation AI Governance and Security solutions.
+* Work with advanced LLMs, SLMs, frontier models, and Agentic AI technologies.
+* Solve real-world enterprise challenges involving AI security, data protection, and responsible AI adoption.
+* Contribute to cutting-edge AI research and take innovative ideas from concept to production.
+* Work in a collaborative, innovation-driven startup environment with opportunities for technical ownership and growth.

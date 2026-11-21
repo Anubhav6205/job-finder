@@ -1,0 +1,184 @@
+**About Client**  
+Hiring for Black and White Business Solutions!
+
+  
+
+**Job Title:** GCP AI Engineer
+
+  
+
+**Qualification:** Bachelor's Degree in Computer Science, Engineering, or a related field.
+
+  
+
+**Total Experience:** 8 to 15 Years
+
+  
+
+**Relevant Experience:** 6+ Years
+
+  
+  
+
+**Must Have Skills:**
+
+* Google Cloud Platform (GCP)
+
+  
+
+* Python
+
+  
+
+* Vertex AI
+
+  
+
+* Agentic AI
+
+  
+
+* RAG
+
+  
+
+* Google ADK
+
+  
+
+* LLM Tuning
+
+  
+
+* AI Evaluation Metrics
+
+  
+
+* TensorFlow, PyTorch, Scikit-learn
+
+  
+
+* Agent Development & Deployment
+
+  
+  
+
+**Good to Have Skills:**
+
+  
+
+* BigQuery ML
+
+  
+
+* Feature Store
+
+  
+
+* Cloud Run
+
+  
+
+* Google Kubernetes Engine (GKE)
+
+  
+
+* FastAPI
+
+  
+  
+
+**Roles and Responsibilities:**
+
+  
+
+* Design, develop, and deploy AI/ML solutions using Google Cloud Platform.
+
+  
+
+* Build and implement Agentic AI applications using Google ADK.
+
+  
+
+* Develop and maintain RAG-based applications and LLM-powered solutions.
+
+  
+
+* Work on LLM tuning, evaluation, and performance optimization.
+
+  
+
+* Develop AI agents and manage their deployment on GCP.
+
+  
+
+* Implement AI evaluation metrics to measure model accuracy and performance.
+
+  
+
+* Use Python and frameworks such as TensorFlow, PyTorch, and Scikit-learn for AI development.
+
+  
+
+* Work with Vertex AI and BigQuery ML for model development and deployment.
+
+  
+
+* Develop and deploy scalable AI applications using Cloud Run and GKE.
+
+  
+
+* Build and integrate APIs using FastAPI.
+
+  
+
+* Optimize AI models and applications for performance, scalability, and reliability.
+
+  
+  
+
+**Location:** PAN India
+
+  
+
+**CTC Range:** As per company norms
+
+  
+
+**Notice Period:** Immediate to 15 Days
+
+  
+
+**Shift Timing:** Regular Shift
+
+  
+
+**Mode of Interview:** Virtual
+
+  
+
+**Mode of Work:** Hybird
+
+  
+
+Sunil Teggi,
+
+  
+
+Talent Aqcuisition
+
+  
+
+Black and White Business Solutions Pvt Ltd
+
+  
+
+Bangalore, Karnataka, INDIA.
+
+  
+
+Direct Number: 8067432496 |
+
+  
+
+sunil.teggi@blackwhite.in | www.blackwhite.in

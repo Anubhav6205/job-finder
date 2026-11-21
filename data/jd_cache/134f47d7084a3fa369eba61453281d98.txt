@@ -1,0 +1,31 @@
+**Project Role :** AI / ML Engineer  
+**Project Role Description :** Develops applications and systems that utilize AI tools, Cloud AI services, with proper cloud or on-prem application pipeline with production ready quality. Be able to apply GenAI models as part of the solution. Could also include but not limited to deep learning, neural networks, chatbots, image processing.   
+**Must have skills :** Machine Learning (ML), Generative AI, Large Language Models (LLMs), AGENTIC AI  
+**Good to have skills :** NA
+
+Location : **Pan India.**  
+Minimum **5** year(s) of experience is required  
+**Educational Qualification :** 15 years full time education
+
+Summary:   
+As an AI / ML Engineer, a typical day involves designing and building advanced applications and systems that leverage artificial intelligence technologies. This role requires integrating cloud-based or on-premises pipelines to ensure solutions are production-ready and scalable. The work often includes applying generative artificial intelligence models to solve complex problems, as well as exploring areas such as deep learning, neural networks, conversational agents, and image analysis. Collaboration with cross-functional teams to refine and enhance these intelligent systems is a key part of daily activities, ensuring innovative and efficient outcomes.
+
+Roles & Responsibilities:   
+- Expected to perform independently and become an SME.  
+- Required active participation/contribution in team discussions.  
+- Contribute in providing solutions to work related problems.  
+- Collaborate with team members to continuously improve AI and machine learning workflows and methodologies.  
+- Assist in documenting technical processes and best practices to support knowledge sharing within the team.  
+- Support junior team members by providing guidance and sharing expertise to foster professional growth.
+
+Professional & Technical Skills:   
+- Must To Have Skills: Proficiency in Machine Learning (ML), Generative AI, Large Language Models (LLMs) Agentic AI.  
+- Strong understanding of various machine learning algorithms and their practical applications.  
+- Experience in developing and deploying AI models within cloud or on-premises environments.  
+- Familiarity with deep learning frameworks and neural network architectures.  
+- Ability to work with natural language processing and image processing techniques.  
+- Skilled in optimizing AI pipelines for production-level performance and reliability.
+
+Additional Information:   
+- The candidate should have minimum 3 years of experience in Machine Learning (ML).  
+- A 15 years full time education is required.

@@ -1,0 +1,32 @@
+We are seeking a Lead Software Engineer - MEAN Stack with strong JavaScript, TypeScript, Angular, and Node.js skills to deliver secure, performant web applications. You will drive implementation details in Angular architecture and Node.js performance, and support micro-frontends and microservices with a quality-first mindset. Apply today to join the team and make an impact
+
+  
+
+**Responsibilities**
+
+* Coordinate with cross-functional partners to build and enhance UI components
+* Work alongside UX Designers, Business Analysts, and Product Managers to clarify requirements and align on designs
+* Assess technical feasibility of requirements and help design the end-to-end solution
+* Develop reusable components and maintain the component library to minimize duplicated code
+* Convert wireframes and designs into clean, efficient code following performance, readability, and reusability best practices
+* Deliver pixel-accurate responsive web interfaces with smooth interactions
+* Investigate issues and eliminate bugs and performance bottlenecks
+* Participate actively in Scrum team routines and ceremonies
+
+**Requirements**
+
+* Bachelor’s degree in Computer Science, Engineering, or a related discipline, or equivalent industry experience
+* Demonstrated 5+ years of experience building and designing applications, microservices, and REST APIs
+* Strong front-end capability with Angular 8+ and NgRx
+* Expert-level JavaScript and TypeScript skills, with experience in SASS, Jest, Puppeteer, Falcor, HTML, CSS, and Bootstrap
+* Significant Node.js experience, including frameworks such as Express.js
+* Practical knowledge of AWS services such as Lambda, DynamoDB, AppSync, and API Gateway
+* Familiarity with MongoDB and similar database technologies
+* Proficiency with Git and Azure VSTS for version control and collaboration
+* Solid foundation in design patterns and software architectures including MVC, MVVM, modularization, and unidirectional approaches
+* Exposure to Docker and Kubernetes containerization practices
+* Experience delivering micro-frontend web applications, SPAs, desktop applications, and PWAs
+* Experience working with CI/CD pipelines and DevOps-oriented practices
+* Understanding of web security principles and best practices
+* Strong analytical and problem-solving skills with attention to detail
+* Clear communication skills and ability to work effectively in a team

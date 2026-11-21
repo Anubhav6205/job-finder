@@ -1,0 +1,62 @@
+**Location:** Hyderabad
+  
+**Department**: Application Managed Services (AMS)
+
+**Experience:** 3-6 years
+
+**Job Type:** Full-Time
+
+  
+
+#### **About:**
+
+Acuvate is a global IT consulting firm specializing in AI, data, and digital transformation. Our culture promotes innovation, growth, and continuous learning, leveraging Cloud, Data, and AI to modernize enterprise systems. With over 20+ years of experience and 400–500 experts, Acuvate builds intelligent chatbots, migration tools, analytics platforms, and AI-enabled solutions to drive measurable business impact across industries including CPG, retail, oil & gas, energy, BFSI, and the public sector.
+
+#### **Job Summary:**
+
+We are looking for a Database Administrator with hands-on experience in Microsoft SQL Server to support and maintain the database environment for a higher education client. The role involves database monitoring, L2/L3 troubleshooting, performance optimisation, backup and recovery, job monitoring, and support for application-related database issues. The DBA will work closely with application engineers, the Technical Lead, and client teams to maintain database availability, performance, and operational reliability within agreed SLAs.
+
+#### **Key Responsibilities:**
+
+* Provide L2/L3 support for the SQL Server estate, investigating database incidents, connectivity issues, performance problems, and data-related errors.
+* Monitor database health, availability, storage, capacity, and performance; identify and address potential issues proactively.
+* Perform database administration activities, including user and permission management, backup monitoring, restore operations, and routine maintenance.
+* Monitor and troubleshoot SQL Server Agent jobs, SSRS reports and subscriptions, scheduled tasks, and other database-related processes.
+* Analyse and optimise SQL queries, stored procedures, indexes, and execution plans to improve database performance.
+* Support database deployments, schema changes, configuration updates, patching, and maintenance activities in coordination with application and infrastructure teams.
+* Investigate database failures, data inconsistencies, and application connectivity issues; perform root-cause analysis and implement or coordinate corrective actions.
+* Coordinate with Microsoft and other OEM/vendor support teams for product defects, database platform issues, and complex technical incidents; track cases through resolution.
+* Support database security and access controls, ensuring appropriate permissions and adherence to operational procedures.
+Maintain database documentation, backup and recovery procedures, operational runbooks, and incident records.  
+
+#### **Required Skills:**
+
+* 3–6 years of experience in database administration or database support, with hands-on experience in Microsoft SQL Server.
+* Good knowledge of SQL Server architecture, database objects, instance management, and routine DBA operations.
+* Strong T-SQL skills, including writing and troubleshooting queries, stored procedures, views, and functions.
+* Experience with database backup, restore, recovery, maintenance plans, and SQL Server Agent job monitoring.
+* Understanding of query performance tuning, indexing, execution plans, and database optimisation.
+* Experience in production support, incident troubleshooting, root-cause analysis, and SLA-driven support environments.
+* Working knowledge of database security, logins, users, roles, permissions, and access management.
+* Good communication and coordination skills to work with application teams, infrastructure teams, clients, and OEM/vendor support.
+
+#### **Preferred Qualifications****:**
+
+* Exposure to SQL Server Reporting Services (SSRS), including report and subscription support.
+* Exposure to SQL Server high availability and disaster recovery concepts such as Always On availability groups, replication, or log shipping.
+* Experience with database monitoring, alerting, and performance diagnostic tools.
+* Exposure to DBamp or related data integration/replication tools used in enterprise application environments.
+* Experience supporting databases for enterprise applications in a university, college, or higher education environment.
+Familiarity with ITIL-based service management, ticketing tools, and incident, problem, and change management processes.  
+
+#### **Educational Qualifications:**
+
+Bachelor’s degree in Computer Science, Information Technology, Engineering, or a related discipline.
+
+#### **Key Competencies / Soft Skills:**
+
+Strong analytical and problem-solving skills, attention to detail, ownership of database issues through resolution, a focus on availability and data integrity, and effective communication and collaboration with technical and client teams.
+
+#### **Why Join Us:**
+
+Opportunity to support an enterprise SQL Server environment in the higher education sector, collaborate with cross-functional technology teams, and strengthen expertise in database administration and managed services.

@@ -1,0 +1,60 @@
+Meet the Team
+  
+The Data Center Networking Group at Cisco provides next generation data center and cloud management solutions with its Application Centric Infrastructure products. Be part of a team transforming next gen data center architecture to build products which are uniquely positioned to transform the datacenter and cloud deployment landscape by adopting an application centric policy driven approach whereby the compute, storage and networking needs of applications drive the underlying infrastructure. You will be working on cutting edge products that secure, analyze, supervise application workloads across the globe in public and private clouds.
+  
+  
+Your Impact
+  
+You are a driven engineer who thrives on solving complex challenges, embraces new technologies, and is eager to expand your technical expertise. You will join a collaborative team that encourages innovation, supports professional growth, and empowers you to take your skills to the next level.
+  
+  
+
+* Problem-Solving: Troubleshoot complex software and OS issues, identify root causes, and develop effective solutions.
+* Continuous Learning: Explore emerging technologies, testing tools, and automation frameworks to expand your technical capabilities.
+* Team Collaboration: Partner with cross-functional teams to deliver reliable, high-quality software and achieve shared goals.
+* Innovation: Enhance test automation frameworks, optimize testing strategies, and improve software quality and testing efficiency.
+* Ownership and Adaptability: Take initiative, adapt to evolving technical challenges, and drive continuous improvement in a dynamic engineering environment.
+
+Minimum Qualifications
+  
+  
+
+* You have deep understanding of Layer 2 and Layer 3 technologies with solid understanding on networking protocols.
+* You have the ability to proficiently code in any one of the scripting languages such as python, TCL or Perl and very strong in manual testing.
+* Problem solving skills in the realm of Layer 2 to Layer 7.
+* AI/GenAI knowledge - Strong understanding of AI concepts, tools and applications relevant to the role
+* A background with one or more of following areas is a plus: Virtualization, Open flow, Cloud technologies, Intelligent network Services and Large data center
+
+Preferred Qualifications
+  
+Bachelor's/master’s degree in computer science or related field with 6 years of experience as a Test automation development and software/os test experience.
+  
+
+* Strong Analytical and Problem-Solving Skills: Ability to troubleshoot complex issues, identify root causes, and develop effective testing solutions.
+* Excellent Communication and Collaboration: Ability to work effectively with developers and cross-functional teams, clearly communicate test results, and collaborate to improve software quality.
+
+Why Cisco?
+  
+  
+At Cisco, we’re revolutionizing how data and infrastructure connect and protect organizations in the AI era – and beyond. We’ve been innovating fearlessly for 40 years to create solutions that power how humans and technology work together across the physical and digital worlds. These solutions provide customers with unparalleled security, visibility, and insights across the entire digital footprint.
+  
+Fueled by the depth and breadth of our technology, we experiment and create meaningful solutions. Add to that our worldwide network of doers and experts, and you’ll see that the opportunities to grow and build are limitless. We work as a team, collaborating with empathy to make really big things happen on a global scale. Because our solutions are everywhere, our impact is everywhere.
+  
+We are Cisco, and our power starts with you.
+  
+  
+Disclaimer
+  
+To ensure that we hire the best talent in the right way, we follow a strict hiring process and recently, Cisco has been made aware of fraudulent recruiters claiming to be from the company. Please be advised that any communication from Cisco about careers will:
+  
+  
+
+* be in direct response to an application you have submitted through the company career site
+* begin with screening or an interview
+* originate from a Cisco email address, and
+* be conducted across email, phone, or WebEx
+
+Cisco will never make a job offer without conducting an interview process or ask you for money in any way. If you have been requested to apply for a role or have received an offer from a site other thanhttps://careers.cisco.com orcisco.wd5.myworkday.com, do not provide any personal identifying information, including your Aadhaar or other personal identifying number, birth certificate, banking information, driver's license, or passport.
+  
+  
+If you are the target of a recruiting scam, consider filing a report with your local law enforcement authorities. Cisco bears no responsibility, and cannot be held liable, for any claims, damages, expenses, or other inconvenience resulting from or in any way connected to recruiting scams.

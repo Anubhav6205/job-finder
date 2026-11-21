@@ -1,0 +1,80 @@
+**Job Title: So: Sr. Analytics Engineer**
+
+No. of Vacancies: 1 position
+
+Location: Pune (Koregaon Park), India.
+
+Full-time/Part-time: Full-time
+
+**Company Overview:**
+
+We’re on an exciting growth journey, building the new digital era of manufacturing. Our digital manufacturing solutions automate and connect the component manufacturing value chain – from design and planning to preparation, production and verification. Our objective is to make the shift towards efficient and sustainable manufacturing. As the market leader in CAM and metrology software with over 400,000 software licenses and global footprint, we have a unique foundation to build on. Please read more about us here .
+
+  
+
+**SANDVIK COROMANT** is the world’s leading supplier of tools, tooling solutions and know-how to the metalworking industry. With extensive investments in research and development, we create unique innovations and set new productivity standards together with our customers. These include the world's major automotive, aerospace and energy industries. Sandvik Coromant has 8,000 employees and is represented in 130 countries. We are part of the business area Sandvik Machining Solutions within the global industrial group Sandvik.
+
+At Sandvik Coromant, we are driven by a passion for excellence in everything we do. Our belief is that sustainable success is a team effort and with our profound knowledge of metal cutting and insight into the varying challenges of different industries, we strive to develop innovative solutions in collaboration with our customers, to meet both current and future demands.
+
+**Intelligent Manufacturing** address the customers full value chain from design and planning to verification with a combination of overarching and point-solutions. We shape the future of manufacturing by connecting and automating the component manufacturing value chain. By providing open and agnostic end-to-end solutions and shaping new markets with partners in our collaboration network making the shift towards more efficient and sustainable manufacturing possible.
+
+We are seeking for people who are passionate in their work and possess the drive to excel to join us.
+
+  
+
+**Position Overview:**
+
+  
+
+As a Sr. Analytics Engineer, you transform business and data requirements into efficient data pipelines and analytics solutions that deliver high-quality data assets across all medallion layers. You design, develop, and optimize data flows using Azure Databricks and Power BI, collaborate with Data Architects and cross-functional teams on technical solutions, ensure performance, scalability, and reliability, and promote reuse through documentation, collaboration, and knowledge sharing.
+
+**Key Responsibilities:**
+
+* **ELT Implementation:** Translate business and data requirements into scalable Extract-Load-Transform (ELT) pipelines across Bronze, Silver, and Gold layers using Azure Databricks and related data engineering technologies.
+
+* **Design Collaboration:** Work closely with Data Architects and cross-functional teams to design scalable, maintainable, and high-performing data and analytics solutions.
+* **Adoption Collaboration:** Collaborate with Analytics Engineers, AI Engineers, Data Analysts, and business stakeholders to ensure data assets and analytics solutions meet business and technical requirements.
+
+* **Performance Optimization:** Monitor, troubleshoot, and optimize data pipelines and analytics solutions for performance, reliability, scalability, and cost efficiency.
+
+* **Knowledge Sharing:** Promote reusable data assets, engineering best practices, and standards through documentation, collaboration, code reviews, and technical knowledge sharing.
+
+* **Deploy & Support:** Deploy, monitor, troubleshoot, and provide third-level support for data assets and analytics solutions, following established CI/CD and DevOps practices.
+
+* **Analytics & Visualization:** Develop and optimize Power BI semantic models, datasets, and reports to deliver reliable, scalable, and business-focused analytics solutions.
+
+  
+
+**Requirements:**
+
+  
+
+* Bachelor’s or Master's degree in IT, Computer Science, or a related field.
+
+* **Experience:** 8+ years of relevant experience in Analytics Engineering, Data Engineering, Business Intelligence, or related data and analytics roles.
+
+* **Agile Experience:** Experience working in agile product teams and collaborating effectively with cross-functional stakeholders.
+
+* **Databricks:** Proven hands-on expertise with Databricks and Lakehouse architecture, including experience designing and optimizing data pipelines across Bronze, Silver, and Gold layers.
+
+* **Azure:** Hands-on experience with Microsoft Azure and related data and analytics services.
+
+* **DevOps:** Familiarity with DevOps practices, including CI/CD pipelines and Infrastructure as Code (IaC).
+
+* **Power BI (Good to have):** Proven hands-on expertise with Power BI, including semantic models, DAX, datasets, reports, and dashboards, with a strong understanding of delivering scalable and business-focused analytics solutions.
+
+This position reports to **: Engineering Manager - Data & Analytics**
+
+**Benefits**
+
+Sandvik offers a competitive total compensation package including comprehensive benefits. In addition, we provide opportunities for professional competence, development and training, as well as opportunities for career advancement.
+
+**How to apply:**
+
+You may upload your updated profile in Workday against the JRNumber through your login, no later than 21 Nov 2026
+
+Or
+
+Please send your application by registering on our site www.sandvik.com/career and uploading your CV against the JRNumber before 21 Nov 2026
+
+Our recruitment process is open and fair – we welcome all applicants and evaluate every unique application in line with the specified requirements profile, to find the best match for the position. To learn more about our recruitment process, please visit our career site.

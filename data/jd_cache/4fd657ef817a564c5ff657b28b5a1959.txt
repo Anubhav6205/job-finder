@@ -1,0 +1,120 @@
+**Line of Service**
+
+Advisory
+
+**Industry/Sector**
+
+Not Applicable
+
+**Specialism**
+
+Operations
+
+**Management Level**
+
+Associate
+
+**Job Description & Summary**
+
+At PwC, our people in software and product innovation focus on developing cutting-edge software solutions and driving product innovation to meet the evolving needs of clients. These individuals combine technical experience with creative thinking to deliver innovative software products and solutions.
+  
+  
+Those in software engineering at PwC will focus on developing innovative software solutions to drive digital transformation and enhance business performance. In this field, you will use your knowledge to design, code, and test cutting-edge applications that revolutionise industries and deliver exceptional user experiences.
+
+\*Why PWC
+
+At PwC, you will be part of a vibrant community of solvers that leads with trust and creates distinctive outcomes for our clients and communities. This purpose-led and values-driven work, powered by technology in an environment that drives innovation, will enable you to make a tangible impact in the real world. We reward your contributions, support your wellbeing, and offer inclusive benefits, flexibility programmes and mentorship that will help you thrive in work and life. Together, we grow, learn, care, collaborate, and create a future of infinite experiences for each other. Learn more
+
+about us
+
+.
+
+At PwC, we believe in providing equal employment opportunities, without any discrimination on the grounds of gender, ethnic background, age, disability, marital status, sexual orientation, pregnancy, gender identity or expression, religion or other beliefs, perceived differences and status protected by law. We strive to create an environment where each one of our people can bring their true selves and contribute to their personal growth and the firm’s growth. To enable this, we have zero tolerance for any discrimination and harassment based on the above considerations. "
+
+**Job Description & Summary:** We are looking for a seasoned .Net Developer
+
+  
+
+**Responsibilities:**
+
+* **Must have : Proficient in Playwright with Typescript/Javascript/Python.**
+
+* **Must have : Practical implementation of AI in STLC**
+
+* **Must have : Experience in validating non-deterministic response validation / AI Model Testing**
+
+* Strong programming skills
+
+* Experience designing, developing, and maintaining test automation frameworks from scratch or improving existing ones.
+
+* Solid understanding of software testing lifecycle, types of testing (functional, regression, integration), and Agile methodology.
+
+* Experience with Continuous Integration tools like Jenkins, GitLab CI, Azure DevOps, or similar.
+
+* Knowledge of version control systems (e.g., Git).
+
+* Strong problem-solving skills with attention to detail.
+
+Excellent communication and collaboration skills.  
+
+
+
+**Mandatory skill sets:**
+
+* Development experience in WebAPI, .NET Core, MVC and PL-SQL(primarily MS SQL)
+
+* Have sound knowledge and experience in Application design & development
+
+Knowledge in Angular/React  
+
+
+
+**Preferred skill sets:**
+
+* Development experience in cloud Azure PaaS like Function App, Web App, Blob Storage, KeyVault, APIM etc.
+
+Experience with integration with other systems like SAP, SF via .NET API
+
+Knowledge of CI/CD pipeline  
+
+
+
+**Years of experience required:**
+
+3 to 8 Years
+
+**Education qualification:**
+
+BE/B.Tech/M Tech/MCA
+
+**Education** *(if blank, degree and/or field of study not specified)*
+
+Degrees/Field of Study required: MBA (Master of Business Administration), Bachelor of EngineeringDegrees/Field of Study preferred:
+
+**Certifications** *(if blank, certifications not specified)*
+
+**Required Skills**
+
+NET Framework
+
+**Optional Skills**
+
+Acceptance Test Driven Development (ATDD), Acceptance Test Driven Development (ATDD), Accepting Feedback, Active Listening, AI Fluency, AI-Human Collaboration, Android, API Management, Appian (Platform), Application Development, Application Frameworks, Application Lifecycle Management, Application Software, Business Process Improvement, Business Process Management (BPM), Business Requirements Analysis, C#.NET, C++ Programming Language, Client Management, Code Review, Coding Standards, Communication, Computer Engineering, Computer Science, Continuous Integration/Continuous Delivery (CI/CD) {+ 44 more}
+
+**Desired Languages** *(If blank, desired languages not specified)*
+
+**Travel Requirements**
+
+Not Specified
+
+**Available for Work Visa Sponsorship?**
+
+No
+
+**Government Clearance Required?**
+
+No
+
+**Job Posting End Date**
+
+June 4, 2026

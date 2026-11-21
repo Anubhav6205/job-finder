@@ -1,0 +1,39 @@
+**Role & responsibilities**
+
+* **Data Platform Engineering:** Design,build, test, and maintain scalable, reliable, and fault-tolerant ETL/ELT pipelines and reusable platform components across Azure and Snowflake.
+* **Data Ingestion & Source Onboarding:**Integrate complex financial data from internal systems, third-party providers, databases, APIs, and files; support batch and near-real-time ingestion patterns where appropriate.
+* **Integrations, Data Feeds & MDS Support:**Develop and operate inbound and outbound integrations and data feeds, support MDS tools and dependencies, troubleshoot production issues, and help ensure reliable delivery to downstream consumers.
+* **Data Reliability & Operations:** Monitorpipeline health, freshness, volume, schema changes, and failures; respond to incidents, perform root-cause analysis, and improve performance, resilience, recoverability, and cost efficiency.
+* **Data Quality, Governance & Security:**Implement automated validations, documentation, lineage, cataloging, access controls, encryption, and sensitive-data protections in accordance with financial-industry governance and security standards.
+* **Engineering Practices:** Use Python,SQL, and fit-for-purpose data tools to deliver maintainable solutions; follow Git-based workflows, code reviews, testing, automated deployment, and CI/CD standards using platforms such as Azure DevOps or GitHub Actions.
+* **Business & Technical Collaboration:**Partner with product managers, business users, operations teams, data stewards, analysts, and engineers to understand processes, clarify requirements, and translate business needs into scalable technical solutions.
+* **Global Delivery & Continuous Improvement:**Participate actively in agile ceremonies, retrospectives, documentation, and knowledge sharing across the GCC and U.S. teams, and responsibly use AI-assisted engineering methods to improve development, testing, documentation, and troubleshooting.
+
+**Knowledge, Skills, Abilities**
+
+* Practical experience designing, building, and supporting ETL/ELT pipelines, data ingestion processes, system integrations, anddata feeds
+* Working knowledge of Python and SQL for data movement, automation, validation, troubleshooting, and operational support
+* Experience with cloud data platforms, especially Microsoft Azure and Snowflake
+* Familiarity with modern data engineering, governance, and observability tools, including Snowflake, dbt, Fivetran, Monte Carlo,Immuta, and Atlan
+* Understanding of orchestration, APIs, database connectivity, file-transfer patterns, scheduling, and dependency management
+* Familiarity with medallion architecture and core data modeling concepts used to organize and manage data across platform layers
+* Understanding of data quality, lineage, cataloging, access control, privacy, and secure handling of sensitive or regulated data
+* Experience with version control, collaborative Git workflows, automated testing, and CI/CD practices
+* Strong problem-solving skills and the ability to investigate ambiguous data, integration, platform, or tool issues methodically
+* Excellent communication skills and the ability to collaborate across technical and business teams in a hybrid, globally distributedorganization
+* Experience in wealth management, asset management, financial technology, or a related financial-services domain is a plus
+
+**Qualifications & Experience**
+
+* 5 years of experience in data engineering, data integration, software engineering, platform engineering, or a related technicalrole
+* Bachelor's degree in Computer Science, Information Systems, Engineering, Mathematics, Statistics, or a related technical field,or equivalent practical experience
+* Experience working with sensitive or regulated financial data and following secure data-handling practices is required
+
+  
+
+**Preferred candidate profile**
+
+  
+  
+
+**Perks and benefits**

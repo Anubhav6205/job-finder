@@ -1,0 +1,75 @@
+Category: Human Resource Management
+
+Location:
+Bangalore, Karnataka, IN
+
+**Department:** System Management
+  
+**Company:** Novo Global Business Services (GBS)  
+  
+**Your impact begins here**
+
+As Lead AI Engineer, you will build the AI agents that move People Organisation towards a Tech + AI first way of working. You will design, deploy and run agentic HR workflows that colleagues can rely on, owning their quality and reliability from first build to continuous improvement. Combining hands-on engineering with technical leadership, you will make sure these tools are secure, grounded in approved content and ready for business-critical use today.
+
+  
+
+**What you’ll bring**
+
+You are a senior engineer who is equally comfortable writing production code and guiding others to do it well.
+
+* A Bachelor’s degree in computer science, AI or a related discipline, or equivalent practical experience.
+* 10+ years of software engineering experience, with strong Python skills and a track record in API development, reusable libraries, distributed backend services and automated testing.
+* At least 3 years of hands-on AI engineering experience with ChatGPT Enterprise and Databricks-based data retrieval, building secure, scalable AI solutions that meet enterprise standards.
+* Experience with document processing, embeddings, vector or hybrid search, retrieval optimisation and knowledge grounding.
+* Experience implementing agent orchestration, tool calling, workflow state, retries, failure recovery and human approval mechanisms.
+* Experience with cloud deployment, CI/CD, production observability, incident investigation and operational support.
+* The ability to design AI agent evaluations, automated tests and quality benchmarks, analyse failure patterns, and use telemetry and user feedback to improve answer quality and workflow reliability.
+* Proven ability to guide technical decisions, review engineering work and mentor colleagues.
+* Strong communication skills, with the ability to explain technical choices and trade-offs to business and technical stakeholders.
+
+**Useful, but not essential:**
+
+* Experience with HR transformation, People Services or Talent Acquisition.
+* Experience delivering with SAP SuccessFactors, SAP Joule and ServiceNow.
+* Up-to-date knowledge of existing and emerging HR platforms, enterprise and cloud technologies.
+  
+
+**What you’ll do**
+
+You will own the technical quality and operational reliability of assigned AI solutions, from development and evaluation through deployment, monitoring and improvement.
+
+* Design and build agent workflows that turn P&O requirements into production-ready tools, with clear tool integration, exception handling and human approvals.
+* Engineer retrieval pipelines, from document ingestion and indexing to search and source attribution, so responses are grounded in approved P&O content.
+* Define how quality is measured: evaluation strategy, benchmarks, test datasets and release thresholds for accuracy, grounding, task completion and safe agent behaviour.
+* Design identity-based access controls and secure APIs and connectors, so agents respect source-system permissions, protect employee data and only execute authorised transactions across P&O platforms.
+* Own production delivery and performance: CI/CD pipelines, release validation, rollback procedures, observability, and root-cause analysis when incidents happen.
+* Lead the engineering practice by owning technical design and code reviews, setting development standards and mentoring engineers.
+* Embed governance with process owners and governance teams, defining agent execution boundaries, audit trails and escalation controls that keep human accountability for policy and people decisions.
+* Build shared, reusable components and prioritise technical improvements to speed up delivery across P&O service areas.
+  
+
+**Who you’ll work with**
+
+You will join the AI & Workforce Transformation team in People, Organisation & Corporate Affairs, where colleagues help create an engaging, inclusive workplace and attract and develop the talent needed to support Novo’s purpose. [Insert hiring manager name and team size.]
+
+Day to day, you will partner with consultants and the Product Owner to prioritise what gets built, and with enterprise AI teams to reuse platforms and speed up delivery. You will work with process owners and governance teams to agree where agents act, where people decide and how every action is traceable. You will also support and mentor fellow engineers.
+
+The work moves at pace and depends on clarity: you will explain trade-offs plainly, speak up when things stall and help business and technical colleagues reach decisions together.
+
+  
+
+**What you can expect here**
+
+You will be trusted to own business-critical AI solutions and to set the engineering standards others build on. Your expertise will shape how P&O uses AI, and your voice will count in technical and governance decisions.
+
+You will grow alongside colleagues through hands-on work at the forefront of AI and technology, as Novo upskills its workforce to advance AI as a main driver of innovation. You will be supported to perform at your best, with clear expectations and recognition for the results you deliver.
+
+  
+
+**Start now**
+
+Your impact begins today. If you are ready to turn AI engineering into reliable, trusted tools for People Organisation, apply for the Lead AI Engineer role by 4 December 2026. Applications are reviewed on an ongoing basis, so we encourage you to apply as soon as possible.
+
+  
+
+We commit to an inclusive recruitment process and equality of opportunity for all our job applicants.

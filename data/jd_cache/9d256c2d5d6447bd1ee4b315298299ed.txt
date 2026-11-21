@@ -1,0 +1,93 @@
+Hello,
+
+  
+
+Greetings from NTT DATA!!
+
+We are looking for Workday Core HCM- Hybrid
+
+  
+
+Company Profile
+
+NTT DATA Services, a global digital business, and IT services leader, is the largest business unit outside of Japan of NTT DATA Corporation and part of NTT Group. With our consultative approach, we leverage deep industry expertise and leading-edge technologies powered by AI, automation, and cloud to create practical and scalable solutions that contribute to society and help clients worldwide accelerate their digital journeys. For further details please visit nttdataservices.com
+
+  
+  
+
+About NTT DATA:
+
+NTT DATA is a global IT services and digital transformation leader, helping organizations innovate, optimize, and grow through technology solutions. The company provides expertise across Cloud, Data & Analytics, AI/GenAI, Application Development, Cybersecurity, Infrastructure, and Consulting services, serving clients across multiple industries worldwide. NTT DATA combines deep industry knowledge with cutting-edge technology to deliver scalable and impactful business solutions.
+
+  
+  
+
+**Job: Oracle Fusion Functional- OTL & Absence Management**
+
+**Hybrid**
+
+JD:
+
+Key Responsibilities & Skills
+
+5-7 years of Oracle HCM experience with strong hands-on functional expertise in both Oracle Fusion Time and Labor (OTL) and Absence Management.
+
+Work as a Functional SME responsible for solution design, configuration, enhancements, testing, deployment, and production support for OTL and Absence.
+
+Strong knowledge of Oracle Time and Labor configuration, including Time Entry Profiles, Time Processing Profiles, Time Consumer Sets, Time Categories, Time Layout Sets, Time Entry Rules, and Time Device Processing.
+
+Configure and support time cards, reported time, calculated time, approvals, validations, overtime, shifts, schedules, and time-entry rules.
+
+Experience configuring Time Calculation Rules and Fast Formulas to address complex time and attendance requirements.
+
+Configure worker time processing profiles and eligibility based on business requirements and workforce populations.
+
+Strong functional knowledge of Oracle Absence Management, including Absence Types, Absence Plans, Absence Categories, Reasons, Certifications, Entitlements, and Accruals.
+
+Configure and support different absence plans such as Accrual, Qualification, No Entitlement, Compensatory, and Agreement-based plans, as applicable.
+
+Hands-on experience with eligibility profiles, enrollment rules, accrual calculations, carryover, ceilings, vesting, waiting periods, plan limits, and balance adjustments.
+
+Configure and troubleshoot absence duration, accrual, entitlement, validation, and conversion formulas using Oracle Fast Formula.
+
+Strong understanding of work schedules, shifts, schedule assignments, calendars, holidays, and their impact on Time and Absence processing.
+
+Experience with absence approvals, time-card approvals, BPM workflows, notifications, and exception handling.
+
+Understand end-to-end integration of OTL and Absence with Core HR, Payroll, Projects/PPM, and other Oracle Fusion HCM modules.
+
+Support time transfer to Oracle Payroll and/or Project Costing, including investigation of rejected or incorrect time transactions.
+
+Analyze and resolve functional issues involving time cards, approvals, overtime calculations, absence balances, accruals, eligibility, schedules, payroll transfer, and security.
+
+Conduct requirement-gathering workshops, fit-gap analysis, solution design, configuration, CRP, and business-process validation.
+
+Translate business requirements into scalable Oracle Fusion solutions and recommend standard functionality and best practices wherever possible.
+
+Prepare functional documentation including BRDs, functional design documents, configuration workbooks, process flows, test scenarios, test cases, and user guides.
+
+Support SIT, UAT, regression testing, defect triage, production validation, and post-go-live support.
+
+Good working knowledge of HDL/HSDL, HCM Extracts, OTBI, BI Publisher, REST APIs, and Fast Formula relevant to Time and Absence.
+
+Perform impact analysis and regression testing for Oracle Fusion quarterly updates, and assess new OTL/Absence functionality for business adoption.
+
+Work closely with HR, Payroll, Finance/Projects, technical, integration, reporting, and security teams to resolve cross-functional issues.
+
+Provide functional guidance, user training, knowledge-transfer sessions, and support to business and junior team members.
+
+Strong functional analysis, troubleshooting, stakeholder management, documentation, and communication skills.
+
+  
+
+Regards,
+
+**Vandan Richard Erikipati** (he/him) | Talent Acquisition Analyst
+
+Vandan.Erikipati@nttdata.com
+
+NTT DATA | nttdataservices.com
+
+NTT DATA Information Processing Services Private Limited
+
+Consulting | Industry Solutions | Cloud & Digital Services

@@ -1,0 +1,46 @@
+Overview:
+
+* We are seeking a **Cloud & AI Engineer** with strong expertise in **Artificial Intelligence, AWS, and Python** to design, develop, and deploy scalable AI-powered applications. The ideal candidate will have hands-on experience with **Large Language Models (LLMs)**, **Retrieval-Augmented Generation (RAG)** architectures, AI Agents, serverless AWS services, and modern AI development frameworks. This role involves building enterprise-grade generative AI solutions, integrating cloud-native services, and implementing secure, production-ready AI systems.
+
+Responsibilities:
+
+* Design, develop, and deploy AI-powered applications using **AWS Cloud Services** and modern AI frameworks.
+* Build and optimize solutions leveraging **Amazon Bedrock**, **Azure OpenAI**, or other managed LLM platforms.
+* Design and implement **Retrieval-Augmented Generation (RAG)** architectures, including embedding generation, vector databases, document chunking strategies, and retrieval workflows.
+* Develop and manage **AI Agents** using **Amazon Bedrock Agents**, **AgentCore**, LangGraph, CrewAI, or similar agentic frameworks.
+* Configure and integrate **Model Context Protocol (MCP)** servers and tools to enable secure communication between AI models and enterprise systems.
+* Develop robust Python applications, including:
+  + AWS Lambda functions
+  + API integrations
+  + AI orchestration workflows
+  + Data processing pipelines
+* Utilize frameworks such as **LangChain**, **LlamaIndex**, and AWS SDK (**boto3**) for AI solution development.
+* Design and implement serverless architectures using:
+  + AWS Lambda
+  + API Gateway
+  + Amazon S3
+  + DynamoDB
+  + EventBridge
+  + Step Functions
+* Develop effective prompts, prompt templates, and guardrails to ensure reliable and safe AI system behavior.
+* Optimize application performance, scalability, security, and operational efficiency.
+* Collaborate with business stakeholders, architects, and development teams to translate requirements into technical solutions.
+* Support deployment, monitoring, troubleshooting, and continuous improvement of AI and cloud-based platforms.
+* Document solution architecture, technical designs, implementation details, and operational procedures.
+* Stay updated with emerging Generative AI technologies, AWS services, and industry best practices.
+
+Requirements:
+
+* Strong experience in **Generative AI, AWS Cloud, and Python Development**.
+* Hands-on expertise with **Amazon Bedrock and/or Azure OpenAI**.
+* Proven experience building **RAG (Retrieval-Augmented Generation) solutions**, including vector databases, semantic search, and knowledge retrieval systems.
+* Strong understanding of **Prompt Engineering, AI Guardrails, AI Safety Controls, and Responsible AI practices**.
+* Experience with **AI Agents** using Bedrock Agents, AgentCore, LangGraph, CrewAI, or similar frameworks.
+* Strong Python development skills with experience in **AWS Lambda, boto3, LangChain, and LlamaIndex**.
+* Hands-on experience designing and implementing **AWS serverless architectures** using Lambda, API Gateway, S3, DynamoDB, EventBridge, and Step Functions.
+* Familiarity with **Model Context Protocol (MCP)** and enterprise AI integrations.
+* Excellent analytical, troubleshooting, communication, and stakeholder management skills.
+
+### **Preferred Qualifications**
+
+Experience with **Docker, Kubernetes, Amazon ECS/EKS**, and modern **DevOps practices** including Git, CI/CD pipelines, Terraform, and CloudFormation. Exposure to **MLOps, AI deployment pipelines, monitoring, and observability tools such as CloudWatch, Prometheus, and Grafana** is preferred. AWS certifications and experience delivering **enterprise-scale, production-grade Generative AI solutions** will be a strong advantage

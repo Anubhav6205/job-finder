@@ -1,0 +1,78 @@
+We are Progress (Nasdaq: PRGS) - a trusted provider of software that enables our customers to develop, deploy and manage responsible, AI powered applications and experiences with agility and ease.  
+We’re proud to have a diverse, global team where we value the individual and enrich our culture by considering varied perspectives because we believe people power progress. Join us as a **Technical Support Engineer, Senior 1** and help us do what we do best: propelling business forward.
+
+**Overview:** Provides technical support to customers and other departments. Handles technical issues of highest complexity without supervision. Trains and mentors junior staff members. Specialized in multiple technical areas/products with strong understanding and experience on other areas including customer care skills. Very knowledgeable about internal procedures, processes, and tools. Excellent team player and communicator with excellent diagnostic and troubleshooting skills. Consistent in all aspects of the role. Acknowledged resource for colleagues. Must show corporate interest, adaptability and independence as well as demonstrate experience in approaching technical and procedural questions.
+
+**In this role you will:**
+
+* Follows the processes and procedures for technical support workflow.
+* Interacts professionally and courteously with all customers and peers. Easily approachable, reacts calmly under stressful situations; receive constructive criticism well. Maintains confidentiality.
+* Takes ownership and manages customer cases (i.e. tickets, emails, remote assistance) and customer expectations effectively and professionally. Communicates clearly and precisely with customers to determine expectations for resolutions and provides workarounds to product defects.
+* Troubleshoots and diagnoses customer issues involving 3rd party products using a variety of resources, including documentation, knowledge base, bug database, source code, and the world wide technical and field teams via Community forums.
+* Maintains complete and accurate log of customer interactions and technical details.
+* Runs support cases provided by customers, and develops reproductions and examples required to identify and resolve problems.
+* Communicates clearly and precisely with customers regarding expectations for callbacks, follow-ups regarding their issues, interactions with development, and other open issues.
+* Independently manages difficult communication with customers in effective and professional manner.
+* Escalates product issues to management or other team members.
+* Logs product defects and feature requests clearly in the corresponding systems. Provides Engineering with clear and complete information, when engineering assistance is required, carrying out recommended diagnostic steps and gathering information as necessary.
+* Demonstrates and applies good understanding of knowledge capturing principles (e.g. Create new knowledge resources and/or update the existing ones - product demos, KB and technical articles/documentation, code libraries.).
+* Reviews product documentation, identifies topics needing improvement and is able to contribute.
+* Responsible for professional self-development by attending formal and informal training (webinars, white papers) offered within office and externally based on your development plan agreed with your manager. For example: industry trends, technologies and etc.
+* Increases product and procedural knowledge through self-training, work with peers, and experience with customer issues.
+* Builds constructive and effective relationships with peers and initiates communication to resolve any conflict in an assertive, tactful manner.
+* Prepares (Ensures readiness) for support of new product versions.
+* Capable to support new company products with appropriate level of on the job training.
+* Acts as a general knowledge resource for peers. Provides assistance to peers working in the same specialty area as well as handling issues outside of the area of specialty. Participates in forums, responds to technical questions, sharing product knowledge with colleagues.
+* Contributes to product specifications by bringing customers' perspective and identifying support related implications.
+* Contributes to product roadmap (if applicable dependent upon product development organization).
+* Provides assistance and training to other TSE (for example through the Admin application or CTA and or approving support tickets).
+* Mentors junior staff members. If needed is assigned as a "Guide" to new team members.
+* Demonstrates a high level of proficiency in the infrastructure related to the product environment while resolving customer issues.
+* Proactively Identifies issues of the product and enters clear and precise information on how to reproduce them using the bug tracking system. Provides additional information to Development as needed to resolve bugs.
+
+**Your background:**
+
+* At least 3 years of related professional experience
+* NoSQL Database design and principles.
+* Experience with Node.js, JavaScript, XQuery, Java
+* Experience with Distributed Computing and Cluster architecture (specifically as it applies to MarkLogic)
+* Good understanding of Database Concepts expertise, ACID, Deadlock, Index/cache, DataHub.
+* Understanding of information systems, databases, publications systems, etc.
+* Understanding of Client/Server architecture and request processing in a distributed environment.
+* Able to understand Network concepts: TCP/IP, SSL, MTU, tools Netstat/Wireshark etc
+* Able to understand Linux hardware resource usage.
+* Understanding of data analytics, business intelligence, and visualization tools.
+* In-depth knowledge of information science principles, data governance, and compliance.
+* Data modeling: taxonomy, ontology, etc.
+* Document and data formats - JSON and XML along with related technologies
+* Cloud Computing – AWS and Azure
+* Security – SAML, LDAP, SSL, Kerberos
+* Excellent verbal and written communication skills including effective listening skills.
+* Excellent command of English.
+* Solid analytical and troubleshooting skills specific to software-related issues.
+* Strong customer service skills.
+* Programming experience or knowledge of programming languages/technologies.
+* Demonstrated ability to handle large number of cases efficiently and effectively.
+* Ability to mentor more junior staff members.
+* Must be able to multi-task in a fast paced environment and handle all accountabilities with minimal supervision, while maintaining attention to details.
+
+**Shift Timings: 05:00 AM - 2:00 PM (IST)**
+
+**If this sounds like you and fits your experience and career goals, we’d be happy to chat. What we offer in return is the opportunity to experience a great company culture with wonderful colleagues to learn from and collaborate with and also to enjoy:**
+
+**Compensation**
+
+* Competitive remuneration package
+* Employee Stock Purchase Plan Enrolment
+
+**Vacation, Family, and Health**
+
+* 30 days of earned leave
+* An extra day off for your birthday
+* Various other leaves like marriage leave, casual leave, maternity, and paternity leave
+* Premium Group Medical Insurance for employees and five dependents, personal accident insurance coverage, life insurance coverage
+* Professional development reimbursement
+* Interest subsidy on loans - either vehicle or personal loans
+* Health club reimbursement
+
+**Apply now!**

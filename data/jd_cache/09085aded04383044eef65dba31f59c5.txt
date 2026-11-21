@@ -1,0 +1,59 @@
+**Overview**  
+
+Microsoft Customer and Partner Solutions-Core (MCAPS) accelerates customer outcomes and business growth. By uniting product, engineering, marketing, sales, customer success, and partners around a common customer mission, we help customers realize value faster and turn innovation into measurable business impact. Through deep technical expertise and differentiated go-to-market execution, we win competitively, capture market share, and scale repeatable growth motions. We differentiate through value creation - delivering world-class, AI-powered customer experiences that accelerate adoption, strengthen loyalty, and create sustainable competitive advantage, driving growth that outpaces the market.The AI Business Solutions (ABS) Cowork & Agent Global Black Belt (GBB) team is on a mission to help organizations put agents to work, identifying the roles and recurring business processes where Copilot, Copilot Cowork and agents create durable, measurable value, ignited by our people and culture. We drive cross-company alignment and execution with account teams, solution engineers, customer success and partners, ensuring that we consistently exceed customers’ expectations in every interaction, whether in-product, digital, or human-centered. The Cowork & Agent GBB is responsible for customer agent engagement from first concept to sustained production use. Join us and help accelerate AI transformation for our customers and the world. The Cowork & Agent GBB, part of AI Business Solutions Sales Acceleration, is leading the effort to enable customer success with agents on the Microsoft Cloud by harnessing leading, AI-powered capabilities and human expertise to deliver innovative solutions that accelerate business value, drive repeat usage and realized customer value, and nurture long term agent consumption.We are looking for a Cloud Solution Architect (CSA) to help design & build AI and Agentic solutions with Copilot Cowork and agents that transform how customer teams work & deliver real, measurable value for customers. In this role, you’ll work with others on technical engagements across design, build, and operations, removing blockers and accelerating adoption and consumption of Microsoft AI solutions built on Copilot, Copilot Cowork, Copilot Studio, Foundry, Fabric, Azure AI, GitHub and data platforms. You will deliver engagements leveraging Repeatable IP and execution engines with accountability for delivery excellence, consumption growth, and successful deployment for the customer. You’ll be certified in priority workloads like Copilot, Copilot Studio, Azure AI and Data Platform services, and collaborate with business process owners, developers, and engineers to turn innovation into real-world outcomes. You will be a fast learner, strong problem solver, naturally curious and have great active listening and communication skills.This opportunity will allow you to rapidly accelerate your technical skills, build consultative and communication capabilities, and gain hands-on experience developing AI-driven and agentic systems within enterprise customer environments - all while learning how to deliver with excellence and consistency.This role is 100% Microsoft onsite or customer site only.Microsoft’s mission is to empower every person and every organization on the planet to achieve more. As employees we come together with a growth mindset, innovate to empower others and collaborate to realize our shared goals. Each day we build on our values of respect, integrity, and accountability to create a culture of inclusion where everyone can thrive at work and beyond.
+
+Microsoft Customer and Partner Solutions-Core (MCAPS) accelerates customer outcomes and business growth. By uniting product, engineering, marketing, sales, customer success, and partners around a common customer mission, we help customers realize value faster and turn innovation into measurable business impact. Through deep technical expertise and differentiated go-to-market execution, we win competitively, capture market share, and scale repeatable growth motions. We differentiate through value creation - delivering world-class, AI-powered customer experiences that accelerate adoption, strengthen loyalty, and create sustainable competitive advantage, driving growth that outpaces the market.
+
+The AI Business Solutions (ABS) Cowork & Agent Global Black Belt (GBB) team is on a mission to help organizations put agents to work, identifying the roles and recurring business processes where Copilot, Copilot Cowork and agents create durable, measurable value, ignited by our people and culture. We drive cross-company alignment and execution with account teams, solution engineers, customer success and partners, ensuring that we consistently exceed customers’ expectations in every interaction, whether in-product, digital, or human-centered. The Cowork & Agent GBB is responsible for customer agent engagement from first concept to sustained production use. Join us and help accelerate AI transformation for our customers and the world.
+
+The Cowork & Agent GBB, part of AI Business Solutions Sales Acceleration, is leading the effort to enable customer success with agents on the Microsoft Cloud by harnessing leading, AI-powered capabilities and human expertise to deliver innovative solutions that accelerate business value, drive repeat usage and realized customer value, and nurture long term agent consumption.
+
+We are looking for a Cloud Solution Architect (CSA) to help design & build AI and Agentic solutions with Copilot Cowork and agents that transform how customer teams work & deliver real, measurable value for customers. In this role, you’ll work with others on technical engagements across design, build, and operations, removing blockers and accelerating adoption and consumption of Microsoft AI solutions built on Copilot, Copilot Cowork, Copilot Studio, Foundry, Fabric, Azure AI, GitHub and data platforms. You will deliver engagements leveraging Repeatable IP and execution engines with accountability for delivery excellence, consumption growth, and successful deployment for the customer. You’ll be certified in priority workloads like Copilot, Copilot Studio, Azure AI and Data Platform services, and collaborate with business process owners, developers, and engineers to turn innovation into real-world outcomes. You will be a fast learner, strong problem solver, naturally curious and have great active listening and communication skills.
+
+This opportunity will allow you to rapidly accelerate your technical skills, build consultative and communication capabilities, and gain hands-on experience developing AI-driven and agentic systems within enterprise customer environments - all while learning how to deliver with excellence and consistency.  
+This role is 100% Microsoft onsite or customer site only.
+
+Microsoft’s mission is to empower every person and every organization on the planet to achieve more. As employees we come together with a growth mindset, innovate to empower others and collaborate to realize our shared goals. Each day we build on our values of respect, integrity, and accountability to create a culture of inclusion where everyone can thrive at work and beyond.
+
+ **Responsibilities**
+
+Engage with customer business process owners, developers & engineers to understand the roles and recurring workflows where agents create value, and build secure AI & Agentic solutions that drive business value for their organizations.  
+
+* Help customers navigate Copilot Cowork and agent onboarding, environment setup, licensing and consumption questions, capacity and governance requirements, and common operational blockers using approved playbooks and knowledge sources.
+* Work on technical engagements across envisioning, architecture design, Proof of Concepts (POCs), and Minimum Viable Products (MVPs) through to production deployment to accelerate adoption of Copilot, Copilot Cowork, Copilot Studio, Foundry, Fabric, Azure AI, GitHub, and data platforms.
+* Support adoption and value realization by delivering persona-based scenario workshops, helping customers agree a target user cohort and measure of value, and tracking repeat usage, realized value, and consumption.
+* Leverage AI to automate and deliver repeatable processes that help customers achieve faster outcomes and deliver repeatable IP aligned with AI and Agentic Solutions
+* Engage in relevant agent and AI communities to share expertise, contribute to IP creation, and learn from others to help accelerate your customers’ AI transformation journey.
+* Act as the Voice of the Customer by sharing insights and feedback with AI Business Solutions Leadership to identify opportunities and remove adoption blockers.
+* Maintain deep technical expertise and stay current with AI trends and technologies such as Copilot, Copilot Cowork, Copilot Studio, Foundry, Fabric, Azure, AI, GitHub, Security solutions, while contributing to internal and external technical communities.
+* Capture and share repeatable implementation patterns with account teams, the solution engineering community, and Microsoft partners
+* Actively participate in onboarding, technical training, and ongoing skill development programs.
+* Incorporate coaching feedback to improve technical accuracy, efficiency, and customer interaction quality
+* Demonstrate a growth mindset by continuously aligning your skills to current and future customer needs
+
+ **Qualifications**
+
+Required/minimum qualifications:
+
+Bachelor's Degree in Computer Science, Information Technology, Engineering, Business, Liberal Arts, or related field AND 1+ years experience in AI/cloud technologies, information technology (IT) consulting/support, systems administration, network operations, software development/support, technology solutions, practice development, architecture, and/or consulting OR Master's Degree in Computer Science, Information Technology, Engineering, Business, Liberal Arts, or related field OR equivalent experience
+
+Additional Preferred Qualifications:  
+
+* Technology Certification in Cloud (e.g., Azure, Amazon Web Services, Google, security certifications)
+* Hands-on experience in AI technologies
+
+In addition  
+
+* Solid written and verbal communication skills.
+* Ability to follow structured processes and work effectively in a defined support environment.
+* Willingness to work in an in‑office setting
+* Support a positive, inclusive, and customer‑focused team culture.
+* Experience supporting enterprise customers, business process owners, or high-volume customer portfolios.
+* Interest in agentic AI and productivity tooling, including how agents are deployed, governed, and measured in the enterprise
+
+  
+  
+
+This position will be open for a minimum of 5 days, with applications accepted on an ongoing basis until the position is filled.
+
+Microsoft is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to age, ancestry, citizenship, color, family or medical care leave, gender identity or expression, genetic information, immigration status, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran or military status, race, ethnicity, religion, sex (including pregnancy), sexual orientation, or any other characteristic protected by applicable local laws, regulations and ordinances. If you need assistance with religious accommodations and/or a reasonable accommodation due to a disability during the application process**.**

@@ -1,0 +1,46 @@
+**Job Title: Java Developer**
+
+**Location:** Pune, India
+  
+**Employment Type:** Full-time
+
+**Innovation Hub Overview**
+
+Jefferies is creating a Technology Innovation Hub in Pune, a greenfield opportunity to build the systems that power global markets. As our first India technology center, this hub brings together hands on builders who engineer the platforms behind Jefferies’ growth across capital markets, investment banking, and institutional securities. We’re scaling toward an elite team of 500 engineers while maintaining the agility, ownership, and meritocratic spirit that defines Jefferies. From cloud and data to AI, risk, and core business technologies, teams in Pune will lead high impact work with a global mandate.
+
+**Fixed Income Technology**
+
+Jefferies’ Fixed Income Technology team builds automation, analytics, and high-performance platforms that power global Fixed Income sales and trading across Rates, Credit, Municipals, EM, Derivatives, Loans, and Securitized Markets. The team focuses on resilient, mission critical systems and modern engineering—leveraging AI/ML, advanced analytics, cloud architecture, and digital engineering practices—to support the firm’s growth and competitiveness in global FI markets.
+
+Jefferies Pune Fixed Income Technology team plays a critical role within three globally integrated domains: Data & Reporting, Cloud Platform, Software Engineering.
+
+**Role Overview**
+
+**Jefferies Fixed Income Technology** is seeking a **Java Developer** to join its Front Office technology team, directly supporting the Fixed Income business. This role is for a hands-on engineer who can work independently to build and deliver reliable, scalable solutions in a fast-paced trading environment. The successful candidate will have solid foundational knowledge of Java development, multithreading concepts, and object-oriented design principles, along with familiarity with modern software engineering practices and open-source frameworks. They will be eager to learn and to grow within a collaborative team building enterprise platforms.
+
+**Key Responsibilities**
+
+* Work independently to develop, test, and enhance applications supporting the E-Trading business, partnering with senior developers and traders on requirements.
+* Contribute to platform modernization initiatives, including application upgrades and complete system rebuilds where required.
+* Identify, assess, and remediate software vulnerabilities across existing platforms to maintain a secure technology landscape.
+* Thrive in a multi-language technology environment, working effectively across diverse technology stacks.
+* Experience leveraging Skills and MCPs (Model Context Protocols) to enhance software development workflows, improve productivity, and accelerate issue investigation and resolution.
+
+**Required Technical Experience and Skills:**
+
+* Looking for 6-10 years Experience.
+* Languages: Java, SQL
+* CI/CD: GitHub Actions, TeamCity
+* Security: SonarQube, Hashi Corp Vault
+* Artifacts: JFrog Artifactory, Nexus, Docker Registry
+* Version Control: Git, GitHub, Bitbucket, SVN
+* Ability to learn and adapt quickly.
+* Ability to work well with business managers, traders, and developers
+* Excellent problem-solving and debugging skills.
+
+**Desired Experience/Skills:**
+
+* Awareness of Fixed Income business
+* Middleware: Kafka, RabbitMQ or Solace
+
+#LI-JM1

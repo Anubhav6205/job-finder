@@ -1,0 +1,31 @@
+We're looking for a **Lead Software Engineer** with expertise in Java and Spring Boot to head up a development team and oversee the design, development, and deployment of scalable technical solutions.
+
+  
+
+**Responsibilities**
+
+* Guide and coach a team of software engineers across the development lifecycle
+* Manage the design, development, and deployment of technical solutions
+* Build, implement, and maintain Java-based solutions optimized for high-volume, low-latency performance
+* Participate in every phase of the software development lifecycle
+* Assess user requirements to establish business objectives
+* Verify that application designs align with business goals
+* Detect and troubleshoot technical issues as they emerge
+* Collaborate with architects and the technology team to stay aligned with technical strategy
+* Investigate and assess technical solutions that address business needs
+* Offer technical guidance and mentorship to the development team
+
+**Requirements**
+
+* 10+ years of experience in software development
+* Strong command of Java (Core), Spring Framework (Spring Boot, Spring MVC), and Spring Data/JPA
+* Deep knowledge of RESTful API design and development, along with Hibernate or comparable ORM frameworks
+* Proficiency in React.js (hooks, functional components, state management), JavaScript (ES6+), and HTML5/CSS3
+* Hands-on experience connecting frontend (React) with backend (Java/Spring) and using Git for version control
+* Familiarity with SQL and relational databases (such as PostgreSQL, Oracle)
+* Ability to debug and resolve issues across the full technology stack
+* Solid understanding of microservices architecture and cloud platforms (Azure, AWS, or GCP)
+* Demonstrated leadership and mentoring abilities
+* Self-driven and proactive mindset
+* Adaptability to shifting priorities and emerging technologies
+* Excellent organizational and time management capabilities

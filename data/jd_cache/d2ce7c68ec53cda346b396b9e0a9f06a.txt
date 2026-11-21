@@ -1,0 +1,27 @@
+**Role Overview**
+
+We are looking for a hands-on Agentic AI Engineer with strong experience in designing, developing, and deploying production-grade Generative AI and Agentic AI applications. The ideal candidate should have practical implementation experience building autonomous AI agents, multi-agent workflows, LLM-powered applications, and intelligent automation solutions.
+
+The candidate must have strong Python programming skills, expertise in agent orchestration frameworks, LLM integration, RAG architecture, tool calling, and experience taking AI solutions from prototype to production.
+
+**Key Responsibilities**
+
+* Design, develop, and deploy production-grade Agentic AI applications and autonomous AI agents.
+* Build multi-agent systems using frameworks such as LangGraph, CrewAI, AutoGen, or equivalent.
+* Develop agent orchestration, planning, reasoning, memory management, and tool-calling capabilities.
+* Implement LLM-powered applications using OpenAI, Azure OpenAI, Anthropic Claude, AWS Bedrock, or Google Vertex AI.
+* Design and implement RAG pipelines using vector databases, embeddings, semantic search, and knowledge retrieval.
+* Develop MCP-based integrations to connect AI agents with external tools, APIs, databases, and enterprise systems.
+* Implement agent evaluation, observability, monitoring, guardrails, and error-handling mechanisms.
+* Optimize LLM performance, latency, token consumption, and response quality.
+* Build scalable backend services and APIs using Python and frameworks such as FastAPI.
+
+**Candidate Expectations**
+
+* 3–8 years of overall software engineering / AI engineering experience.
+* Strong hands-on Python development experience.
+* Practical experience building Agentic AI applications, not just theoretical knowledge or POCs.
+* At least 1–2 production-grade GenAI / Agentic AI implementations.
+* Ability to independently design, develop, test, and deploy AI agents.
+* Strong understanding of LLM architecture, agent orchestration, RAG, and MCP.
+* Experience working on enterprise use cases with measurable business outcomes.

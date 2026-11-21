@@ -1,0 +1,77 @@
+We are hiring for **Senior Python Full stack Developers for Hyderabad Location!!**
+
+  
+
+Primary Skill: Python
+
+Secondary Skill: Angular, Typescript, HTML, CSS
+
+Location: Hyderabad Only
+
+Experience: 6 - 10 yrs
+
+Notice: Immediate - 30 Days
+
+  
+
+**Job Description:**
+
+**Key Responsibilities**
+
+* Design, develop, and maintain scalable, high-performance applications using Python, Angular,TypeScript, JavaScript
+* Build and integrate robust backend services, APIs, and data pipelines to support business operations and workflow automation.
+* Participate in the complete software development lifecycle, including requirement gathering, solution design, development, testing, deployment, and governance.
+* Ensure code quality through peer reviews, adherence to SDLC processes, and implementation of best engineering practices.
+* Troubleshoot complex production issues, identify root causes, and implement sustainable solutions.
+* Collaborate with project managers and stakeholders to define technical solutions and system architecture.
+* Perform technical evaluations, technology stack assessments, and documentation for new initiatives.
+* Leverage emerging technologies such as Generative AI (GenAI) and Large Language Models (LLMs) to improve productivity and automate business processes.
+* Support security and compliance requirements by collaborating with Risk and Security teams and participating in SecOps approval processes.
+* Drive process improvements, automation initiatives, and technical migrations across platforms.
+* Deploy and scale solutions across multiple product areas and business functions.
+* Provide maintenance,support, and enhancements for existing tools, extensions, and applications.
+
+**Required Technical Skills**
+
+**Frontend**
+
+* Angular **( Secondary )**
+* TypeScript **( Secondary )**
+* JavaScript
+* HTML5
+* CSS3
+
+**Backend & Programming**
+
+* Python **( Primary )**
+* Golang
+
+**Cloud & Infrastructure**
+
+* Google Cloud Platform (GCP) **( Good to have )**
+
+**Additional Skills**
+
+* API Development & Integration
+* System Design & Architecture
+* Code Reviews & SDLC Best Practices
+* Security & Compliance Awareness
+* Automation & Process Improvement
+* Technical Documentation
+
+**Preferred Qualifications**
+
+* Experience developing enterprise-scale web applications and automation solutions.
+* Strong understanding of cloud-native architectures and distributed systems.
+* Hands-on experience with GenAI/LLM-based solutions and automation frameworks.
+* Excellent problem-solving, stakeholder management, and communication skills.
+* Ability to work independently and drive projects from concept to production.
+
+**Key Deliverables**
+
+* Development of new tools and extensions.
+* Enhancement and maintenance of existing applications.
+* Technical migrations and modernization initiatives.
+* Security-focused solution development.
+* Process automation and operational efficiency improvements.
+* Cross-functional collaboration with stakeholders and product teams.

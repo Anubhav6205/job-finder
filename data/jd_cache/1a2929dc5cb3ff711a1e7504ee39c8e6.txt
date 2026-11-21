@@ -1,0 +1,28 @@
+We're looking for a **Lead Software Engineer specializing in Salesforce Primary Cloud** to join our team. The ideal candidate will possess strong Apex development and Lightning Web Components (LWC) skills to build scalable solutions spanning Sales Cloud, Service Cloud, and Experience Cloud.
+
+  
+
+**Responsibilities**
+
+* Architect, build, and maintain Salesforce solutions leveraging Apex, Lightning Web Components (LWC), and the Lightning framework
+* Tailor and enhance Sales Cloud, Service Cloud, and Experience Cloud to meet business needs
+* Develop reusable, responsive UI components with LWC
+* Create business logic through Apex triggers, classes, batch processes, and schedulers
+* Connect Salesforce to external systems via REST/SOAP APIs
+* Collaborate with Business Analysts and stakeholders to convert requirements into technical designs
+* Conduct code reviews, troubleshoot issues, and optimize performance
+* Uphold best practices related to security, scalability, and governor limits
+* Assist with deployments, releases, and resolving post-production issues
+* Engage in Agile/Scrum ceremonies and DevOps workflows
+
+**Requirements**
+
+* 8 to 11 years of practical experience in Salesforce development
+* Solid background working with Sales Cloud, Service Cloud, and Experience Cloud
+* Strong command of Apex, Triggers, and SOQL/SOSL
+* Deep expertise in Lightning Web Components (LWC)
+* Proficient in Lightning App Builder and other declarative tools
+* Knowledge of the Salesforce security model, including Profiles, Roles, Sharing, and Permission Sets
+* Hands-on experience with REST/SOAP integrations
+* Working knowledge of Agile/Scrum methodologies
+* Strong communication skills and ability to manage stakeholder relationships

@@ -1,0 +1,51 @@
+**TCS Hiring: Data Scientist GenAI | 512 Years**
+
+  
+
+**We are looking for an experienced Data Scientist – Generative AI professional with strong hands-on expertise in building GenAI applications, AI Agents, RAG solutions, and enterprise-grade LLM applications.**
+
+  
+
+**Location: PAN India**  
+ **Experience: 5–12 Years**
+
+  
+
+**Key Responsibilities**
+
+* Design and develop GenAI applications for Code Translation, Text Extraction, Summarization, and SDLC Optimization.
+* Build AI Agents, Chatbots, and RAG applications using LLMs and vector databases.
+* Develop and deploy intelligent agents using LangGraph, ADK, A2A, and MCP.
+* Build conversational interfaces using React JS or similar frontend technologies.
+* Develop APIs and scalable solutions using Microservices Architecture.
+* Implement LLM evaluation, guardrails, security, monitoring, and responsible AI practices.
+* Diagnose end-to-end API, connectivity, and data integration issues.
+
+  
+
+**Must-Have Skills**
+
+* Strong hands-on experience with GenAI, Gemini and/or Open-Source LLMs.
+* Strong programming skills in Python.
+* Experience with LangChain, LangGraph, and LangSmith.
+* Hands-on experience with RAG, AI Agents, Chatbots, and Vector Databases such as PGVector / ChromaDB.
+* Experience with GenAI/LLM evaluation frameworks such as RAGAS, DeepEval, and Pegasus.
+* Strong understanding of LLMs, Prompt Engineering, Embeddings, and graph-based agent workflows.
+* Knowledge of Input/Output Guardrails, including hallucination control, PII filtering, HAP, bias, and Responsible AI.
+* Experience with API development and Microservices Architecture.
+* Knowledge of API Gateways and Istio, including troubleshooting end-to-end communication failures.
+* Understanding of LLM/application security practices, including DDoS, spike control, and denial-of-wallet mitigation.
+
+  
+
+**Desirable Skills**
+
+* Machine Learning, Statistical Modelling & Predictive Analytics
+* End-to-End ML Pipelines
+* Data Cleaning, Feature Engineering & Exploratory Data Analysis
+* MLOps, Model Versioning, Model Registry & CI/CD
+* GCP for model training and deployment
+* Data Governance, Data Quality, Lineage, Privacy & Responsible AI
+* TypeScript and React JS
+* LLM fine-tuning and optimization
+* Strong stakeholder and cross-functional collaboration skills

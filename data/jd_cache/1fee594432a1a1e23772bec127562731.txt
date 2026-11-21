@@ -1,0 +1,101 @@
+Job Description
+  
+  
+**Additional location(s) Compensation Information:**  
+**Required Skills:**  
+Availability Management, Availability Management, Capacity Management, Change Controls, CI/CD, Computer Science, Configuration Management (CM), Design Applications, Git, Incident Management, Information Technology (IT), Information Technology (IT) Infrastructure, Infrastructure Automation, IT Service Management (ITSM), Linux, Matrix Management, Nutanix Administration, Operating System Concepts, Product Launch Planning, Programming Languages, Prompt Engineering, Software Configurations, Software Design Patterns, Software Development, Software Development Life Cycle (SDLC) {+ 6 more}
+  
+  
+**Preferred Skills:**  
+Current Employees applyHERE
+  
+  
+Current Contingent Workers applyHERE
+  
+  
+**Secondary Language(s) Job Description:**  
+Infrastructure Engineer
+  
+  
+The Opportunity
+  
+  
+
+* Based in Hyderabad, join a global healthcare biopharma company and be part of a 130- year legacy of success backed by ethical integrity, forward momentum, and an inspiring mission to achieve new milestones in global healthcare.
+* Be part of an organisation driven by digital technology and data-backed approaches that support a diversified portfolio of prescription medicines, vaccines, and animal health products.
+* Drive innovation and execution excellence. Be a part of a team with passion for using data, analytics, and insights to drive decision-making, and which creates custom software, allowing us to tackle some of the worlds greatest health threats.
+
+Our Technology Centers focus on creating a space where teams can come together to deliver business solutions that save and improve lives. An integral part of our company’s IT operating model, Tech Centers are globally distributed locations where each IT division has employees to enable our digital transformation journey and drive business outcomes. These locations, in addition to the other sites, are essential to supporting our business and strategy.
+  
+A focused group of leaders in each Tech Center helps to ensure we can manage and improve each location, from investing in growth, success, and well-being of our people, to making sure colleagues from each IT division feel a sense of belonging to managing critical emergencies. And together, we must leverage the strength of our team to collaborate globally to optimize connections and share best practices across the Tech Centers.
+  
+  
+Role Overview
+  
+An Infrastructure Engineer is responsible for designing, implementing, managing, and supporting the infrastructure that enables an organizations IT systems and services to run smoothly. This includes working with hardware, networking, virtualization, cloud environments, and security systems to ensure the organizations IT infrastructure is efficient, reliable, and scalable. Infrastructure engineers often work closely with software engineers, IT support teams, and system administrators to optimize performance, mitigate risks, and deliver high-quality services to end-users.
+  
+  
+**What will you do in this role:**  
+
+* Manage the design, procurement, installation, upgrading, operation, control, maintenance, and effective use of specific technology services.
+* Follow standard approaches and established design patterns to create new designs for systems or system components. Apply agreed standards and tools to achieve a well-engineered result.
+* Carry out and also improve system software development and maintenance tasks by updating the product design to automate routine system administration tasks using standard tools and software development practices.
+* Contribute to identification and prioritized adoption of Technology Engineering community practices within the products where you work.
+* Work within a matrix organizational structure, reporting to both the functional manager and the Product manager.
+* Participate in Product planning, execution, and delivery, ensuring alignment with Product goals.
+
+**What should you have:**  
+
+* Bachelors’ degree in Information Technology, Computer Science or any Technology stream.
+* 3 years of hands-on experience working with network and system administration for Linux/Unix and Windows servers.
+* Experience with traditional disaster recovery data backup solutions (Commvault, Acronis).
+* Cloud and Virtualization Platforms: Proficiency in virtualization (Vmware, Hyper-V, Nutanix) and familiarity with cloud (AWS, Azure, Google Cloud) platforms.
+* Networking: Understanding of virtual networks, VPNs, and firewalls.
+* Operating Systems: Knowledge of Windows and Linux operating systems.
+* Scripting and Automation: Skills in scripting languages like Bash or PowerShell and familiarity with infrastructure automation and management tools (Ansible, Terraform).
+* DevOps practices: Experience with Git, infrastructure as code (IaC), observability, and continuous integration/continuous deployment (CI/CD).
+* Security Best Practices: Familiarity with IT security practices and compliance.
+* Problem-Solving: Ability to diagnose and resolve complex technical issues.
+* Product and customer-centric approach.
+* Familiarity with Prompt Engineering and AI-Powered Coding Assistants like GitHub Copilot.
+* Familiarity with Agile way of working.
+* Experience with other programming languages (Python, Java) is a nice to have.
+
+Our technology teams operate as business partners, proposing ideas and innovative solutions that enable new organizational capabilities. We collaborate internationally to deliver services and solutions that help everyone be more productive and enable innovation.
+  
+  
+Who we are
+  
+We are known as Merck Co., Inc., Rahway, New Jersey, USA in the United States and Canada and MSD everywhere else. For more than a century, we have been bringing forward medicines and vaccines for many of the worlds most challenging diseases. Today, our company continues to be at the forefront of research to deliver innovative health solutions and advance the prevention and treatment of diseases that threaten people and animals around the world.
+  
+What we look for
+  
+Imagine getting up in the morning for a job as important as helping to save and improve lives around the world. Here, you have that opportunity. You can put your empathy, creativity, digital mastery, or scientific genius to work in collaboration with a diverse group of colleagues who pursue and bring hope to countless people who are battling some of the most challenging diseases of our time. Our team is constantly evolving, so if you are among the intellectually curious, join us—and start making your impact today.
+  
+  
+#MSDHYDIT
+  
+  
+Search Firm Representatives Please Read Carefully
+  
+Merck Co., Inc., Rahway, NJ, USA, also known as Merck Sharp Dohme LLC, Rahway, NJ, USA, does not accept unsolicited assistance from search firms for employment opportunities. All CVs / resumes submitted by search firms to any employee at our company without a valid written search agreement in place for this position will be deemed the sole property of our company. No fee will be paid in the event a candidate is hired by our company as a result of an agency referral where no pre-existing agreement is in place. Where agency agreements are in place, introductions are position specific. Please, no phone calls or emails.
+  
+  
+**Employee Status:**  
+Regular
+  
+  
+**Relocation:**  
+**VISA Sponsorship:**  
+**Travel Requirements:**  
+**Flexible Work Arrangements:**  
+Hybrid
+  
+  
+**Shift:**  
+**Valid Driving License:**  
+**Hazardous Material(s):**  
+**Job Posting End Date:**  
+11/26/2026\*A job posting is effective until 11:59:59PM on the dayBEFORE the listed job posting end date. Please ensure you apply to a job posting no later than the dayBEFORE the job posting end date.
+  
+**Requisition ID:** R426211

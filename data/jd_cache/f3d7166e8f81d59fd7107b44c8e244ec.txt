@@ -1,0 +1,223 @@
+3-6
+
+#462, 2nd Floor, 16th Cross Rd, Sector 4, HSR Layout, Bengaluru, Karnataka 560102
+
+Full-Time
+
+**Full Stack AI Engineer**
+
+**Experience: 6+ Years**
+
+**Location: Bangalore - Hybrid**
+
+**Type: Full-time**
+
+  
+
+**About Digit88:**
+
+Digit88 is an AI-native product engineering partner helping startups and enterprises build, scale and operate intelligent software products.
+
+We are a lean, high-impact team of 75+ technologists, backed by leaders with deep experience across startups and global enterprises. We build strong, outcome-driven engineering teams that solve complex, real-world problems.
+
+From GenAI applications and data platforms to enterprise-grade SaaS, we deliver scalable, reliable, production-ready systems. Our expertise spans AI/ML, RAG systems, agentic workflows and large-scale data engineering - enabling businesses to move from idea to production with speed and confidence.
+
+Our teams operate as a true extension of our clients, with full ownership and flexible engagement models focused on measurable business outcomes - not just delivery.
+
+With 80+ AI implementations and proven success in scaling dedicated teams and driving significant cost efficiencies, we partner for long-term impact.
+
+We bring experience across B2B and B2C SaaS, web and mobile platforms, e-commerce and domains such as Conversational AI, HealthTech, IoT, ESG/Energy and Data Engineering - thriving in fast-paced, high-ownership environments.
+
+  
+  
+
+**The Vision:**
+
+To be the most trusted AI-native product engineering partner for innovative software companies worldwide delivering ownership, speed and measurable outcomes.
+
+  
+  
+
+**The Opportunity:**
+
+As a Full Stack AI Engineer, you will take end-to-end ownership of designing, building, and shipping production-grade AI-powered applications.
+
+We are looking for a true builder who can operate independently across the entire stack—from crafting responsive user interfaces in React and architecting scalable Node.js backend services to engineering sophisticated AI orchestration, agentic workflows, and RAG pipelines. This is a high-ownership, hands-on engineering role where you will directly translate product requirements into fast, reliable, and cost-efficient intelligent software.
+
+  
+  
+
+**Key Responsibilities:**
+
+End-to-End Application Development: Independently architect, build, and deploy full-stack AI applications from the React.js frontend and Node.js backend through to the AI orchestration layer. API & Backend Engineering: Build clean, secure, high-throughput REST/streaming APIs (SSE/WebSockets) in Node.js to support real-time AI interactions, authentication, and third-party integrations.
+
+Production Full-Stack & RAMPS Excellence: Strong command of Reliability, Availability, Maintainability, Performance, and Security (RAMPS)—implementing multi-layer caching (Redis, semantic/client caching), async job queues, query optimization, OAuth 2.0/JWT/RBAC security, and full-stack observability (OpenTelemetry, Grafana) for low-latency, fault-tolerant applications. Frontend Experience: Develop intuitive, low-latency user experiences in React.js tailored for AI workflows (streaming responses, citations, human-in-the-loop feedback, and interactive UI states). AI Orchestration & Agentic Workflows: Design and implement multi-step LLM pipelines, tool-calling workflows, and stateful agents using LangChain and LangGraph. Digit88 Technologies Private Limited, www.digit88.com
+
+* RAG Architecture & Retrieval Engineering: Build and optimize end-to-end Retrieval-Augmented Generation
+
+(RAG) pipelines—implementing chunking strategies, embeddings, hybrid search, reranking, and vector
+
+database integrations.
+
+* LLM Engineering & Optimization: Drive prompt engineering, context window management, token
+
+optimization, caching, and model routing strategies to maximize response accuracy while minimizing latency
+
+and LLM inference costs.
+
+* AI Observability & Evaluation: Implement tracing, logging, and automated evaluation frameworks using
+
+tools like LangSmith or LangFuse to monitor quality, catch regressions, and ensure reliable production
+
+behavior.
+
+* Engineering Excellence & Ownership: Participate in architecture reviews, write maintainable and
+
+well-tested code, establish CI/CD pipelines, and collaborate directly with product and client stakeholders to
+
+deliver measurable business outcomes.
+
+  
+  
+
+**Requirements:**
+
+* Education & Experience: BE/B.Tech/MS in Computer Science or a related field with 6+ years of hands-on
+
+software engineering experience, including 2+ years building and shipping production GenAI/LLM
+
+applications.
+
+* Frontend Engineering (React & Next.js): Strong proficiency in React.js, Next.js, and TypeScript, modern
+
+state management (Redux, Zustand, TanStack Query/React Query), streaming UI patterns
+
+(SSE/WebSockets), and frontend performance optimization for responsive, real-time AI interfaces.
+
+* Backend & Distributed Systems (Node.js): Strong proficiency in Node.js (Express, NestJS, Fastify),
+
+REST/WebSocket APIs, asynchronous processing, background job queues, and event-driven messaging
+
+(BullMQ, RabbitMQ, Kafka), with a solid grasp of retries, circuit breakers, idempotency, and fault-tolerant
+
+design.
+
+* Production Full-Stack & RAMPS Excellence: Strong command of Reliability, Availability, Maintainability,
+
+Performance, and Security (RAMPS)—implementing multi-layer caching (Redis, semantic/client caching),
+
+query optimization, OAuth 2.0/JWT/RBAC authentication, and full-stack observability (OpenTelemetry,
+
+Grafana) for low-latency, resilient applications.
+
+* Agentic AI & LLM Orchestration: Hands-on production experience building multi-step AI applications,
+
+tool-calling workflows, and stateful agents using LangChain and LangGraph, alongside prompt engineering,
+
+token optimization, and LLM cost/latency optimization.
+
+* Document Ingestion & Advanced RAG Pipelines: End-to-end experience processing unstructured formats
+
+(PDF, DOCX, Excel) using OCR/parsing tools (Unstructured, Docling, Apache Tika, Azure Document
+
+Intelligence, AWS Textract), vector databases (Pinecone, Weaviate, Qdrant, pgvector, Chroma), and
+
+advanced retrieval strategies (hybrid search, metadata filtering, query rewriting, reranking, contextual retrieval,
+
+parent-child chunking).
+
+* AI Evaluation, Observability & Security: Proven experience tracing, debugging, and running regression
+
+evaluations on LLM pipelines using LangSmith, LangFuse, RAGAS, or DeepEval (golden datasets,
+
+LLM-as-a-judge, hallucination checks), paired with LLM security practices (prompt injection defense, PII
+
+masking, guardrails, structured output validation, tenant isolation, and OWASP Top 10 for LLMs).
+
+* Databases, Cloud & Infrastructure: Solid experience with relational and NoSQL databases (PostgreSQL,
+
+MongoDB, Redis), containerization and orchestration (Docker, Kubernetes), Infrastructure as Code
+
+(Terraform), CI/CD automation, secrets management, and deploying on major cloud platforms (AWS, Azure,
+
+or GCP).
+
+* Testing & Quality Automation: Strong experience across unit, integration, API, and end-to-end testing using
+
+Jest, Vitest, Supertest, and Playwright/Cypress, integrating automated quality gates into CI/CD pipelines.
+
+* AI-Driven Development Lifecycle (AI-DLC) & Context Engineering: Hands-on proficiency using CLI-based
+
+AI coding agents (Claude Code) across the development lifecycle (planning, coding, testing, debugging CI/CD
+
+logs) and maintaining shared repo-level AI context (CLAUDE.md, AGENTS.md, .claude/rules/, reusable
+
+skills/hooks, and lessons-learned files) to enforce consistent engineering standards.
+
+* High Ownership & Autonomy: Ability to take ambiguous product ideas from zero to production
+
+independently, thriving in fast-paced, client-facing environments.
+
+  
+  
+
+**Good to have skills:**
+
+* **Python Ecosystem:** Working proficiency in Python (FastAPI) for auxiliary ML/AI microservices or data
+
+processing pipelines.
+
+* **Guardrails & Security**: Experience implementing input/output guardrails, PII redaction, and hallucination
+
+mitigation techniques.
+
+* **Advanced Protocols:** Familiarity with Model Context Protocol (MCP), structured outputs, and multi-modal
+
+LLM integrations.
+
+* **AI-Assisted Development:** Active use of modern AI coding tools (e.g., Claude Code, Cursor, GitHub Copilot)
+
+to accelerate development velocity.
+
+* **Domain Experience:** Prior experience in B2B/B2C SaaS, Conversational AI, HealthTech, e-commerce, or
+
+Energy/Utilities.
+
+  
+  
+
+**Benefits/Culture @ Digit88:**
+
+* Comprehensive insurance coverage (Life, Health, Accident, parents and in-laws are optional)
+
+* Flexible work model focused on outcomes
+
+* Accelerated learning with non-linear growth opportunities
+
+* Flat organization with high ownership & accountability
+
+* Opportunity to work on cutting-edge AI and SaaS products with global customers (primarily North
+
+America, Australia, EU and UAE)
+
+* Accomplished Global Peers - Working with some of the best engineers/professionals globally from the
+
+likes of Apple, Amazon, IBM Research, Adobe and other innovative product companies
+
+* Direct exposure to building and scaling real-world systems across Conversational AI, Energy/Utilities,
+
+ESG, HealthTech, IoT and more
+
+* High-impact roles with the ability to influence product, architecture and business outcomes globally
+
+  
+  
+
+Learn from a founding team of serial entrepreneurs with multiple exits - high growth, high ownership and real
+
+challenges
+
+  
+  
+
+**This is an exciting time to join Digit88 - build, scale, and grow with us as part of our journey!**

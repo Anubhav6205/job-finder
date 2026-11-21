@@ -1,0 +1,98 @@
+**JOB DESCRIPTION:**
+
+**Agilisium is conducting a exclusive Walkin Drive for AI/ML Engineer role at Pune Location**
+
+**Exp: 4+ Years**
+
+**Date and Time:**
+28 November , 10.00 AM - 3.00 PM
+
+**Venue:**
+33/1, Pan Card Club Road, Baner High St, Hill Road, Baner, Pune, Maharashtra 411069
+
+**Experience Range : 4+ Years**
+
+**Location : Pune**
+
+**Must Have:**
+
+**Generative AI | LLM | Python | LangChain | LangGraph | RAG | FastAPI**
+
+**Work Mode : Work From Office**
+
+**Required Qualifications**
+
+Were looking for a
+**Senior GenAI / AI-ML Engineer**
+with strong hands-on experience in designing and deploying production-grade Generative AI solutions.
+
+**Must-have skills:**
+
+* Bachelors degree in
+  **Computer Science, Data Engineering, AI/ML, or a related field**
+  (Masters preferred).
+* **4+ years of experience**
+  in AI/ML, with significant hands-on experience in
+  **Generative AI and LLM-based applications**
+  .
+* Strong hands-on experience with
+  **Generative AI / Large Language Models (LLMs)**
+  , including model integration, evaluation, optimization, and deployment.
+* Strong expertise in
+  **Python**
+  and experience building scalable AI applications and services.
+* Hands-on experience with
+  **LangChain**
+  and
+  **LangGraph**
+  for developing LLM-powered applications, workflows, and AI agents.
+* Strong experience building
+  **Retrieval-Augmented Generation (RAG)**
+  solutions, including document ingestion, chunking, embeddings, retrieval, reranking, context management, and response generation.
+* Strong hands-on experience with
+  **FastAPI**
+  for developing and exposing AI/ML services and APIs.
+* Experience working with
+  **LLM APIs and model providers**
+  such as OpenAI, Azure OpenAI, Hugging Face, Anthropic, Gemini, or equivalent.
+* Good understanding of
+  **prompt engineering, embeddings, vector search, and LLM evaluation**
+  .
+* Experience integrating GenAI solutions with
+  **SQL/NoSQL databases, vectordatabases, and enterprise data sources**
+  .
+* Strong understanding of
+  **cloud platforms**
+  such as AWS, Azure, or GCP and their AI/ML services.
+* Understanding of
+  **MLOps, model lifecycle management, deployment, monitoring, and productionization of AI solutions**
+  .
+* Strong problem-solving, communication, and collaboration skills, with the ability to work with cross-functional teams.
+
+**Preferred Skills**
+
+* **Model Context Protocol (MCP)**
+  experience, including building or integrating MCP servers/tools with LLM applications or AI agents.
+* Experience developing
+  **AI Agents / Agentic AI workflows**
+  using LangGraph or similar frameworks.
+* Experience with
+  **multi-agent systems, tool calling, function calling, and structured outputs**
+  .
+* Experience with vector databases such as
+  **Pinecone, Weaviate, Qdrant, Chroma, Milvus, or FAISS**
+  .
+* Experience with
+  **LLM fine-tuning, LoRA/PEFT, or model optimization**
+  .
+* Experience with
+  **Docker, Kubernetes, CI/CD, and cloud-native deployments**
+  .
+* Strong understanding of
+  **AI security, data governance, responsible AI, and enterprise GenAI architecture**
+  .
+* **Life Sciences / Pharma / Healthcare domain expertise**
+  is highly desirable.
+* Experience integrating GenAI solutions into
+  **production-level enterprise applications**
+  .

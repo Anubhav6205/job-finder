@@ -1,0 +1,41 @@
+****Your Role:****  
+
+* Lead and manage application security testing activities across multiple applications and projects.
+* Oversee and drive engagements involving SAST, DAST, SCA, Grey Box Security Testing, and Threat Modelling.
+* Review security findings, perform vulnerability triaging, and provide remediation recommendations to development teams.
+* Coordinate closely with application, development, infrastructure, and security stakeholders.
+* Drive governance reviews, status reporting, risk tracking, and client communications.
+* Ensure compliance with Secure SDLC practices and application security best practices.
+* Support integration of security tools and controls within CI/CD pipelines and DevSecOps initiatives.
+* Mentor, coach, and provide technical guidance to security testing engineers and team members.
+* Promote continuous improvement of application security processes, standards, and methodologies.
+
+  
+
+****Your Profile:****  
+
+* 5 to 9 years of experience in Application Security, Vulnerability Management, or Product Security.
+* Strong hands-on expertise in Static Application Security Testing (SAST).
+* Strong hands-on expertise in Dynamic Application Security Testing (DAST).
+* Experience with Software Composition Analysis (SCA) tools and methodologies.
+* Good understanding of Grey Box Security Testing techniques.
+* Expertise in Threat Modelling and risk identification.
+* Experience conducting Vulnerability Assessments and security reviews.
+* Strong knowledge of Secure Software Development Lifecycle (Secure SDLC) practices.
+* In-depth understanding of OWASP Top 10 security risks and mitigation techniques.
+* Familiarity with OWASP ASVS (Application Security Verification Standard).
+* Experience with API Security Testing and securing modern web services.
+* Ability to analyze security findings and provide effective remediation guidance to development teams.
+* Experience supporting security tool integration within CI/CD pipelines and DevSecOps environments.
+* Strong stakeholder management, communication, reporting, and client-facing skills.
+* Prior experience leading application security engagements and mentoring junior security engineers.
+* Relevant security certifications such as CEH, CSSLP, GWAPT, OSCP, CISSP, or equivalent are desirable.
+
+  
+
+****What will you love working at Capgemini:****  
+
+* You will have the opportunity to learn on one of the industry''s largest digital learning platforms, with access to 250,000+ courses and numerous certifications.
+* Were committed to ensure that people of all backgrounds feel encouraged and have a sense of belonging at Capgemini. You are valued for who you are, and you can bring your original self to work.
+* At Capgemini, you can work on cutting-edge projects in tech and engineering with industry leaders or create solutions to overcome societal and environmental challenges.
+* Capgemini office campuses in India are green and run on 100% renewable electricity. We have installed Solar plants across India locations and Battery Energy Storage Solution (BESS) in the Noida and Mumbai campuses. You will have chance to make a difference everyday.

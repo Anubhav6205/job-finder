@@ -1,0 +1,39 @@
+**Job Summary**
+
+We are seeking innovative AI Engineers with 2-3 years of experience to develop and deploy AI/ML solutions. The role involves working with data scientists, software engineers, and business stakeholders to build scalable AI-powered applications.
+
+**Responsibilities**
+
+* Design, develop, and deploy machine learning and AI solutions.
+* Build data pipelines and model training workflows.
+* Implement NLP, Generative AI, and predictive analytics solutions.
+* Develop and maintain ML models in production environments.
+* Collaborate with business teams to identify AI opportunities.
+* Monitor model performance and optimize accuracy.
+* Document technical solutions and best practices.
+
+**Skills** **Must have**
+
+* 2-3 years of experience in AI/ML development.
+* Basic Knowledge on ML.
+* Familiarity of AI usage with testing.
+* Strong Python programming skills.
+* Familiarity with machine learning frameworks (TensorFlow, PyTorch, Scikit-learn).
+* Familiarity with Large Language Models (LLMs) and Generative AI concepts.
+* Experience with data preprocessing and feature engineering.
+* Knowledge of SQL and data analytics.
+
+**Nice to have**
+
+* Experience with Azure AI Services or Azure Machine Learning.
+* Experience with LangChain, OpenAI, or Retrieval-Augmented Generation (RAG).
+* Exposure to MLOps practices and deployment pipelines.
+* Exposure to Selenium / Java / Rest Assured or any other automation tools
+
+**Other**
+
+* Languages: English: C1 Advanced
+* Seniority: Regular
+
+  
+**Location -** pune,mumbai,chennai,Bengaluru

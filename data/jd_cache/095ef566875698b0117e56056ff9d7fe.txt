@@ -1,0 +1,77 @@
+* Bangalore, No. 6/12, Primrose Road, Gurappa Avenue, Bangalore, Karnataka, India.
+* **Category:** Engineering
+* **Type:** Full-time
+* **Min. Experience:** Some Experience
+
+**About Betterworks**
+
+Betterworks is HR software to align, develop, and activate your workforce for business growth. Organizations are able to replace outdated, ineffective, universally loathed annual review processes with powerful Continuous Performance Management programs that help managers be better at the conversations, coaching, and development necessary to inspire and motivate the entire workforce to achieve an organization's top priorities today and be ready for tomorrow's challenges.
+
+**What You’ll Be Doing**
+
+As an SDET I at Betterworks, you will:
+
+* Build product and domain knowledge, and work alongside senior engineers to grow your skills
+* Review developer pull requests and help ensure they have sufficient test coverage
+* Identify quality risks and share clear information about the state of the product
+* Design and write test cases, using AI tools such as ChatGPT and Claude to speed up test design while validating their output
+* Collaborate with peers to understand product requirements and define test plans
+* Plan and execute testing cycles, set up test data, and provide quality reports
+* Perform API, mobile, and integration testing
+* Automate test cases using playwright and connect the suites to our CI/CD pipeline for continuous quality assurance
+* Test AI-powered features: evaluate LLM outputs for accuracy, relevance, hallucination, bias, safety, and consistency across prompts, models, and versions
+* Build and maintain evaluation datasets, golden test sets, and automated evals that catch regressions in AI behavior
+* Test AI agents and agentic workflows: verify tool calls, multi-step reasoning, guardrails, error handling, and fallback behavior
+* Use AI agents to improve QA productivity, such as generating test cases, drafting automation scripts, triaging failures, and supporting exploratory testing, with human review of the results
+* Stay current on software testing practices, tools, and techniques, including emerging AI testing approaches
+* Take part in team meetings, code reviews, and knowledge-sharing sessions
+* Help define and implement quality metrics and record QA artifacts
+
+  
+
+**What’ll Help You Be Successful**
+
+* Bachelor's degree in Computer Science, Engineering, or a related field
+* 1–3 years of experience in QA
+* Working experience in manual testing
+* Experience debugging web applications; you are not afraid to look under the hood at the code
+* Hands-on knowledge of test automation tools and frameworks (e.g., Cypress, Selenium, Appium, JUnit, TestNG)
+* Solid understanding of software testing principles, methodologies, and best practices
+* Knowledge of web development fundamentals: REST APIs, databases, sessions, and tokens
+* Exposure to Scrum and Agile practices such as pair programming, TDD, and CI/CD
+* Familiarity with programming languages such as Java, Python, or JavaScript/TypeScript
+* Curiosity about AI and LLM-based products: a basic understanding of how LLMs work, and of prompts, context, non-determinism, and hallucinations
+* Exposure to testing or evaluating AI/LLM outputs, such as prompt testing, output validation, or red-teaming (a plus)
+* Hands-on use of AI assistants and coding agents (e.g., ChatGPT, Claude, Copilot, Cursor) in your daily QA work, with good judgment about when to trust and verify their output
+* Awareness of agent concepts such as tool use, MCP, and multi-step workflows (a plus)
+* Familiarity with AI evaluation tools or frameworks, such as LLM-as-judge approaches (a plus)
+* Comfort working in a dynamic startup environment that rewards initiative and self-motivation
+* Strong communication and collaboration skills, with the ability to work effectively in a team
+
+  
+
+**What We All Do**
+
+* All employees share the responsibility of being aware of information security risks and adhering to information security policies and procedures.
+* All employees are required to participate in information security awareness and training programs.
+* All employees have a responsibility to handle data in accordance with data classification and handling guidelines. Employees should be aware of the sensitivity of the data they interact with and follow appropriate security measures.
+* All employees have a responsibility of reporting information security incidents in accordance with information security policies and procedures.
+
+  
+
+**What Makes Betterworks Unique**
+
+At Betterworks, we put our people first. To support this, we’ve built a culture and benefits program that prioritize both professional growth and personal well-being:
+
+* Leadership: Our CEO, Doug Dennerline is a mission-driven leader with over 25 years of sales leadership experience, making a direct impact on the work people do every day.
+* Funding: Backed by $129 million in Series B with top tier investors, including Kleiners Perkins, Emergence Capital, and 8VC.
+* Board of Directors: Since the beginning of Betterworks, our board includes industry icons such as John Doerr (who introduced OKRs to Google), Bruce Felt (Founder of Renaissance Software and a trusted advisor to numerous private and public companies), Bing Gordon (Renowned Technology Venture Capitalist with experience on boards like Amazon, Duolingo and Zynga), Jason Green (Founder of Emergence Capital and Greenbridge Foundation) and Gaby Toledano (seasoned executive with nearly three decades of strategic HR and operations leadership at premier enterprise and consumer organisations).
+* Perks: We provide company-sponsored health, wellness, and personal accident insurance. Our remote-first culture gives you the flexibility to work from anywhere in India, with opportunities to travel and connect as a team. To support your setup, we also offer a one-time home office reimbursement and a monthly internet stipend to keep you seamlessly connected.
+* Product: Recognized by Lighthouse Research & Advisory and UNLEASH America, Betterworks was named a 2025 HR Tech Award winner for Best Comprehensive Talent Management Solution. We also received Newsweek’s AI Impact Award for Best Outcomes in HR, 2025.
+* Mission Driven: Our mission is to provide the expertise and technology companies need to inspire, develop, and activate their workforce to achieve today’s goals while preparing for tomorrow’s challenges.
+
+  
+
+Connect with us on LinkedIn
+
+*We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status. We are committed to an inclusive and diverse betterworks. We believe that different perspectives lead to better ideas, and better ideas allow us to better understand the needs and interests of our diverse, global betterworks Community. We welcome people of different backgrounds, experiences, abilities and perspectives and are an equal opportunity employer.*

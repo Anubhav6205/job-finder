@@ -1,0 +1,48 @@
+**Why YOU want this position**
+
+At Enverus, we're committed to empowering the global quality of life by helping our customers make energy affordable and accessible to the world.
+
+We are the most trusted energy-dedicated SaaS company, with a platform built to maximize value from generative AI, and our innovative solutions are reshaping the way energy is consumed and managed. By offering anytime, anywhere access to analytics and insights, we're helping our customers make better decisions that help provide communities around the world with clean, affordable energy.
+
+The energy industry is changing fast. But we've continued to lead the way in energy technology, creating intelligent connections across the entire energy ecosystem, from renewables, power and utilities, to oil and gas and financial institutions. Our solutions create more efficient production and distribution, capital allocation, renewable energy development, investment and sourcing, and help reduce costs by automating crucial business operations. Of course, this wouldn't be possible without our people, which is why we have built a team of individuals from a diverse range of backgrounds.
+
+Are you ready to help power the global quality of life? Join Enverus, and be a part of creating a brighter, more sustainable tomorrow.
+
+SBS builds the 3D content library behind the Substation Design Suite, the physical modeling tools that substation designers use to build large BIM assemblies (3,000+ parts, 50,000+ instances). As a Senior Electrical Engineer, you will model and review high-value substation equipment and set the quality standard for the modeling team. You will also mentor junior modelers.
+
+**Performance Objectives**
+
+* Translate 2D manufacturer drawings (PDF, DWG, TIFF) into accurate 3D Inventor models for major substation equipment: **power transformers, circuit breakers, disconnect switches**, and related components such as bushings, arresters, and potential transformers.
+* Produce **BIM-ready models** at a modified LOD 350, balancing detail with file size. Interfaces and connections are the priority.
+* Apply SBS modeling standards.
+* Keep models within file-size targets (e.g., transformers 100 MB, circuit breakers 40 MB, disconnect switches 20 MB).
+* Create simplified multibody parts using Inventor’s BIM Simplify tool, and make sure models export cleanly to Revit with no surface bodies.
+
+**Competitive Candidate Profile**
+
+* BS in Electrical Engineering (or equivalent experience), with a specialty or significant background in **power systems and/or substations**
+* 5+ years of 3D modeling experience, with demonstrated work on substation or utility equipment
+* Advanced proficiency in **Autodesk Inventor** (assemblies, parts, work planes, iProperties, simplification)
+* Strong skill in reading and interpreting 2D manufacturing and equipment drawings
+* Working knowledge of substation equipment, NEMA pad and hole arrangements, grounding, and conduit entry conventions
+* Experience building lightweight, performance-conscious models
+* Strong attention to detail and the ability to work independently
+
+Preferred Qualifications
+
+* Experience with Revit and BIM workflows for utility or substation projects
+* Familiarity with AutoCAD
+* Experience mentoring or leading technical staff
+* Prior work with substation design software or content libraries
+
+What Success Looks Like
+
+* Models meet standards on first review, with minimal rework
+* Equipment models place and rotate correctly (0°, 90°, 180°, 270°) in SDS and Revit
+* Junior modelers grow in quality and speed under your guidance
+
+* Apply required metadata (manufacturer, model number, part numbers) and file naming conventions.
+* Source and adapt vendor models or SBS Utility Content to meet standards, including reducing model size and fidelity.
+* Review models from junior team members, perform QA/QC using the 3D Modeler checklist, and give constructive feedback.
+* Interpret engineering drawings and resolve ambiguities with manufacturers and internal teams.
+* Help refine templates, standards, and modeling documentation.

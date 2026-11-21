@@ -1,0 +1,86 @@
+Bangalore, Karnātaka, India Global Customer Services Ref ID: JR-023068
+
+**Our Mission**
+
+At Palo Alto Networks®, we’re united by a shared mission—to protect our digital way of life. We thrive at the intersection of innovation and impact, solving real-world problems with cutting-edge technology and bold thinking. Here, everyone has a voice, and every idea counts. If you’re ready to do the most meaningful work of your career alongside people who are just as passionate as you are, you’re in the right place.
+
+**Who We Are**
+
+In order to be the cybersecurity partner of choice, we must trailblaze the path and shape the future of our industry. This is something our employees work at each day and is defined by our values: Disruption, Collaboration, Execution, Integrity, and Inclusion. We weave AI into the fabric of everything we do and use it to augment the impact every individual can have. If you are passionate about solving real-world problems and ideating beside the best and the brightest, we invite you to join us!
+
+We believe collaboration thrives in person. That’s why most of our teams work from the office full time, with flexibility when it’s needed. This model supports real-time problem-solving, stronger relationships, and the kind of precision that drives great outcomes.
+
+**Job Summary**
+
+**Job Summary**
+---------------
+
+  
+  
+
+As a Senior Technical Support Engineer for our Platinum Support team, you will provide advanced, post-sales technical solutions to our most valued customers. This role requires addressing complex issues where in-depth evaluation of multiple factors is essential. You will be a critical thinker, adept at using sophisticated methods and techniques to achieve results, and skilled at communicating intricate technical details to both technical and non-technical audiences.
+
+  
+
+**Key Responsibilities**
+
+  
+
+* Provide advanced post-sales technical support, including configuration and troubleshooting, to Platinum customers via phone, email, and web.
+* Meet or exceed enhanced response time SLAs for mission-critical systems covered under the Platinum Support offering.
+* Manage and own customer support cases from initial report to final resolution, ensuring timely follow-ups and comprehensive documentation.
+* expert fault isolation and root cause analysis methodologies to diagnose and resolve complex technical challenges in customer environments.
+* Systematically reproduce customer issues and collaborate directly with Engineering and ETAC teams to qualify and resolve critical product bugs.
+* Conduct multi-vendor troubleshooting to resolve issues in complex, integrated network and security environments.
+* Author and publish Technical Support Bulletins and other technical documentation to the company's knowledge base.
+* Proactively collaborate with Development, Sales, and Quality Assurance teams to enhance the customer experience and improve product documentation.
+
+**Qualifications**
+
+Required Qualifications
+
+  
+  
+
+* 5+ years of experience in a technical support or systems engineering role, with at least 2 years focused on SASE or Cloud Security.
+* Deep hands-on experience with SASE platforms, specifically Prisma Access (Mobile User & Retail/Remote Office).
+* Mastery of networking protocols including TCP/IP, BGP, OSPF, and IPsec VPNs.
+* Strong understanding of security concepts such as NGFW, ZTNA, SWG, and CASB.
+* Proficiency in network and API troubleshooting tools (e.g., Wireshark, MTR, Curl).
+  
+
+  
+
+**AI Exposure & Operational Efficiency**
+
+  
+  
+
+AI & Automation Familiarity: Experience or a strong interest in leveraging AI utilities and workflow automation platforms (such as coding assistants, low-code integration tools, or orchestration systems) to build helper scripts, streamline diagnostics, or automate repetitive support tasks.
+
+Future-Ready Mindset: A basic conceptual understanding of AI workflows (such as LLMs or automated task flows) with an interest in identifying how these technologies can be applied to optimize customer communication or accelerate knowledge sharing (like automated KB drafting)
+
+  
+  
+
+**Preferred Qualifications**
+
+  
+  
+
+* Palo Alto Networks certifications (PCNSA, PCNSE, or PCSAE).
+* Advanced industry certifications such as Cisco CCNP/CCIE or CISSP.
+* Experience with identity provider integrations (e.g., SAML 2.0, Okta, Azure AD).
+* Basic scripting skills in Python or PowerShell to automate repetitive diagnostic tasks.
+
+**Our Commitment**
+
+We’re trailblazers that dream big, take risks, and challenge cybersecurity’s status quo. It’s simple: we can’t accomplish our mission without diverse teams innovating, together.
+
+We are committed to providing reasonable accommodations for all qualified individuals with a disability. If you require assistance or accommodation due to a disability or special need, please contact us at accommodations@paloaltonetworks.com.
+
+Palo Alto Networks is an equal opportunity employer. We celebrate diversity in our workplace, and all qualified applicants will receive consideration for employment without regard to age, ancestry, color, family or medical care leave, gender identity or expression, genetic information, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran status, race, religion, sex (including pregnancy), sexual orientation, or other legally protected characteristics.
+
+All your information will be kept confidential according to EEO guidelines.
+
+Is role eligible for Immigration Sponsorship? No. Please note that we will not sponsor applicants for work visas for this position.

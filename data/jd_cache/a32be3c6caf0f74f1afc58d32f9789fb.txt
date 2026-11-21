@@ -1,0 +1,30 @@
+We are seeking an experienced **Business Consulting professional** specializing in P&C Commercial insurance to serve as a subject matter expert and hands-on consultant, applying deep domain knowledge to real client projects, solutioning, delivery, and business transformation initiatives across underwriting, pricing, claims, and operational processes.
+
+  
+
+**Responsibilities**
+
+* Serve as the go-to subject matter expert for P&C Commercial insurance matters, including underwriting, rating / pricing, policy administration, claims, product configuration, risk / exposure management, workflow, and regulatory considerations
+* Apply hands-on consulting and delivery experience to client engagements, translating domain expertise into real project scenarios and business transformation initiatives
+* Analyze complex insurance products, policies, processes, workflows, and data to identify opportunities for improvement and provide actionable insights
+* Provide expertise in Pricing / Rating capabilities, including rating models, pricing processes, rating engines, product rules, premium calculation, and related operational impacts
+* Manage the successful delivery of client requirements, including active participation in RFP responses, solution shaping, estimations, and proposal development
+* Contribute to insurance thought leadership through white papers, POVs, client presentations, and market-facing collateral
+* Identify and shape AI / GenAI-led use cases across the P&C insurance value chain, including underwriting, rating / pricing, claims, servicing, fraud, and operational efficiency
+* Drive POCs and accelerators based on recent and relevant client project needs, ensuring practical applicability and measurable business value
+
+**Requirements**
+
+* 13-18 years of overall experience in IT, including 10+ years in the Insurance industry with strong focus on P&C Commercial lines
+* Hands-on experience in consulting, business analysis, product management, transformation, or delivery roles within P&C Commercial insurance
+* Expertise in at least two of the following P&C Commercial insurance capabilities: Pricing / Rating, Underwriting, Policy Administration / Renewal / Maintenance
+* Skills in Product Configuration, Risk / Exposure Management, Claims, Workflow Management, Billing, or Premium Processing
+* Background in Pricing / Rating, including commercial rating models, rating algorithms, pricing workflows, bureau / ISO considerations, and rating platform implementations
+* Working knowledge of AI, Machine Learning, and GenAI / LLM applications in insurance, with the ability to articulate relevant use cases, business value, adoption considerations, responsible AI implications, and regulatory considerations
+* Highly collaborative, with excellent stakeholder management and client-facing communication skills
+
+**Nice to have**
+
+* Hands-on exposure to GenAI tools, AI-assisted platforms, analytics tools, or automation solutions
+* Familiarity with tools such as Confluence, JIRA, Rally, or similar agile / collaboration platforms
+* Exposure to COTS insurance products, rating engines, policy administration platforms, or system integration projects

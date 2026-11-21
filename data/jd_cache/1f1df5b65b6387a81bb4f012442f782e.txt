@@ -1,0 +1,44 @@
+**Role Name: AI Engineer**
+
+  
+
+**Location: Gurgaon/Bangalore**
+
+**Job Summary**
+
+We are seeking an AI Engineer to support a large-scale BI Modernization initiative focused on transforming legacy reporting platforms into a modern cloud-based analytics ecosystem. The ideal candidate will possess strong expertise in Databricks, Python, SQL, and Power BI and have experience implementing AI-enabled analytics capabilities.
+
+The engineer will work closely with business stakeholders, data engineers, analytics teams, and product owners to design scalable data solutions, develop AI-powered insights, and support the migration of reporting assets into a modern enterprise analytics platform.
+
+**Responsibilities**
+
+* Design and develop scalable data pipelines using Python, SQL, and Databricks.
+* Build and optimize data models for analytics and reporting.
+* Develop Power BI semantic models, datasets, dashboards, and executive reporting solutions.
+* Implement AI and machine learning solutions to enhance business insights and decision-making.
+* Work with Azure AI/OpenAI services to build intelligent analytics capabilities.
+* Support migration from legacy BI platforms to Power BI.
+* Collaborate with business teams to define KPIs, metrics, and reporting requirements.
+* Ensure data quality, governance, lineage, and compliance standards are met.
+* Optimize performance of large-scale reporting and analytical workloads.
+* Participate in Agile ceremonies and contribute to solution architecture discussions.
+
+**Required Qualifications**
+
+* 8+years of experience in Data Engineering, Analytics Engineering, or AI Engineering.
+* Strong hands-on experience with Python and SQL.
+* Experience developing solutions in Databricks using PySpark.
+* Strong experience with Power BI, DAX, and semantic modeling.
+* Experience building ETL/ELT pipelines and cloud data platforms.
+* Understanding of Machine Learning and AI concepts.
+* Experience with Azure cloud services.
+* Strong analytical and problem-solving skills.
+* Excellent communication and stakeholder management skills.
+
+**Preferred Qualifications**
+
+* Banking, Cards, Retail Banking, or Financial Services experience.
+* Experience with Azure OpenAI, Microsoft Copilot, or Generative AI solutions.
+* Experience with Tableau-to-Power BI migration initiatives.
+* Familiarity with data governance tools such as Collibra or Microsoft Purview.
+* Experience implementing metric lineage and business KPI frameworks.

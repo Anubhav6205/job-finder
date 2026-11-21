@@ -1,0 +1,26 @@
+We are seeking an experienced **Lead Snowflake Data Engineer** to join our data engineering team. The ideal candidate will be responsible for designing, developing and maintaining scalable data solutions using Snowflake's cloud data platform. This role requires expertise in modern data engineering practices, cloud technologies and AI/ML integration within the Snowflake ecosystem.
+
+  
+
+**Responsibilities**
+
+* Design and implement robust data pipelines using Snowflake's native capabilities
+* Develop and optimize complex queries using Snow SQL and Snow PLSQL
+* Build scalable data applications with the Snowpark framework and Python
+* Deploy and manage Snowflake environments across AWS and Azure cloud platforms
+* Integrate Snowflake with various cloud services, data sources and governance frameworks
+* Optimize cloud resource utilization and cost management
+* Maintain data workflows using Apache Airflow and DBT for transformation pipelines
+* Ensure data quality, reliability and performance across all pipelines
+* Monitor and troubleshoot data pipeline issues
+* Leverage Snowflake Cortex AI for advanced analytics and machine learning use cases
+* Collaborate with data scientists to productionize ML models within Snowflake
+
+**Requirements**
+
+* 8 to 15 years of experience in data engineering with a focus on cloud-based data platforms
+* 4+ years of hands-on expertise in Snowflake including Snow SQL, Snow PLSQL and Snowpark
+* Proficiency in advanced Python programming for data engineering
+* Skills in AWS and/or Azure cloud services
+* Experience with Apache Airflow and DBT for workflow orchestration and data modeling
+* Familiarity with Snowflake Cortex AI's native AI and ML capabilities

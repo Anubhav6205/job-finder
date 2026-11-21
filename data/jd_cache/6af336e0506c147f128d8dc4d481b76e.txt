@@ -1,0 +1,11 @@
+**Role & responsibilities**
+
+  
+
+AI/GenAI, Data
+
+Python
+
+Azure/Azure OpenAI Experience: RAG Architecture Experience:
+
+Key Skills: Azure OpenAI, Python, RAG, LangChain, LangGraph, Agentic AI, FastAPI.

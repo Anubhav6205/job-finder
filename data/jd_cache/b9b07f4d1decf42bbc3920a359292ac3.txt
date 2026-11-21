@@ -1,0 +1,34 @@
+Role Overview: We are looking for a highly skilled DevOps Engineer with expertise in designing, building, and operating large-scale Kubernetes platforms on AWS EKS and/or Google GKE. This role will focus on platform reliability, automation, developer experience, infrastructure scalability, security, and operational excellence. You will be responsible for building cloud-native platform capabilities, implementing Infrastructure as Code (IaC), enhancing CI/CD processes, driving platform observability, and enabling modern developer platforms through tools such as Backstage.  
+This is a Hybrid position located at our Bangalore, India development center. You will be required to be on-site 2 to 3 days per week. When you are not working on-site, you will be working from your home office. We are only considering candidates within a commutable distance to our Bangalore office and are not offering relocation assistance at this time. Position Details:
+
+**About the Role**
+
+* As a Platform Engineer, you will partner closely with the broader DevOps and engineering teams to design, build, and maintain cloud-native platforms and infrastructure solutions.
+* You will develop robust applications, APIs, and automation frameworks using Go and Python to improve operational efficiency and platform reliability.
+* Working within AWS and/or GCP environments, you will leverage Kubernetes and microservices architectures to deliver scalable and secure solutions.
+* You will contribute to infrastructure automation initiatives and support the continuous evolution of engineering best practices.
+* The role encourages the use of AI-assisted development tools to accelerate productivity and innovation.
+* You will have the opportunity to learn new technologies, experiment with emerging tools, and play a key role in delivering high-impact platform capabilities.
+
+**About You**
+
+* You should have 5 to 7 years of programming expertise in Golang and/or Python and a proven track record of delivering production-ready solutions.
+* You have hands-on experience working with cloud environments such as AWS or GCP and are comfortable building and supporting applications running on Kubernetes.
+* You understand APIs, microservices architecture, and automation principles, and you enjoy creating efficient, scalable systems.
+* You are naturally curious, adaptable, and eager to learn new technologies, frameworks, and platforms as business needs evolve.
+* Experience with Terraform, CI/CD pipelines, observability tools, or emerging AI and GenAI technologies is a plus, but not required. Most importantly, you are a collaborative problem solver who embraces innovation, leverages AI-assisted development effectively, and thrives in a fast-paced engineering environment.
+
+#LI-Hybrid
+
+Company Overview: McAfee is a leader in personal security for consumers. Focused on protecting people, not just devices, McAfee consumer solutions adapt to users’ needs in an always online world, empowering them to live securely through integrated, intuitive solutions that protects their families and communities with the right security at the right moment. Company Benefits and Perks: We work hard to embrace diversity and inclusion and encourage everyone at McAfee to bring their authentic selves to work every day. We’re proud to be Great Place to Work® Certified in 10 countries, a reflection of the supportive, empowering environment we’ve built where people feel seen, valued, and energized to reach their full potential and thrive.
+
+We offer a variety of social programs, flexible work hours and family-friendly benefits to all of our employees.
+
+* Bonus Program
+* Pension and Retirement Plans
+* Medical, Dental, and Vision Coverage
+* Paid Time Off
+* Paid Parental Leave
+* Support for Community Involvement
+
+We're serious about our commitment to diversity which is why McAfee prohibits discrimination based on race, color, religion, gender, national origin, age, disability, veteran status, marital status, pregnancy, gender expression or identity, sexual orientation or any other legally protected status. Job Applicant Privacy Notice: Please click here to view and download the Job Applicant Privacy Notice, which applies to all McAfee job applicants who are residents of the state of California.

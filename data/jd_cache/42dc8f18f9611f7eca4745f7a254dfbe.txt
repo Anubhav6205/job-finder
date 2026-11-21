@@ -1,0 +1,34 @@
+**Position:** MLOps   
+ **Experience:** 5-9 Years  
+ **Location:** PAN India  
+ **Employment Type:** Full-Time
+
+Job Summary
+
+We are looking for talented **MLOps**  with 5-9 years of experience to design, automate, deploy, and maintain scalable cloud-native applications and machine learning platforms. The ideal candidate should have expertise in cloud technologies, CI/CD pipelines, infrastructure automation, containerization, monitoring, and operational excellence across multi-cloud environments.
+
+Key Responsibilities
+
+MLOps
+
+* Build and maintain end-to-end ML pipelines for model development, deployment, monitoring, and retraining.
+* Automate machine learning workflows using MLOps best practices.
+* Deploy and manage ML models in production environments.
+* Collaborate with Data Scientists, Data Engineers, and Platform teams.
+* Implement model monitoring, performance tracking, and drift detection mechanisms.
+
+DevOps
+
+* Design, build, and maintain CI/CD pipelines.
+* Automate infrastructure provisioning and configuration management.
+* Manage code repositories, branching strategies, and release processes.
+* Implement DevSecOps practices and security controls.
+* Improve deployment efficiency, reliability, and scalability.
+
+CloudOps
+
+* Manage and optimize cloud infrastructure across AWS, Azure, or GCP.
+* Monitor cloud resources, performance, cost, and availability.
+* Troubleshoot infrastructure and application issues.
+* Ensure high availability, disaster recovery, and business continuity.
+* Implement infrastructure-as-code and cloud governance standards.

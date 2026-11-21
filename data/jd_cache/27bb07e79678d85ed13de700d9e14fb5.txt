@@ -1,0 +1,70 @@
+Hello All,
+
+Greetings from **ZettaMine!!!**
+
+**Job Title:** Senior Generative AI Engineer (Azure OpenAI & RAG)
+
+**Location:** PAN India
+
+**Experience:** 7-10 Years
+
+**Notice Period:** Immediate Joiners
+
+  
+
+Job Description
+
+**Experience:** 710 years overall, with 3+ years of Azure/AI experience and 2+ years of GenAI/RAG/LLMs experience.
+
+**Primary Skills:** Python, GenAI/LLMs, RAG, Azure OpenAI, Azure AI Search, LangChain/LangGraph, Azure Functions, APIM, Cosmos DB, Azure Storage, Prompt Engineering & Model Evaluation.
+
+**Secondary Skills:** React/JavaScript, CI/CD & LLMOps, Structured Output Validation, Fine-tuning.
+
+GenAI Engineer
+
+Role Overview
+
+We are seeking a GenAI Engineer who can design, develop, and deploy enterprise-grade Generative AI solutions, including Retrieval-Augmented Generation (RAG) pipelines and LLM-based applications on Azure.
+
+This role combines hands-on development with best practices for LLMOps to ensure scalability, reliability, and production readiness. The ideal candidate will have strong technical expertise in Python, Azure AI services, and modern GenAI frameworks, along with the ability to collaborate across teams to deliver impactful solutions.
+
+Experience Requirements
+
+* 7+ years of overall experience in core IT and software development.
+* 3+ years of hands-on experience with Azure Cloud and AI technologies.
+* 2+ years of experience in Generative AI, RAG, LLMs, Azure OpenAI, LangChain/LangGraph, and related technologies in building AI Agents.
+
+Key Responsibilities
+
+* Design, develop, and deploy GenAI solutions using Microsoft and Azure technologies.
+* Build RAG pipelines and agentic workflows using LangChain and LangGraph.
+* Develop scalable APIs and services to integrate LLMs into enterprise applications.
+* Implement prompt engineering, model evaluation, and optimization techniques.
+* Collaborate with cross-functional teams to translate business needs into AI solutions.
+* Ensure production reliability through performance tuning and observability.
+* Document technical designs, workflows, and best practices.
+
+Must-Have Skills
+
+* Strong proficiency in Python and GenAI frameworks.
+* Expertise in Azure services, including Azure OpenAI, Azure AI Search, Azure Functions, APIM, Cosmos DB, and Azure Storage.
+* Hands-on experience with RAG pipelines and LLM integration.
+* Knowledge of prompt engineering and model evaluation techniques.
+
+Nice-to-Have Skills
+
+* Working knowledge of React and JavaScript for AI-powered interfaces.
+* Exposure to structured output validation and fine-tuning.
+* Familiarity with CI/CD pipelines and LLMOps practices.
+
+Preferred Certifications
+
+* Microsoft Certified: Azure AI Engineer (AI-102).
+
+  
+
+Interested candidates kindly share your updated CV to **Gangadhar.B@zettamine.com** or WhatsApp to **8977527825.**
+
+**Thanks & Regards,**
+
+**Gangadhar.B**

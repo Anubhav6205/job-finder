@@ -1,0 +1,41 @@
+**DESCRIPTION**
+---------------
+
+Alexa+ is Amazon's next-generation personal assistant powered by generative AI – more conversational, smarter, personalized, and built to get things done on any device.  
+  
+The Alexa 3P Experiences team is on a mission to expand what Alexa+ can do for customers by building consumer-facing experiences with trusted third-party partners like Thumbtack, Yelp, Uber and more. Using frontier AI technologies – including Large Language Models (LLMs), Model Context Protocol (MCP), and Agent-to-Agent (A2A) capabilities – we create agentic experiences that connect customers with an ever-expanding selection of services through natural conversation.  
+  
+As an SDE II on this team, you will design and build category-defining experiences that millions of customers interact with daily. You will work closely with product, design, and partner teams to deliver high-quality, scalable solutions that drive customer discovery, engagement, task completion, and monetization. You will contribute to category scaling frameworks – reusable components that enable partners to build sophisticated experiences with minimal effort.  
+  
+We're a team that moves fast, builds with AI-native technologies, and measures success by customer impact. If you want to work at the intersection of generative AI and consumer experiences, this is the place.  
+  
+Key job responsibilities  
+– Building high-quality, consumer-facing 3P experiences and Agentic Experts that enable customers to complete tasks through trusted partners on Alexa+.  
+– Designing and developing components for category scaling frameworks that enable partners to build sophisticated experiences with minimal effort.  
+– Collaborating closely with product, design, and partner teams to deliver experiences that drive customer discovery, engagement, and task completion.  
+– Understanding the business impact of your systems and showing good judgment when making technical trade-offs between speed of delivery and long-term scalability.  
+– Driving engineering best practices (e.g., Operational Excellence, Security, Quality) within the team.  
+– Contributing to the professional development of colleagues by sharing knowledge, participating in code reviews, and improving engineering practices.  
+  
+A day in the life  
+A typical day will start with a morning huddle to catch up on what you and your team worked on the previous day. This is usually followed by some whiteboard design discussions on the problems the team is working on. The afternoon is mostly spent on project design and implementation work with a heavy dose of code reviews from and for your team along the way. We are a fun, close-knit team where everyone is ready to roll up their sleeves and help each other out, push boundaries, and have fun doing it!  
+  
+About the team  
+Alexa 3P Experiences is a dedicated organization within Alexa Domains, purpose-built to rapidly expand the choices and selection of agentic experiences on Alexa+. Building on early launches with marquee partners, our mission is to offer customers choice and expanded selection in Alexa's agentic capabilities – positioning Alexa to lead in the next generation of ambient AI interactions. We work closely with cross-functional teams across Alexa for core platform capabilities while owning the end-to-end consumer experience and category innovation.
+
+**BASIC QUALIFICATIONS**
+------------------------
+
+* 3+ years of non-internship professional software development experience
+* 2+ years of non-internship design or architecture (design patterns, reliability and scaling) of new and existing systems experience
+* 3+ years of Video Games Industry (supporting title Development, Release, or Live Ops) experience
+* Experience programming with at least one software programming language
+
+**PREFERRED QUALIFICATIONS**
+----------------------------
+
+* 3+ years of full software development life cycle, including coding standards, code reviews, source control management, build processes, testing, and operations experience
+* Bachelor's degree in computer science or equivalent
+
+  
+Our inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how-we-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner.

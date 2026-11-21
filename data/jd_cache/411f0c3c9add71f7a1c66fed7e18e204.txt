@@ -1,0 +1,16 @@
+**Role & responsibilities**
+
+**Roles & Responsibilities:**
+
+* Develop, maintain, and enhance backend applications using Python, Flask, and FastAPI.
+* Design, develop, and integrate RESTful APIs with internal and external systems.
+* Build and maintain scalable microservices-based applications.
+* Implement business logic for network diagnostics, fault identification, and automated ticket processing.
+* Develop asynchronous processing and messaging workflows using RabbitMQ and Python Asyncio.
+* Write, optimize, and maintain SQL queries using MySQL/MariaDB.
+* Perform application debugging, troubleshooting, exception handling, and performance optimization.
+* Develop reusable, scalable, and maintainable code following coding standards.
+* Work on API integrations, JSON data processing, and application authentication.
+* Support application deployment, production troubleshooting, and maintenance.
+* Collaborate with cross-functional teams to understand requirements and deliver technical solutions.
+* Explore and integrate basic Generative AI, LLM, and Agentic AI capabilities into automation workflows.

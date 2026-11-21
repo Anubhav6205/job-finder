@@ -1,0 +1,74 @@
+**About DataZymes**
+
+Founded in 2016, DataZymes is a next-generation analytics and data science company that helps healthcare and pharma organizations get more value from their data and analytics investments. We serve top-10 global pharma and emerging biotech clients, with offshore delivery from Bengaluru and onshore client-facing work.
+
+**Role Overview**
+
+We are hiring an AI Engineer (Claude) to design, build and run Claude-based systems for pharma clients. The first assignment is Claude-based delivery for a pharma client: research synthesis, market briefings, and slide and document generation. The work then extends into multi-step agentic pipelines, Databricks and PySpark work, analytical dataset preparation and analytics engineering. You will move between an agentic build and a data or modelling problem without a handoff.
+
+**What You'll Do**
+
+* Build Claude workflows that turn source material into research syntheses, market briefings, and slide and document outputs a client team can use directly.
+* Design agentic pipelines: tool definitions, orchestration between agents, context and memory handling, and human review points.
+* Prepare analytical datasets and run the Databricks and PySpark pipelines that feed those workflows.
+* Take on modelling or analytics engineering tasks such as forecasting, segmentation or dataset validation.
+* Write the evaluation harness for each system, report results with metrics and test set sizes, and rerun it when a prompt, tool or model changes.
+* Monitor systems in production, track token cost, latency and failures, and fix what breaks.
+* Document designs and decisions so another engineer can pick the work up.
+
+**Claude Platform and Architecture**
+
+* API and model selection: Messages API, system prompts, structured outputs, streaming, batch processing, prompt caching, extended thinking; choosing between Haiku, Sonnet and Opus by task, latency and cost.
+* Tool use and agent loops: tool schema design, parallel tool calls, error handling and retries, loop termination, token and cost ceilings.
+* Multi-agent orchestration: orchestrator and subagent patterns, context isolation, state passing, human-in-the-loop approval points.
+* Context and memory: long-context handling, compaction, context editing, memory stores, retrieval vs loading a full document.
+* Retrieval and grounding: ingestion, chunking, embeddings, hybrid retrieval, reranking, and citations back to source.
+* Document generation: PPTX, DOCX and XLSX outputs against client templates using the code execution tool and Skills.
+* MCP and Skills: building MCP servers that expose client data and tools to Claude, and packaging repeatable procedures as Skills.
+* Deployment: working knowledge of at least two of Anthropic API, Amazon Bedrock, Google Vertex AI, Databricks model serving; Claude Code and the Agent SDK.
+
+**Data and Analytics Engineering**
+
+* Build and run PySpark pipelines and Delta tables on Databricks, with SQL for data access.
+* Prepare analytical datasets from multiple sources with validation checks and documented lineage.
+* Use layered table design (e.g. Medallion) and catalog-level access control (e.g. Unity Catalog).
+* Apply classical modelling (regression, classification, clustering, time-series forecasting) when needed.
+* Write tested, version-controlled Python.
+
+**Evaluation, Governance and Production Ownership**
+
+* Build golden test sets, define metrics (faithfulness, answer relevancy, citation accuracy, pass rates), and calibrate model-based judges against human review.
+* Rerun evaluations on every prompt, tool or model change.
+* Handle PII and confidential client data, enforce role-based access, keep audit trails, defend against prompt injection.
+* Trace requests end to end, track cost and latency, alert on drift and failure, handle rate limits and provider errors.
+
+**Working with Clients**
+
+* Join client working sessions, take requirements from business users and turn them into a buildable, testable scope.
+* Explain what Claude does reliably and where it does not, using evaluation results as evidence.
+* Give regular status updates, raise risks early, and hand over each system with architecture, prompts, tools, evaluation results and a runbook.
+
+**Required Qualifications**
+
+* 2 to 4 years in data science, ML engineering, AI engineering or data engineering.
+* At least one production application built on the Claude API and used by real users, with a clear account of what you personally built.
+* Working tool-use code: you wrote the tool definitions and the loop that runs them.
+* Measured results on an LLM or ML system, stated as metric, value and test set size.
+* Production-standard Python (tests, typing, version control) and SQL.
+* Hands-on PySpark or Databricks work.
+* Written and spoken English suited to client-facing work.
+
+**Preferred Qualifications**
+
+* Evaluation tooling on real work (RAGAS, DeepEval, Promptfoo or Langfuse).
+* Experience in a governed environment: PII handling, role-based access, audit trails, guardrails.
+* An MCP server you built, or Claude Agent SDK use in a delivered system.
+* Daily use of Claude Code; consulting or client-delivery experience.
+* Programmatic generation of PPTX, DOCX or XLSX files.
+* Anthropic CCA-F certification or a Databricks certification.
+
+**Good to Know**
+
+Pharma experience is not required; colleagues supply the domain context. No specific orchestration framework is required (LangChain, LangGraph, CrewAI or none). This role is not a fit for BI/reporting-only profiles, tutorial-tier LLM projects without evaluation, low-code tools (n8n, LangFlow) presented as engineering, or purely operational/support roles.
+
+**Location:** Bengaluru (Hybrid) | **Experience:** 2 to 4 years | **Industry:** Pharmaceutical / Life Sciences

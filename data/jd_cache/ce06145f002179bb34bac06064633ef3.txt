@@ -1,0 +1,92 @@
+**JOB DESCRIPTION**
+
+**Position Purpose/Objective**
+
+The IT Technical Analyst SAP BTP CPI is responsible for designing, developing, implementing, and supporting enterprise integrations across SAP and non-SAP application landscapes using SAP Business Technology Platform (BTP) Integration Suite / Cloud Platform Integration (CPI).
+
+The role works closely with Solution Owners, Functional Analysts, Enterprise Architects, and external implementation partners to deliver secure, scalable, and resilient integrations supporting global SAP S/4HANA transformation and digitalization initiatives.
+
+This role provides hands-on delivery and ongoing support for integrations across procurement, finance, logistics, compliance and analytical systems.
+
+**MAJOR ACCOUNTABILITIES**
+
+**Integration Solution Design and development**
+
+* Develop integration flows (iFlows) using SAP CPI for both synchronous and asynchronous scenarios.
+* Implement APIs, mappings, transformations and routing logic using standard SAP CPI tools.
+* Analyze business and technical requirements and translate them into integration architectures.
+* Define integration patterns, error handling frameworks, and monitoring standards.
+* Ensure solutions align with allnex’ integration architecture, clean-core principles and SAP best practices.
+* Build and test OData, SOAP, REST and IDoc interfaces where applicable
+* Develop mappings, transformations, and routing logic. Integration Governance & Collaboration
+* Coordinate with SAP and SI integration architects to validate interface designs.
+* Ensure integrations are registered and governed via the Clean Core Forum and Solution Standardisation Board (SSB).
+* Document technical details for each integration, including endpoint configuration, payloads, REVISED JOB NEW JOB authentication, and dependencies.
+* Work with Basis and Network teams to set up secure connectivity, certificates, and VPN routing.
+* Support compliance reviews for integration security and data privacy. Testing & Quality Assurance
+* Support the SI Test Manager and Technical Delivery Partner during System Integration Testing (SIT) and User Acceptance Testing (UAT).
+* Prepare and execute unit test scripts for each integration.
+* Validate message payloads and data consistency across systems.
+* Resolve defects and retest fixes in coordination with functional and technical teams. Cutover & Post-Go-Live Support
+* Ensure all integration endpoints are tested, activated, and validated prior to cutover.
+* Support mock and final cutover rehearsals to confirm end-to-end data flows.
+* Monitor CPI message queues and logs during go-live and hypercare.
+* Collaborate with SAP and SI support teams to resolve incidents promptly. Application Support & Operations
+* Implement monitoring and alerting through CPI Monitor and SAP Cloud ALM.
+* Analyse error trends and propose enhancements to improve reliability or performance.
+* Support incident, problem, and change management processes.
+* Ensure high service availability and operational stability.
+* Maintain version control and transport management through Git or CPI Transport Management Service. Project Delivery
+* Participate in SAP S/4HANA implementation and rollout projects.
+* Support testing activities including SIT, UAT, regression testing, and cutover execution.
+* Coordinate with system integrators and offshore development teams.
+* Ensure integrations are delivered on time and according to quality standards. Governance & Security
+* Ensure compliance with cybersecurity, data privacy, and audit requirements.
+* Maintain technical documentation and knowledge repositories.
+* Promote standards, reusability, and integration best practices.
+* Support continuous improvement and automation initiatives.
+
+**JOB PROFILE**
+
+**Education** : (describe level of education for this position indicating if Required or Preferred (e.g. Bachelor’s, Master’s Degree, Ph.D.)
+
+Bachelor’s degree in information technology, Computer Science, Software Engineering, or related discipline.
+
+**Certification**
+
+* Experience (type and length of experience)
+* Minimum 3 years of SAP integration development experience with at least 2 years on SAP CPI/Cloud integration Suite.
+* Proven hands-on experience designing iFlows and managing end-to-end integrations.
+* Strong understanding of integration patterns (API-based, IDoc, SOAP, REST, OData, file-based).
+* Experience working with SAP BTP, API Management, and Event Mesh.
+* Knowledge of S/4HANA data models and key business process interfaces (finance, logistics, procurement).
+* Understanding of security (OAuth, SAML, SSL, certificates) and network connectivity in RISE environments.
+* Familiarity with monitoring tools (CPI Monitor, Cloud ALM, SAP Solution Manager).
+* Experience collaborating with System Integrators and SAP technical teams.
+* Experience working in global multi-country organizations.
+
+**Specific skills** (skills and knowledge necessary to meet the objectives of the position)
+
+* Strong analytical and troubleshooting skills
+* Integration architecture mindset
+* Customer-focused approach
+* Excellent english communication skills
+* Ability to simplify complex technical challenges
+* Continuous learning and innovation mindset
+* Effective stakeholder management in a global organization
+
+**MAJOR CONTACTS / CUSTOMERS / VENDORS**
+
+Internal – S4Hana Progam Manager, Solution owners, Functional analysts, infrastructure and security teams
+
+External – external implementation partners
+
+**KEY PERFORMANCE INDICATORS** (measurements of successful performance)
+
+* Stable and secure integrations
+* High interface availability
+* Reduction of integration incidents
+* Successful project delivery
+* Increased automation and reusability
+* Compliance with architecture and security standards
+* Business stakeholder satisfaction

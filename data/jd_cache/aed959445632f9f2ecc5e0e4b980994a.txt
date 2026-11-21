@@ -1,0 +1,31 @@
+**Role & responsibilities**
+
+  
+
+**Sr Gen-AI Engg (Data Scientist):** Hands on MLE + GenAI + Data Science
+
+**Overall IT Exp:** 5-6.5 Yrs
+
+**MLE, GenAI, Data Science Exp:** 2+ Yrs
+
+**Primary Skills : Must Have**
+
+1. **Python Programming:** Advanced proficiency in Python, including asynchronous programming, data structures, and object-oriented design.
+2. **Large Language Models (LLMs):** In-depth understanding and practical experience with LLMs such as OpenAI GPT-3/4, Anthropic Claude, Meta Llama, or similar. Familiarity with Small Language Models (SLMs).
+3. **RAG :** Architectures, including Knowledge RAG, Graph RAG, Hybrid retrieval systems, Context-aware retrieval pipelines
+4. **LangChain & LangGraph:** Hands-on experience building, deploying, and maintaining applications using the LangChain and LangGraph frameworks.
+5. **Graph-Based Workflow Design:** Demonstrated ability to architect, implement, and debug complex, stateful, branching conversational flows using LangGraph.
+6. **Agentic Frameworks & Evaluation:** Ability to develop workflow automation using an agentic framework, along with familiarity with evaluation techniques and tools for agentic applications.
+7. **Prompt Engineering:** Expertise in designing, testing, and optimizing prompts for generative models to achieve desired outputs.
+8. **API Development & Integration:** Experience integrating external APIs, tools, microservices based architectures, and data sources into AI-driven workflows. (Fast API)
+9. **Machine Learning Libraries:** Familiarity with ML/AI libraries such as PyTorch, TensorFlow, Hugging Face Transformers, or similar.
+
+  
+  
+
+**Preferred candidate profile**
+
+  
+  
+
+**Perks and benefits**

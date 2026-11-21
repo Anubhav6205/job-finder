@@ -1,0 +1,26 @@
+* Job ID: 11351BR
+* Location: India (Remote)
+* Work Setup: Remote
+* Job Category: Engineering
+* Posting Date: November 20, 2026
+
+  
+
+* Contribute to the development and evolution of enterprise software solutions.
+* Build and enhance APIs, user experiences, backend services, databases, automation, and business workflows.
+* Work with a variety of technologies, architectures, and deployment models supporting enterprise software solutions, including desktop, client/server, n-tier, on-premises, SaaS, and cloud-based environments.
+* Contribute across multiple areas of the software development lifecycle, leveraging AI-assisted development workflows and modern engineering practices.
+* Use AI-assisted engineering tools to plan, implement, test, review, and improve software.
+* Participate in code reviews, automated testing, CI/CD pipelines, and quality-focused engineering practices.
+* Collaborate with product, UX, QA, and engineering teams to understand customer problems and deliver practical outcomes.
+* Explore AI-driven capabilities such as automation, intelligent insights, copilots, agentic workflows, natural language interfaces, and related emerging technologies.
+* Continuously learn and apply new technologies, frameworks, tools, and engineering practices to support evolving business needs.
+
+* Has experience with one or more object-oriented programming languages such as .NET, Java, JavaScript, or similar technologies, gained through academic projects, internships, personal projects, or other practical experience.
+* Understanding of core software engineering concepts including application architecture, APIs, databases, software design principles, and enterprise application development.
+* Strong analytical and problem-solving skills, combined with curiosity, initiative, and a willingness to learn through hands-on delivery.
+* Interest in enterprise software platforms, modern application architectures, and emerging technologies.
+* Experience using GenAI or AI-assisted development tools to support coding, testing, debugging, documentation, design, or learning activities.
+* Interest in applying AI-assisted development practices to transform customer needs into practical software solutions.
+* Growth mindset with the ability to quickly learn new technologies, frameworks, architectures, and evolving engineering practices.
+* Strong communication and collaboration skills, with the ability to work effectively in a team environment.

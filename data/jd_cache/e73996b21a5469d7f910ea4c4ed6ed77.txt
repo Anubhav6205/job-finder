@@ -1,0 +1,116 @@
+**Company Description**
+
+Assent empowers manufacturers and distributors with the intelligence to build sustainable products, meet global compliance requirements and drive better business outcomes.
+
+At the center of our offering is the Assent Network, the industry’s most complete Product Intelligence Network, bringing together trusted parts and supplier intelligence, advanced AI and deep regulatory expertise to help organizations identify risk, make informed decisions and stay ahead of evolving requirements.
+
+Trusted by more than 1,000 customers worldwide, Assent helps organizations stay ahead of evolving regulations across areas including responsible sourcing, human rights due diligence, PFAS reporting, Digital Product Passports, and other emerging requirements. Our platform empowers manufacturers to navigate change with confidence while building stronger supplier relationships and driving measurable business value.
+
+With more than 1000 team members across India, North America, Malaysia, the European Union, and Kenya, Assent brings together global expertise, diverse perspectives, and a shared commitment to innovation. Our hybrid work model enables teams to collaborate across regions while staying connected to the communities where they live and work. As a certified B Corporation, we meet rigorous standards of social and environmental performance, transparency, and accountability, reflecting our commitment to creating lasting value for our customers, our people, and the planet.
+
+**People First. Technology Forward.**
+
+Our commitment to People, Culture & Community (PCC) is rooted in building a diverse, inclusive, and high-performing team. We recruit and retain team members with a range of backgrounds, experiences, and perspectives, while fostering a culture of belonging where all Assentees are respected, supported, and empowered to contribute.
+
+As we continue to embed AI into how we work, we do so thoughtfully, enhancing human potential, supporting better decision-making, and prioritizing appropriate oversight, privacy, and fairness.
+
+At Assent, we value your privacy and are committed to maintaining transparency in how we handle your personal information. As part of our talent acquisition and management processes, we may use AI technologies to support activities such as resume screening, candidate communication, and talent analytics.
+
+ **Job Description**
+
+**Position Summary**
+
+As an Intermediate Data Engineer on Assent's Enterprise Data, Business Integration and Automation (EDBIA) team, you will build the data products the business runs on, from raw ingestion all the way to the dashboards leaders use every day. You will work AI-first: using tools like Claude, Copilot, and MCP-connected agents to design, write, test, and document faster than a traditional data engineer can.
+
+This is a full-stack data role. In a typical month you might land a new source in Snowflake, model it through bronze, silver, gold, and semantic layers, and ship a Command Center dashboard that a Services or Customer Success leader uses to run their team.
+
+We move fast. You will own moderate complexity work end to end, keep delivery velocity high, and turn ambiguous business questions into shipped solutions in days or weeks, not quarters.
+
+**Key Requirements & Responsibilities**
+
+**Build data products end to end**
+
+* Ingest data from enterprise systems (Salesforce, Workato, Pendo, HR and finance platforms) into Snowflake using Fivetran, AWS Glue, Airflow, and custom pipelines
+* Model data through bronze, silver, gold, and semantic layers in dbt so metrics are defined once and reused everywhere
+* Build and ship Command Center dashboards that give business leaders a clear, trusted view of their metrics
+* Push metrics back into operational systems with reverse ETL (Hightouch) so people see the data where they work
+
+**Engineer with AI as your default**
+
+* Use AI coding assistants (Claude Code or similar) to write, refactor, test, and document SQL, Python, and dashboard code
+* Build and use MCP connections and AI skills that automate repeatable work, such as Jira work item creation, data quality checks, and documentation
+* Prototype quickly with AI, then harden what works into production-grade, reviewed code
+* Help the team find new places where AI can remove manual effort or speed up delivery
+
+**Own quality and trust**
+
+* Validate data sets for accuracy and completeness before they reach a dashboard
+* Review AI-generated code and output critically; you are accountable for what ships, not the tool
+* Contribute to data stewardship, metric definitions, and the enterprise metrics catalog
+* Follow Assent's security policies, including access control for sensitive data and safe use of AI tools
+
+**Partner with the business**
+
+* Work directly with stakeholders in GTM, Services, Customer Success, Finance, and Employee Experience to turn business questions into requirements
+* Wear an analyst hat when needed: explore data, find the story, and recommend action
+* Write clear functional and technical documentation, including solution design briefs and Confluence pages
+* Keep Jira work items current so progress is visible to the team and stakeholders
+
+This is not an exhaustive list of duties. Responsibilities may be altered and/or added from time to time to meet business needs.
+
+How We Work
+
+* Speed matters. We ship small, useful versions early and improve them. A v1 dashboard in front of a stakeholder beats a perfect design doc.
+* You own it. You take work from intake to delivery, raise blockers early, and don't wait to be told the next step.
+* AI is part of the job, not a side project. We expect you to use AI daily and to share what you learn with the team.
+* Standards still apply. Fast does not mean sloppy. You follow the team's coding standards, peer review, and Jira practices.
+* Agile, lightly. We run short planning cycles and keep ceremonies lean so the time goes into building.
+
+ **Qualifications**
+
+**Your Knowledge, Skills and Abilities**
+
+We strongly value your talent, energy and passion. It will also be valuable to Assent if you have the following qualifications
+
+* 3 to 5 years of data engineering experience, or equivalent hands-on experience; a degree in a related field is an asset, not a requirement
+* Strong SQL and working Python
+* Hands-on experience with a modern data stack: Snowflake, dbt, Fivetran, and Git
+* Experience building dashboards or data apps that business users rely on
+* Demonstrated, everyday use of AI tools in your engineering work, with examples you can show us
+* The judgment to know when AI output is wrong, and the discipline to test and validate before shipping
+* A track record of delivering quickly in a fast-paced environment while juggling several priorities
+* Comfort working with ambiguity: you ask good questions, make reasonable assumptions, and keep moving
+* Clear written and verbal communication with both technical and non-technical people
+* Attention to detail and comfort making sense of large data sets
+* Open to feedback, coachable, and always learning
+
+**Additional assets:**
+
+* Experience building MCP servers, AI agents, or reusable prompts and skills for a team
+* Experience with iPaaS tools, especially Workato
+* Experience with reverse ETL tools such as Hightouch
+* Exposure to AWS for deploying data apps or pipelines
+* Experience with semantic layers and metric definition frameworks
+* Experience with row-level security or identity-based access control in data products
+* Familiarity with Salesforce data models
+* Business acumen and experience tying data work to business outcomes
+
+ **Additional Information**
+
+**Life at Assent**
+
+**Wellness:** We believe that you and your family’s well being is important. As a result, we offer vacation time that increases with tenure, comprehensive benefits packages (details vary by country), life leave days and more.
+
+**Financial Benefits:** It’s not all about the money – well, it’s a little about the money. We understand that financial health is important and we offer a competitive base salary, a corporate bonus program, retirement savings options and more.
+
+**Life at Assent:** There is purpose beyond your work. We provide our team members with flexible work options, volunteer days and opportunities to get involved in corporate giving initiatives.
+
+**Lifelong Learning:** At Assent, curiosity is not only valued but encouraged. You will receive professional development days that are available to you the day you start.
+
+At Assent, we are committed to growing and sustaining an environment where our team members feel included, valued, and heard. Our diversity and equal opportunity practices are guided and championed by our Diversity and Inclusion Working Group and our Employee Resource Groups (ERGs).
+
+Our commitment to diversity, equity and inclusion includes recruiting and retaining team members from diverse backgrounds and experiences, and fostering a culture of belonging where all team members are included, treated with dignity and respect, promoted on their merits, and placed in positions to contribute to business success.
+
+If you require assistance or accommodation throughout any part of the interview and selection process, please contact talent@assent.com and we will be happy to help.
+
+We use AI to support parts of our recruitment process, such as note-taking and initial shortlisting based on job-related qualifications. AI does not make hiring decisions. All candidates will speak with a real person, and final decisions are always made by our recruitment team.

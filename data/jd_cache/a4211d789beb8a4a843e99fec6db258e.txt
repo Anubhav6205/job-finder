@@ -1,0 +1,49 @@
+Job Summary
+
+We are looking for an experienced AI/ML Engineer with 5 to 8 years of industry experience in developing, deploying, and optimizing Machine Learning and Generative AI solutions. The ideal candidate should possess strong expertise in machine learning algorithms, deep learning, NLP, LLMs, model deployment, and MLOps practices.
+
+Key Responsibilities
+
+* Design, develop, and deploy Machine Learning and Deep Learning models for business use cases.
+* Build and optimize AI/ML pipelines for data processing, training, evaluation, and deployment.
+* Develop Generative AI applications using Large Language Models (LLMs).
+* Fine-tune foundation models using frameworks such as Hugging Face and Lang Chain.
+* Implement NLP solutions including text classification, sentiment analysis, summarization, and conversational AI.
+* Collaborate with data engineers, product managers, and business stakeholders to translate requirements into AI solutions.
+* Monitor model performance, accuracy, and drift in production environments.
+* Create scalable AI solutions on cloud platforms such as Azure, AWS, or GCP.
+* Implement MLOps best practices for model lifecycle management.
+* Stay current with advancements in AI, Generative AI, and Machine Learning technologies.
+
+Required Skills
+
+* Strong experience in **Python** and AI/ML libraries such as NumPy, Pandas, Scikit-learn.
+* Hands-on experience with **TensorFlow, PyTorch, Keras**, or similar frameworks.
+* Experience in **Machine Learning, Deep Learning, NLP, and Generative AI**.
+* Strong understanding of **LLMs, Prompt Engineering, RAG, Vector Databases**, and AI Agents.
+* Experience with **LangChain, LlamaIndex, Hugging Face**, or similar frameworks.
+* Knowledge of MLOps tools such as MLflow, Kubeflow, SageMaker, or Azure ML.
+* Experience working with SQL and NoSQL databases.
+* Understanding of data structures, algorithms, and software engineering best practices.
+* Strong analytical and problem-solving skills.
+
+Preferred Skills
+
+* Experience with Azure OpenAI, OpenAI APIs, Gemini, Claude, or similar AI platforms.
+* Hands-on experience in AI Agent development and orchestration frameworks.
+* Knowledge of Docker, Kubernetes, and CI/CD pipelines.
+* Experience with Vector Databases such as Pinecone, Weaviate, ChromaDB, or FAISS.
+* Exposure to Computer Vision and multimodal AI solutions.
+
+Educational Qualification
+
+* Bachelor's or master's degree in computer science, Artificial Intelligence, Data Science, Information Technology, or related fields.
+
+Nice to Have
+
+* Microsoft Azure AI Engineer Associate (AI-102)
+* AWS Machine Learning Specialty
+* Google Professional Machine Learning Engineer
+* Experience working in enterprise-scale AI transformation programs.
+
+Keywords

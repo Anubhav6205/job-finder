@@ -1,0 +1,182 @@
+**About the Role:**
+
+  
+
+We are looking for an experienced, technically strong and innovative **Senior Automation Engineer** to join our SAP Infrastructure Engineering team. The successful candidate will play a key role in transforming infrastructure operations through intelligent automation, Infrastructure as Code (IaC), DevOps practices and cloud-native technologies.
+
+This role requires a hands-on engineer who can identify automation opportunities, design scalable solutions and drive end-to-end implementation to improve operational efficiency, infrastructure reliability, security and service delivery.
+
+We are particularly interested in candidates who have experience integrating **Artificial Intelligence (AI), Generative AI or intelligent automation capabilities** into infrastructure operations.
+
+  
+
+**Key Responsibilities:**
+
+  
+
+**1. Infrastructure Automation & Engineering**
+
+  
+
+* Design, develop and maintain automation solutions for SAP infrastructure hosted on Microsoft Azure.
+* Automate infrastructure provisioning, configuration, patching, maintenance, monitoring and lifecycle management.
+* Develop reusable automation frameworks using **Ansible, Python, PowerShell and Terraform/Bicep** .
+* Identify manual and repetitive operational activities and replace them with reliable, scalable automation.
+* Build self-service automation capabilities for infrastructure operations.
+* Develop robust error handling, logging, auditing and automated recovery mechanisms.
+Integrate automation with existing enterprise infrastructure platforms and operational processes.  
+
+  
+
+**2. DevOps & Infrastructure as Code**
+
+  
+
+* Design and maintain CI/CD pipelines using Azure DevOps or GitHub Actions.
+* Develop and manage Infrastructure as Code frameworks using Terraform, Bicep or ARM templates.
+* Implement Git-based version control, peer reviews, automated testing and deployment standards.
+* Build reusable pipeline templates and modular infrastructure automation components.
+Ensure automation follows enterprise security, compliance and governance requirements.  
+
+  
+
+**3. Azure Cloud & SAP Infrastructure**
+
+  
+
+* Work closely with SAP Basis, Cloud Infrastructure, Security and Platform Engineering teams.
+* Develop automation for Azure virtual machines, storage, networking, backup and disaster recovery operations.
+* Support automated deployment, configuration and maintenance of SAP infrastructure environments.
+* Automate activities such as VM start/stop, OS patching, disk management, backup validation and infrastructure health checks.
+* Improve consistency, resilience and operational efficiency across production and non-production environments.
+Contribute to standardisation of cloud infrastructure engineering practices.  
+
+  
+
+**4. AI Integration & Intelligent Operations — Added Advantage**
+
+  
+
+* Explore opportunities to introduce **AI-powered automation and AIOps** into infrastructure engineering and operations.
+* Integrate Generative AI capabilities using Azure OpenAI, Azure AI Foundry or equivalent enterprise AI platforms.
+* Develop AI-assisted operational workflows, intelligent troubleshooting solutions and automated incident analysis.
+* Explore integration of LLMs with enterprise tools, APIs, monitoring platforms and automation frameworks.
+* Build AI-powered assistants or agents to support infrastructure teams with operational tasks, knowledge retrieval and diagnostics.
+* Apply AI to log analysis, anomaly detection, incident correlation, root cause investigation and operational recommendations.
+Ensure AI-based solutions comply with enterprise security, access controls and responsible AI principles.  
+
+  
+
+**5. Operational Excellence & Continuous Improvement**
+
+  
+
+* Drive improvements in infrastructure reliability, operational efficiency and engineering productivity.
+* Identify opportunities to reduce manual effort, eliminate recurring incidents and improve service quality.
+* Build monitoring, alerting and automated remediation capabilities.
+* Create and maintain technical documentation, operational runbooks and automation standards.
+* Collaborate with engineering teams to identify and prioritise high-value automation use cases.
+Track and demonstrate automation outcomes through measurable improvements in efficiency, reliability and cost.  
+
+  
+
+**Required Technical Skills**
+
+**Core Requirements**
+
+  
+
+* Strong hands-on experience in **Python and PowerShell scripting** .
+* Proven experience implementing infrastructure automation using **Ansible** .
+* Strong knowledge of **Microsoft Azure infrastructure services** , including compute, storage, networking and identity.
+* Practical experience with **Terraform, Bicep or ARM templates** .
+* Experience designing and implementing **CI/CD pipelines** using Azure DevOps or GitHub Actions.
+* Strong understanding of REST APIs, JSON, YAML and system integrations.
+* Experience with Git, software development best practices, debugging and automated testing.
+* Working knowledge of Windows and Linux operating systems.
+* Understanding of identity, access management, secrets management and security controls.
+Strong troubleshooting and problem-solving capabilities.  
+
+  
+
+**Desirable Skills**
+
+  
+
+* Experience working with SAP infrastructure or other enterprise mission-critical platforms.
+* Knowledge of SAP HANA infrastructure, high availability and disaster recovery.
+* Experience with Azure Monitor, Log Analytics and KQL.
+* Experience with ITSM integrations such as ServiceNow or Jira.
+* Familiarity with containers, Docker and Kubernetes.
+Knowledge of infrastructure observability, event-driven automation and auto-remediation.  
+
+  
+
+**AI & Emerging Technology Skills – Highly Desirable**
+
+  
+
+We would particularly welcome candidates with practical exposure to:
+
+* Azure OpenAI Service and Azure AI Foundry.
+* LLM integrations using Python, REST APIs or SDKs.
+* AI agents, tool calling and workflow orchestration.
+* Retrieval-Augmented Generation (RAG) and enterprise knowledge assistants.
+* Model Context Protocol (MCP) or equivalent tool-integration frameworks.
+* AIOps and intelligent event correlation.
+* AI-assisted incident management and root cause analysis.
+Integration of AI capabilities with Ansible, Azure DevOps or infrastructure management systems.  
+
+  
+
+**Experience & Qualifications**
+
+  
+
+* Relevant experience in cloud infrastructure engineering, platform engineering, DevOps or infrastructure automation.
+* Proven track record of independently designing and delivering production-grade automation solutions.
+* Strong understanding of enterprise infrastructure operations and engineering practices.
+* Experience collaborating with cross-functional engineering and operations teams.
+* Degree in Computer Science, Information Technology, Engineering or equivalent practical experience.
+Relevant Microsoft Azure, DevOps or automation certifications are advantageous.  
+
+  
+
+**What Success Looks Like:**
+
+  
+
+Within the first 6–12 months, the successful candidate will be expected to:
+
+* Identify and deliver high-value automation use cases across SAP infrastructure operations.
+* Reduce repetitive manual activities and improve infrastructure service delivery.
+* Develop reusable, secure and maintainable automation frameworks.
+* Improve integration between Azure infrastructure, operational processes and CI/CD pipelines.
+* Demonstrate measurable improvements in operational efficiency, reliability and engineering productivity.
+Identify and, where feasible, deliver AI-enabled operational automation use cases.  
+
+  
+
+**Ideal Candidate Profile:**
+
+  
+
+We are looking for an engineer who is:
+
+  
+
+* **Hands-on:** Comfortable writing, debugging and maintaining production-grade automation code.
+* **Automation-first:** Consistently challenges manual processes and seeks scalable solutions.
+* **Solution-oriented:** Capable of translating operational challenges into practical engineering solutions.
+* **Independent:** Able to own technical deliverables from design through implementation.
+* **Innovative:** Interested in applying AI and emerging technologies to real infrastructure challenges.
+* **Collaborative:** Works effectively across infrastructure, SAP Basis, security and cloud engineering teams.
+* **Outcome-driven:** Focuses on measurable improvements rather than automation for its own sake.
+
+  
+
+**Our goal is to move from traditional infrastructure operations towards a highly automated, intelligent and self-service engineering model.**
+
+Maersk is committed to a diverse and inclusive workplace, and we embrace different styles of thinking. Maersk is an equal opportunities employer and welcomes applicants without regard to race, colour, gender, sex, age, religion, creed, national origin, ancestry, citizenship, marital status, sexual orientation, physical or mental disability, medical condition, pregnancy or parental leave, veteran status, gender identity, genetic information, or any other characteristic protected by applicable law. We will consider qualified applicants with criminal histories in a manner consistent with all legal requirements.
+
+We are happy to support your need for any adjustments during the application and hiring process. If you need special assistance or an accommodation to use our website, apply for a position, or to perform a job, please contact us by emailing accommodationrequests@maersk.com .

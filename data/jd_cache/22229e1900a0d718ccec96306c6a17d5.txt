@@ -1,0 +1,109 @@
+**Work instructions, procedures and information**
+
+**Organizational interfaces**
+
+  
+
+* Direct Manager
+  
+
+* Functional Manager
+* Direct Reports
+* Organizational interfaces
+
+* Design Tools and Standardization Manager
+  
+
+* R&D Performance Manager -AI
+* Artificial Intelligence Department, IT Manager/team, CAE Metier, DL Metier
+
+  
+
+**Competences requirements**
+
+  
+
+* Knowledge / Qualifications
+
+* Master’s degree or engineering degree in Mechanics, Physics and/or applied mathematics
+* PhD thesis with application of AI methods would be a plus
+
+  
+
+* Previous Experience (If relevant)
+
+* 3 to 5 years of experience in (automotive) industry
+
+  
+
+* Key technical competencies
+
+* Proven experience in CAE/simulation and optimization tools.
+* Strong experience with Python programming or equivalent language
+* Have the mathematical knowledge on artificial intelligence / deep learning techniques
+* Proven experience with explicit code for crash analysis or rheology simulation would be a plus
+
+  
+
+* Key behavioral competencies (be customer–centric, cultivate innovation, act with audacity, drive results, collaborate, drive engagement, value differences, be resilient, develop yourself)
+
+* Good command in English
+* Excellent cross-cultural adaptability
+* Self-Task management & reporting
+* Presentation Skills
+* Ability to synthesize and formalize
+
+**Missions**
+
+  
+
+* Main Missions
+
+* Leading and supporting AI projects within the company to enhance the simulation process.
+* Implementation of deep learning methods applied to Computer Aided Engineering (CAE).
+* Be in close contact with the business end-users of deep learning methods, to support, identify and update their needs.
+* Contribute to the creation of best practices and methodologies.
+* Active monitoring of the scientific state of the art and its implementation in industry.
+
+  
+
+* KPI and/or main deliverables
+
+* CAE Deep Learning Models
+* Contribution to simulation Process Improvement Indicators
+* Implementation of state-of-the-art industrial AI best practices
+
+  
+
+**Activities**
+
+  
+
+* **1. Data & Simulation Preparation**
+  + Collect, clean, and prepare CAE datasets (crash, NVH, rheology, CFD…).
+  + Work with CAE teams to understand simulation output structures.
+  + Ensure data quality, traceability, and compliance with internal standards.
+* **2. Model Development**
+  + Develop deep learning models for surrogate modelling, prediction, and optimization.
+  + Implement model architectures adapted to CAE constraints
+  + Train and validate models on internal CAE datasets.
+  + Benchmark model performance vs. current CAE processes.
+  + Ensure robustness, explainability, and reproducibility.
+* **3. Integration into Engineering Processes**
+  + Deploy AI models into engineering workflows (tools, scripts, APIs, dashboards).
+  + Collaborate with CAE experts to define acceptance criteria.
+  + Automate repetitive simulation tasks using AI and Python tooling.
+* **4. Industrialization & Documentation**
+  + Package models for production (versioning, testing, monitoring).
+  + Write technical documentation, guidelines, and best practices.
+  + Contribute to internal AI standards and libraries.
+* **5. Collaboration & Support**
+  + Work closely with CAE, IT, and the central AI/Data Office.
+  + Support engineers in using AI models and tools.
+
+Date: Nov 21, 2026
+
+Location:
+Pune, IN, 410501
+
+Job Requisition ID: 390618

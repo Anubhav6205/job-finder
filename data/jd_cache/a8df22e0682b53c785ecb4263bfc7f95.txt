@@ -1,0 +1,27 @@
+* Strong hands-on proficiency in **Python**, including data processing and ML development.
+* Good understanding of **Machine Learning**, including optimization, forecasting, ensemble methods; exposure to **Deep Learning** is preferred.
+* Exposure to **Generative AI**, including LLMs, agent development, RAG, and model/application deployment.
+* Familiarity with cloud platforms such as **AWS, Azure, GCP, or Oracle Cloud**.
+* Exposure to ML platforms such as **SageMaker, Vertex AI, Azure ML, or Databricks Mosaic AI**.
+* Understanding of **CI/CD** using GitLab, GitHub, Jenkins, plus REST API development with Flask, FastAPI, or Django.
+* **Startup mindset:** strong problem-solving and critical-thinking skills, willingness to learn quickly, take ownership, and work effectively in a fast-paced, high-responsibility environment.
+
+Job Type: Full-time
+
+Pay: Up to ₹240,000.00 per year
+
+Benefits:
+
+* Health insurance
+* Provident Fund
+
+Ability to commute/relocate:
+
+* Hyderabad, Telangana 500081: Reliably commute or planning to relocate before starting work (Required)
+
+Application Question(s):
+
+* Do you have any internship experience in ML space?
+* Explain your recent project work(Either in internship/your self exploration)
+
+Work Location: In person

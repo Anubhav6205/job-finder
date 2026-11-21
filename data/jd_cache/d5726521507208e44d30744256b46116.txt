@@ -1,0 +1,87 @@
+### **Who we are**
+
+Techdome is a product engineering company that helps enterprises move from “we should use AI” to AI running reliably in production. Our cross-functional teams of engineers, designers and AI specialists build LLM applications, RAG systems, conversational assistants, autonomous agents and workflow automation for clients in FinTech, Healthcare, E-commerce, EdTech, Logistics and SaaS. Everything we ship comes with the security, integrations and compliance that enterprise buyers require.
+
+### **About the role**
+
+We’re building a modern, GHL-powered marketing engine for an e-commerce and retail engagement, and we need a hands-on maker to run it. You’ll own the weekly creative and digital output across social, email, e-commerce listings and our digital brochure, from idea to delivery.
+
+Your first priority is keeping the digital brochure accurate and current. You’ll use AI tools daily and help shape new workflows rather than just follow them. Your work frees the marketing lead to focus on strategy, partnerships and growth.
+
+### **Your priority: the digital brochure (iPaper)**
+
+* Keep the brochure current with new launches, promotions and discontinued lines
+* Coordinate updates with colleagues and promote them through B2B trade mailers
+* Report on brochure engagement monthly
+
+### **Core responsibilities**
+
+**1. Social and short-form video**
+
+* Create graphics, Reels and TikTok videos from concept to export (Canva, CapCut, Adobe where needed), following brand guidelines
+* Plan, draft and schedule posts on Instagram, TikTok, Facebook and LinkedIn via Social Pilot
+* Build the monthly B2B social and digital calendar and support the staff-led LinkedIn presence
+* Coordinate creator and affiliate samples and track the content they publish
+
+**2. Shopify and TikTok Shop listings**
+
+* Manage B2C listings: copy, images, pricing, stock, bundles and collections
+* Fix duplicates and listing errors, and list monthly clearance stock
+* Flag out-of-stock or underperforming listings weekly
+
+**3. Email, SMS and WhatsApp**
+
+* Build B2C flows and campaigns in Klaviyo, and B2B trade mailers in Mailchimp
+* Run SMS and WhatsApp campaigns in GHL, **ensuring consent and opt-out compliance (UK PECR and UK GDPR)**
+* Maintain lists and segments, and log campaigns and results in GHL
+* Build reusable templates and forms (trade sign-ups, enquiries, samples, events)
+
+**4. AI-powered workflows**
+
+* Use ChatGPT, Claude and similar tools for copy, research and process documentation, always fact-checking and keeping brand tone
+* Monitor the AI agents that handle customer messages, reviews and cancellations
+* Suggest new ways to apply AI across the team
+
+**5. Brand assets and reporting**
+
+* Keep an organised asset library per brand (logos, packshots, video, guidelines) and track usage rights and versions
+* Compile the monthly digital report (GA4, iPaper, Mailchimp, Klaviyo, TikTok Shop)
+* Screen-record repeated processes for the company handbook
+
+**Occasional support, as capacity allows**
+
+* Training brochures for retail and pharmacy staff (InDesign)
+* Retailer launch packs and social assets for retailers’ channels
+* Corporate-site brand pages, product feeds, Google Merchant Center and Amazon listing content
+
+### **What success looks like**
+
+* Social posts go out on schedule, on-brand, every week
+* Listings are accurate, with no duplicate or pricing errors
+* Campaigns are consent-compliant and logged in GHL
+* The marketing lead spends less time on production and more on strategy
+
+### **What you bring**
+
+**Essential**
+
+* Fluent English and strong attention to detail with product data, pricing and copy
+* A portfolio of social creatives, Reels or short-form video you made yourself
+* Confidence in Canva and a video editor such as CapCut
+* Hands-on experience managing Instagram, TikTok and LinkedIn content
+* Comfort with spreadsheets, weekly checklists and owning deadlines
+* Enthusiasm for AI tools and for consumer and retail trends
+
+**Nice to have**
+
+* Shopify or TikTok Shop experience; Klaviyo or Mailchimp experience
+* InDesign or other Adobe tools (Photoshop, Illustrator, Premiere Pro)
+* GA4 basics; GHL or other CRM experience
+* A qualification in marketing, design or digital media
+
+### **Why join Techdome?**
+
+* Work at an AI-first product engineering company with enterprise clients
+* Shape a new GHL-based workflow from the ground up
+* Real ownership and visible impact from week one
+* A creative, AI-forward team culture

@@ -1,0 +1,45 @@
+Roles & Responsibilities
+  
+  
+
+* Design, develop, and deploy production-grade
+  **AI/ML and Generative AI solutions**
+  .
+* Work on
+  **GEO, AEO, and SGE initiatives**
+  to improve visibility and discoverability across AI-driven search and generative interfaces.
+* Optimize content, data, and digital experiences for
+  **AI-powered search, conversational queries, and LLM-based experiences**
+  .
+* Develop solutions using
+  **LLMs, NLP, semantic search, embeddings, RAG, and vector databases**
+  .
+* Analyze search intent, AI-generated responses, retrieval patterns, citations, and content discoverability to identify optimization opportunities.
+* Build experiments and frameworks to measure the effectiveness of
+  **GEO/AEO strategies and AI search performance**
+  .
+* Collaborate with Product, Engineering, Content, SEO, Marketing, and Business teams to translate business requirements into scalable AI solutions.
+* Monitor model and solution performance and continuously improve accuracy, relevance, latency, and overall user experience.
+
+Requirements
+  
+  
+  
+Ideal Candidate
+  
+  
+
+* Strong AI/ML Engineer profile with experience in GEO work
+* Mandatory (Experience 1): Must have 2+ years of professional experience of which 1+ in GEO/AEO related work
+* Mandatory (Experience 2): Must have 1+ year of experience in GEO (Generative Engine Optimization), AEO (Answer Engine Optimization), or SGE (Search Generative Experience), including optimizing for AI-driven search interfaces, conversational queries, and generative search experiences
+* Mandatory (Experience 4): Must have TechSEO experience.
+* Mandatory (Experience 4): Must have hands-on exposure to prompt engineering, embeddings, vector search, or RAG-based systems
+* Mandatory (Skills 1): Deep understanding of how modern search engines and AI-driven systems rank and generate responses, including semantic search and entity-based optimization
+* Mandatory (Skills 2): Exposure to AI/LLM ecosystems such as ChatGPT, Google Gemini, or similar platforms, including understanding of how responses are generated and ranked
+* Mandatory (Skills 3): Understanding of content structuring for AI consumption (schema, context building, knowledge representation)
+* Mandatory (Education) - BE / B.Tech or Dual degree (Btech and Mtech or Integrated Msc/MS) Engineering background only
+* Mandatory (Age)—The candidate's age should be below 28 years
+
+Experience: 4–6 years · Work from office · 5 days a week + alternate Saturdays · Notice period up to 30 days
+
+Candidates from: Anywhere in India

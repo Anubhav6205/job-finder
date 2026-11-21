@@ -1,0 +1,36 @@
+****Senior Python Developer****
+
+**Location:** Pune, India (on-site, hybrid eligibility after probation)
+
+****About****
+
+Its accelerates digital transformation for the world's leading brands, working across Digital Experiences, Enterprise Mobility, Cloud Engineering, and Data Science for clients spanning eCommerce, Luxury Retail, SaaS, Consumer Tech, Health Tech, and Hospitality.
+
+****About the Role****
+
+looking for a passionate, detail-oriented Python Developer to join their engineering team and build scalable backend systems. You'll work as an individual contributor, owning backend services end-to-end while collaborating with frontend, DevOps, and product teams, with room to also explore AI/ML and LLM-based application work as it comes up.
+
+****What You Will Do****
+
+1. Design, develop, and maintain scalable Python-based applications, services, and APIs.
+2. Collaborate with cross-functional teams including frontend developers, DevOps, and product managers to deliver robust backend solutions.
+3. Write reusable, testable, efficient code following best practices and design patterns.
+4. Optimize applications for speed, scalability, and security.
+5. Integrate third-party APIs and services to support business functionality.
+6. Explore and integrate AI/ML-powered solutions, including LLM-based applications and AI agents, where relevant.
+7. Troubleshoot, debug, and upgrade existing software systems.
+8. Implement automated testing frameworks and unit tests.
+9. Participate in code reviews and contribute to continuous improvement of development processes.
+10. Document code, processes, and systems for maintainability.
+
+****What We're Looking For****
+
+1. 4-7 years of hands-on backend development experience using Python.
+2. Strong working knowledge of Django, Flask, or FastAPI.
+3. Experience with RESTful APIs, asynchronous programming, and microservice architecture (prior exposure to microservices is important - not purely monolithic system experience).
+4. Familiarity with relational databases (PostgreSQL, MySQL) and NoSQL databases (MongoDB, Redis).
+5. Solid understanding of data structures, algorithms, and object-oriented programming.
+6. Experience with Git, CI/CD pipelines, and containerization tools like Docker.
+7. Bachelor's or Master's degree in Computer Science, Engineering, or a related technical field.
+8. Nice-to-have: exposure to cloud platforms (AWS/Azure/GCP), message brokers (RabbitMQ/Kafka), testing frameworks (PyTest/UnitTest), and LLM/AI agent development.
+9. Willingness to work on-site 5 days/week during the initial 6-month probation period, transitioning to a 3-day hybrid schedule thereafter.

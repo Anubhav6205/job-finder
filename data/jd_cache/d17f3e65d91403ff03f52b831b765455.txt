@@ -1,0 +1,94 @@
+**Software Engineer Backend (Engineering Applications)**
+
+**Experience: 3-9 Years**
+
+  
+
+**Role Summary**
+
+We are looking for a Backend Software Engineer with strong software development fundamentals and exposure to engineering applications. The ideal candidate should have a solid understanding of engineering domains, strong object-oriented programming skills, and experience developing backend software solutions. Candidates should be capable of understanding engineering business logic, simulation workflows, and translating technical requirements into scalable software solutions.
+
+  
+
+**Key Responsibilities**
+
+* Design, develop, and maintain backend software components for engineering applications.
+* Collaborate with product managers, engineering teams, and domain experts to understand business requirements and convert them into software solutions.
+* Develop scalable, maintainable, and reusable code using object-oriented programming principles.
+* Understand engineering workflows, simulation processes, and associated business logic.
+* Build,enhance, and maintain APIs and backend services.
+* Participate in architecture discussions, design reviews, and code reviews.
+* Troubleshoot,debug, and resolve software issues.
+* Work within Agile development methodologies and contribute to the complete software development lifecycle.
+
+  
+
+**Required Technical Skills**
+
+* 3-9 years of software development experience.
+* Strong proficiency in any backend technology:
+
++ C++
++ Java
++ Python
++ C#
+
+* Strong understanding of:
+
++ Object-Oriented Programming (OOP)
++ Data Structures & Algorithms
++ Design Patterns
++ REST APIs / Backend Services
+
+* Experience working with SQL/NoSQL databases.
+* Strong debugging and problem-solving skills.
+* Experience with Git or other version control systems.
+
+  
+
+**Domain Requirements (Critical)**
+
+* Strong understanding of Engineering Domain concepts.
+* Experience working on Engineering Software Products or Engineering Applications.
+* Understanding of CAE (Computer-Aided Engineering) tools, workflows, and simulation processes.
+* Ability to understand engineering business logic and collaborate with domain experts.
+* Exposure to Mechanical, Aerospace, Automotive, or Industrial Engineering domains is preferred.
+
+  
+
+**Preferred Skills**
+
+* Exposure to any CAE tools such as:
+
++ ANSYS
++ Abaqus
++ HyperWorks
++ Simcenter
++ Nastran
+
+* Experience with Microservices Architecture.
+* Familiarity with Docker and Kubernetes.
+* Exposure to Cloud Technologies is a plus.
+
+  
+
+**Ideal Candidate Profile**
+
+  
+
+* Strong Engineering Domain understanding.
+* Ability to communicate effectively with engineers and product teams.
+* Strong software development fundamentals coupled with an engineering mindset.
+* Capable of understanding and implementing complex engineering business workflows.
+
+  
+
+**Key Hiring Focus**
+
+  
+
+1. Engineering Domain Experience (Must Have)
+2. Backend Development Experience
+3. Strong Object-Oriented Programming Skills
+4. Understanding of CAE/Simulation Workflows
+5. Ability to Understand and Implement Engineering Business Logic

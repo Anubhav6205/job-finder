@@ -1,0 +1,13 @@
+**Roles and Responsibilities**
+
+* Design, develop, and deploy large-scale data analytics solutions using advanced analytics techniques such as predictive modeling, statistical modeling, and machine learning.
+* Develop expertise in multiple areas of artificial intelligence including natural language processing, deep learning, and computer vision.
+* Collaborate with cross-functional teams to identify business problems and design data-driven solutions that drive business outcomes.
+* Ensure high-quality delivery of projects by mentoring junior team members and providing guidance on best practices.
+* Stay up-to-date with industry trends and emerging technologies to continuously improve skills and knowledge.
+
+**Desired Candidate Profile**
+
+* 6-10 years of experience in leading AI engineering initiatives for a US-based multinational company.
+* Strong proficiency in programming languages like Python; experience with AWS/Azure cloud platforms preferred.
+* Expertise in building predictive models using logistic regression, decision trees, random forests, XGBoost algorithms; strong understanding of statistical modeling techniques.

@@ -1,0 +1,28 @@
+We are seeking a **Lead / Senior AI Native Engineer - Python** to design, build, and scale agentic AI pipelines and production-grade Python systems, working at the intersection of software engineering and applied AI to transform how enterprise software is delivered.
+
+  
+
+**Responsibilities**
+
+* Design, develop, and maintain scalable Python applications using FastAPI/Django/Flask and microservices architecture, owning features end-to-end with a high degree of autonomy
+* Build and deploy MCP servers that expose Python services, databases, or internal tools to LLM-based agents, enabling agents to inspect, generate, and validate against live enterprise systems
+* Build and extend the Agentic Workflow pipeline itself: orchestrator agents, producer agents, validator agents, and the skills that parameterize them, across the discovery, architecture design, and forward-engineering phases
+* Onboard new client codebases, business domains, and target technology stacks onto the workflow by authoring technology adapters, stack-specific implementation skills, and section/validator skill pairs, without forking the core pipeline
+* Design and implement agentic SDLC loops: automated specification drafting, AI-driven code generation, intelligent test creation, CI/CD integration, and deployment validation, each gated by deterministic scoring, dimension floors, and critical-issue auto-reject rules
+* Integrate agentic pipelines with enterprise tools and platforms via MCP connectors or REST/event driven APIs
+* Build the React/Angular/JS frontends for modernized systems, reproducing legacy UI fidelity from wireframes and design tokens where the engagement requires 1:1 behavioral replication
+* Use AI coding assistants and frontier LLMs across the full development lifecycle every day, and critically evaluate AI outputs for correctness, security, and edge cases before committing
+* Bring an AI-first mindset: automate repetitive engineering tasks, measure outcomes rather than activity, and identify AI leverage opportunities within the delivery area
+* Contribute to the team's shared library of prompt templates, reusable agent patterns, skills, and MCP connectors so the next client, domain, or stack onboards faster than the last
+* Conduct code and architecture reviews, mentor Junior and Mid-level engineers in Python best practices and AI-native engineering methods, and maintain strong automated test coverage and healthy CI/CD pipeline practices
+* Actively track frontier developments and bring relevant changes back to the team within weeks
+
+**Requirements**
+
+* 6+ years of hands-on Python development in production environments
+* Proficiency in FastAPI or Django, async I/O patterns, and RESTful/GraphQL API design
+* Working proficiency in one of React, Angular, or modern JS/TypeScript frameworks for production UI delivery
+* Experience with microservices and event-driven patterns such as Kafka, RabbitMQ, or Celery
+* Experience with cloud platforms such as AWS, GCP, or Azure, including containerization with Docker and Kubernetes
+* Working knowledge of relational databases such as PostgreSQL or MySQL, and NoSQL databases such as MongoDB or Redis
+* Familiarity with CI/CD pipelines such as Jenkins, GitHub Actions, or GitLab CI, and DevOps engineering practices

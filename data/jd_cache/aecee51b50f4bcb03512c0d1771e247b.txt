@@ -1,0 +1,68 @@
+Join us in pioneering breakthroughs in healthcare. For everyone. Everywhere. Sustainably.  
+  
+Our inspiring and caring environment forms a global community that celebrates diversity and individuality. We encourage you to step beyond your comfort zone, offering resources and flexibility to foster your professional and personal growth, all while valuing your unique contributions.
+
+We are seeking a Senior Software Engineer – Backend and Infrastructure Development to design, develop, test, and maintain cloud-based software solutions for our oncology SaaS platform deployed on AWS. The platform is used by cancer patients, clinicians, and healthcare providers and operates in a regulated medical device environment.  
+  
+The ideal candidate is a hands-on backend engineer with strong experience in Java, Kotlin, and Spring Boot-based applications, modern cloud architecture, API development, and automated testing. This role requires ownership throughout the software development lifecycle, from technical design and implementation to testing, deployment, and production support.  
+  
+The product is Siemens Healthineers´s cloud-based software solution for patient relationships and care navigation management. It’s designed to connect cancer patients with their clinics online throughout the entire cancer journey. The product used by 35 000+ active cancer patients and healthcare professionals from leading oncology centers in North America and Europe. The candidate in this role will provide strong product development leadership to a team of software engineers and test engineers, working in an agile/scrum environment.
+
+**Job Description**
+
+**Position Duties:**
+
+* Design, develop, and maintain scalable, secure, and high-performance backend services using Java, Kotlin, and Spring Boot.
+* Build and enhance RESTful APIs, microservices, and cloud-native applications deployed on AWS.
+* Utilize approved AI-assisted software development tools to improve coding, testing, debugging, documentation, and development productivity.
+* Participate in architecture discussions, technical design reviews, and code reviews.
+* Ensure software solutions meet requirements for reliability, performance, security, and maintainability.
+* Develop and maintain unit, integration, and automated tests to ensure high-quality software delivery.
+* Collaborate with QA engineers to improve test coverage and release quality.
+* Perform root cause analysis and resolve software defects and production issues.
+* Champion engineering best practices, code quality, and continuous improvement.
+* Participate actively in Agile/Scrum ceremonies, including sprint planning, backlog refinement, daily stand-ups, reviews, and retrospectives.
+* Leverage tools such as Splunk, Dynatrace, and Pendo to monitor application health, investigate issues, and improve user experience.
+
+**Qualifications Required:**  
+BE, MSc, MCA, Computer Science or related discipline.
+
+**Number of year’s related experience** 7-12 years
+  
+  
+**Special Knowledge / Skills:**  
+**Required:**
+
+* Bachelor's or Master's degree in Computer Science, Software Engineering, or related field.
+* 7+ years of professional software development experience.
+* Strong hands-on experience with Java/Kotlin and Spring Boot.
+* Experience developing REST APIs and microservices architectures.
+* Experience with Generative AI, Large Language Models (LLMs), AI agents, and AI-assisted software development tools.
+* Experience with cloud-native applications deployed on AWS.
+* Strong understanding of software design patterns, object-oriented design, and distributed systems.
+* Experience writing automated unit, integration, and API tests.
+* Experience with Git-based source control systems (GitLab preferred).
+* Experience working in Agile/Scrum development environments.
+* Experience with AWS services such as ECS, EKS, Lambda, S3, RDS, IAM, and CloudWatch.
+
+**Nice to have:**
+
+* Experience developing healthcare products conforming quality system regulations.
+* Experience with AWS services such as ECS, EKS, Lambda, S3, RDS, IAM, and CloudWatch.
+* Experience with Splunk, Dynatrace, Pendo, or similar observability platforms.
+* Experience in healthcare domain and medical interoperability standards such as FHIR, HL7
+* Certifications from AWS or Azure
+
+**Who we are**: We are a team of more than 72,000 highly dedicated Healthineers in more than 70 countries. As a leader in medical technology, we constantly push the boundaries to create better outcomes and experiences for patients, no matter where they live or what health issues they are facing. Our portfolio is crucial for clinical decision-making and treatment pathways.
+
+**How we work**: When you join Siemens Healthineers, you become one in a global team of scientists, clinicians, developers, researchers, professionals, and skilled specialists, who believe in each individual’s potential to contribute with diverse ideas. We are from different backgrounds, cultures, religions, political and/or sexual orientations, and work together, to fight the world’s most threatening diseases and enable access to care, united by one purpose: to pioneer breakthroughs in healthcare. For everyone. Everywhere. Sustainably.
+
+To find out more about Healthineers’ specific businesses, please visit our company page here.
+
+As an equal opportunity employer, we welcome applications from individuals with disabilities.
+
+**Data Privacy**: We care about your data privacy and take compliance with GDPR as well as other data protection legislation seriously. For this reason, we ask you not to send us your CV or resume by email. We ask instead that you create a profile where you can upload your CV. Setting up a profile also lets us know you are interested in career opportunities with us and makes it easy for us to send you an alert when relevant positions become open. Register here to get started.
+
+**Beware of Job Scams:** Please beware of potentially fraudulent job postings or suspicious recruiting activity by persons that are currently posing as Siemens Healthineers recruiters/employees. These scammers may attempt to collect your confidential personal or financial information. If you are concerned that an offer of employment with Siemens Healthineers might be a scam or that the recruiter is not legitimate, please verify by searching for the posting on the Siemens Healthineers career site.
+
+**To all recruitment agencies**: Siemens Healthineers does not accept agency resumes. Please do not forward resumes to our jobs alias, employees, or any other company location. Siemens Healthineers is not responsible for any fees related to unsolicited resumes. As an equal opportunity employer, we welcome applications from individuals with disabilities.

@@ -1,0 +1,43 @@
+**Role Overview**
+
+Aptlogica is seeking an AI and machine learning data scientist with experience in time-series forecasting, distributed data processing, statistical modeling, and Generative AI. You will build forecasting solutions on large datasets and combine predictive models with Generative AI reasoning to produce business insights.
+
+  
+
+**Key Responsibilities**
+
+* Build scalable data-processing pipelines with PySpark on Google Cloud Dataproc.
+* Perform feature engineering, time-window aggregation, and KPI calculation in PySpark.
+* Conduct feature selection and feature-importance analysis.
+* Develop and optimize time-series forecasting models using ARIMA, SARIMA, SARIMAX, and XGBoost.
+* Work with BigQuery and SQL-based datasets.
+* Integrate Gemini into analytics and AI workflows.
+* Develop large language model applications with LangChain and apply prompt engineering to produce contextual business insights.
+* Combine forecasting outputs with Generative AI reasoning.
+* Collaborate with business and engineering teams to move AI solutions into production.
+
+  
+
+**Required Qualifications**
+
+* 3-7 years of overall professional experience, including 1-3 years of directly relevant hands-on experience.
+* Strong Python, PySpark, and PySpark ML skills, including experience with Google Cloud Dataproc.
+* Experience with scikit-learn, statistical modeling, and time-series forecasting.
+* Hands-on knowledge of ARIMA, SARIMA, SARIMAX, and XGBoost.
+* Experience with BigQuery, SQL, and GCP data and AI services.
+* Understanding of large language models, LangChain, and prompt engineering.
+
+  
+
+**Preferred Qualifications**
+
+* Experience building production machine learning pipelines.
+* Experience with model monitoring and evaluation.
+* Experience combining Generative AI with predictive analytics.
+* Experience working with large-scale enterprise datasets.
+
+  
+
+**Interview Process**
+
+The selection process includes one interview round with Aptlogica, followed by one or two client interview rounds.
