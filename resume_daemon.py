@@ -16,8 +16,9 @@ import os
 import re
 import subprocess
 import sys
+import threading
 import time
-from datetime import date, datetime
+from datetime import date, datetime, timedelta
 from pathlib import Path
 
 import pandas as pd
@@ -62,6 +63,25 @@ def _resolve_claude_cmd() -> str:
 
 CLAUDE_CMD = _resolve_claude_cmd()
 
+# JD completeness policy
+JD_MIN_CHARS = 200          # below this the JD is a stub: fail clearly, never build from it
+JD_THIN_CHARS = 600         # 200-599: build, but flag as thin (source-limited posting)
+JD_PROMPT_CAP = 20000       # observed max cached JD is ~16k; never silently cut real JDs
+JD_WAIT_LIMIT_S = 2 * 3600  # how long a row may wait for its JD to reach GitHub
+GIT_FETCH_THROTTLE_S = 60
+NO_WINDOW = 0x08000000      # CREATE_NO_WINDOW: no console flash when run via pythonw
+
+_GIT_LOCK = threading.Lock()
+_last_fetch_at = 0.0
+_last_fetch_ok = False
+_jd_wait_since: dict[str, float] = {}      # page_id -> first time its JD was missing
+_jd_wait_notified: set[str] = set()
+
+# Claude usage-limit pause (epoch seconds). While now < _PAUSE_UNTIL no Claude calls are made.
+_PAUSE_UNTIL = 0.0
+_pause_logged_for = 0.0
+USAGE_PAUSE_CAP = timedelta(hours=6)
+
 
 def log(msg: str) -> None:
     line = f"[{datetime.now().isoformat(timespec='seconds')}] {msg}"
@@ -85,6 +105,73 @@ def sanitize(s: str, maxlen: int = 40) -> str:
 
 
 # ---------- Notion ----------
+def query_skipped_with_jobbr() -> list[dict]:
+    """Rows the user has moved to Skipped AFTER we already pushed a jobbr card.
+    Identified by Status=Skipped AND a non-empty Resume Path.
+    We clear Resume Path on cleanup so we never re-process the same row."""
+    r = requests.post(
+        f"https://api.notion.com/v1/databases/{NOTION_DB_ID}/query",
+        headers=NOTION_HEADERS,
+        json={
+            "filter": {
+                "and": [
+                    {"property": "Status", "select": {"equals": "Skipped"}},
+                    {"property": "Resume Path", "rich_text": {"is_not_empty": True}},
+                ]
+            },
+            "page_size": 20,
+        },
+        timeout=30,
+    )
+    r.raise_for_status()
+    out = []
+    for p in r.json().get("results", []):
+        props = p["properties"]
+        out.append({
+            "page_id": p["id"],
+            "role": (props.get("Role", {}).get("title") or [{}])[0].get("plain_text", ""),
+            "company": (props.get("Company", {}).get("rich_text") or [{}])[0].get("plain_text", ""),
+        })
+    return out
+
+
+def cleanup_skipped() -> None:
+    """For each Skipped row that previously had a jobbr card, delete ONLY that
+    one jobbr app + its attached resume. Then clear the row's Resume Path so
+    we don't re-process next tick. Nothing else is touched."""
+    try:
+        rows = query_skipped_with_jobbr()
+    except Exception as e:
+        log(f"cleanup skipped-query failed: {e}")
+        return
+    if not rows:
+        return
+    log(f"cleanup: {len(rows)} skipped row(s) with jobbr card to delete")
+    try:
+        import jobbr_sync
+    except Exception as e:
+        log(f"cleanup: cannot import jobbr_sync: {e}")
+        return
+    for item in rows:
+        page_id = item["page_id"]
+        ok, msg = jobbr_sync.delete_by_notion_page_id(page_id)
+        # Clear Resume Path regardless (prevents retry loop); append to Log
+        try:
+            stamp = datetime.now().isoformat(timespec="seconds")
+            requests.patch(
+                f"https://api.notion.com/v1/pages/{page_id}",
+                headers=NOTION_HEADERS,
+                json={"properties": {
+                    "Resume Path": {"rich_text": [{"text": {"content": ""}}]},
+                    "Resume Log":  {"rich_text": [{"text": {"content": f"jobbr card deleted @ {stamp} — {msg}"[:1900]}}]},
+                }},
+                timeout=30,
+            )
+        except Exception as e:
+            log(f"  warn: could not clear path for {page_id}: {e}")
+        log(f"  cleanup {item['company']}/{item['role'][:40]}: {msg}")
+
+
 def query_pending() -> list[dict]:
     r = requests.post(
         f"https://api.notion.com/v1/databases/{NOTION_DB_ID}/query",
@@ -173,20 +260,82 @@ def jd_rescrape(job_url: str) -> str | None:
     return None
 
 
-def jd_refetch(url: str) -> str | None:
-    """Fallback if CSV is missing the row or desc is thin."""
+def _git_fetch_origin() -> bool:
+    """One serialized, throttled `git fetch`. Returns whether the last fetch succeeded.
+    Only updates remote-tracking refs; never touches the working tree."""
+    global _last_fetch_at, _last_fetch_ok
+    with _GIT_LOCK:
+        if time.time() - _last_fetch_at < GIT_FETCH_THROTTLE_S:
+            return _last_fetch_ok
+        try:
+            r = subprocess.run(
+                ["git", "-C", str(REPO), "fetch", "-q", "origin", "master"],
+                capture_output=True, timeout=90, creationflags=NO_WINDOW,
+            )
+            _last_fetch_ok = r.returncode == 0
+            if not _last_fetch_ok:
+                log(f"  git fetch failed: {(r.stderr or b'')[-200:].decode('utf-8', 'replace')}")
+        except Exception as e:
+            _last_fetch_ok = False
+            log(f"  git fetch error: {e}")
+        _last_fetch_at = time.time()
+        return _last_fetch_ok
+
+
+def jd_from_origin(job_url: str) -> tuple[str | None, str]:
+    """Read the JD the GitHub Actions scrape committed for this URL.
+    Returns (text, state) with state in ok | absent | fetch_failed.
+    The blob is read as raw bytes and written back unchanged, so the local copy is
+    byte-identical to what was scraped."""
+    key = _cache_key(job_url)
+    fetched = _git_fetch_origin()
     try:
-        from bs4 import BeautifulSoup
-        r = requests.get(url, headers={"User-Agent": "Mozilla/5.0"}, timeout=15)
-        if r.status_code != 200:
-            return None
-        soup = BeautifulSoup(r.text, "html.parser")
-        for tag in soup(["script", "style", "noscript", "nav", "footer", "header"]):
-            tag.decompose()
-        txt = soup.get_text("\n", strip=True)
-        return txt if len(txt) >= 400 else None
-    except Exception:
-        return None
+        r = subprocess.run(
+            ["git", "-C", str(REPO), "show", f"origin/master:data/jd_cache/{key}.txt"],
+            capture_output=True, timeout=30, creationflags=NO_WINDOW,
+        )
+    except Exception as e:
+        log(f"  git show error: {e}")
+        return None, "fetch_failed"
+    if r.returncode != 0:
+        # Fetch OK and file still missing = not committed yet. Fetch failed = unknown, retry later.
+        return None, ("absent" if fetched else "fetch_failed")
+    JD_CACHE.mkdir(parents=True, exist_ok=True)
+    (JD_CACHE / f"{key}.txt").write_bytes(r.stdout)
+    return r.stdout.decode("utf-8", errors="replace"), "ok"
+
+
+def resolve_jd(url: str, page_id: str) -> tuple[str | None, str, str]:
+    """Find the full JD and judge its completeness.
+    Returns (jd, source, state):
+      ok       >= 600 chars
+      thin     200-599 chars (genuinely short posting; build, but flag it)
+      short    < 200 chars (stub; never build from it)
+      wait     not available yet; row stays at Build Resume and retries next tick
+      missing  still not available after JD_WAIT_LIMIT_S
+    Sources are tried in order of fidelity: local cache, GitHub, then JobSpy re-scrape.
+    There is deliberately no raw page scraping: it can return unrelated page text."""
+    text, source = None, ""
+    local = JD_CACHE / f"{_cache_key(url)}.txt"
+    if local.exists():
+        text, source = local.read_text(encoding="utf-8", errors="replace"), "cache"
+    if text is None:
+        text, origin_state = jd_from_origin(url)
+        if text is not None:
+            source = "origin"
+        elif origin_state == "fetch_failed":
+            return None, "", "wait"          # offline/unknown: retry, don't start the failure clock
+    if text is None and page_id not in _jd_wait_since:
+        text = jd_rescrape(url)              # slow; only on the first miss for this row
+        if text is not None:
+            source = "rescrape"
+    if text is None:
+        since = _jd_wait_since.setdefault(page_id, time.time())
+        return None, "", ("missing" if time.time() - since > JD_WAIT_LIMIT_S else "wait")
+    _jd_wait_since.pop(page_id, None)
+    _jd_wait_notified.discard(page_id)
+    n = len(text)
+    return text, source, ("short" if n < JD_MIN_CHARS else "thin" if n < JD_THIN_CHARS else "ok")
 
 
 # ---------- Claude + Tectonic ----------
@@ -238,7 +387,7 @@ from any file in the work directory other than the ones named below.
 
 JOB DESCRIPTION:
 ---
-{jd[:12000]}
+{jd[:JD_PROMPT_CAP]}
 ---
 """
 
@@ -265,16 +414,69 @@ def run_claude(prompt: str) -> tuple[bool, str]:
     return (r.returncode == 0), tail
 
 
+def parse_usage_limit(text: str, now: datetime | None = None) -> datetime | None:
+    """If Claude's failure output is the usage-limit message, return when to resume.
+    Matches e.g. "You've hit your 5-hour limit ... resets 7pm (Asia/Kolkata)".
+    Returns None for any other failure, so ordinary errors never trigger a pause.
+    Pause is capped at USAGE_PAUSE_CAP and falls back to 30 minutes if no time is given."""
+    if not re.search(r"hit your[^\n]{0,60}?limit", text or "", re.I):
+        return None
+    now = now or datetime.now().astimezone()
+    tz = now.tzinfo
+    zone = re.search(r"\(([A-Za-z_]+/[A-Za-z_]+)\)", text)
+    if zone:
+        try:
+            from zoneinfo import ZoneInfo
+            tz = ZoneInfo(zone.group(1))
+        except Exception:
+            pass  # tzdata missing: assume the machine's own zone
+    m = re.search(r"resets\s+(\d{1,2})(?::(\d{2}))?\s*(am|pm)", text, re.I)
+    if m:
+        hour = int(m.group(1)) % 12 + (12 if m.group(3).lower() == "pm" else 0)
+        local_now = now.astimezone(tz)
+        reset = local_now.replace(hour=hour, minute=int(m.group(2) or 0), second=0, microsecond=0)
+        if reset <= local_now:
+            reset += timedelta(days=1)
+        reset += timedelta(minutes=2)
+    else:
+        reset = now + timedelta(minutes=30)
+    return min(reset, now + USAGE_PAUSE_CAP)
+
+
 # ---------- Main ----------
 def process_one(item: dict) -> None:
+    global _PAUSE_UNTIL
     role, company, url, page_id = item["role"], item["company"], item["url"], item["page_id"]
+    if time.time() < _PAUSE_UNTIL:
+        return  # Claude usage limit: leave the row at Build Resume for after the reset
     log(f"processing: {company} / {role}")
 
-    jd = jd_from_cache(url) or jd_refetch(url) or jd_rescrape(url)
-    if not jd:
-        set_status(page_id, "Resume Failed", log_msg=f"no JD text found for url={url}")
+    jd, jd_source, jd_state = resolve_jd(url, page_id)
+    if jd_state == "wait":
+        log("  JD not available yet; will retry next tick")
+        if page_id not in _jd_wait_notified:
+            _jd_wait_notified.add(page_id)
+            set_status(page_id, "Build Resume",
+                       log_msg="waiting for the JD to reach GitHub; retrying each tick")
+        return
+    if jd_state == "missing":
+        _jd_wait_since.pop(page_id, None)
+        _jd_wait_notified.discard(page_id)
+        set_status(page_id, "Resume Failed",
+                   log_msg=f"no JD text found for url={url} (waited {JD_WAIT_LIMIT_S // 3600}h)")
         log("  FAIL: no JD")
         return
+    if jd_state == "short":
+        set_status(page_id, "Resume Failed",
+                   log_msg=f"JD too short ({len(jd)} chars, minimum {JD_MIN_CHARS}); "
+                           f"not building from a stub. source={jd_source} url={url}")
+        log(f"  FAIL: JD too short ({len(jd)} chars)")
+        return
+    jd_note = f" | JD: {len(jd)} chars, source={jd_source}"
+    if jd_state == "thin":
+        jd_note += " (thin posting: resume tailored from limited input)"
+    if len(jd) > JD_PROMPT_CAP:
+        log(f"  warn: JD is {len(jd)} chars; {len(jd) - JD_PROMPT_CAP} beyond the prompt cap will be cut")
 
     today = date.today().isoformat()
     stem = f"Resume_{sanitize(company)}_{sanitize(role)}_{today}"
@@ -290,6 +492,7 @@ def process_one(item: dict) -> None:
     try:
         header = (
             f"Company: {company}\nRole: {role}\nURL: {url}\n"
+            f"JD length: {len(jd)} chars (source: {jd_source})\n"
             f"Fetched: {datetime.now().isoformat(timespec='seconds')}\n"
             f"{'=' * 70}\n\n"
         )
@@ -301,6 +504,15 @@ def process_one(item: dict) -> None:
     t0 = time.time()
     ok, tail = run_claude(prompt)
     dur = int(time.time() - t0)
+
+    if not ok:
+        reset = parse_usage_limit(tail)
+        if reset:
+            _PAUSE_UNTIL = max(_PAUSE_UNTIL, reset.timestamp())
+            msg = f"Claude usage limit hit; builds paused until {reset.strftime('%H:%M')}"
+            set_status(page_id, "Build Resume", log_msg=msg)
+            log(f"  PAUSE: {msg} (row stays at Build Resume)")
+            return
 
     gaps = ""
     if gaps_path.exists():
@@ -330,8 +542,8 @@ def process_one(item: dict) -> None:
         except Exception as e:
             jobbr_note = f" | jobbr exception: {e}"
         set_status(page_id, "Resume Ready", path=str(pdf_path),
-                   log_msg=f"built in {dur}s via Claude+Tectonic{jobbr_note}", gaps=gaps)
-        log(f"  OK  -> {pdf_path} ({dur}s)  gaps={gaps[:80]!r}{jobbr_note}")
+                   log_msg=f"built in {dur}s via Claude+Tectonic{jd_note}{jobbr_note}", gaps=gaps)
+        log(f"  OK  -> {pdf_path} ({dur}s){jd_note}  gaps={gaps[:80]!r}{jobbr_note}")
     else:
         reason = "pdf missing or empty" if ok else "claude CLI non-zero"
         set_status(page_id, "Resume Failed",
@@ -351,6 +563,19 @@ def main() -> int:
     if not KB_FILE.exists() or not TPL_FILE.exists():
         log(f"FATAL: resume assets missing: {KB_FILE.exists()=}, {TPL_FILE.exists()=}")
         return 2
+
+    # Cleanup first: drop jobbr cards for rows the user has moved to Skipped
+    # AFTER we pushed them. Direct To-apply → Skipped (no prior build) is a
+    # no-op because its Resume Path is empty.
+    cleanup_skipped()
+
+    global _pause_logged_for
+    if time.time() < _PAUSE_UNTIL:
+        if _pause_logged_for != _PAUSE_UNTIL:
+            _pause_logged_for = _PAUSE_UNTIL
+            log(f"builds paused (Claude usage limit) until "
+                f"{datetime.fromtimestamp(_PAUSE_UNTIL).strftime('%H:%M')}")
+        return 0
 
     pending = query_pending()
     if not pending:

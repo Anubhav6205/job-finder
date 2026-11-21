@@ -193,3 +193,112 @@ def push_application(
     if not _kv_set(KV_KEY, json.dumps(data, ensure_ascii=False)):
         return False, "KV set for jobbr:v1 failed"
     return True, f"pushed app id={app_id} resume id={resume_id or '(none)'}"
+
+
+def update_status(app_id: str, new_status_id: str, note: str = "") -> tuple[bool, str]:
+    """Flip a jobbr app's status. Adds a history entry. No-op if app not found."""
+    if not _health():
+        return False, "jobbr not reachable"
+    raw = _kv_get(KV_KEY)
+    if raw is None:
+        return False, "jobbr:v1 missing"
+    try:
+        data = json.loads(raw)
+    except Exception as e:
+        return False, f"jobbr:v1 parse failed: {e}"
+
+    apps = data.get("apps", [])
+    hit = next((a for a in apps if a.get("id") == app_id), None)
+    if hit is None:
+        return False, f"app {app_id} not found"
+
+    old = hit.get("statusId", "")
+    if old == new_status_id:
+        return True, f"already at {new_status_id}; no change"
+
+    hit["status"] = new_status_id
+    hit["statusId"] = new_status_id
+    hit.setdefault("history", []).append({
+        "statusId": new_status_id,
+        "date": date.today().isoformat(),
+        "note": note or f"status changed via Jarvis",
+    })
+    # Terminal statuses (s7 offer, s8 rejected, s9 withdrew, s10 no response): clear next-action
+    if new_status_id in ("s7", "s8", "s9", "s10"):
+        hit["nextWhat"] = ""
+        hit["nextDate"] = ""
+
+    if not _kv_set(KV_KEY, json.dumps(data, ensure_ascii=False)):
+        return False, "KV set failed"
+    return True, f"{app_id}: {old} -> {new_status_id}"
+
+
+def _kv_del(key: str) -> bool:
+    try:
+        r = requests.delete(
+            f"{JOBBR_URL}/api/kv/del",
+            json={"key": key},
+            timeout=TIMEOUT,
+        )
+        return r.status_code == 200
+    except Exception:
+        return False
+
+
+def delete_by_notion_page_id(page_id: str) -> tuple[bool, str]:
+    """Delete the single jobbr app whose notionPageId == page_id (plus its
+    attached resume file, if any). Idempotent: silently succeeds if no match.
+    Only touches the one matching record — never anything else."""
+    if not page_id:
+        return False, "empty page_id"
+    if not _health():
+        return False, "jobbr not reachable"
+    raw = _kv_get(KV_KEY)
+    if raw is None:
+        return False, "jobbr:v1 missing"
+    try:
+        data = json.loads(raw)
+    except Exception as e:
+        return False, f"jobbr:v1 parse failed: {e}"
+
+    apps = data.get("apps", [])
+    match = next((a for a in apps if a.get("notionPageId") == page_id), None)
+    if match is None:
+        return True, f"no jobbr app found for notion page {page_id} (nothing to delete)"
+
+    app_id = match.get("id", "")
+    resume_id = match.get("resumeId", "")
+
+    # Remove the resume file from KV (independent key)
+    file_removed = False
+    if resume_id:
+        file_removed = _kv_del(FILE_KEY_FMT.format(rid=resume_id))
+        # Also drop its metadata from resumes[]
+        data["resumes"] = [r for r in data.get("resumes", []) if r.get("id") != resume_id]
+
+    # Remove the app itself — ONLY the one with matching notionPageId
+    data["apps"] = [a for a in apps if a.get("notionPageId") != page_id]
+
+    if not _kv_set(KV_KEY, json.dumps(data, ensure_ascii=False)):
+        return False, "KV set failed during delete"
+    return True, f"deleted app {app_id} + resume {resume_id or '(none)'} (file_removed={file_removed})"
+
+
+def add_note(app_id: str, note_text: str) -> tuple[bool, str]:
+    """Append a note to an app's history timeline."""
+    if not _health():
+        return False, "jobbr not reachable"
+    raw = _kv_get(KV_KEY)
+    if raw is None:
+        return False, "jobbr:v1 missing"
+    data = json.loads(raw)
+    hit = next((a for a in data.get("apps", []) if a.get("id") == app_id), None)
+    if hit is None:
+        return False, f"app {app_id} not found"
+    hit.setdefault("history", []).append({
+        "date": date.today().isoformat(),
+        "note": note_text[:500],
+    })
+    if not _kv_set(KV_KEY, json.dumps(data, ensure_ascii=False)):
+        return False, "KV set failed"
+    return True, f"note added to {app_id}"
